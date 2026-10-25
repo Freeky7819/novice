@@ -19,13 +19,13 @@
     <main>
       <section class="intro"><div class="eyebrow"><span class="live-dot"></span> TVOJ OSEBNI PREGLED</div><h1>Svet se premika.<br><span>Ostani radoveden.</span></h1><p>Znanost, vesolje in tehnologija. Tvoji viri, tvoj pogled.</p><div class="intro-footer"><span id="today"></span><span id="connection">Povezovanje …</span></div></section>
       <nav id="topics" class="topics" aria-label="Filtriraj po temi"></nav>
-      <section class="feed-heading"><div><h2 id="feed-title">Tvoj izbor</h2><span id="count"></span></div><span class="mode-label">Uradno · izvlečki virov</span></section>
+      <section class="feed-heading"><div><h2 id="feed-title">Tvoj izbor</h2><span id="count"></span></div><span class="mode-label" id="mode-indicator">Privzeto · Uradno</span></section>
       <p id="notice" role="status" aria-live="polite"></p>
       <div id="feed" aria-busy="true"><div class="loading">Nabiramo zanimive zgodbe …</div></div>
       <button id="more" class="more" hidden>Pokaži več novic ↓</button>
     </main>
     <footer class="footer"><span class="footer-brand">novice.</span><span>Manj hrupa. Več zanimivega.</span><span>Vedno s povezavo do izvirnika ↗</span></footer>
   </div>
-  <dialog id="preferences"><form method="dialog"><div class="dialog-heading"><h2>Po tvoje.</h2><button class="icon-button" aria-label="Zapri nastavitve">×</button></div></form><p class="muted">Tvoj izbor ostane shranjen na tej napravi.</p><label class="setting-label">Videz <select id="theme"><option value="system">Po sistemu</option><option value="dark">Temno</option><option value="light">Svetlo</option></select></label><h3>Teme, ki te zanimajo</h3><div id="topic-settings"></div><h3>Tvoji viri</h3><div id="source-settings"></div><p id="source-status" class="muted small"></p><div class="install-note">Na iPhonu: odpri v Safariju → Deli → Dodaj na domači zaslon.</div></dialog>
+  <dialog id="preferences"><form method="dialog"><div class="dialog-heading"><h2>Po tvoje.</h2><button class="icon-button" aria-label="Zapri nastavitve">×</button></div></form><p class="muted">Tvoj izbor ostane shranjen na tej napravi.</p><label class="setting-label">Videz <select id="theme"><option value="system">Po sistemu</option><option value="dark">Temno</option><option value="light">Svetlo</option></select></label><label class="setting-label">Privzeti povzetek <select id="default-mode"><option value="official">Uradno</option><option value="neutral">Povzeto</option><option value="mine">Po domače</option></select></label><p class="muted small">Če AI povzetka še ni, je prikazan način Uradno. Povzetki temeljijo na naslovu in izvlečku vira.</p><h3>Teme, ki te zanimajo</h3><div id="topic-settings"></div><h3>Tvoji viri</h3><div id="source-settings"></div><p id="source-status" class="muted small"></p><div class="install-note">Na iPhonu: odpri v Safariju → Deli → Dodaj na domači zaslon.</div></dialog>
 </body>
 </html>

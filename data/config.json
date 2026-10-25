@@ -5,6 +5,10 @@
       "label": "Znanost"
     },
     {
+      "id": "matematika",
+      "label": "Matematika"
+    },
+    {
       "id": "fizika",
       "label": "Fizika"
     },
@@ -68,6 +72,11 @@
     {
       "id": "gnews-us",
       "name": "Google News · U.S.",
+      "enabled": true
+    },
+    {
+      "id": "quanta-math",
+      "name": "Quanta Magazine · Matematika",
       "enabled": true
     }
   ]

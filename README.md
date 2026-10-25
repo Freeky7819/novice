@@ -1,8 +1,8 @@
 # Novice
 
-Osebni RSS/Atom feed za znanost, fiziko, vesolje, energijo, AI, strojno opremo in novice iz ZDA. F1 prikazuje izvirne naslove in izvlečke virov (način **Uradno**). Izvlečki niso prevedeni. Pod 600 px je glava visoka 64 px, uvod pa se skrči na vrstico z datumom in stanjem zajema.
+Osebni RSS/Atom feed za znanost, fiziko, vesolje, energijo, AI, strojno opremo in novice iz ZDA. Način **Uradno** prikazuje izvirne naslove in izvlečke virov. F2 doda slovenska načina **Povzeto** in **Po domače**, ko sta povzetka na voljo. Pod 600 px je glava visoka 64 px, uvod pa se skrči na vrstico z datumom in stanjem zajema.
 
-Vanilla HTML/CSS/JS, brez frameworka, npm odvisnosti ali build koraka. Python zajema RSS/Atom ter po potrebi samo HTML glavo novega članka za sliko. Ne izlušči celotnih člankov. Brez strežnika, baze, ključev ali prijave.
+Vanilla HTML/CSS/JS, brez frameworka, npm odvisnosti ali build koraka. Python zajema RSS/Atom ter po potrebi samo HTML glavo novega članka za sliko. Ne izlušči celotnih člankov. Brez lastnega strežnika, baze ali prijave. Ključ ponudnika AI je potreben samo za nove povzetke, nikoli v brskalniku.
 
 ## Vklop GitHub Pages
 
@@ -23,6 +23,7 @@ Potrebuješ Python 3.12:
 ```sh
 python -m pip install -r requirements.txt
 python fetch.py
+python summarize.py
 python -m http.server 8765
 ```
 
@@ -48,11 +49,11 @@ Za `gnews-us` se OG ne preverja in `image` ostane `null`. Iz `<source url="...">
 
 Sličice prepoznamo po širini media:thumbnail/content pod 400 px ali vzorcih URL (/tmb/, /thumb, -t.jpg, -150x150 …). Zanje najprej poskusimo OG; če ne uspe, ostane prvotna sličica. Pri naslednjem zajemu se uspešno pridobljena večja slika ohrani. Brskalnik preveri tudi dejanski `naturalWidth`: pod 400 px kartica dobi razred `thumb` in 96 × 96 px sliko levo ob naslovu.
 
-Slike ostanejo na izvirnih strežnikih in se ne kopirajo v repo. Brskalnik uporabi `loading="lazy"`, `referrerpolicy="no-referrer"`, razmerje 16 : 9 in `object-fit: cover`. Brez slike ali ob napaki nalaganja je kartica kompaktna: vir, čas, naslov in oznake, brez velikega placeholderja ali izvlečka.
+Slike ostanejo na izvirnih strežnikih in se ne kopirajo v repo. Brskalnik uporabi `loading="lazy"`, `referrerpolicy="no-referrer"`, razmerje 16 : 9 in `object-fit: cover`. Brez slike ali ob napaki nalaganja je kartica kompaktna: vir, čas, naslov in oznake, brez velikega placeholderja ali izvlečka v načinu Uradno. Izbrani AI povzetek se prikaže tudi na taki kartici.
 
-`config/style.md` vsebuje priloženi Damjanov slog in primere za prihodnji način »Po domače«. Datoteka je shranjena kot konfiguracija za F2; v F1 je nobena koda ne uporablja in povzetki ostajajo izvlečki virov. Novo poglavje F5 v širši specifikaciji ni del tega PR.
+`config/style.md` vodi slog »Po domače«. V nastavitvah izberi privzeti način, na kartici pa ga lahko spremeniš samo za ta članek. Če povzetka ni, ostane aktivno Uradno. Podrobnosti F2, vklop, menjava ponudnika in ocena stroška so v [docs/f2.md](docs/f2.md).
 
-Rezultati preverjanja vseh osmih virov so v [docs/feeds.md](docs/feeds.md). Discoverjev izhodiščni `/rss` je vračal HTTP 403; popravljen je na preverjen `/rss/all`. Zajem ob napaki poskusi RSS autodiscovery na domači strani vira. Če vir tudi tam ne deluje, zabeleži napako in nadaljuje.
+Rezultati začetnega preverjanja osmih virov so v [docs/feeds.md](docs/feeds.md). Discoverjev izhodiščni `/rss` je vračal HTTP 403; popravljen je na preverjen `/rss/all`. Zajem ob napaki poskusi RSS autodiscovery na domači strani vira. Če vir tudi tam ne deluje, zabeleži napako in nadaljuje.
 
 ## Dovoljenja in varnost
 
@@ -62,7 +63,7 @@ Rezultati preverjanja vseh osmih virov so v [docs/feeds.md](docs/feeds.md). Disc
 
 Vse besedilo v brskalniku se vstavi prek `textContent`, brez `innerHTML`. Povezave dopuščajo samo HTTP(S) in odpirajo izvirnik z `noopener noreferrer`. HTML iz izvlečkov se odstrani, dolžina je omejena na 400 znakov. Omrežni prenosi so časovno in velikostno omejeni, preverijo javne naslove in preusmeritve.
 
-Repozitorij in Pages sta predvidena kot javna. Ne shranjuj zasebnih URL-jev, gesel ali drugih skrivnosti v konfiguracijo. V F1 ni API klicev za AI, Issue-flowa, gruč ali oznak novega obiska. Datoteka s slogom za »Po domače« je vhod za poznejšo F2.
+Repozitorij in Pages sta predvidena kot javna. Ne shranjuj zasebnih URL-jev, gesel ali drugih skrivnosti v konfiguracijo. F2 kliče AI izključno v ločenem koraku summarize.py; ključ je prek env na voljo samo temu koraku. Privzeto uporablja Anthropic Haiku 5.5, podpira pa tudi OpenAI. Issue-flow, gruče, oznake novega obiska in F5/F6 še niso implementirani.
 
 ## Preverjanje
 
@@ -70,6 +71,7 @@ Repozitorij in Pages sta predvidena kot javna. Ne shranjuj zasebnih URL-jev, ges
 python -m unittest discover -s tests -v
 node --check app.js
 node --check sw.js
+node --test tests/test_frontend.cjs
 ```
 
-Node je potreben le za preverjanje sintakse, ne za delovanje ali objavo aplikacije. CI izvaja iste teste ob PR. Vključeni so preverjanje čiščenja HTML, nevarnih URL-jev, izolacije napake vira, autodiscovery, datumov, izključitev, shranjevanja brez sprememb in ohranitve podatkov pri izpadu. Prikaz je preverjen tudi v brskalniku pri širini 360 px.
+Node je potreben le za preverjanje sintakse in frontend testov, ne za delovanje ali objavo aplikacije. CI izvaja iste teste ob PR. Vključeni so preverjanje čiščenja HTML, nevarnih URL-jev, izolacije napake vira, autodiscovery, datumov, izključitev, shranjevanja brez sprememb in ohranitve podatkov pri izpadu. Prikaz je preverjen tudi v brskalniku pri širini 360 px.

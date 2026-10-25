@@ -161,6 +161,8 @@ def main():
     publishers = {i['publisher']: i['publisher_domain'] for i in ordered
                   if i.get('publisher') and i.get('publisher_domain')}
     for item in ordered:
+        item['summary_neutral'] = None
+        item['summary_mine'] = None
         source = enabled[item['source_id']]
         if not source.get('excerpt', True):
             item['excerpt'] = ''
