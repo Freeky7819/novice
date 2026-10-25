@@ -1,4 +1,4 @@
-"""F1: RSS/Atom -> public JSON. No AI, article scraping, or clustering."""
+"""F1: RSS/Atom and optional image metadata -> JSON. No AI or body extraction."""
 import calendar
 import hashlib
 import json
@@ -10,7 +10,7 @@ from urllib.parse import urlsplit
 
 import httpx
 import yaml
-from feedlib import canonical, clean, read_feed, discover
+from feedlib import canonical, clean, read_feed, discover, feed_image, og_image
 
 ROOT = Path(__file__).resolve().parent
 
@@ -70,7 +70,7 @@ def collect(source, now, config):
                 undated += int(not date)
                 items.append({'id': hashlib.sha1(url.encode()).hexdigest(), 'url': url, 'title': title,
                     'source_id': source['id'], 'published': published.isoformat().replace('+00:00', 'Z'),
-                    'topics': sorted(topics), 'excerpt': excerpt})
+                    'topics': sorted(topics), 'excerpt': excerpt, 'image': feed_image(entry, final_url)})
             except (ValueError, OverflowError, TypeError):
                 continue
         status = {'id': source['id'], 'ok': True, 'count': len(items), 'feed_url': final_url}
@@ -91,8 +91,9 @@ def main():
     data = ROOT / 'data'
     data.mkdir(exist_ok=True)
     previous = load(data / 'feed.json', {'items': []})
+    previous_by_id = {i['id']: i for i in previous['items']}
     cutoff = (now - timedelta(days=7)).isoformat().replace('+00:00', 'Z')
-    items = {i['id']: {k: i[k] for k in ('id', 'url', 'title', 'source_id', 'published', 'topics', 'excerpt')}
+    items = {i['id']: {**{k: i[k] for k in ('id', 'url', 'title', 'source_id', 'published', 'topics', 'excerpt')}, 'image': i.get('image')}
              for i in previous['items'] if i['source_id'] in enabled and i['published'] >= cutoff
              and not any(matches(w, i['title'] + ' ' + i['excerpt']) for w in config.get('exclude_keywords', []))}
     statuses = []
@@ -103,10 +104,23 @@ def main():
                 old = items.get(item['id'])
                 if old and item['published'] == now.isoformat().replace('+00:00', 'Z'):
                     item['published'] = old['published']
+                if old and not item['image']:
+                    item['image'] = old.get('image')
                 items[item['id']] = item
     ordered = sorted(items.values(), key=lambda i: (i['published'], i['id']), reverse=True)[:500]
     for item in ordered:
         item['topics'] = sorted(set(item['topics']) & allowed)
+    # Missing field migrates old F1 data once; explicit null means already tried.
+    needs_image = [i for i in ordered if not i['image'] and 'image' not in previous_by_id.get(i['id'], {})]
+
+    def enrich(item):
+        try:
+            item['image'] = og_image(item['url'])
+        except Exception:
+            item['image'] = None
+
+    with ThreadPoolExecutor(max_workers=8) as pool:
+        list(pool.map(enrich, needs_image))
     feed = {'generated_at': stamp, 'items': ordered}
     if previous.get('items') == ordered:
         feed['generated_at'] = previous.get('generated_at', stamp)

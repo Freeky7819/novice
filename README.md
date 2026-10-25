@@ -2,7 +2,7 @@
 
 Osebni RSS/Atom feed za znanost, fiziko, vesolje, energijo, AI, strojno opremo in novice iz ZDA. F1 prikazuje izvirne naslove in izvlečke virov (način **Uradno**). Izvlečki niso prevedeni.
 
-Vanilla HTML/CSS/JS, brez frameworka, npm odvisnosti ali build koraka. Python zajema samo RSS/Atom, ne celotnih člankov. Brez strežnika, baze, ključev ali prijave.
+Vanilla HTML/CSS/JS, brez frameworka, npm odvisnosti ali build koraka. Python zajema RSS/Atom ter po potrebi samo HTML glavo novega članka za sliko. Ne izlušči celotnih člankov. Brez strežnika, baze, ključev ali prijave.
 
 ## Vklop GitHub Pages
 
@@ -37,6 +37,14 @@ Odpri `http://localhost:8765/`. Če želiš samo pogledati priložene podatke, z
 - Gumb osveži ponovno naloži zadnji objavljeni JSON. Ne sproži GitHub Actions ali neposrednega branja RSS v brskalniku.
 
 Podatki hranijo do 500 člankov iz zadnjih sedmih dni, razvrščenih od najnovejših. ID je SHA-1 normaliziranega URL-ja. Pri izpadu vira ostanejo prejšnji članki do izteka sedmih dni; opozorilo je v `data/status.json` in nastavitvah aplikacije. Vnosom brez datuma ostane čas prvega zaznavanja, dokler so v hranjenem feedu.
+
+## Slike in priprava sloga
+
+Vsak članek ima `image` (izvirni URL ali `null`). Slika se najprej prebere iz `media:content`, nato `media:thumbnail` in na koncu slikovnega `enclosure`. Če v feedu ni slike, se samo ob prvem zaznavanju članka poskusi `og:image` v HTML glavi strani. Prenos ima timeout 5 sekund, preveri preusmeritve in javne ciljne naslove, prebere največ 128 KiB ter se ustavi ob koncu glave. Ne izlušči besedila članka. Pri prvi nadgradnji se enkrat dopolnijo tudi obstoječi članki, ki še nimajo polja `image`. Zapisani `null` prepreči ponavljanje neuspešnega poskusa.
+
+Slike ostanejo na izvirnih strežnikih in se ne kopirajo v repo. Brskalnik uporabi `loading="lazy"`, `referrerpolicy="no-referrer"`, razmerje 16 : 9 in `object-fit: cover`. Brez slike ali ob napaki nalaganja kartica prikaže nevtralno CSS ozadje in simbol teme. Tudi slike, ki jih ponudnik blokira, ostanejo brez opozoril na kartici.
+
+`config/style.md` vsebuje priloženi Damjanov slog in primere za prihodnji način »Po domače«. Datoteka je shranjena kot konfiguracija za F2; v F1 je nobena koda ne uporablja in povzetki ostajajo izvlečki virov. Novo poglavje F5 v širši specifikaciji ni del tega PR.
 
 Rezultati preverjanja vseh osmih virov so v [docs/feeds.md](docs/feeds.md). Discoverjev izhodiščni `/rss` je vračal HTTP 403; popravljen je na preverjen `/rss/all`. Zajem ob napaki poskusi RSS autodiscovery na domači strani vira. Če vir tudi tam ne deluje, zabeleži napako in nadaljuje.
 

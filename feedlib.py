@@ -3,6 +3,7 @@ import html
 import ipaddress
 import re
 import socket
+import time
 from html.parser import HTMLParser
 from urllib.parse import urljoin, urlsplit, urlunsplit, parse_qsl, urlencode
 
@@ -110,3 +111,94 @@ def discover(url):
         except (httpx.HTTPError, ValueError, OSError):
             continue
     raise ValueError('Feeda nisem našel')
+
+
+def image_url(value, base):
+    """Keep signed image queries intact; never accept scripts or local targets."""
+    if not isinstance(value, str) or not value.strip():
+        return None
+    try:
+        url = urljoin(base, value.strip())
+        canonical(url)
+        p = urlsplit(url)
+        if p.port not in (None, 80, 443) or p.hostname.lower().rstrip('.') == 'localhost' or p.hostname.lower().rstrip('.').endswith('.localhost'):
+            return None
+        try:
+            if not ipaddress.ip_address(p.hostname).is_global:
+                return None
+        except ValueError:
+            pass  # Named CDN hosts resolve in the browser.
+        return url
+    except (ValueError, TypeError):
+        return None
+
+
+def feed_image(entry, base):
+    for candidate in entry.get('media_content', []):
+        kind = candidate.get('type', '').lower()
+        if candidate.get('medium', '').lower() == 'image' or kind.startswith('image/') or (not kind and candidate.get('medium', '') not in ('video', 'audio')):
+            url = image_url(candidate.get('url'), base)
+            if url:
+                return url
+    for candidate in entry.get('media_thumbnail', []):
+        url = image_url(candidate.get('url'), base)
+        if url:
+            return url
+    for candidate in entry.get('enclosures', []):
+        if candidate.get('type', '').lower().startswith('image/'):
+            url = image_url(candidate.get('href') or candidate.get('url'), base)
+            if url:
+                return url
+    return None
+
+
+class OpenGraph(HTMLParser):
+    def __init__(self):
+        super().__init__()
+        self.images = []
+
+    def handle_starttag(self, tag, attrs):
+        a = dict(attrs)
+        if tag.lower() == 'meta' and (a.get('property') or a.get('name') or '').lower() == 'og:image' and a.get('content'):
+            self.images.append(a['content'])
+
+
+def og_image(url):
+    """One streamed GET (plus redirects), only HTML head, no article extraction.
+
+    Read at most 128 KiB and stop at </head> or <body>. Failures are optional:
+    callers keep image=null, which also records that OG has been tried.
+    """
+    deadline = time.monotonic() + 5
+    with httpx.Client(timeout=5, headers={'User-Agent': 'Novice/1.0 RSS reader'}, trust_env=False) as client:
+        for _ in range(6):
+            public_url(url)
+            remaining = deadline - time.monotonic()
+            if remaining <= 0:
+                return None
+            with client.stream('GET', url, timeout=remaining) as response:
+                if response.is_redirect:
+                    url = urljoin(url, response.headers['location'])
+                    continue
+                response.raise_for_status()
+                if 'html' not in response.headers.get('content-type', '').lower():
+                    return None
+                body = bytearray()
+                end = None
+                for chunk in response.iter_bytes(chunk_size=4096):
+                    if time.monotonic() > deadline:
+                        return None
+                    body.extend(chunk[:131072 - len(body)])
+                    # Search only the head. Do not parse body metadata.
+                    end = re.search(br'</head\s*>|<body\b', body, re.IGNORECASE)
+                    if end or len(body) >= 131072:
+                        break
+                head = bytes(body[:end.start()] if end else body)
+                parser = OpenGraph()
+                parser.feed(head.decode('utf-8', errors='replace'))
+                for candidate in parser.images:
+                    result = image_url(candidate, str(response.url))
+                    if result:
+                        return result
+                return None
+    return None

@@ -496,6 +496,62 @@ html[data-theme=light] .article:first-child {
 .original:hover {
   color:var(--accent)
 }
+.article-image {
+  position:relative;
+  aspect-ratio:16/9;
+  overflow:hidden;
+  border-radius:8px;
+  margin:17px 0;
+  background:linear-gradient(130deg,#233e30,#15251e 65%,#3a5130);
+  isolation:isolate;
+}
+.article-image img {
+  position:absolute;
+  inset:0;
+  width:100%;
+  height:100%;
+  object-fit:cover;
+  opacity:0;
+}
+.article-image.image-loaded img {
+  opacity:1;
+}
+.image-placeholder {
+  position:absolute;
+  inset:0;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  flex-direction:column;
+  gap:8px;
+  color:#c6e2af;
+  background:radial-gradient(ellipse at 75% 20%,#d5f6ac12,transparent 55%);
+}
+.image-loaded .image-placeholder {
+  visibility:hidden;
+}
+.image-symbol {
+  font-size:64px;
+  line-height:1;
+  font-weight:300;
+}
+.image-topic {
+  font-size:10px;
+  letter-spacing:2px;
+  text-transform:uppercase;
+}
+.image-vesolje {
+  background:linear-gradient(135deg,#202939,#101e2b 65%,#394958);
+}
+.image-ai,.image-strojna-oprema {
+  background:linear-gradient(135deg,#213e3b,#122e2e 65%,#29504c);
+}
+.image-energija {
+  background:linear-gradient(135deg,#3e3e22,#252c1c 65%,#515032);
+}
+.image-us {
+  background:linear-gradient(135deg,#303941,#1d252c 65%,#3e4a53);
+}
 @media(max-width:500px) {
   .mode-label {
     font-size:9px
