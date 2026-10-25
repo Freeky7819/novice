@@ -1,1 +1,396 @@
-{}
+{
+  "917a51e5c5f40f74a49a36d0d142d98741dacdf5": {
+    "status": "ok",
+    "attempted_at": "2026-10-25T02:29:49Z",
+    "provider": "anthropic",
+    "model": "claude-haiku-5-5",
+    "result": {
+      "neutral": "Naslov poroča, da je bivši predsednik Barack Obama v Detroitu rekel, da je „sprememba v zraku“. Izvleček je prazen, zato podrobnosti članka niso na voljo.",
+      "mine": "Iz naslova vem samo to, da je Obama v Detroitu govoril o spremembi. Kaj je točno rekel in zakaj, ne morem povedati, ker besedila ni. Gre za politiko v ZDA, ne za znanost ali tehnologijo.",
+      "topics": [
+        "us"
+      ]
+    }
+  },
+  "480ede6555430ac54c49c30f8f9ccc7274419c3c": {
+    "status": "ok",
+    "attempted_at": "2026-10-25T02:29:56Z",
+    "provider": "anthropic",
+    "model": "claude-haiku-5-5",
+    "result": {
+      "neutral": "Članek z naslovom navaja, da republikanski milijarder Rick Jackson želi voditi Georgio in pri tem hodi po tanki črti glede Trumpa. Izvleček je prazen, zato drugih podrobnosti ni na voljo. Vir je Google News, rubrika U.S.",
+      "mine": "Rick Jackson je bogat republikanec, ki si želi vodenje Georgie, in zdi se, da mora paziti, kaj reče o Trumpu. Več ne vem, ker izvlečka ni, imam samo naslov. Za podrobnosti poglej sam članek na AP.",
+      "topics": [
+        "us"
+      ]
+    }
+  },
+  "565e9888e873dc043e7acee516281c8aa0bdbe5f": {
+    "status": "ok",
+    "attempted_at": "2026-10-25T02:30:01Z",
+    "provider": "anthropic",
+    "model": "claude-haiku-5-5",
+    "result": {
+      "neutral": "Naslov pravi, da bo Trump ta vikend obiskal Georgio in Michigan pred volitvami za kongres leta 2026. Izvleček je prazen, zato drugih podrobnosti ni na voljo.",
+      "mine": "Iz članka imamo samo naslov, nič drugega. Trump naj bi ta vikend šel v Georgio in Michigan, pred vmesnimi volitvami 2026. Kaj točno bo tam počel, iz teh podatkov ne vem.",
+      "topics": [
+        "us"
+      ]
+    }
+  },
+  "ee4e256deb6a79b94faf5e71a43b2dcaf912c390": {
+    "status": "ok",
+    "attempted_at": "2026-10-25T02:30:05Z",
+    "provider": "anthropic",
+    "model": "claude-haiku-5-5",
+    "result": {
+      "neutral": "Naslov poroča o dimu v središču Cedar Rapidsa blizu tovarne Quaker Oats. Izvleček je prazen, zato drugih podrobnosti, kot so vzrok, obseg ali posledice, ni na voljo.",
+      "mine": "Iz naslova vem samo to, da je v centru Cedar Rapidsa blizu Quaker Oats videti dim. Podrobnosti niso na voljo, zato ne morem reči, kaj se je zares zgodilo. Če želiš vedeti več, moraš odpreti sam članek.",
+      "topics": [
+        "us"
+      ]
+    }
+  },
+  "d4bb1fa09bcef2bd956009dbafb52a87e4945c96": {
+    "status": "ok",
+    "attempted_at": "2026-10-25T02:30:09Z",
+    "provider": "anthropic",
+    "model": "claude-haiku-5-5",
+    "result": {
+      "neutral": "Naslov pravi, da se je Barack Obama vrnil na predvolilno kampanjo in ostro napadel Donalda Trumpa ter Vivka Ramaswamyja. Izvleček je prazen, zato podrobnosti članka niso na voljo.",
+      "mine": "Obama je spet na kampanjski poti in po naslovu ostro udari po Trumpu in Ramaswamyju. Več podrobnosti nimam, ker izvleček ni na voljo. Za celoten kontekst preberi članek v New York Timesu.",
+      "topics": [
+        "us"
+      ]
+    }
+  },
+  "f2f198d9c28c46b3dd649f001a82f9d38e49ee2a": {
+    "status": "ok",
+    "attempted_at": "2026-10-25T02:30:13Z",
+    "provider": "anthropic",
+    "model": "claude-haiku-5-5",
+    "result": {
+      "neutral": "Naslov pravi, da ministrstvo za pravosodje (DOJ) od nekaterih kalifornijskih okrajev zahteva, naj domnevne glasovnice nedržavljanov odložijo in preverijo v 48 urah. Podrobnosti niso na voljo, ker izvleček ni na voljo.",
+      "mine": "Zvezna vlada hoče, da nekateri kalifornijski okraji v dveh dneh odložijo glasovnice, za katere trdijo, da jih oddajajo nedržavljani, in jih preverijo. Več ne vem, ker je na voljo samo naslov, brez izvlečka. Zaenkrat je to zahteva, kaj bo sledilo, pa ni jasno.",
+      "topics": [
+        "us"
+      ]
+    }
+  },
+  "33815c89d18eb8a07c0519e90b12ebfbdd182232": {
+    "status": "ok",
+    "attempted_at": "2026-10-25T02:30:17Z",
+    "provider": "anthropic",
+    "model": "claude-haiku-5-5",
+    "result": {
+      "neutral": "Po naslovu članka je Obama na zborovanju na Srednjem zahodu v kampanji za vmesne volitve kritiziral Trumpa in njegove zaveznike zaradi krutosti in nespodobnosti. Podrobnosti niso na voljo, ker izvleček ni na voljo. Več o vsebini govorov ne morem povedati.",
+      "mine": "Obama je v kampanji za vmesne volitve na Srednjem zahodu ostro napadel Trumpa in njegove ljudi. Očita jim krutost in nespodobnost. Več ne vem, ker članek nimam, samo naslov.",
+      "topics": [
+        "us"
+      ]
+    }
+  },
+  "0a9a37cefbd46dc8c653e5060e9bb52b65850b46": {
+    "status": "ok",
+    "attempted_at": "2026-10-25T02:30:21Z",
+    "provider": "anthropic",
+    "model": "claude-haiku-5-5",
+    "result": {
+      "neutral": "Naslov pravi, da kalifornijski voditelj kritizira napad na domnevno glasovanje nedržavljanov in ga imenuje 'zloraba zakona'. Izvleček je prazen, zato podrobnosti o dogodku niso na voljo. Vir je The Guardian prek Google Novic (ZDA).",
+      "mine": "Kalifornijski voditelj pravi, da se zakon tu uporablja kot orožje. Kaj točno se je zgodilo, iz naslova ne morem reči, ker izvlečka ni. Zaenkrat vem samo to, kar piše v naslovu.",
+      "topics": [
+        "us"
+      ]
+    }
+  },
+  "987e044b323144846a962f87dd58b9e472561ebd": {
+    "status": "ok",
+    "attempted_at": "2026-10-25T02:30:26Z",
+    "provider": "anthropic",
+    "model": "claude-haiku-5-5",
+    "result": {
+      "neutral": "Naslov članka pravi, da se tveganje, da bi se ZDA in Iran vrnile v polno vojno, zaradi groženj in strahu po naslovu povečuje. Izvleček je prazen, zato podrobnosti članka niso na voljo.",
+      "mine": "Iz naslova je razvidno, da se napetosti med ZDA in Iranom menda stopnjujejo in da se omenja možnost polne vojne. Več ne vem, ker izvlečka ni in članka nisem mogel prebrati. Za podrobnosti je treba prebrati sam članek.",
+      "topics": [
+        "us"
+      ]
+    }
+  },
+  "b1be61cb02386cbb0d1450278b46944a5a3da5e3": {
+    "status": "ok",
+    "attempted_at": "2026-10-25T02:30:30Z",
+    "provider": "anthropic",
+    "model": "claude-haiku-5-5",
+    "result": {
+      "neutral": "Naslov pravi, da bi volivci v dveh demokratskih bastionih v ZDA lahko odločali o prepovedi, da bi transspolna dekleta igrala v dekliških šolskih športnih ekipah. Podrobnosti niso na voljo, ker izvleček ni bil priložen.",
+      "mine": "Gre za glasovanje, kjer bi ljudje sami odločili, ali transspolna dekleta smejo v dekliških šolskih ekipah. Več o tem, kateri kraji in kakšna pravila, iz naslova ne vem. Izvlečka ni, zato ne morem dodati nič več.",
+      "topics": [
+        "us"
+      ]
+    }
+  },
+  "95da8a17f7210491c0bf92ad8a41b6c07155a556": {
+    "status": "ok",
+    "attempted_at": "2026-10-25T02:30:35Z",
+    "provider": "anthropic",
+    "model": "claude-haiku-5-5",
+    "result": {
+      "neutral": "Članek poroča, da v regiji Four Corners še vedno dežuje in da evakuacije zaradi poplav ostajajo v veljavi. Izvleček ni na voljo, zato podrobnosti, kot so obseg poplav ali število evakuiranih, niso znane.",
+      "mine": "Iz naslova je jasno, da je v regiji Four Corners spet deževalo in da ljudje še vedno ne smejo domov. Več ne vem, ker izvlečka ni. Če rabiš podrobnosti, kot sta kraj in koliko ljudi, preberi članek na AP News.",
+      "topics": [
+        "us"
+      ]
+    }
+  },
+  "2aa907dfed78a12b39f3cf0aae8d92e51d00dc91": {
+    "status": "ok",
+    "attempted_at": "2026-10-25T02:30:39Z",
+    "provider": "anthropic",
+    "model": "claude-haiku-5-5",
+    "result": {
+      "neutral": "Leta 1987 so biologi ujeli zadnjega kondorja, ki je še prosto letal, in ga prenesli v ujetništvo, največja severnoameriška ptica pa je bila uradno razglašena za izumrlo v naravi. Po desetletjih usklajenih prizadevanj in milijonih dolarjev za vzrejo v ujetništvu ter ponovno naselitev je zdaj v naravi več kot 300 kondorjev. Članek se sprašuje, kdo naj odloča, katere vrste se rešujejo, in primer kalifornijskega kondorja uporablja kot lekcijo za globalno pogodbo o biotski raznovrstnosti.",
+      "mine": "Biologi so leta 1987 ujeli zadnjega kondorja, ki je še letal prosto, in ga dali v ujetništvo. Po desetletjih dela in milijonih dolarjev za vzrejo ter spuščanje nazaj v naravo jih je zdaj spet več kot 300. Članek pa gre dlje, ker sprašuje, kdo naj sploh odloča, katere vrste se rešujejo, kondor pa je tu zgled za morebitno globalno pogodbo o biotski raznovrstnosti.",
+      "topics": [
+        "us",
+        "znanost"
+      ]
+    }
+  },
+  "cc44011f080ef469dfd399d9e4a63a554cba2fe3": {
+    "status": "ok",
+    "attempted_at": "2026-10-25T02:30:46Z",
+    "provider": "anthropic",
+    "model": "claude-haiku-5-5",
+    "result": {
+      "neutral": "Naslov pravi, da je Obama nastopil pred množico v Michiganu za kandidata El-Sayeda in da je dejal, da bo dokončal, kar so začeli. Izvleček je prazen, zato drugih podrobnosti ni na voljo.",
+      "mine": "Obama je v Michiganu nagovoril polno dvorano in podprl El-Sayeda. Kaj točno je rekel in kakšen vpliv ima to na volitve, iz tega članka ne morem povedati, ker izvlečka ni. Zaenkrat samo naslov, o ameriški politiki.",
+      "topics": [
+        "us"
+      ]
+    }
+  },
+  "f15386ac474000872df882ba54b0abd9cb2128cb": {
+    "status": "ok",
+    "attempted_at": "2026-10-25T02:30:51Z",
+    "provider": "anthropic",
+    "model": "claude-haiku-5-5",
+    "result": {
+      "neutral": "V naslovu je navedeno, da je umrl Noah Adams, dolgoletni voditelj radijske oddaje All Things Considered, pri 84 letih. Podrobnosti v izvlečku niso na voljo, zato o okoliščinah in poteku ne vemo nič več.",
+      "mine": "Umrl je Noah Adams, ki je dolgo vodil ameriško radijsko oddajo All Things Considered. Izvleček je prazen, zato zaenkrat vem samo to, kar piše v naslovu. Več podrobnosti bo treba pogledati v samem članku.",
+      "topics": [
+        "us"
+      ]
+    }
+  },
+  "08e405ddd9d7d5291bf0c424be3c23af44d00ae1": {
+    "status": "ok",
+    "attempted_at": "2026-10-25T02:30:57Z",
+    "provider": "anthropic",
+    "model": "claude-haiku-5-5",
+    "result": {
+      "neutral": "Ministrstvo za pravosodje ZDA zahteva, naj okrajni uradi v Kaliforniji pomagajo ugotoviti domnevne volivce, ki niso državljani ZDA. Podrobnosti niso na voljo, ker izvleček ni bil priložen.",
+      "mine": "Zvezna vlada hoče, da kalifornijski okraji pomagajo najti ljudi, za katere sumijo, da so volili brez državljanstva. Iz naslova ne vem, kako naj bi to delali, ker podrobnosti nimam. Zaenkrat je to samo zahteva, ne vem še, kaj sledi.",
+      "topics": [
+        "us"
+      ]
+    }
+  },
+  "3a05f4249a23be52b14d7104ffb4b9e9638524bb": {
+    "status": "ok",
+    "attempted_at": "2026-10-25T02:31:02Z",
+    "provider": "anthropic",
+    "model": "claude-haiku-5-5",
+    "result": {
+      "neutral": "Nadškofija v New Yorku se je strinjala s poravnavo zahtevkov zaradi spolne zlorabe, po naslovu vredno več kot 800 milijonov dolarjev. Podrobnosti niso na voljo, ker izvleček članka ni priložen.",
+      "mine": "Cerkev v New Yorku se je dogovorila, da bo plačala več kot 800 milijonov dolarjev žrtvam spolne zlorabe. Iz samega naslova ne vem, kako bo denar razdeljen ali kdaj bo plačan. Zaenkrat imam samo naslov, zato več ne morem povedati.",
+      "topics": [
+        "us"
+      ]
+    }
+  },
+  "96fb79d52910a2e51807a115cb199d8f7dd49def": {
+    "status": "ok",
+    "attempted_at": "2026-10-25T02:31:07Z",
+    "provider": "anthropic",
+    "model": "claude-haiku-5-5",
+    "result": {
+      "neutral": "Naslov poroča o požaru in eksploziji pri podjetju Quaker Oats v središču Cedar Rapids v ZDA. Po naslovu nihče ni bil poškodovan. Izvleček je prazen, zato podrobnosti, na primer vzrok ali obseg škode, niso na voljo.",
+      "mine": "Pri Quaker Oats v centru Cedar Rapids je bil požar in eksplozija. Nihče ni bil ranjen, to piše že v naslovu. Več v članku žal ni, izvleček je prazen, zato o vzroku in škodi ne vem nič.",
+      "topics": [
+        "us"
+      ]
+    }
+  },
+  "8ec5e9b7ba4d4bd986a4a086e0513cf0dc4ccf15": {
+    "status": "ok",
+    "attempted_at": "2026-10-25T02:31:11Z",
+    "provider": "anthropic",
+    "model": "claude-haiku-5-5",
+    "result": {
+      "neutral": "V pridržanem centru za priseljence v Georgii je umrl moški, ki je bil tam pridržan. Naslov pravi, da stavka lakote medtem nadaljuje. Podrobnosti niso na voljo, ker izvleček ni na voljo.",
+      "mine": "Iz naslova vem samo to, da je v priporu za priseljence v Georgii umrl moški, medtem ko stavka lakote teče naprej. Več nimam, ker izvleček ni na voljo. Vzrokov smrti ali ozadja iz članka ne morem povzeti.",
+      "topics": [
+        "us"
+      ]
+    }
+  },
+  "c3abff41162ff84ba8eeecf8048f6489bfec5198": {
+    "status": "ok",
+    "attempted_at": "2026-10-25T02:31:16Z",
+    "provider": "anthropic",
+    "model": "claude-haiku-5-5",
+    "result": {
+      "neutral": "Naslov poroča, da prvi ruski tanker z dizelskim gorivom pluje proti New Yorku po dogovoru med Trumpom in Putinom, ki naj bi znižal cene goriva. Izvleček je prazen, zato podrobnosti niso na voljo.",
+      "mine": "Iz naslova je jasno samo to, da gre prvi ruski tanker z dizelskim gorivom proti New Yorku in da je to povezano z Trumpovim dogovorom s Putinom o nižjih cenah goriva. Več ne vem, ker izvleček ni na voljo. Za zdaj je to samo naslov, ne potrjena zgodba.",
+      "topics": [
+        "energija",
+        "us"
+      ]
+    }
+  },
+  "edd156558eaebf7e469fd28e698082c21b328f92": {
+    "status": "ok",
+    "attempted_at": "2026-10-25T02:31:20Z",
+    "provider": "anthropic",
+    "model": "claude-haiku-5-5",
+    "result": {
+      "neutral": "Naslov poroča, da je Donald Trump oddal glasovnico za vmesne volitve, čeprav je zgodnje glasovanje nekoč imenoval 'smešno'. Izvleček je prazen, zato drugih podrobnosti ni na voljo. Vir je Google News, rubrika U.S.",
+      "mine": "Trump je nekoč zgodnje glasovanje imenoval smešno, zdaj pa je sam oddal glasovnico za vmesne volitve. Iz naslova ni jasno, kje in kako je glasoval. Več ne vem, ker izvleček manjka.",
+      "topics": [
+        "us"
+      ]
+    }
+  },
+  "a52db57f72754d2522633ae3b1a30a3f7f98d991": {
+    "status": "ok",
+    "attempted_at": "2026-10-25T02:31:25Z",
+    "provider": "anthropic",
+    "model": "claude-haiku-5-5",
+    "result": {
+      "neutral": "Naslov poroča, da newyorška nadškofija pripravlja poravnavo v vrednosti 800 milijonov dolarjev z žrtvami spolnih zlorab s strani duhovnikov. Izvleček je prazen, zato podrobnosti niso na voljo.",
+      "mine": "New Yorška nadškofija se po naslovu dogovarja za poravnavo za žrtve spolnih zlorab duhovnikov, in sicer v vrednosti 800 milijonov dolarjev. Iz izvlečka ni nič več, zato ne vem, kako bo denar razdeljen ali kdaj bo končano. Naslov pove samo to, ostalo ostane odprto.",
+      "topics": [
+        "us"
+      ]
+    }
+  },
+  "b0ac1b2e3570e52920ea123fdb749e2903d63e1b": {
+    "status": "ok",
+    "attempted_at": "2026-10-25T02:31:31Z",
+    "provider": "anthropic",
+    "model": "claude-haiku-5-5",
+    "result": {
+      "neutral": "Naslov poroča, da Elon Musk pravi, da je stal za omejitvijo hitrosti storitve Starlink, potem ko je bila storitev v Ukrajini ponovno vzpostavljena. Izvleček ni na voljo, zato podrobnosti, kot so razlogi, obseg omejitve in datum, niso znane. Članek je objavljen v virih Google News v ZDA.",
+      "mine": "Musk naj bi priznal, da je omejil hitrost Starlinka v Ukrajini, ko je storitev spet začela delovati. Več podrobnosti nimam, ker izvlečka ni. Za zanesljivo sliko preberi celoten članek.",
+      "topics": [
+        "us",
+        "vesolje"
+      ]
+    }
+  },
+  "224ef783c49abe37599229a35dfb9cbdc1361d50": {
+    "status": "ok",
+    "attempted_at": "2026-10-25T02:31:34Z",
+    "provider": "anthropic",
+    "model": "claude-haiku-5-5",
+    "result": {
+      "neutral": "Naslov pravi, da je Trump na Floridi predčasno oddal glasovnico za vmesne volitve. Izvleček je prazen, zato drugih podrobnosti ni na voljo.",
+      "mine": "Vem samo naslov: Trump je glasoval zgodaj, na Floridi, za vmesne volitve. Izvlečka ni, zato ne vem, kaj še piše v članku. Za več bi moral prebrati sam članek.",
+      "topics": [
+        "us"
+      ]
+    }
+  },
+  "f30eac461f446b439be1a02eb6d96461a7945011": {
+    "status": "ok",
+    "attempted_at": "2026-10-25T02:31:38Z",
+    "provider": "anthropic",
+    "model": "claude-haiku-5-5",
+    "result": {
+      "neutral": "Članek pravi, da barva paprik lahko pove kaj o sladkosti, hranilih in zrelosti. Izvleček na kratko navaja, da paprike jemo surove, na žaru, pečene ali polnjene. Paprike izvirajo iz Srednje in Južne Amerike ter spadajo v družino razhudnikovk skupaj s paradižnikom in jajčevcem.",
+      "mine": "Barva paprike naj bi povedala, kako sladka je, koliko hranil ima in kako zrela je. Podrobnosti iz članka tu niso na voljo, ker imam samo naslov in kratek izvleček. Paprike so sorodnice paradižnika in jajčevca, vse tri so iz družine razhudnikovk.",
+      "topics": [
+        "znanost"
+      ]
+    }
+  },
+  "0b73bd1edbd31be85effaeaf91c2efaad861530f": {
+    "status": "ok",
+    "attempted_at": "2026-10-25T02:31:43Z",
+    "provider": "anthropic",
+    "model": "claude-haiku-5-5",
+    "result": {
+      "neutral": "Nerjavno jeklo je znano po dobri odpornosti proti koroziji, vendar ni popolnoma odporno. V okoljih s kloridnimi ioni, na primer v morski vodi, lahko nastanejo luknjice (jamičasta korozija), ki pogosto začnejo pri majhnih delcih v jeklu, imenovanih vključki. Članek poroča o testih, zakaj dodatki titana jamičaste korozije ne preprečijo popolnoma, podrobnosti rezultatov v izvlečku niso na voljo.",
+      "mine": "Nerjavno jeklo ni nepremagljivo, v slani vodi, na primer v morju, lahko dobi luknjice. Začnejo se pri drobnih delcih v jeklu, ki jim pravijo vključki. Iz izvlečka ne vidim, kaj točno so testi pokazali glede titana, zato tukaj ne morem napisati več.",
+      "topics": [
+        "znanost"
+      ]
+    }
+  },
+  "f377686b97311ab2be50bd6e0a7e321d13e50adb": {
+    "status": "ok",
+    "attempted_at": "2026-10-25T02:31:51Z",
+    "provider": "anthropic",
+    "model": "claude-haiku-5-5",
+    "result": {
+      "neutral": "Naslov napoveduje, da bodo v Kaliforniji izjemno visoke plime poplavile obalo, in da se razmere lahko najprej poslabšajo, preden izboljšajo. Izvleček je prazen, zato drugih podrobnosti o obsegu, času ali vzrokih ni na voljo.",
+      "mine": "Iz naslova je jasno samo to, da bodo v Kaliforniji izjemno visoke plime poplavile obalo. Po naslovu naj bi bilo prej slabše kot boljše. Podrobnosti članka nimam, ker izvleček manjka, zato ne vem, kje, kdaj in kako hudo.",
+      "topics": [
+        "us"
+      ]
+    }
+  },
+  "508e9ee303aea51ab2406885adaf23019f21491d": {
+    "status": "ok",
+    "attempted_at": "2026-10-25T02:31:56Z",
+    "provider": "anthropic",
+    "model": "claude-haiku-5-5",
+    "result": {
+      "neutral": "Amazon ponuja 13-palčni MacBook Air z M5 čipom s 200 dolarjev popusta, tako da stane 1.599 dolarjev. Model ima 24 GB enotnega pomnilnika in 1 TB SSD, Amazon pa je znižal tudi nekatere druge konfiguracije. Izvleček ne navaja podrobnosti o drugih modelih ali o trajanju popusta.",
+      "mine": "Na Amazonu je zdaj 13-palčni MacBook Air z M5 za 200 dolarjev ceneje, na 1.599 dolarjev, in to je po tem, kar piše, najnižja cena na tem prodajalcu. Dobiš 24 GB pomnilnika in 1 TB disk, kar je pri tem modelu nova osnova. Če ti prav pride, je to lepa ponudba, ampak gre za en popust pri enem prodajalcu, nič več.",
+      "topics": [
+        "strojna-oprema"
+      ]
+    }
+  },
+  "4ec8246472cfeaf8b0565b00fcc378697761f243": {
+    "status": "ok",
+    "attempted_at": "2026-10-25T02:32:02Z",
+    "provider": "anthropic",
+    "model": "claude-haiku-5-5",
+    "result": {
+      "neutral": "Naslov pravi, da je sodišče ugotovilo, da je Trump s razporeditvijo nacionalne garde v Los Angelesu kršil zakon. Izvleček je prazen, zato drugih podrobnosti ni na voljo. Vir je The New York Times prek Google Novic.",
+      "mine": "Po naslovu je sodišče reklo, da je bila razporeditev nacionalne garde v Los Angelesu nezakonita. Več ne vem, ker članek nima izvlečka. Če želiš podrobnosti, preberi članek sam.",
+      "topics": [
+        "us"
+      ]
+    }
+  },
+  "5d129bf6c31363e43f4a8dae24116f549ce94f38": {
+    "status": "ok",
+    "attempted_at": "2026-10-25T02:32:07Z",
+    "provider": "anthropic",
+    "model": "claude-haiku-5-5",
+    "result": {
+      "neutral": "Članek z naslovom pravi, da se spor o drugem amandmaju širi onkraj orožja, Vrhovno sodišče ZDA pa se pripravlja na pomembno odločitev. Izvleček je prazen, zato podrobnosti niso na voljo.",
+      "mine": "Podrobnosti nimam, ker izvleček ni na voljo, vem samo naslov. Iz njega se razbere, da se spor o drugem amandmaju ne vrti več samo okoli orožja. Sodišče naj bi kmalu odločilo nekaj velikega, kaj točno, pa iz naslova ne vidim.",
+      "topics": [
+        "us"
+      ]
+    }
+  },
+  "9861e39db9b5a20246d7f06028eb35198f2f825d": {
+    "status": "ok",
+    "attempted_at": "2026-10-25T02:32:12Z",
+    "provider": "anthropic",
+    "model": "claude-haiku-5-5",
+    "result": {
+      "neutral": "Podrobnosti članka niso na voljo, ker je izvleček prazen. Iz naslova je razvidno, da Musk pravi, da je stal za omejitvijo hitrosti Starlinka, potem ko je bila storitev v Ukrajini spet vzpostavljena.",
+      "mine": "Iz naslova izhaja, da Musk pravi, da je on stal za omejitvijo hitrosti Starlinka, potem ko je v Ukrajini spet začelo delovati. Več iz tega ne vem, ker izvlečka ni. Za podrobnosti je treba prebrati članek.",
+      "topics": [
+        "us",
+        "vesolje"
+      ]
+    }
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-25T02:07:21Z",
+  "checked_at": "2026-10-25T02:29:49Z",
   "sources": [
     {
       "id": "nature",
@@ -46,7 +46,7 @@
     {
       "id": "gnews-us",
       "ok": true,
-      "count": 69,
+      "count": 70,
       "feed_url": "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSkwyMHZNRGxqTjNjd0VnVmxiaTFWVXlnQVAB?hl=en-US&gl=US&ceid=US:en"
     },
     {
@@ -59,9 +59,9 @@
   "ai": {
     "provider": "anthropic",
     "model": "claude-haiku-5-5",
-    "enabled": false,
-    "attempted": 0,
-    "accepted": 0,
-    "attempted_today": 0
+    "enabled": true,
+    "attempted": 30,
+    "accepted": 30,
+    "attempted_today": 30
   }
 }

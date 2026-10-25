@@ -1,6 +1,40 @@
 {
-  "generated_at": "2026-10-25T02:07:21Z",
+  "generated_at": "2026-10-25T02:29:49Z",
   "items": [
+    {
+      "id": "917a51e5c5f40f74a49a36d0d142d98741dacdf5",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVXJWcW1yN092MTRUNVhubjhQdS1FcWR0M29iZGt1aEdtd0Zqa1lsOXRCSmZSbVBvN1R6S2Q5WWFtNTJ5Ukt0Y2JHZXBObDBjbWF6RUVKcWRjZzFQS1NyQ0NFMHJ1UW5KNUVCMmFCZFl6ck5WNFZXYUMzaFEyYldSNFRHY09QQlEwVTVtNENORlRJclUzTnFHSWRLa1F5UWZQXy14S1hrWVU0YWVtUWltY1V0N1RoZnNkenN5Snh3UG4yVTIzZ05ocC1zRkhCSlNkTks0dGVzcVhidnc?oc=5",
+      "title": "Former President Barack Obama tells Detroit 'change is in the air' - The Detroit News",
+      "source_id": "gnews-us",
+      "published": "2026-10-25T02:04:00Z",
+      "topics": [
+        "us"
+      ],
+      "excerpt": "",
+      "image": null,
+      "image_is_thumbnail": false,
+      "publisher": "The Detroit News",
+      "publisher_domain": "www.detroitnews.com",
+      "summary_neutral": "Naslov poroča, da je bivši predsednik Barack Obama v Detroitu rekel, da je „sprememba v zraku“. Izvleček je prazen, zato podrobnosti članka niso na voljo.",
+      "summary_mine": "Iz naslova vem samo to, da je Obama v Detroitu govoril o spremembi. Kaj je točno rekel in zakaj, ne morem povedati, ker besedila ni. Gre za politiko v ZDA, ne za znanost ali tehnologijo."
+    },
+    {
+      "id": "480ede6555430ac54c49c30f8f9ccc7274419c3c",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPd1hETUlleWtGaDN1SlZjV1laZklpZGJaQXpodnFhWGhaSDhvMmZqelZOckc4UVdUb0RHYmZvS3RGcG5UQ0NwWk9Zdnp5aUNZTDJLeUxaeFhzM2NYS3VsdEdZVEU0SzQ4aXRNZFF6TzhlNjMzZzJEaVEybDRiT0pCMEI5TlV2a0JCUGJGVTNaYXh1T0J6UXF5TlNNRkhGTURYdTFzT3dPYndsTVdDN0o2cnFNcUpJOGM?oc=5",
+      "title": "Republican billionaire Rick Jackson is walking a Trump tightrope in his quest to lead Georgia - AP News",
+      "source_id": "gnews-us",
+      "published": "2026-10-25T01:41:00Z",
+      "topics": [
+        "us"
+      ],
+      "excerpt": "",
+      "image": null,
+      "image_is_thumbnail": false,
+      "publisher": "AP News",
+      "publisher_domain": "apnews.com",
+      "summary_neutral": "Članek z naslovom navaja, da republikanski milijarder Rick Jackson želi voditi Georgio in pri tem hodi po tanki črti glede Trumpa. Izvleček je prazen, zato drugih podrobnosti ni na voljo. Vir je Google News, rubrika U.S.",
+      "summary_mine": "Rick Jackson je bogat republikanec, ki si želi vodenje Georgie, in zdi se, da mora paziti, kaj reče o Trumpu. Več ne vem, ker izvlečka ni, imam samo naslov. Za podrobnosti poglej sam članek na AP."
+    },
     {
       "id": "565e9888e873dc043e7acee516281c8aa0bdbe5f",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQ00wenlReXBCS29LaEZjOG9ibkJPOTlfRVlidFZGMTkwNzNIUDg3dXN1aUYtNk5QX0VLSUFpaXMyWmJ4TDR3T25FWlVodUdlMjlsZF9zcDVtMDFwYkE3QlJQRmRVMjlaM2FaWU5oaGJUX0gtWmZtRjJmQWpSc0FKTFJaU0h0ZnpvcWpXS1BLS1pZblZRNEd6OUFqaw?oc=5",
@@ -15,8 +49,8 @@
       "image_is_thumbnail": false,
       "publisher": "Fox News",
       "publisher_domain": "www.foxnews.com",
-      "summary_neutral": null,
-      "summary_mine": null
+      "summary_neutral": "Naslov pravi, da bo Trump ta vikend obiskal Georgio in Michigan pred volitvami za kongres leta 2026. Izvleček je prazen, zato drugih podrobnosti ni na voljo.",
+      "summary_mine": "Iz članka imamo samo naslov, nič drugega. Trump naj bi ta vikend šel v Georgio in Michigan, pred vmesnimi volitvami 2026. Kaj točno bo tam počel, iz teh podatkov ne vem."
     },
     {
       "id": "ee4e256deb6a79b94faf5e71a43b2dcaf912c390",
@@ -32,8 +66,8 @@
       "image_is_thumbnail": false,
       "publisher": "KGAN",
       "publisher_domain": "cbs2iowa.com",
-      "summary_neutral": null,
-      "summary_mine": null
+      "summary_neutral": "Naslov poroča o dimu v središču Cedar Rapidsa blizu tovarne Quaker Oats. Izvleček je prazen, zato drugih podrobnosti, kot so vzrok, obseg ali posledice, ni na voljo.",
+      "summary_mine": "Iz naslova vem samo to, da je v centru Cedar Rapidsa blizu Quaker Oats videti dim. Podrobnosti niso na voljo, zato ne morem reči, kaj se je zares zgodilo. Če želiš vedeti več, moraš odpreti sam članek."
     },
     {
       "id": "d4bb1fa09bcef2bd956009dbafb52a87e4945c96",
@@ -49,8 +83,8 @@
       "publisher": "The New York Times",
       "publisher_domain": "www.nytimes.com",
       "image_is_thumbnail": false,
-      "summary_neutral": null,
-      "summary_mine": null
+      "summary_neutral": "Naslov pravi, da se je Barack Obama vrnil na predvolilno kampanjo in ostro napadel Donalda Trumpa ter Vivka Ramaswamyja. Izvleček je prazen, zato podrobnosti članka niso na voljo.",
+      "summary_mine": "Obama je spet na kampanjski poti in po naslovu ostro udari po Trumpu in Ramaswamyju. Več podrobnosti nimam, ker izvleček ni na voljo. Za celoten kontekst preberi članek v New York Timesu."
     },
     {
       "id": "f2f198d9c28c46b3dd649f001a82f9d38e49ee2a",
@@ -66,8 +100,8 @@
       "image_is_thumbnail": false,
       "publisher": "CBS News",
       "publisher_domain": "www.cbsnews.com",
-      "summary_neutral": null,
-      "summary_mine": null
+      "summary_neutral": "Naslov pravi, da ministrstvo za pravosodje (DOJ) od nekaterih kalifornijskih okrajev zahteva, naj domnevne glasovnice nedržavljanov odložijo in preverijo v 48 urah. Podrobnosti niso na voljo, ker izvleček ni na voljo.",
+      "summary_mine": "Zvezna vlada hoče, da nekateri kalifornijski okraji v dveh dneh odložijo glasovnice, za katere trdijo, da jih oddajajo nedržavljani, in jih preverijo. Več ne vem, ker je na voljo samo naslov, brez izvlečka. Zaenkrat je to zahteva, kaj bo sledilo, pa ni jasno."
     },
     {
       "id": "33815c89d18eb8a07c0519e90b12ebfbdd182232",
@@ -83,13 +117,13 @@
       "image_is_thumbnail": false,
       "publisher": "AP News",
       "publisher_domain": "apnews.com",
-      "summary_neutral": null,
-      "summary_mine": null
+      "summary_neutral": "Po naslovu članka je Obama na zborovanju na Srednjem zahodu v kampanji za vmesne volitve kritiziral Trumpa in njegove zaveznike zaradi krutosti in nespodobnosti. Podrobnosti niso na voljo, ker izvleček ni na voljo. Več o vsebini govorov ne morem povedati.",
+      "summary_mine": "Obama je v kampanji za vmesne volitve na Srednjem zahodu ostro napadel Trumpa in njegove ljudi. Očita jim krutost in nespodobnost. Več ne vem, ker članek nimam, samo naslov."
     },
     {
       "id": "0a9a37cefbd46dc8c653e5060e9bb52b65850b46",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSDVYTzZTdEFTcUxhY0thYmxKcUIxUW9KekZaMEU0YnNPSHZkN01vMjlGazVfZXVKYUlOSXV2bWVPTjdDMEZmTVhyZGtYN1BvQ0kwVzhlaVdJZEhyNG85a01lQWtIT1lzLS1uaDFhVVY2MThfdlo5d1B6U3hwVlJVVXA5VGhQS1FJNlR4X19KaU1EWmUtbEJxcW13MmRoZw?oc=5",
-      "title": "California leaders rebuke Trump administration’s push over alleged noncitizen voting - The Guardian",
+      "title": "California leader calls attack on alleged noncitizen voting ‘weaponizing the law’ - The Guardian",
       "source_id": "gnews-us",
       "published": "2026-10-25T01:05:00Z",
       "topics": [
@@ -100,8 +134,42 @@
       "image_is_thumbnail": false,
       "publisher": "The Guardian",
       "publisher_domain": "www.theguardian.com",
-      "summary_neutral": null,
-      "summary_mine": null
+      "summary_neutral": "Naslov pravi, da kalifornijski voditelj kritizira napad na domnevno glasovanje nedržavljanov in ga imenuje 'zloraba zakona'. Izvleček je prazen, zato podrobnosti o dogodku niso na voljo. Vir je The Guardian prek Google Novic (ZDA).",
+      "summary_mine": "Kalifornijski voditelj pravi, da se zakon tu uporablja kot orožje. Kaj točno se je zgodilo, iz naslova ne morem reči, ker izvlečka ni. Zaenkrat vem samo to, kar piše v naslovu."
+    },
+    {
+      "id": "987e044b323144846a962f87dd58b9e472561ebd",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOenJjWWFLN0xjSXdjOHdmUFJ5ekx1M0FLLWR0dGxDc1p6X2xJbDAzM2Zia0lIZFhwdTBJOExfNnVseXd4M1RzUjRDV2MySDBTTTFuQTFKYmVrd2JEWTdOUG9BM3kzU24waU9zQlJMV0d3cFR1VXJrdVZzd1FITEV4Y3lMbHVOM1hZWlFnQlZKd3FvVDA?oc=5",
+      "title": "A New Level of Threat and Fear Risks Pushing the U.S. and Iran Back to Full War - The New York Times",
+      "source_id": "gnews-us",
+      "published": "2026-10-25T00:56:51Z",
+      "topics": [
+        "us"
+      ],
+      "excerpt": "",
+      "image": null,
+      "image_is_thumbnail": false,
+      "publisher": "The New York Times",
+      "publisher_domain": "www.nytimes.com",
+      "summary_neutral": "Naslov članka pravi, da se tveganje, da bi se ZDA in Iran vrnile v polno vojno, zaradi groženj in strahu po naslovu povečuje. Izvleček je prazen, zato podrobnosti članka niso na voljo.",
+      "summary_mine": "Iz naslova je razvidno, da se napetosti med ZDA in Iranom menda stopnjujejo in da se omenja možnost polne vojne. Več ne vem, ker izvlečka ni in članka nisem mogel prebrati. Za podrobnosti je treba prebrati sam članek."
+    },
+    {
+      "id": "b1be61cb02386cbb0d1450278b46944a5a3da5e3",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa0RZTDV5WWNOcHFxZXFNMVpZX0REUTdGZVZYTUNlZV8xMGFxOXhTVjl6RFhRZFZqbXdTWGhTTFR6TzRIYW9acnNZMmZlWlRnclRoRUJYNUViVE1QNTBFMkhQSmYzYU1pYVpidFJJNFhaS3dxZXNYaTNpUUxRcmhSVW52TFhtYXFEc1o2MVpPdnlEU0J5djJBZnVScWZIeFFWOVBKa2xmZW03MXMzb3BuZXR5NG0?oc=5",
+      "title": "Voters in 2 Democratic strongholds could ban transgender girls from girls school sports - AP News",
+      "source_id": "gnews-us",
+      "published": "2026-10-25T00:25:00Z",
+      "topics": [
+        "us"
+      ],
+      "excerpt": "",
+      "image": null,
+      "image_is_thumbnail": false,
+      "publisher": "AP News",
+      "publisher_domain": "apnews.com",
+      "summary_neutral": "Naslov pravi, da bi volivci v dveh demokratskih bastionih v ZDA lahko odločali o prepovedi, da bi transspolna dekleta igrala v dekliških šolskih športnih ekipah. Podrobnosti niso na voljo, ker izvleček ni bil priložen.",
+      "summary_mine": "Gre za glasovanje, kjer bi ljudje sami odločili, ali transspolna dekleta smejo v dekliških šolskih ekipah. Več o tem, kateri kraji in kakšna pravila, iz naslova ne vem. Izvlečka ni, zato ne morem dodati nič več."
     },
     {
       "id": "95da8a17f7210491c0bf92ad8a41b6c07155a556",
@@ -117,8 +185,8 @@
       "image_is_thumbnail": false,
       "publisher": "AP News",
       "publisher_domain": "apnews.com",
-      "summary_neutral": null,
-      "summary_mine": null
+      "summary_neutral": "Članek poroča, da v regiji Four Corners še vedno dežuje in da evakuacije zaradi poplav ostajajo v veljavi. Izvleček ni na voljo, zato podrobnosti, kot so obseg poplav ali število evakuiranih, niso znane.",
+      "summary_mine": "Iz naslova je jasno, da je v regiji Four Corners spet deževalo in da ljudje še vedno ne smejo domov. Več ne vem, ker izvlečka ni. Če rabiš podrobnosti, kot sta kraj in koliko ljudi, preberi članek na AP News."
     },
     {
       "id": "2aa907dfed78a12b39f3cf0aae8d92e51d00dc91",
@@ -128,7 +196,9 @@
       "published": "2026-10-25T00:00:01Z",
       "topics": [
         "fizika",
-        "vesolje"
+        "us",
+        "vesolje",
+        "znanost"
       ],
       "excerpt": "In 1987, biologists captured the last free-flying condor to transfer it to captivity, and the largest flying North American bird species was officially declared extinct in the wild. Today, after decades of coordinated efforts and millions of dollars spent on captive breeding and reintroduction efforts, more than 300 condors have been restored to their natural environment.",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-condor-with-wings-sp-1.jpg",
@@ -137,8 +207,8 @@
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:42:38Z",
       "image_attempts": 1,
-      "summary_neutral": null,
-      "summary_mine": null
+      "summary_neutral": "Leta 1987 so biologi ujeli zadnjega kondorja, ki je še prosto letal, in ga prenesli v ujetništvo, največja severnoameriška ptica pa je bila uradno razglašena za izumrlo v naravi. Po desetletjih usklajenih prizadevanj in milijonih dolarjev za vzrejo v ujetništvu ter ponovno naselitev je zdaj v naravi več kot 300 kondorjev. Članek se sprašuje, kdo naj odloča, katere vrste se rešujejo, in primer kalifornijskega kondorja uporablja kot lekcijo za globalno pogodbo o biotski raznovrstnosti.",
+      "summary_mine": "Biologi so leta 1987 ujeli zadnjega kondorja, ki je še letal prosto, in ga dali v ujetništvo. Po desetletjih dela in milijonih dolarjev za vzrejo ter spuščanje nazaj v naravo jih je zdaj spet več kot 300. Članek pa gre dlje, ker sprašuje, kdo naj sploh odloča, katere vrste se rešujejo, kondor pa je tu zgled za morebitno globalno pogodbo o biotski raznovrstnosti."
     },
     {
       "id": "cc44011f080ef469dfd399d9e4a63a554cba2fe3",
@@ -154,8 +224,25 @@
       "image_is_thumbnail": false,
       "publisher": "The Guardian",
       "publisher_domain": "www.theguardian.com",
-      "summary_neutral": null,
-      "summary_mine": null
+      "summary_neutral": "Naslov pravi, da je Obama nastopil pred množico v Michiganu za kandidata El-Sayeda in da je dejal, da bo dokončal, kar so začeli. Izvleček je prazen, zato drugih podrobnosti ni na voljo.",
+      "summary_mine": "Obama je v Michiganu nagovoril polno dvorano in podprl El-Sayeda. Kaj točno je rekel in kakšen vpliv ima to na volitve, iz tega članka ne morem povedati, ker izvlečka ni. Zaenkrat samo naslov, o ameriški politiki."
+    },
+    {
+      "id": "f15386ac474000872df882ba54b0abd9cb2128cb",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9qMWE5TWFHcnZRS1BETHloN19yN0p3aVl5ejNBZEtTM081X1AwUmd1RkJPcFRuc0xEekdTRkViOVd3V2lIb3ppU2ZWRjdGLWNrSU9kZnRVUE1pelJVU0F5cEhYWmpvelc0ZXA1U0xsN0Y1YWxVeGIyVHRn?oc=5",
+      "title": "Noah Adams, Longtime Host of ‘All Things Considered,’ Has Died at 84 - The New York Times",
+      "source_id": "gnews-us",
+      "published": "2026-10-24T23:18:15Z",
+      "topics": [
+        "us"
+      ],
+      "excerpt": "",
+      "image": null,
+      "image_is_thumbnail": false,
+      "publisher": "The New York Times",
+      "publisher_domain": "www.nytimes.com",
+      "summary_neutral": "V naslovu je navedeno, da je umrl Noah Adams, dolgoletni voditelj radijske oddaje All Things Considered, pri 84 letih. Podrobnosti v izvlečku niso na voljo, zato o okoliščinah in poteku ne vemo nič več.",
+      "summary_mine": "Umrl je Noah Adams, ki je dolgo vodil ameriško radijsko oddajo All Things Considered. Izvleček je prazen, zato zaenkrat vem samo to, kar piše v naslovu. Več podrobnosti bo treba pogledati v samem članku."
     },
     {
       "id": "08e405ddd9d7d5291bf0c424be3c23af44d00ae1",
@@ -171,8 +258,8 @@
       "publisher": null,
       "publisher_domain": null,
       "image_is_thumbnail": false,
-      "summary_neutral": null,
-      "summary_mine": null
+      "summary_neutral": "Ministrstvo za pravosodje ZDA zahteva, naj okrajni uradi v Kaliforniji pomagajo ugotoviti domnevne volivce, ki niso državljani ZDA. Podrobnosti niso na voljo, ker izvleček ni bil priložen.",
+      "summary_mine": "Zvezna vlada hoče, da kalifornijski okraji pomagajo najti ljudi, za katere sumijo, da so volili brez državljanstva. Iz naslova ne vem, kako naj bi to delali, ker podrobnosti nimam. Zaenkrat je to samo zahteva, ne vem še, kaj sledi."
     },
     {
       "id": "3a05f4249a23be52b14d7104ffb4b9e9638524bb",
@@ -188,8 +275,8 @@
       "image_is_thumbnail": false,
       "publisher": "The New York Times",
       "publisher_domain": "www.nytimes.com",
-      "summary_neutral": null,
-      "summary_mine": null
+      "summary_neutral": "Nadškofija v New Yorku se je strinjala s poravnavo zahtevkov zaradi spolne zlorabe, po naslovu vredno več kot 800 milijonov dolarjev. Podrobnosti niso na voljo, ker izvleček članka ni priložen.",
+      "summary_mine": "Cerkev v New Yorku se je dogovorila, da bo plačala več kot 800 milijonov dolarjev žrtvam spolne zlorabe. Iz samega naslova ne vem, kako bo denar razdeljen ali kdaj bo plačan. Zaenkrat imam samo naslov, zato več ne morem povedati."
     },
     {
       "id": "96fb79d52910a2e51807a115cb199d8f7dd49def",
@@ -205,8 +292,8 @@
       "publisher": null,
       "publisher_domain": null,
       "image_is_thumbnail": false,
-      "summary_neutral": null,
-      "summary_mine": null
+      "summary_neutral": "Naslov poroča o požaru in eksploziji pri podjetju Quaker Oats v središču Cedar Rapids v ZDA. Po naslovu nihče ni bil poškodovan. Izvleček je prazen, zato podrobnosti, na primer vzrok ali obseg škode, niso na voljo.",
+      "summary_mine": "Pri Quaker Oats v centru Cedar Rapids je bil požar in eksplozija. Nihče ni bil ranjen, to piše že v naslovu. Več v članku žal ni, izvleček je prazen, zato o vzroku in škodi ne vem nič."
     },
     {
       "id": "8ec5e9b7ba4d4bd986a4a086e0513cf0dc4ccf15",
@@ -222,8 +309,8 @@
       "image_is_thumbnail": false,
       "publisher": "The Guardian",
       "publisher_domain": "www.theguardian.com",
-      "summary_neutral": null,
-      "summary_mine": null
+      "summary_neutral": "V pridržanem centru za priseljence v Georgii je umrl moški, ki je bil tam pridržan. Naslov pravi, da stavka lakote medtem nadaljuje. Podrobnosti niso na voljo, ker izvleček ni na voljo.",
+      "summary_mine": "Iz naslova vem samo to, da je v priporu za priseljence v Georgii umrl moški, medtem ko stavka lakote teče naprej. Več nimam, ker izvleček ni na voljo. Vzrokov smrti ali ozadja iz članka ne morem povzeti."
     },
     {
       "id": "c3abff41162ff84ba8eeecf8048f6489bfec5198",
@@ -232,6 +319,7 @@
       "source_id": "gnews-us",
       "published": "2026-10-24T21:48:00Z",
       "topics": [
+        "energija",
         "us"
       ],
       "excerpt": "",
@@ -239,8 +327,8 @@
       "image_is_thumbnail": false,
       "publisher": "Fox Business",
       "publisher_domain": "www.foxbusiness.com",
-      "summary_neutral": null,
-      "summary_mine": null
+      "summary_neutral": "Naslov poroča, da prvi ruski tanker z dizelskim gorivom pluje proti New Yorku po dogovoru med Trumpom in Putinom, ki naj bi znižal cene goriva. Izvleček je prazen, zato podrobnosti niso na voljo.",
+      "summary_mine": "Iz naslova je jasno samo to, da gre prvi ruski tanker z dizelskim gorivom proti New Yorku in da je to povezano z Trumpovim dogovorom s Putinom o nižjih cenah goriva. Več ne vem, ker izvleček ni na voljo. Za zdaj je to samo naslov, ne potrjena zgodba."
     },
     {
       "id": "edd156558eaebf7e469fd28e698082c21b328f92",
@@ -256,8 +344,8 @@
       "publisher": "The New York Times",
       "publisher_domain": "www.nytimes.com",
       "image_is_thumbnail": false,
-      "summary_neutral": null,
-      "summary_mine": null
+      "summary_neutral": "Naslov poroča, da je Donald Trump oddal glasovnico za vmesne volitve, čeprav je zgodnje glasovanje nekoč imenoval 'smešno'. Izvleček je prazen, zato drugih podrobnosti ni na voljo. Vir je Google News, rubrika U.S.",
+      "summary_mine": "Trump je nekoč zgodnje glasovanje imenoval smešno, zdaj pa je sam oddal glasovnico za vmesne volitve. Iz naslova ni jasno, kje in kako je glasoval. Več ne vem, ker izvleček manjka."
     },
     {
       "id": "a52db57f72754d2522633ae3b1a30a3f7f98d991",
@@ -273,8 +361,8 @@
       "image_is_thumbnail": false,
       "publisher": "The Guardian",
       "publisher_domain": "www.theguardian.com",
-      "summary_neutral": null,
-      "summary_mine": null
+      "summary_neutral": "Naslov poroča, da newyorška nadškofija pripravlja poravnavo v vrednosti 800 milijonov dolarjev z žrtvami spolnih zlorab s strani duhovnikov. Izvleček je prazen, zato podrobnosti niso na voljo.",
+      "summary_mine": "New Yorška nadškofija se po naslovu dogovarja za poravnavo za žrtve spolnih zlorab duhovnikov, in sicer v vrednosti 800 milijonov dolarjev. Iz izvlečka ni nič več, zato ne vem, kako bo denar razdeljen ali kdaj bo končano. Naslov pove samo to, ostalo ostane odprto."
     },
     {
       "id": "b0ac1b2e3570e52920ea123fdb749e2903d63e1b",
@@ -283,15 +371,16 @@
       "source_id": "gnews-us",
       "published": "2026-10-24T21:23:36Z",
       "topics": [
-        "us"
+        "us",
+        "vesolje"
       ],
       "excerpt": "",
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "Chicago Tribune",
       "publisher_domain": "www.chicagotribune.com",
-      "summary_neutral": null,
-      "summary_mine": null
+      "summary_neutral": "Naslov poroča, da Elon Musk pravi, da je stal za omejitvijo hitrosti storitve Starlink, potem ko je bila storitev v Ukrajini ponovno vzpostavljena. Izvleček ni na voljo, zato podrobnosti, kot so razlogi, obseg omejitve in datum, niso znane. Članek je objavljen v virih Google News v ZDA.",
+      "summary_mine": "Musk naj bi priznal, da je omejil hitrost Starlinka v Ukrajini, ko je storitev spet začela delovati. Več podrobnosti nimam, ker izvlečka ni. Za zanesljivo sliko preberi celoten članek."
     },
     {
       "id": "224ef783c49abe37599229a35dfb9cbdc1361d50",
@@ -307,8 +396,8 @@
       "image_is_thumbnail": false,
       "publisher": "AP News",
       "publisher_domain": "apnews.com",
-      "summary_neutral": null,
-      "summary_mine": null
+      "summary_neutral": "Naslov pravi, da je Trump na Floridi predčasno oddal glasovnico za vmesne volitve. Izvleček je prazen, zato drugih podrobnosti ni na voljo.",
+      "summary_mine": "Vem samo naslov: Trump je glasoval zgodaj, na Floridi, za vmesne volitve. Izvlečka ni, zato ne vem, kaj še piše v članku. Za več bi moral prebrati sam članek."
     },
     {
       "id": "f30eac461f446b439be1a02eb6d96461a7945011",
@@ -318,7 +407,8 @@
       "published": "2026-10-24T21:00:07Z",
       "topics": [
         "fizika",
-        "vesolje"
+        "vesolje",
+        "znanost"
       ],
       "excerpt": "Raw, grilled, roasted, stuffed—there are many ways to enjoy bell peppers, also called capsicums, sweet peppers or paprika. Bell peppers originated in Central and South America and belong to the nightshade family along with tomatoes and eggplants.",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/-bell-peppers.jpg",
@@ -327,8 +417,8 @@
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:42:38Z",
       "image_attempts": 1,
-      "summary_neutral": null,
-      "summary_mine": null
+      "summary_neutral": "Članek pravi, da barva paprik lahko pove kaj o sladkosti, hranilih in zrelosti. Izvleček na kratko navaja, da paprike jemo surove, na žaru, pečene ali polnjene. Paprike izvirajo iz Srednje in Južne Amerike ter spadajo v družino razhudnikovk skupaj s paradižnikom in jajčevcem.",
+      "summary_mine": "Barva paprike naj bi povedala, kako sladka je, koliko hranil ima in kako zrela je. Podrobnosti iz članka tu niso na voljo, ker imam samo naslov in kratek izvleček. Paprike so sorodnice paradižnika in jajčevca, vse tri so iz družine razhudnikovk."
     },
     {
       "id": "0b73bd1edbd31be85effaeaf91c2efaad861530f",
@@ -338,7 +428,8 @@
       "published": "2026-10-24T21:00:01Z",
       "topics": [
         "fizika",
-        "vesolje"
+        "vesolje",
+        "znanost"
       ],
       "excerpt": "Stainless steel is widely used for its corrosion resistance, but it is not invincible. In environments containing chloride ions, such as seawater, pitting corrosion can occur. These pits often start at tiny particles called inclusions embedded in the steel.",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/where-does-pitting-cor.jpg",
@@ -347,8 +438,8 @@
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:42:38Z",
       "image_attempts": 1,
-      "summary_neutral": null,
-      "summary_mine": null
+      "summary_neutral": "Nerjavno jeklo je znano po dobri odpornosti proti koroziji, vendar ni popolnoma odporno. V okoljih s kloridnimi ioni, na primer v morski vodi, lahko nastanejo luknjice (jamičasta korozija), ki pogosto začnejo pri majhnih delcih v jeklu, imenovanih vključki. Članek poroča o testih, zakaj dodatki titana jamičaste korozije ne preprečijo popolnoma, podrobnosti rezultatov v izvlečku niso na voljo.",
+      "summary_mine": "Nerjavno jeklo ni nepremagljivo, v slani vodi, na primer v morju, lahko dobi luknjice. Začnejo se pri drobnih delcih v jeklu, ki jim pravijo vključki. Iz izvlečka ne vidim, kaj točno so testi pokazali glede titana, zato tukaj ne morem napisati več."
     },
     {
       "id": "f377686b97311ab2be50bd6e0a7e321d13e50adb",
@@ -364,8 +455,8 @@
       "image_is_thumbnail": false,
       "publisher": "Los Angeles Times",
       "publisher_domain": "www.latimes.com",
-      "summary_neutral": null,
-      "summary_mine": null
+      "summary_neutral": "Naslov napoveduje, da bodo v Kaliforniji izjemno visoke plime poplavile obalo, in da se razmere lahko najprej poslabšajo, preden izboljšajo. Izvleček je prazen, zato drugih podrobnosti o obsegu, času ali vzrokih ni na voljo.",
+      "summary_mine": "Iz naslova je jasno samo to, da bodo v Kaliforniji izjemno visoke plime poplavile obalo. Po naslovu naj bi bilo prej slabše kot boljše. Podrobnosti članka nimam, ker izvleček manjka, zato ne vem, kje, kdaj in kako hudo."
     },
     {
       "id": "508e9ee303aea51ab2406885adaf23019f21491d",
@@ -382,8 +473,8 @@
       "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null
+      "summary_neutral": "Amazon ponuja 13-palčni MacBook Air z M5 čipom s 200 dolarjev popusta, tako da stane 1.599 dolarjev. Model ima 24 GB enotnega pomnilnika in 1 TB SSD, Amazon pa je znižal tudi nekatere druge konfiguracije. Izvleček ne navaja podrobnosti o drugih modelih ali o trajanju popusta.",
+      "summary_mine": "Na Amazonu je zdaj 13-palčni MacBook Air z M5 za 200 dolarjev ceneje, na 1.599 dolarjev, in to je po tem, kar piše, najnižja cena na tem prodajalcu. Dobiš 24 GB pomnilnika in 1 TB disk, kar je pri tem modelu nova osnova. Če ti prav pride, je to lepa ponudba, ampak gre za en popust pri enem prodajalcu, nič več."
     },
     {
       "id": "4ec8246472cfeaf8b0565b00fcc378697761f243",
@@ -399,8 +490,8 @@
       "image_is_thumbnail": false,
       "publisher": "The New York Times",
       "publisher_domain": "www.nytimes.com",
-      "summary_neutral": null,
-      "summary_mine": null
+      "summary_neutral": "Naslov pravi, da je sodišče ugotovilo, da je Trump s razporeditvijo nacionalne garde v Los Angelesu kršil zakon. Izvleček je prazen, zato drugih podrobnosti ni na voljo. Vir je The New York Times prek Google Novic.",
+      "summary_mine": "Po naslovu je sodišče reklo, da je bila razporeditev nacionalne garde v Los Angelesu nezakonita. Več ne vem, ker članek nima izvlečka. Če želiš podrobnosti, preberi članek sam."
     },
     {
       "id": "5d129bf6c31363e43f4a8dae24116f549ce94f38",
@@ -416,8 +507,8 @@
       "image_is_thumbnail": false,
       "publisher": "Fox News",
       "publisher_domain": "www.foxnews.com",
-      "summary_neutral": null,
-      "summary_mine": null
+      "summary_neutral": "Članek z naslovom pravi, da se spor o drugem amandmaju širi onkraj orožja, Vrhovno sodišče ZDA pa se pripravlja na pomembno odločitev. Izvleček je prazen, zato podrobnosti niso na voljo.",
+      "summary_mine": "Podrobnosti nimam, ker izvleček ni na voljo, vem samo naslov. Iz njega se razbere, da se spor o drugem amandmaju ne vrti več samo okoli orožja. Sodišče naj bi kmalu odločilo nekaj velikega, kaj točno, pa iz naslova ne vidim."
     },
     {
       "id": "9861e39db9b5a20246d7f06028eb35198f2f825d",
@@ -426,15 +517,16 @@
       "source_id": "gnews-us",
       "published": "2026-10-24T20:16:00Z",
       "topics": [
-        "us"
+        "us",
+        "vesolje"
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "AP News",
       "publisher_domain": "apnews.com",
-      "image_is_thumbnail": false,
-      "summary_neutral": null,
-      "summary_mine": null
+      "summary_neutral": "Podrobnosti članka niso na voljo, ker je izvleček prazen. Iz naslova je razvidno, da Musk pravi, da je stal za omejitvijo hitrosti Starlinka, potem ko je bila storitev v Ukrajini spet vzpostavljena.",
+      "summary_mine": "Iz naslova izhaja, da Musk pravi, da je on stal za omejitvijo hitrosti Starlinka, potem ko je v Ukrajini spet začelo delovati. Več iz tega ne vem, ker izvlečka ni. Za podrobnosti je treba prebrati članek."
     },
     {
       "id": "72622a12ab71f51fd6c075779486d504d3721032",
@@ -852,9 +944,9 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "KOAT",
       "publisher_domain": "www.koat.com",
-      "image_is_thumbnail": false,
       "summary_neutral": null,
       "summary_mine": null
     },
@@ -872,23 +964,6 @@
       "image_is_thumbnail": false,
       "publisher": "The Daily Beast",
       "publisher_domain": "www.thedailybeast.com",
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "480ede6555430ac54c49c30f8f9ccc7274419c3c",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPd1hETUlleWtGaDN1SlZjV1laZklpZGJaQXpodnFhWGhaSDhvMmZqelZOckc4UVdUb0RHYmZvS3RGcG5UQ0NwWk9Zdnp5aUNZTDJLeUxaeFhzM2NYS3VsdEdZVEU0SzQ4aXRNZFF6TzhlNjMzZzJEaVEybDRiT0pCMEI5TlV2a0JCUGJGVTNaYXh1T0J6UXF5TlNNRkhGTURYdTFzT3dPYndsTVdDN0o2cnFNcUpJOGM?oc=5",
-      "title": "Republican billionaire Rick Jackson is walking a Trump tightrope in his quest to lead Georgia - AP News",
-      "source_id": "gnews-us",
-      "published": "2026-10-24T16:38:00Z",
-      "topics": [
-        "us"
-      ],
-      "excerpt": "",
-      "image": null,
-      "image_is_thumbnail": false,
-      "publisher": "AP News",
-      "publisher_domain": "apnews.com",
       "summary_neutral": null,
       "summary_mine": null
     },
@@ -996,23 +1071,6 @@
       "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "f15386ac474000872df882ba54b0abd9cb2128cb",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9qMWE5TWFHcnZRS1BETHloN19yN0p3aVl5ejNBZEtTM081X1AwUmd1RkJPcFRuc0xEekdTRkViOVd3V2lIb3ppU2ZWRjdGLWNrSU9kZnRVUE1pelJVU0F5cEhYWmpvelc0ZXA1U0xsN0Y1YWxVeGIyVHRn?oc=5",
-      "title": "Noah Adams, Longtime Host of ‘All Things Considered,’ Has Died at 84 - The New York Times",
-      "source_id": "gnews-us",
-      "published": "2026-10-24T15:14:18Z",
-      "topics": [
-        "us"
-      ],
-      "excerpt": "",
-      "image": null,
-      "publisher": "The New York Times",
-      "publisher_domain": "www.nytimes.com",
-      "image_is_thumbnail": false,
       "summary_neutral": null,
       "summary_mine": null
     },
@@ -2653,6 +2711,23 @@
       "summary_mine": null
     },
     {
+      "id": "ca1d1665241ed6dae4860e31d6860f801262a980",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTms2NExEM0hScW54OFkzb2k4WlpyeDE0eUhfWVJlMkRVc1JBTTFKQ3ozWURiTm9fSEJfZ19BREZ5N0x2RF9rMXMycWg2Y08ydHBaN0NuLTNDOG9pTExQelVrTjI1cDlJWFVlSmJ1dmtaNWYtQ2MydDBueURLZ2l1WnU1ODdKZXMzb1pEOVBrOG1xRWFObmZUUA?oc=5",
+      "title": "Exit of RFK Jr. ally widens rift in GOP tent - Politico",
+      "source_id": "gnews-us",
+      "published": "2026-10-23T18:52:00Z",
+      "topics": [
+        "us"
+      ],
+      "excerpt": "",
+      "image": null,
+      "image_is_thumbnail": false,
+      "publisher": "Politico",
+      "publisher_domain": "www.politico.com",
+      "summary_neutral": null,
+      "summary_mine": null
+    },
+    {
       "id": "16efedb57d0dd0b01fb99c3b62cac6d9d01f853c",
       "url": "https://dailygalaxy.com/2026/10/galaxy-2-5-million-light-years-australia/",
       "title": "A Galaxy 2.5 Million Light-Years Away Appears Above Australian Hills in a Stunning Night Sky Image",
@@ -3163,6 +3238,23 @@
       "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
+    },
+    {
+      "id": "4e6c1776681d398c3966ace7dfdd9f65cbacade2",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxON3IzWlFiU3BxSDZfWU80NVJ5LVBqUDFOT0ZvZ1FLeS11eHJIVTNVVnpLN2U4X3pZd3JWVGplQnZmVnVLWklQSjg2Z0tCOUtuNXRGZUVIZVNDWVp0dTR5cC05ei1uX2Y4dkxkWmwzTWtTZW1aRFdhVzV1RlZVblIyZnhBeG40V2RnTnpudkFUZGtDRUd4eHfSAZsBQVVfeXFMUDRUUmVuZzlPZnhpMEZ1Y0ZJNVpGTEd3WUk0NzhqN1ZoYWE4NHpEQ1UzZnJjUl9CaWdQMXhVNFVDLWJUN2ZodXBSSFJqc2VfcExHckpxdlhZZlhoVWdVMlppZ1E3SU5UZ1FKOHl0ZTZFb3ZFUHNoajE3eXlpemFENmZUY0I1cjBMRU42NWlkMFNaaGZWaXl0Mnp2aTQ?oc=5",
+      "title": "Southwest faces more severe weather, flash flooding as Colorado Gov. declares state of emergency - FOX Weather",
+      "source_id": "gnews-us",
+      "published": "2026-10-23T10:32:00Z",
+      "topics": [
+        "us"
+      ],
+      "excerpt": "",
+      "image": null,
+      "image_is_thumbnail": false,
+      "publisher": "FOX Weather",
+      "publisher_domain": "www.foxweather.com",
       "summary_neutral": null,
       "summary_mine": null
     },
