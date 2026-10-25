@@ -1,6 +1,6 @@
 # Novice
 
-Osebni RSS/Atom feed za znanost, fiziko, vesolje, energijo, AI, strojno opremo in novice iz ZDA. F1 prikazuje izvirne naslove in izvlečke virov (način **Uradno**). Izvlečki niso prevedeni.
+Osebni RSS/Atom feed za znanost, fiziko, vesolje, energijo, AI, strojno opremo in novice iz ZDA. F1 prikazuje izvirne naslove in izvlečke virov (način **Uradno**). Izvlečki niso prevedeni. Pod 600 px je glava visoka 64 px, uvod pa se skrči na vrstico z datumom in stanjem zajema.
 
 Vanilla HTML/CSS/JS, brez frameworka, npm odvisnosti ali build koraka. Python zajema RSS/Atom ter po potrebi samo HTML glavo novega članka za sliko. Ne izlušči celotnih člankov. Brez strežnika, baze, ključev ali prijave.
 
@@ -12,7 +12,7 @@ Vanilla HTML/CSS/JS, brez frameworka, npm odvisnosti ali build koraka. Python za
 4. Po uspešnem zagonu odpri **https://freeky7819.github.io/novice/**. Workflow vrne tudi povezavo v okolju `github-pages`.
 5. **Actions → Osveži novice → Run workflow** ročno preveri zajem. Nato urnik `*/30 * * * *` sam zajema vire približno vsakih 30 minut. GitHub lahko zagon zamakne; pri neaktivnih javnih repozitorijih lahko urnik po 60 dneh izključi.
 
-Objava uporablja priložena workflowa `pages.yml` in `fetch.yml`. Samo prenese statične datoteke na Pages; ničesar ne prevaja ali gradi. `data/config.json` je javni izvoz nastavitev, da brskalnik ne potrebuje YAML knjižnice.
+Oba workflowa za objavo si delita concurrency skupino `pages`, zato se objave ne izvajajo sočasno. Objava uporablja priložena workflowa `pages.yml` in `fetch.yml`. Samo prenese statične datoteke na Pages; ničesar ne prevaja ali gradi. `data/config.json` je javni izvoz nastavitev, da brskalnik ne potrebuje YAML knjižnice.
 
 Na iPhonu odpri objavljeno stran v **Safariju → Deli → Dodaj na domači zaslon**. Manifest ima relativni `scope` in `start_url`, PNG ikoni ter minimalen service worker. Namestitev na dejanskem iPhonu še ni preizkušena. Shranjevanje feeda za uporabo brez povezave ostaja za F4.
 
@@ -30,9 +30,9 @@ Odpri `http://localhost:8765/`. Če želiš samo pogledati priložene podatke, z
 
 ## Viri in teme
 
-- V `config/sources.yaml` uredi `id`, `name`, `url`, `topics` in `enabled`.
+- V `config/sources.yaml` uredi `id`, `name`, `url`, `topics` in `enabled`. Polje `excerpt: false` izključi izvleček tega vira (npr. pri Google News).
 - V `config/topics.yaml` uredi oznake, ključne besede in `exclude_keywords`.
-- Teme članka so unija tem vira in zaznanih ključnih besed. Kratke ključne besede, kot je AI, se ujemajo na mejah besed.
+- Teme članka so unija tem vira in zaznanih ključnih besed. Ključne besede se ujemajo na mejah besed. Kratice z vsemi velikimi črkami (AI, LLM, NVIDIA) se ujemajo case-sensitive, ostale besede in fraze case-insensitive. Teme se ob zajemu ponovno izračunajo tudi za hranjene članke.
 - Nastavitve na strani filtrirajo prikaz na posamezni napravi. V `localStorage` so shranjene izbire tem, virov in videza; napaka shrambe ne prepreči uporabe aplikacije.
 - Gumb osveži ponovno naloži zadnji objavljeni JSON. Ne sproži GitHub Actions ali neposrednega branja RSS v brskalniku.
 
@@ -40,9 +40,15 @@ Podatki hranijo do 500 člankov iz zadnjih sedmih dni, razvrščenih od najnovej
 
 ## Slike in priprava sloga
 
-Vsak članek ima `image` (izvirni URL ali `null`). Slika se najprej prebere iz `media:content`, nato `media:thumbnail` in na koncu slikovnega `enclosure`. Če v feedu ni slike, se samo ob prvem zaznavanju članka poskusi `og:image` v HTML glavi strani. Prenos ima timeout 5 sekund, preveri preusmeritve in javne ciljne naslove, prebere največ 128 KiB ter se ustavi ob koncu glave. Ne izlušči besedila članka. Pri prvi nadgradnji se enkrat dopolnijo tudi obstoječi članki, ki še nimajo polja `image`. Zapisani `null` prepreči ponavljanje neuspešnega poskusa.
+Vsak članek ima `image` (izvirni URL ali `null`). Prednost imajo `media:content`, `media:thumbnail` in slikovni `enclosure`. Nato se uporabi prvi varen `<img src>` v `content:encoded` / `content[].value`. Slike z znano širino ali višino pod 100 px se preskočijo. Če slike ni, se preveri `og:image` v HTML glavi, z običajnim brskalniškim User-Agentom, timeoutom 5 sekund in omejitvijo 512 KiB. Prenos se ustavi ob koncu glave in ne izlušči besedila članka.
 
-Slike ostanejo na izvirnih strežnikih in se ne kopirajo v repo. Brskalnik uporabi `loading="lazy"`, `referrerpolicy="no-referrer"`, razmerje 16 : 9 in `object-fit: cover`. Brez slike ali ob napaki nalaganja kartica prikaže nevtralno CSS ozadje in simbol teme. Tudi slike, ki jih ponudnik blokira, ostanejo brez opozoril na kartici.
+Čas poskusa se zapiše v `image_tried_at`, število pa v `image_attempts`. Po neuspehu je dovoljen največ en ponovni poskus, najmanj 24 ur pozneje (skupaj največ dva poskusa OG). Zapisi stare različice brez teh polj se ob nadgradnji enkrat preverijo. Slika, ki se pozneje pojavi neposredno v feedu, se lahko uporabi tudi po doseženem limitu OG.
+
+Za `gnews-us` se OG ne preverja in `image` ostane `null`. Iz `<source url="...">` se shranita `publisher` in `publisher_domain`; vrstica vira prikaže ime medija in »prek Google News«. Pripona » - Ime medija« se odstrani iz prikazanega naslova. Hranjene stare vnose brez teh podatkov dopolnimo le, če se ime na koncu naslova ujema s parom medij/domena, potrjenim v trenutnem feedu. Google News ima `excerpt: false`, zato seznam drugih naslovov ne nastopa niti kot izvleček niti kot vhod za teme.
+
+Sličice prepoznamo po širini media:thumbnail/content pod 400 px ali vzorcih URL (/tmb/, /thumb, -t.jpg, -150x150 …). Zanje najprej poskusimo OG; če ne uspe, ostane prvotna sličica. Pri naslednjem zajemu se uspešno pridobljena večja slika ohrani. Brskalnik preveri tudi dejanski `naturalWidth`: pod 400 px kartica dobi razred `thumb` in 96 × 96 px sliko levo ob naslovu.
+
+Slike ostanejo na izvirnih strežnikih in se ne kopirajo v repo. Brskalnik uporabi `loading="lazy"`, `referrerpolicy="no-referrer"`, razmerje 16 : 9 in `object-fit: cover`. Brez slike ali ob napaki nalaganja je kartica kompaktna: vir, čas, naslov in oznake, brez velikega placeholderja ali izvlečka.
 
 `config/style.md` vsebuje priloženi Damjanov slog in primere za prihodnji način »Po domače«. Datoteka je shranjena kot konfiguracija za F2; v F1 je nobena koda ne uporablja in povzetki ostajajo izvlečki virov. Novo poglavje F5 v širši specifikaciji ni del tega PR.
 

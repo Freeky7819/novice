@@ -516,42 +516,31 @@ html[data-theme=light] .article:first-child {
 .article-image.image-loaded img {
   opacity:1;
 }
-.image-placeholder {
-  position:absolute;
-  inset:0;
-  display:flex;
-  align-items:center;
-  justify-content:center;
-  flex-direction:column;
-  gap:8px;
-  color:#c6e2af;
-  background:radial-gradient(ellipse at 75% 20%,#d5f6ac12,transparent 55%);
+@media (width < 600px) {
+  .header { height:64px; }
+  .intro { padding:0; }
+  .intro .eyebrow,.intro h1,.intro>p { display:none; }
+  .intro-footer { margin:10px 0; font-size:9px; }
+  .topics { padding-bottom:12px; }
+  .feed-heading { padding:13px 0 10px; }
 }
-.image-loaded .image-placeholder {
-  visibility:hidden;
+.thumb .article-lead {
+  display:grid;
+  grid-template-columns:96px minmax(0,1fr);
+  gap:16px;
+  align-items:start;
+  margin:16px 0;
 }
-.image-symbol {
-  font-size:64px;
-  line-height:1;
-  font-weight:300;
+.thumb .article-image {
+  width:96px;
+  height:96px;
+  aspect-ratio:1;
+  margin:0;
 }
-.image-topic {
-  font-size:10px;
-  letter-spacing:2px;
-  text-transform:uppercase;
-}
-.image-vesolje {
-  background:linear-gradient(135deg,#202939,#101e2b 65%,#394958);
-}
-.image-ai,.image-strojna-oprema {
-  background:linear-gradient(135deg,#213e3b,#122e2e 65%,#29504c);
-}
-.image-energija {
-  background:linear-gradient(135deg,#3e3e22,#252c1c 65%,#515032);
-}
-.image-us {
-  background:linear-gradient(135deg,#303941,#1d252c 65%,#3e4a53);
-}
+.thumb .article-lead h3 { margin:0; }
+.compact .excerpt,.compact .original { display:none; }
+.compact h3 { margin:12px 0; }
+.via { font-size:10px; }
 @media(max-width:500px) {
   .mode-label {
     font-size:9px

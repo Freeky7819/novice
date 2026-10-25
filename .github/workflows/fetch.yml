@@ -6,7 +6,7 @@ on:
 permissions:
   contents: read
 concurrency:
-  group: novice-fetch
+  group: pages
   cancel-in-progress: false
 jobs:
   fetch:

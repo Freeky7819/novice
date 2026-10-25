@@ -34,6 +34,28 @@ class FeedTests(unittest.TestCase):
         self.assertFalse(fetch.matches('AI', 'chair daily'))
         self.assertTrue(fetch.matches('AI', 'An AI model'))
 
+    def test_acronyms_are_case_sensitive_and_phrases_are_not(self):
+        for acronym in ('AI', 'LLM', 'NVIDIA'):
+            self.assertTrue(fetch.matches(acronym, 'New ' + acronym + ' research'))
+            self.assertFalse(fetch.matches(acronym, acronym.lower()))
+        for word in ('language model', 'machine learning', 'neural network', 'chatbot'):
+            self.assertTrue(fetch.matches(word, word.upper()))
+        self.assertFalse(fetch.matches('AI', 'RAILWAY'))
+
+    @patch('fetch.read_feed')
+    def test_google_publisher_and_disabled_excerpt(self, mocked):
+        xml=b'<rss version="2.0"><channel><title>Test</title><item><title>News</title><link>https://news.google.com/item</link><description>Other headlines AI NVIDIA</description><source url="https://www.reuters.com">Reuters</source></item></channel></rss>'
+        mocked.return_value=(feedparser.parse(xml),'https://news.google.com/rss')
+        items,status=fetch.collect({'id':'gnews-us','url':'https://news.google.com/rss','topics':['us'],'excerpt':False},datetime.now(timezone.utc),{'keywords':{'ai':['AI','NVIDIA']}})
+        self.assertTrue(status['ok'])
+        self.assertEqual(items[0]['excerpt'],'')
+        self.assertEqual(items[0]['topics'],['us'])
+        self.assertEqual(items[0]['publisher'],'Reuters')
+        self.assertEqual(items[0]['publisher_domain'],'www.reuters.com')
+        self.assertIsNone(items[0]['image'])
+        items,_=fetch.collect({'id':'another-source','url':'https://example.com/rss','topics':['us'],'excerpt':False},datetime.now(timezone.utc),{})
+        self.assertEqual(items[0]['excerpt'],'')
+
     def test_autodiscovery_link_parser(self):
         parser=Discovery()
         parser.feed('<link rel="alternate" type="application/atom+xml" href="/atom.xml"><link rel="stylesheet" href="bad.css">')
@@ -72,7 +94,7 @@ class FeedTests(unittest.TestCase):
         with tempfile.TemporaryDirectory() as directory:
             root=Path(directory)
             (root/'data').mkdir();(root/'config').mkdir()
-            (root/'config/sources.yaml').write_text(yaml.safe_dump({'sources':[{'id':'test','name':'Test','url':'https://example.com/rss','enabled':True},{'id':'disabled','name':'Disabled','url':'https://example.com/off','enabled':False}]}))
+            (root/'config/sources.yaml').write_text(yaml.safe_dump({'sources':[{'id':'test','name':'Test','url':'https://example.com/rss','enabled':True,'topics':['znanost']},{'id':'disabled','name':'Disabled','url':'https://example.com/off','enabled':False}]}))
             (root/'config/topics.yaml').write_text(yaml.safe_dump({'topics':[{'id':'znanost','label':'Science'}]}))
             item={'id':'test-item','url':'https://example.com/a','title':'Survives','source_id':'test','published':datetime.now(timezone.utc).isoformat().replace('+00:00','Z'),'topics':['znanost'],'excerpt':'Test'}
             old={**item,'id':'old','published':(datetime.now(timezone.utc)-timedelta(days=10)).isoformat().replace('+00:00','Z')}
@@ -80,7 +102,11 @@ class FeedTests(unittest.TestCase):
             fetch.save(root/'data/feed.json',{'generated_at':'original','items':[item,old,disabled]})
             with patch('fetch.ROOT',root): fetch.main()
             result=json.loads((root/'data/feed.json').read_text())
-            self.assertEqual(result['items'],[{**item,'image':None}])
+            for key,value in item.items():
+                self.assertEqual(result['items'][0][key],value)
+            self.assertIsNone(result['items'][0]['image'])
+            self.assertEqual(result['items'][0]['image_attempts'],1)
+            self.assertIsNotNone(result['items'][0]['image_tried_at'])
             self.assertFalse(json.loads((root/'data/status.json').read_text())['sources'][0]['ok'])
             with patch('fetch.ROOT',root): fetch.main()
             # Migration attempts OG once, including when the result is null.
@@ -88,6 +114,73 @@ class FeedTests(unittest.TestCase):
 
 
 class ImageTests(unittest.TestCase):
+    def test_thumbnail_size_and_url_detection(self):
+        for url in ('https://example.com/tmb/a.jpg','https://example.com/thumbnail/a.jpg','https://example.com/a-t.jpg','https://example.com/a-150x150.jpg','https://example.com/a-300x200.webp'):
+            self.assertTrue(feedlib.is_thumbnail(url),url)
+        self.assertFalse(feedlib.is_thumbnail('https://example.com/a-1200x800.jpg'))
+        self.assertTrue(feedlib.feed_thumbnail({'media_content':[{'url':'/image.jpg','width':'399'}]},'https://example.com/image.jpg','https://example.com/'))
+        self.assertFalse(feedlib.feed_thumbnail({'media_thumbnail':[{'url':'/image.jpg','width':'400'}]},'https://example.com/image.jpg','https://example.com/'))
+
+    @patch('fetch.og_image')
+    def test_thumbnail_upgrade_and_failure_fallback(self, og):
+        now=datetime.now(timezone.utc)
+        item={'source_id':'test','url':'https://example.com/story','image':'https://example.com/tmb/a.jpg','image_is_thumbnail':True}
+        self.assertTrue(fetch.image_due(item,now))
+        og.return_value=None
+        fetch.enrich_image(item,now.isoformat())
+        self.assertEqual(item['image'],'https://example.com/tmb/a.jpg')
+        self.assertTrue(item['image_is_thumbnail'])
+        self.assertFalse(fetch.image_due(item,now))
+        self.assertTrue(fetch.image_due(item,now+timedelta(hours=24)))
+        og.return_value='https://example.com/large.jpg'
+        fetch.enrich_image(item,(now+timedelta(hours=24)).isoformat())
+        self.assertEqual(item['image'],'https://example.com/large.jpg')
+        self.assertFalse(item['image_is_thumbnail'])
+        self.assertFalse(fetch.image_due(item,now+timedelta(days=3)))
+
+    @patch('fetch.og_image',side_effect=httpx.TimeoutException('timeout'))
+    def test_thumbnail_survives_og_timeout(self, og):
+        item={'url':'https://example.com/story','image':'https://example.com/tmb/a.jpg','image_is_thumbnail':True}
+        fetch.enrich_image(item,datetime.now(timezone.utc).isoformat())
+        self.assertEqual(item['image'],'https://example.com/tmb/a.jpg')
+        self.assertEqual(item['image_attempts'],1)
+
+    def test_content_encoded_first_safe_non_tiny_image(self):
+        xml=b'<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Images</title><item><title>Article</title><link>https://example.com/article</link><content:encoded><![CDATA[<img src="/tracking.png" width="1" height="1"><img src="javascript:alert(1)"><img src="/small.jpg" height="99px"><img src="/hero.jpg" width="100" height="200"><img src="/later.jpg">]]></content:encoded></item></channel></rss>'
+        entry=feedparser.parse(xml).entries[0]
+        self.assertEqual(feed_image(entry,'https://example.com/article'),'https://example.com/hero.jpg')
+        entry['media_thumbnail']=[{'url':'/rss.jpg'}]
+        self.assertEqual(feed_image(entry,'https://example.com/article'),'https://example.com/rss.jpg')
+        self.assertEqual(feed_image({'content':[{'value':'<img src="/unknown-size.jpg">'}]},'https://example.com/article'),'https://example.com/unknown-size.jpg')
+
+    def test_one_retry_after_24_hours_and_no_google_requests(self):
+        now=datetime.now(timezone.utc)
+        item={'source_id':'test','image':None}
+        self.assertTrue(fetch.image_due(item,now))
+        item.update(image_attempts=1,image_tried_at=(now-timedelta(hours=23,minutes=59)).isoformat())
+        self.assertFalse(fetch.image_due(item,now))
+        item['image_tried_at']=(now-timedelta(hours=24)).isoformat()
+        self.assertTrue(fetch.image_due(item,now))
+        item['image_attempts']=2
+        self.assertFalse(fetch.image_due(item,now+timedelta(days=3)))
+        self.assertFalse(fetch.image_due({'source_id':'gnews-us','image':None},now))
+        self.assertFalse(fetch.image_due({'source_id':'test','image':'https://example.com/img'},now))
+
+    @patch('feedlib.public_url')
+    def test_larger_og_head_and_browser_agent(self, public):
+        head=b'<head>'+b' '*150000+b'<meta property="og:image" content="/large-head.jpg"></head>'
+        client=httpx.Client(transport=httpx.MockTransport(lambda r:httpx.Response(200,headers={'content-type':'text/html'},content=head)))
+        with patch('feedlib.httpx.Client',return_value=client) as factory:
+            self.assertEqual(og_image('https://example.com/'),'https://example.com/large-head.jpg')
+            self.assertIn('Mozilla/5.0',factory.call_args.kwargs['headers']['User-Agent'])
+
+    @patch('feedlib.public_url')
+    def test_og_stops_at_512_kib(self, public):
+        head=b'<head>'+b' '*524288+b'<meta property="og:image" content="/too-late.jpg"></head>'
+        client=httpx.Client(transport=httpx.MockTransport(lambda r:httpx.Response(200,headers={'content-type':'text/html'},content=head)))
+        with patch('feedlib.httpx.Client',return_value=client):
+            self.assertIsNone(og_image('https://example.com/'))
+
     def test_real_rss_media_fields(self):
         xml=b'<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>Images</title><item><title>Article</title><link>https://example.com/article</link><media:content url="https://cdn.example/hero.jpg" type="image/jpeg"/><media:thumbnail url="https://cdn.example/thumb.jpg"/><enclosure url="https://cdn.example/enclosure.jpg" type="image/jpeg" length="1200"/></item></channel></rss>'
         entry=feedparser.parse(xml).entries[0]
