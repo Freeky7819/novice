@@ -2,7 +2,7 @@
 
 Osebni RSS/Atom feed za znanost, fiziko, vesolje, energijo, AI, strojno opremo in novice iz ZDA. Način **Uradno** prikazuje izvirne naslove in izvlečke virov. F2 doda slovenska načina **Povzeto** in **Po domače**, ko sta povzetka na voljo. Pod 600 px je glava visoka 64 px, uvod pa se skrči na vrstico z datumom in stanjem zajema.
 
-Vanilla HTML/CSS/JS, brez frameworka, npm odvisnosti ali build koraka. Python zajema RSS/Atom ter po potrebi samo HTML glavo novega članka za sliko. Ne izlušči celotnih člankov. Brez lastnega strežnika, baze ali prijave. Ključ ponudnika AI je potreben samo za nove povzetke, nikoli v brskalniku.
+Vanilla HTML/CSS/JS, brez frameworka, npm odvisnosti ali build koraka. Python zajema RSS/Atom in slike. Lokalna storitev pripravi oba AI povzetka šele ob kliku ter poskusi prebrati javno dostopno besedilo izbranega članka. Gostovanje te storitve za telefon sledi pozneje. Ključ ponudnika AI je potreben samo za nove povzetke, nikoli v brskalniku.
 
 ## Vklop GitHub Pages
 
@@ -18,16 +18,15 @@ Na iPhonu odpri objavljeno stran v **Safariju → Deli → Dodaj na domači zasl
 
 ## Lokalni zagon
 
-Potrebuješ Python 3.12:
+Potrebuješ Python 3.12. V PowerShellu:
 
-```sh
-python -m pip install -r requirements.txt
-python fetch.py
-python summarize.py
-python -m http.server 8765
+```powershell
+python -m venv .venv
+.\.venv\Scripts\python.exe -m pip install -r requirements.txt
+.\.venv\Scripts\python.exe start_local.py
 ```
 
-Odpri `http://localhost:8765/`. Če želiš samo pogledati priložene podatke, zadostuje zadnji ukaz. Spletno aplikacijo lahko gostiš v korenu ali pod `/novice/`, saj so vse poti relativne.
+Ključ vneseš skrito ob zagonu; Enter brez ključa omogoči branje že shranjenih povzetkov. Odpri **http://127.0.0.1:8765/** in pusti terminal odprt. Novi povzetki se pripravijo samo ob kliku; oba načina se shranita. Navaden statični strežnik novih povzetkov ne izvaja. Navodila za ponudnika, omejitve in poznejše gostovanje so v [docs/on-demand.md](docs/on-demand.md).
 
 ## Viri in teme
 
@@ -51,7 +50,7 @@ Sličice prepoznamo po širini media:thumbnail/content pod 400 px ali vzorcih UR
 
 Slike ostanejo na izvirnih strežnikih in se ne kopirajo v repo. Brskalnik uporabi `loading="lazy"`, `referrerpolicy="no-referrer"`, razmerje 16 : 9 in `object-fit: cover`. Brez slike ali ob napaki nalaganja je kartica kompaktna: vir, čas, naslov in oznake, brez velikega placeholderja ali izvlečka v načinu Uradno. Izbrani AI povzetek se prikaže tudi na taki kartici.
 
-`config/style.md` vodi slog »Po domače«. V nastavitvah izberi privzeti način, na kartici pa ga lahko spremeniš samo za ta članek. Če povzetka ni, ostane aktivno Uradno. Podrobnosti F2, vklop, menjava ponudnika in ocena stroška so v [docs/f2.md](docs/f2.md).
+`config/style.md` vodi slog »Po domače«. V nastavitvah izberi privzeti način, na kartici pa ga lahko spremeniš samo za ta članek. Če povzetka ni, ga klik pripravi in pokaže stanje čakanja ali jasno napako. Podrobnosti lokalnega zagona in menjave ponudnika so v [docs/on-demand.md](docs/on-demand.md). Na GitHub Pages novi klici do vzpostavitve gostovanega API še niso omogočeni.
 
 Rezultati začetnega preverjanja osmih virov so v [docs/feeds.md](docs/feeds.md). Discoverjev izhodiščni `/rss` je vračal HTTP 403; popravljen je na preverjen `/rss/all`. Zajem ob napaki poskusi RSS autodiscovery na domači strani vira. Če vir tudi tam ne deluje, zabeleži napako in nadaljuje.
 
@@ -63,7 +62,7 @@ Rezultati začetnega preverjanja osmih virov so v [docs/feeds.md](docs/feeds.md)
 
 Vse besedilo v brskalniku se vstavi prek `textContent`, brez `innerHTML`. Povezave dopuščajo samo HTTP(S) in odpirajo izvirnik z `noopener noreferrer`. HTML iz izvlečkov se odstrani, dolžina je omejena na 400 znakov. Omrežni prenosi so časovno in velikostno omejeni, preverijo javne naslove in preusmeritve.
 
-Repozitorij in Pages sta predvidena kot javna. Ne shranjuj zasebnih URL-jev, gesel ali drugih skrivnosti v konfiguracijo. F2 kliče AI izključno v ločenem koraku summarize.py; ključ je prek env na voljo samo temu koraku. Privzeto uporablja Anthropic Haiku 5.5, podpira pa tudi OpenAI. Issue-flow, gruče, oznake novega obiska in F5/F6 še niso implementirani.
+Repozitorij in Pages sta predvidena kot javna. Ne shranjuj zasebnih URL-jev, gesel ali drugih skrivnosti v konfiguracijo. AI se kliče samo v lokalni storitvi ob kliku; ključ ostane v okolju strežniškega procesa. RSS workflow nima AI ključev in ne ustvarja novih povzetkov. Privzeto uporablja Anthropic Haiku 5.5, podpira pa tudi OpenAI. Issue-flow, gruče, oznake novega obiska in F5/F6 še niso implementirani.
 
 ## Preverjanje
 

@@ -169,15 +169,23 @@ class SummaryTests(unittest.TestCase):
             self.assertEqual(json.loads(payload),data)
             self.assertNotIn('fake-key',json.dumps(body))
 
-    def test_secret_env_is_only_on_summary_workflow_step(self):
+    def test_refresh_workflow_has_no_provider_secrets_and_disables_batch_ai(self):
         path=Path(__file__).resolve().parents[1]/'.github/workflows/fetch.yml'
         workflow=yaml.safe_load(path.read_text(encoding='utf-8'))
         steps=workflow['jobs']['fetch']['steps']
         keyed=[s for s in steps if any('API_KEY' in k for k in s.get('env',{}))]
-        self.assertEqual(len(keyed),1)
-        self.assertEqual(keyed[0]['run'],'python summarize.py')
+        self.assertEqual(keyed,[])
+        summary=next(s for s in steps if s.get('run')=='python summarize.py')
+        self.assertEqual(summary['env']['AI_MAX_PER_RUN'],'0')
         self.assertNotIn('env',workflow)
         for job in workflow['jobs'].values(): self.assertNotIn('env',job)
+
+    def test_on_demand_mode_never_generates_background_summaries(self):
+        path=self.root/'config/ai.yaml'
+        config=yaml.safe_load(path.read_text());config['mode']='on_demand'
+        path.write_text(yaml.safe_dump(config))
+        self.run_fake()
+        self.assertEqual(self.calls,[])
 
 
 if __name__=='__main__':
