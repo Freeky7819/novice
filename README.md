@@ -2,7 +2,7 @@
 
 Osebni RSS/Atom feed za znanost, fiziko, vesolje, energijo, AI, strojno opremo in novice iz ZDA. Način **Uradno** prikazuje izvirne naslove in izvlečke virov. F2 doda slovenska načina **Povzeto** in **Po domače**, ko sta povzetka na voljo. Pod 600 px je glava visoka 64 px, uvod pa se skrči na vrstico z datumom in stanjem zajema.
 
-Vanilla HTML/CSS/JS, brez frameworka, npm odvisnosti ali build koraka. Python zajema RSS/Atom in slike. Lokalna storitev pripravi oba AI povzetka šele ob kliku ter poskusi prebrati javno dostopno besedilo izbranega članka. Gostovanje te storitve za telefon sledi pozneje. Ključ ponudnika AI je potreben samo za nove povzetke, nikoli v brskalniku.
+Frontend je vanilla HTML/CSS/JS, brez frameworka ali build koraka. Python zajema RSS/Atom in slike. Lokalna storitev pripravi oba AI povzetka šele ob kliku ter poskusi prebrati javno dostopno besedilo izbranega članka. Za telefon je v mapi `worker/` pripravljena Cloudflare storitev; nastavitev računa, tri skrivnosti in vsaka objava zahtevajo Damjanov ročni korak oziroma potrditev. Navodila so v [docs/telefon.md](docs/telefon.md). Ključ ponudnika AI je potreben samo za nove povzetke, nikoli v brskalniku.
 
 ## Vklop GitHub Pages
 
@@ -12,7 +12,7 @@ Vanilla HTML/CSS/JS, brez frameworka, npm odvisnosti ali build koraka. Python za
 4. Po uspešnem zagonu odpri **https://freeky7819.github.io/novice/**. Workflow vrne tudi povezavo v okolju `github-pages`.
 5. **Actions → Osveži novice → Run workflow** ročno preveri zajem. Nato urnik `*/30 * * * *` sam zajema vire približno vsakih 30 minut. GitHub lahko zagon zamakne; pri neaktivnih javnih repozitorijih lahko urnik po 60 dneh izključi.
 
-Oba workflowa za objavo si delita concurrency skupino `pages`, zato se objave ne izvajajo sočasno. Objava uporablja priložena workflowa `pages.yml` in `fetch.yml`. Samo prenese statične datoteke na Pages; ničesar ne prevaja ali gradi. `data/config.json` je javni izvoz nastavitev, da brskalnik ne potrebuje YAML knjižnice.
+Vsi trije workflowi za objavo (`pages.yml`, `fetch.yml`, `shrani-povzetek.yml`) uporabljajo skupino `pages` in `queue: max`, zato se objave vrstijo. Samo prenese statične datoteke na Pages; ničesar ne prevaja ali gradi. `data/config.json` je javni izvoz nastavitev, da brskalnik ne potrebuje YAML knjižnice.
 
 Na iPhonu odpri objavljeno stran v **Safariju → Deli → Dodaj na domači zaslon**. Manifest ima relativni `scope` in `start_url`, PNG ikoni ter minimalen service worker. Namestitev na dejanskem iPhonu še ni preizkušena. Shranjevanje feeda za uporabo brez povezave ostaja za F4.
 
@@ -50,7 +50,7 @@ Sličice prepoznamo po širini media:thumbnail/content pod 400 px ali vzorcih UR
 
 Slike ostanejo na izvirnih strežnikih in se ne kopirajo v repo. Brskalnik uporabi `loading="lazy"`, `referrerpolicy="no-referrer"`, razmerje 16 : 9 in `object-fit: cover`. Brez slike ali ob napaki nalaganja je kartica kompaktna: vir, čas, naslov in oznake, brez velikega placeholderja ali izvlečka v načinu Uradno. Izbrani AI povzetek se prikaže tudi na taki kartici.
 
-`config/style.md` vodi slog »Po domače«. V nastavitvah izberi privzeti način, na kartici pa ga lahko spremeniš samo za ta članek. Če povzetka ni, ga klik pripravi in pokaže stanje čakanja ali jasno napako. Podrobnosti lokalnega zagona in menjave ponudnika so v [docs/on-demand.md](docs/on-demand.md). Na GitHub Pages novi klici do vzpostavitve gostovanega API še niso omogočeni.
+`config/style.md` vodi slog »Po domače«. V nastavitvah izberi privzeti način, na kartici pa ga lahko spremeniš samo za ta članek. Če povzetka ni, ga klik pripravi in pokaže stanje čakanja ali jasno napako. Podrobnosti lokalnega zagona in menjave ponudnika so v [docs/on-demand.md](docs/on-demand.md). Za telefon nastavi Worker URL in osebno kodo po [docs/telefon.md](docs/telefon.md).
 
 Rezultati začetnega preverjanja osmih virov so v [docs/feeds.md](docs/feeds.md). Discoverjev izhodiščni `/rss` je vračal HTTP 403; popravljen je na preverjen `/rss/all`. Zajem ob napaki poskusi RSS autodiscovery na domači strani vira. Če vir tudi tam ne deluje, zabeleži napako in nadaljuje.
 
@@ -62,7 +62,7 @@ Rezultati začetnega preverjanja osmih virov so v [docs/feeds.md](docs/feeds.md)
 
 Vse besedilo v brskalniku se vstavi prek `textContent`, brez `innerHTML`. Povezave dopuščajo samo HTTP(S) in odpirajo izvirnik z `noopener noreferrer`. HTML iz izvlečkov se odstrani, dolžina je omejena na 400 znakov. Omrežni prenosi so časovno in velikostno omejeni, preverijo javne naslove in preusmeritve.
 
-Repozitorij in Pages sta predvidena kot javna. Ne shranjuj zasebnih URL-jev, gesel ali drugih skrivnosti v konfiguracijo. AI se kliče samo v lokalni storitvi ob kliku; ključ ostane v okolju strežniškega procesa. RSS workflow nima AI ključev in ne ustvarja novih povzetkov. Privzeto uporablja Anthropic Haiku 5.5, podpira pa tudi OpenAI. Issue-flow, gruče, oznake novega obiska in F5/F6 še niso implementirani.
+Repozitorij in Pages sta predvidena kot javna. Ne shranjuj zasebnih URL-jev, gesel ali drugih skrivnosti v konfiguracijo. AI se kliče samo ob kliku: lokalno v Python storitvi ali na telefonu prek Workerja. Ključ ostane v okolju procesa oziroma Cloudflare secretu. RSS workflow nima AI ključev in ne ustvarja novih povzetkov. Worker uporablja Anthropic Haiku iz konfiguracije; lokalna storitev podpira tudi OpenAI. Issue-flow, gruče, oznake novega obiska in F5/F6 še niso implementirani.
 
 ## Preverjanje
 

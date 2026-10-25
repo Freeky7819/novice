@@ -1,0 +1,16 @@
+name = "novice-povzetki"
+main = "index.js"
+compatibility_date = "2026-10-25"
+workers_dev = true
+preview_urls = false
+
+[vars]
+AI_MAX_PER_DAY = "50"
+
+[[kv_namespaces]]
+binding = "SUMMARIES"
+# Replace with the id printed by: npx wrangler kv namespace create SUMMARIES
+id = "REPLACE_WITH_KV_NAMESPACE_ID"
+
+[observability]
+enabled = false
