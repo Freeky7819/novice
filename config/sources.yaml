@@ -39,3 +39,8 @@ sources:
     url: https://news.google.com/rss/headlines/section/topic/NATION?hl=en-US&gl=US&ceid=US:en
     topics: [us]
     enabled: true
+  - id: quanta-math
+    name: Quanta Magazine · Matematika
+    url: https://www.quantamagazine.org/mathematics/feed/
+    topics: [matematika]
+    enabled: true

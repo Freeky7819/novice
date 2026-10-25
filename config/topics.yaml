@@ -1,5 +1,6 @@
 topics:
   - {id: znanost, label: Znanost}
+  - {id: matematika, label: Matematika}
   - {id: fizika, label: Fizika}
   - {id: vesolje, label: Vesolje}
   - {id: energija, label: Energija}
