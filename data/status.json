@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-25T02:29:49Z",
+  "checked_at": "2026-10-25T06:29:15Z",
   "sources": [
     {
       "id": "nature",
@@ -59,9 +59,9 @@
   "ai": {
     "provider": "anthropic",
     "model": "claude-haiku-5-5",
-    "enabled": true,
-    "attempted": 30,
-    "accepted": 30,
+    "enabled": false,
+    "attempted": 0,
+    "accepted": 0,
     "attempted_today": 30
   }
 }
