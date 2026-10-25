@@ -39,6 +39,8 @@ Ta PR pripravi lokalno storitev; **ne objavi strežniške funkcije**. GitHub Pag
 
 Strošek nastane samo pri novem zahtevanem povzetku, oba načina sta vključena v isti klic. Izračun je `novi članki × (vhodni tokeni × vhodna cena + izhodni tokeni × izhodna cena) / 1.000.000`. Polno besedilo porabi več vhodnih tokenov kot prejšnji naslov/izvleček; strošek je odvisen od tega, koliko člankov dejansko odpreš. Limit števila klicev ni denarna kapica.
 
+Po [ceniku Anthropic](https://platform.claude.com/docs/en/about-claude/pricing), preverjenem 25. 10. 2026, Haiku 5.5 za kratke prompte stane 0,10 USD/milijon vhodnih in 0,50 USD/milijon izhodnih tokenov. Pri predpostavljenih 6.000 vhodnih in 600 izhodnih tokenih je to približno **0,0009 USD na nov članek**: 20 kliknjenih novih člankov približno 0,018 USD/dan, 50 približno 0,045 USD/dan, 200 približno 0,18 USD/dan. Trenutnih 351 hranjenih člankov / 7 dni pomeni grobo 50 člankov/dan, vendar se po novem obračunajo samo zahtevani, še neshranjeni povzetki. To ni izmerjena poraba ali zagotovljena zgornja meja; dolžina, tokenizacija in cene se lahko spremenijo, davki niso vključeni.
+
 ## Preverjanje
 
 55 Python testov in 4 frontend testi uporabljajo lažne ponudnike, lažen prenos člankov in lokalni HTTP strežnik, brez plačljivih klicev. Pokriti so izbira samo zahtevanega članka, oba rezultata, predpomnilnik po ponovnem zagonu, sočasni kliki in limiti, izpadi, robots, zasebne preusmeritve, nezaupanja vredni izhodi ter prikaz med čakanjem in po ponovnem nalaganju.
