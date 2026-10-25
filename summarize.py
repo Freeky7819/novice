@@ -133,7 +133,7 @@ def run(root=ROOT, provider_fn=None, now=None, environ=None):
     key = env.get(KEYS[provider], '')
     cache_path = root / 'data/summaries.json'
     cache = read_cache(cache_path)
-    budget = per_run if key or provider_fn else 0
+    budget = per_run if (key or provider_fn) and config.get('mode') != 'on_demand' else 0
     feed = load(root / 'data/feed.json', {'items': []})
     style = (root / 'config/style.md').read_text(encoding='utf-8')[:12000]
     system = instructions(style, allowed)

@@ -21,15 +21,10 @@ jobs:
           cache: pip
       - run: pip install -r requirements.txt
       - run: python fetch.py
-      - name: AI povzetki (brez ključa ostane Uradno)
+      - name: Poveži shranjene povzetke (brez AI klicev)
         continue-on-error: true
         env:
-          AI_PROVIDER: ${{ vars.AI_PROVIDER }}
-          AI_MODEL: ${{ vars.AI_MODEL }}
-          AI_MAX_PER_RUN: ${{ vars.AI_MAX_PER_RUN }}
-          AI_MAX_PER_DAY: ${{ vars.AI_MAX_PER_DAY }}
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          AI_MAX_PER_RUN: '0'
         run: python summarize.py
       - uses: actions/upload-artifact@v4
         with:
