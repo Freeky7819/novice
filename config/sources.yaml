@@ -1,0 +1,41 @@
+sources:
+  - id: nature
+    name: Nature
+    url: https://www.nature.com/nature.rss
+    topics: [znanost, fizika]
+    enabled: true
+  - id: sciam
+    name: Scientific American
+    url: https://www.scientificamerican.com/platform/syndication/rss/
+    topics: [znanost]
+    enabled: true
+  - id: physorg
+    name: Phys.org
+    url: https://phys.org/rss-feed/
+    topics: [fizika, vesolje]
+    enabled: true
+  - id: discover
+    name: Discover Magazine
+    url: https://www.discovermagazine.com/rss/all
+    topics: [znanost, vesolje]
+    enabled: true
+  - id: dailygalaxy
+    name: The Daily Galaxy
+    url: https://dailygalaxy.com/feed/
+    topics: [vesolje]
+    enabled: true
+  - id: marktechpost
+    name: MarkTechPost
+    url: https://www.marktechpost.com/feed/
+    topics: [ai]
+    enabled: true
+  - id: wccftech
+    name: Wccftech
+    url: https://wccftech.com/feed/
+    topics: [strojna-oprema, ai]
+    enabled: true
+  - id: gnews-us
+    name: Google News · U.S.
+    url: https://news.google.com/rss/headlines/section/topic/NATION?hl=en-US&gl=US&ceid=US:en
+    topics: [us]
+    enabled: true

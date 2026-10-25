@@ -1,0 +1,12 @@
+topics:
+  - {id: znanost, label: Znanost}
+  - {id: fizika, label: Fizika}
+  - {id: vesolje, label: Vesolje}
+  - {id: energija, label: Energija}
+  - {id: ai, label: AI}
+  - {id: strojna-oprema, label: 'GPU & strojna oprema'}
+  - {id: us, label: 'U.S.'}
+keywords:
+  energija: [energy, fusion, battery, solar, grid, nuclear]
+  ai: [AI, LLM, agent, model, neural, NVIDIA]
+exclude_keywords: []
