@@ -541,6 +541,30 @@ html[data-theme=light] .article:first-child {
 .compact .excerpt,.compact .original { display:none; }
 .compact h3 { margin:12px 0; }
 .via { font-size:10px; }
+.summary-toggle {
+  display:flex;
+  width:fit-content;
+  max-width:100%;
+  gap:2px;
+  padding:3px;
+  border:1px solid var(--border);
+  border-radius:7px;
+  margin-top:16px;
+}
+.summary-toggle button {
+  border:0;
+  background:transparent;
+  color:var(--muted);
+  font-size:11px;
+  padding:5px 10px;
+  border-radius:4px;
+}
+.summary-toggle button[aria-pressed=true] {
+  background:var(--accent-bg);
+  color:var(--accent);
+}
+.compact.has-ai-summary .excerpt { display:block; }
+.compact.has-ai-summary .original { display:inline; }
 @media(max-width:500px) {
   .mode-label {
     font-size:9px

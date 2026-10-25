@@ -1,6 +1,23 @@
 {
-  "generated_at": "2026-10-25T01:42:38Z",
+  "generated_at": "2026-10-25T02:07:21Z",
   "items": [
+    {
+      "id": "565e9888e873dc043e7acee516281c8aa0bdbe5f",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQ00wenlReXBCS29LaEZjOG9ibkJPOTlfRVlidFZGMTkwNzNIUDg3dXN1aUYtNk5QX0VLSUFpaXMyWmJ4TDR3T25FWlVodUdlMjlsZF9zcDVtMDFwYkE3QlJQRmRVMjlaM2FaWU5oaGJUX0gtWmZtRjJmQWpSc0FKTFJaU0h0ZnpvcWpXS1BLS1pZblZRNEd6OUFqaw?oc=5",
+      "title": "Trump in Georgia, Michigan this weekend ahead of 2026 midterm elections - Fox News",
+      "source_id": "gnews-us",
+      "published": "2026-10-25T01:27:35Z",
+      "topics": [
+        "us"
+      ],
+      "excerpt": "",
+      "image": null,
+      "image_is_thumbnail": false,
+      "publisher": "Fox News",
+      "publisher_domain": "www.foxnews.com",
+      "summary_neutral": null,
+      "summary_mine": null
+    },
     {
       "id": "ee4e256deb6a79b94faf5e71a43b2dcaf912c390",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMTV4UWVSTlZYSFJCUWhTOVU4MUxteVB5OGJFYm1fLUxjdkN3MlppUGpvMWx5NUxONzYycWNacm1LT2lWYlRRZkkyaXQxUVpTS1pFY04tZVlCb0lpNUJmQmRPVHZhTnlUVHVnOS1JcjVWNG5saGZvU0JNYmVROVBmZko3U0RMMFEzTko1S3cxak1UUHE1OXhzWkVVUEhobF82UlJDb1VsV1QtdDFRSWc?oc=5",
@@ -14,7 +31,9 @@
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "KGAN",
-      "publisher_domain": "cbs2iowa.com"
+      "publisher_domain": "cbs2iowa.com",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "d4bb1fa09bcef2bd956009dbafb52a87e4945c96",
@@ -29,7 +48,9 @@
       "image": null,
       "publisher": "The New York Times",
       "publisher_domain": "www.nytimes.com",
-      "image_is_thumbnail": false
+      "image_is_thumbnail": false,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "f2f198d9c28c46b3dd649f001a82f9d38e49ee2a",
@@ -44,7 +65,9 @@
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "CBS News",
-      "publisher_domain": "www.cbsnews.com"
+      "publisher_domain": "www.cbsnews.com",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "33815c89d18eb8a07c0519e90b12ebfbdd182232",
@@ -59,7 +82,26 @@
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "AP News",
-      "publisher_domain": "apnews.com"
+      "publisher_domain": "apnews.com",
+      "summary_neutral": null,
+      "summary_mine": null
+    },
+    {
+      "id": "0a9a37cefbd46dc8c653e5060e9bb52b65850b46",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSDVYTzZTdEFTcUxhY0thYmxKcUIxUW9KekZaMEU0YnNPSHZkN01vMjlGazVfZXVKYUlOSXV2bWVPTjdDMEZmTVhyZGtYN1BvQ0kwVzhlaVdJZEhyNG85a01lQWtIT1lzLS1uaDFhVVY2MThfdlo5d1B6U3hwVlJVVXA5VGhQS1FJNlR4X19KaU1EWmUtbEJxcW13MmRoZw?oc=5",
+      "title": "California leaders rebuke Trump administration’s push over alleged noncitizen voting - The Guardian",
+      "source_id": "gnews-us",
+      "published": "2026-10-25T01:05:00Z",
+      "topics": [
+        "us"
+      ],
+      "excerpt": "",
+      "image": null,
+      "image_is_thumbnail": false,
+      "publisher": "The Guardian",
+      "publisher_domain": "www.theguardian.com",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "95da8a17f7210491c0bf92ad8a41b6c07155a556",
@@ -74,7 +116,9 @@
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "AP News",
-      "publisher_domain": "apnews.com"
+      "publisher_domain": "apnews.com",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "2aa907dfed78a12b39f3cf0aae8d92e51d00dc91",
@@ -92,7 +136,9 @@
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:42:38Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "cc44011f080ef469dfd399d9e4a63a554cba2fe3",
@@ -107,7 +153,9 @@
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "The Guardian",
-      "publisher_domain": "www.theguardian.com"
+      "publisher_domain": "www.theguardian.com",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "08e405ddd9d7d5291bf0c424be3c23af44d00ae1",
@@ -122,7 +170,9 @@
       "image": null,
       "publisher": null,
       "publisher_domain": null,
-      "image_is_thumbnail": false
+      "image_is_thumbnail": false,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "3a05f4249a23be52b14d7104ffb4b9e9638524bb",
@@ -135,9 +185,11 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "The New York Times",
       "publisher_domain": "www.nytimes.com",
-      "image_is_thumbnail": false
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "96fb79d52910a2e51807a115cb199d8f7dd49def",
@@ -152,7 +204,9 @@
       "image": null,
       "publisher": null,
       "publisher_domain": null,
-      "image_is_thumbnail": false
+      "image_is_thumbnail": false,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "8ec5e9b7ba4d4bd986a4a086e0513cf0dc4ccf15",
@@ -167,22 +221,9 @@
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "The Guardian",
-      "publisher_domain": "www.theguardian.com"
-    },
-    {
-      "id": "565e9888e873dc043e7acee516281c8aa0bdbe5f",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQ00wenlReXBCS29LaEZjOG9ibkJPOTlfRVlidFZGMTkwNzNIUDg3dXN1aUYtNk5QX0VLSUFpaXMyWmJ4TDR3T25FWlVodUdlMjlsZF9zcDVtMDFwYkE3QlJQRmRVMjlaM2FaWU5oaGJUX0gtWmZtRjJmQWpSc0FKTFJaU0h0ZnpvcWpXS1BLS1pZblZRNEd6OUFqaw?oc=5",
-      "title": "Trump in Georgia, Michigan this weekend ahead of 2026 midterm elections - Fox News",
-      "source_id": "gnews-us",
-      "published": "2026-10-24T22:05:59Z",
-      "topics": [
-        "us"
-      ],
-      "excerpt": "",
-      "image": null,
-      "image_is_thumbnail": false,
-      "publisher": "Fox News",
-      "publisher_domain": "www.foxnews.com"
+      "publisher_domain": "www.theguardian.com",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "c3abff41162ff84ba8eeecf8048f6489bfec5198",
@@ -197,7 +238,9 @@
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "Fox Business",
-      "publisher_domain": "www.foxbusiness.com"
+      "publisher_domain": "www.foxbusiness.com",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "edd156558eaebf7e469fd28e698082c21b328f92",
@@ -212,7 +255,9 @@
       "image": null,
       "publisher": "The New York Times",
       "publisher_domain": "www.nytimes.com",
-      "image_is_thumbnail": false
+      "image_is_thumbnail": false,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "a52db57f72754d2522633ae3b1a30a3f7f98d991",
@@ -227,7 +272,9 @@
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "The Guardian",
-      "publisher_domain": "www.theguardian.com"
+      "publisher_domain": "www.theguardian.com",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "b0ac1b2e3570e52920ea123fdb749e2903d63e1b",
@@ -242,7 +289,9 @@
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "Chicago Tribune",
-      "publisher_domain": "www.chicagotribune.com"
+      "publisher_domain": "www.chicagotribune.com",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "224ef783c49abe37599229a35dfb9cbdc1361d50",
@@ -257,7 +306,9 @@
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "AP News",
-      "publisher_domain": "apnews.com"
+      "publisher_domain": "apnews.com",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "f30eac461f446b439be1a02eb6d96461a7945011",
@@ -275,7 +326,9 @@
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:42:38Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "0b73bd1edbd31be85effaeaf91c2efaad861530f",
@@ -293,7 +346,9 @@
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:42:38Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "f377686b97311ab2be50bd6e0a7e321d13e50adb",
@@ -308,7 +363,9 @@
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "Los Angeles Times",
-      "publisher_domain": "www.latimes.com"
+      "publisher_domain": "www.latimes.com",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "508e9ee303aea51ab2406885adaf23019f21491d",
@@ -324,7 +381,9 @@
       "image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/13-inch-and-15-inch-M5-MacBook-Air-1-1456x819.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "4ec8246472cfeaf8b0565b00fcc378697761f243",
@@ -339,7 +398,9 @@
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "The New York Times",
-      "publisher_domain": "www.nytimes.com"
+      "publisher_domain": "www.nytimes.com",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "5d129bf6c31363e43f4a8dae24116f549ce94f38",
@@ -354,7 +415,9 @@
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "Fox News",
-      "publisher_domain": "www.foxnews.com"
+      "publisher_domain": "www.foxnews.com",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "9861e39db9b5a20246d7f06028eb35198f2f825d",
@@ -369,7 +432,9 @@
       "image": null,
       "publisher": "AP News",
       "publisher_domain": "apnews.com",
-      "image_is_thumbnail": false
+      "image_is_thumbnail": false,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "72622a12ab71f51fd6c075779486d504d3721032",
@@ -384,7 +449,9 @@
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "CNBC",
-      "publisher_domain": "www.cnbc.com"
+      "publisher_domain": "www.cnbc.com",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "9c78da4de5f01f5805050fe4d538f3de266a51ae",
@@ -399,7 +466,9 @@
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "Tampa Bay Times",
-      "publisher_domain": "www.tampabay.com"
+      "publisher_domain": "www.tampabay.com",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "642fe509112813faba7f95f7fe31b821e55a391f",
@@ -418,7 +487,9 @@
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:42:38Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "9392e3d1c386e8eb65db1dc301706fbbfa8b76ae",
@@ -433,7 +504,9 @@
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "Daily Kos",
-      "publisher_domain": "www.dailykos.com"
+      "publisher_domain": "www.dailykos.com",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "f3da1e301b5e63f284ada256ed69e0f281ff4b21",
@@ -449,7 +522,9 @@
       "image": "https://cdn.wccftech.com/wp-content/uploads/2023/02/NVIDIA-GeForce-RTX-3090-Ti-RTX-3080-Ti-RTX-3080-RTX-3070-BestBuy-Clearance-Deals-_1.webp",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "89f893af455e2f81ebdb477357342aed1489d859",
@@ -464,7 +539,9 @@
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "The Guardian",
-      "publisher_domain": "www.theguardian.com"
+      "publisher_domain": "www.theguardian.com",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "63233c906d23d0c6c4a58f61eae3363a0da6ad0d",
@@ -480,7 +557,9 @@
       "image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/FI-18-1456x819.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "640efcee44d261b0c15b54d42fad11e0281bf3e8",
@@ -495,7 +574,9 @@
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "The New York Times",
-      "publisher_domain": "www.nytimes.com"
+      "publisher_domain": "www.nytimes.com",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "73d19293af82094c682691ad619184f4c8c5c9e1",
@@ -510,7 +591,9 @@
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "The New York Times",
-      "publisher_domain": "www.nytimes.com"
+      "publisher_domain": "www.nytimes.com",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "cefbb970001b0fcc65f897b304c47d4505dfecd1",
@@ -525,7 +608,9 @@
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "The Hill",
-      "publisher_domain": "thehill.com"
+      "publisher_domain": "thehill.com",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "f031dccd714f0552706ab71d2fb30a82e3225f20",
@@ -544,7 +629,9 @@
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:42:38Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "fae5d71ec01606d87c3c22c87d99e3ee2f95d240",
@@ -559,7 +646,9 @@
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "FOX 8 News",
-      "publisher_domain": "fox8.com"
+      "publisher_domain": "fox8.com",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "0dfaa8726ac6eaa58ac5212ab40ce4d31c7e5197",
@@ -574,7 +663,9 @@
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "NBC News",
-      "publisher_domain": "www.nbcnews.com"
+      "publisher_domain": "www.nbcnews.com",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "50c208f47b2d16789c1ba56fd8d633bf41b1e745",
@@ -589,7 +680,9 @@
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/The-‘Loneliest-Star-Is-Back-in-the-Night-Sky-Heres-How-to-Find-It-scaled.png",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "8e639ef45dcfc5813a51c16118e294e8929fb26a",
@@ -604,7 +697,9 @@
       "image": null,
       "publisher": "CBS News",
       "publisher_domain": "www.cbsnews.com",
-      "image_is_thumbnail": false
+      "image_is_thumbnail": false,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "fe5dda226496d21e7de4bde808f459887a93094d",
@@ -619,7 +714,9 @@
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "CBS News",
-      "publisher_domain": "www.cbsnews.com"
+      "publisher_domain": "www.cbsnews.com",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "84987db3b7820ee4bf9c4589e041d98ec647dbd8",
@@ -637,7 +734,9 @@
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:42:38Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "644a60824c9db677459a681d8fc7d994a1cdfeb7",
@@ -652,7 +751,9 @@
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "WSJ",
-      "publisher_domain": "www.wsj.com"
+      "publisher_domain": "www.wsj.com",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "89677199af56a12e68f224fa9fc83fdc796b0941",
@@ -667,7 +768,9 @@
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "The Independent",
-      "publisher_domain": "www.independent.co.uk"
+      "publisher_domain": "www.independent.co.uk",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "349f2b7f7199c7e0bd38d15e0e5d6f5e3aa7d028",
@@ -682,7 +785,9 @@
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "The New York Times",
-      "publisher_domain": "www.nytimes.com"
+      "publisher_domain": "www.nytimes.com",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "7dd6f546f63e1f03ed04ca57c6b3a8ea82949f0a",
@@ -697,7 +802,9 @@
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "Fox News",
-      "publisher_domain": "www.foxnews.com"
+      "publisher_domain": "www.foxnews.com",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "191203914b03b9be8b2deb520769d8a80e9cef53",
@@ -713,7 +820,9 @@
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "The Washington Post",
-      "publisher_domain": "www.washingtonpost.com"
+      "publisher_domain": "www.washingtonpost.com",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "67ff31b357f5eaf9fdf11aafbebf08fe4d1ee3b2",
@@ -728,7 +837,9 @@
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "WSJ",
-      "publisher_domain": "www.wsj.com"
+      "publisher_domain": "www.wsj.com",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "6ed1e696508ed268f567f0574d52f86f067e0a46",
@@ -743,7 +854,9 @@
       "image": null,
       "publisher": "KOAT",
       "publisher_domain": "www.koat.com",
-      "image_is_thumbnail": false
+      "image_is_thumbnail": false,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "54c8c131fdb0dd65b0d2be711df84d2bfc6ef2aa",
@@ -758,7 +871,9 @@
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "The Daily Beast",
-      "publisher_domain": "www.thedailybeast.com"
+      "publisher_domain": "www.thedailybeast.com",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "480ede6555430ac54c49c30f8f9ccc7274419c3c",
@@ -773,7 +888,9 @@
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "AP News",
-      "publisher_domain": "apnews.com"
+      "publisher_domain": "apnews.com",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "f2302499609ce5d5ac39e1b52f664b2ef29ea480",
@@ -788,7 +905,9 @@
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/NASA-Reveals-New-Plan-for-Artemis-III-Moon-Lander-Test-Flight-scaled.png",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "0ab86ce36d162181adfa35c50f8c7c2c48a491af",
@@ -803,7 +922,9 @@
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "Politico",
-      "publisher_domain": "www.politico.com"
+      "publisher_domain": "www.politico.com",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "f04b4378ab0f1bbb5d390ee8773e432ee71b9656",
@@ -818,7 +939,9 @@
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "The New York Times",
-      "publisher_domain": "www.nytimes.com"
+      "publisher_domain": "www.nytimes.com",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "d29b4443dbd68bf25e49b4c4cbcb78390ef6aff2",
@@ -836,7 +959,9 @@
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:42:38Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "edc6dd1d7537852cbffd1a9879c828f15ec7bd5d",
@@ -852,7 +977,9 @@
       "image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Ryzen-9600X-bundle-deal-featured-1456x819.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "233bff6d317703b1f0c53534c067d73af083ba97",
@@ -868,7 +995,9 @@
       "image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/FI-17-1456x819.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "f15386ac474000872df882ba54b0abd9cb2128cb",
@@ -883,7 +1012,9 @@
       "image": null,
       "publisher": "The New York Times",
       "publisher_domain": "www.nytimes.com",
-      "image_is_thumbnail": false
+      "image_is_thumbnail": false,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "3446e0fa655758572f30a33a159e072fc648e430",
@@ -898,7 +1029,9 @@
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "The Daily Beast",
-      "publisher_domain": "www.thedailybeast.com"
+      "publisher_domain": "www.thedailybeast.com",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "c81574dac51a2a8b89f077ffc09fb0905797f6b6",
@@ -917,7 +1050,9 @@
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:42:38Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "9011a476037f52d7c47670913f51be2894e64f24",
@@ -933,7 +1068,9 @@
       "image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Shigeru-Miyamoto-Nintendo-HD-1456x819.jpeg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "41ffe8bac3ac94fd7b2f30ee2d7cb5e54569b59b",
@@ -949,7 +1086,9 @@
       "image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/rtx-3090-ti-1456x819.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "84ec4b37fe5908d22c71d95e953c92d8b724550e",
@@ -965,7 +1104,9 @@
       "image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/FI-16-1456x819.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "d7cecd84d3d45c56c8fa7c9064923ae682fd0400",
@@ -980,7 +1121,9 @@
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/Tiny-Crystals-Sent-Around-the-Moon-Have-Revealed-Something-Unexpected-About-Space-Radiation-scaled.png",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "029b5ba365e617b7d2590c961677ea6ba6b0b4db",
@@ -995,7 +1138,9 @@
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "Politico",
-      "publisher_domain": "www.politico.com"
+      "publisher_domain": "www.politico.com",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "6c17b2f71a63e89ece290738b2b2f69df9ce255b",
@@ -1010,7 +1155,9 @@
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "Fox News",
-      "publisher_domain": "www.foxnews.com"
+      "publisher_domain": "www.foxnews.com",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "58826caee8ad343ef282e5d171ed126e76d19206",
@@ -1028,7 +1175,9 @@
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:42:38Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "6e81fac95d8bbf145d4408a83e9ac7604dfc4857",
@@ -1046,7 +1195,9 @@
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:42:38Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "df0dcbb833e156925da701bf8efb5f488092e651",
@@ -1061,7 +1212,9 @@
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "NBC News",
-      "publisher_domain": "www.nbcnews.com"
+      "publisher_domain": "www.nbcnews.com",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "9843f62d7ecfb2219607d3b79c7a453cc23fef61",
@@ -1076,7 +1229,9 @@
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/ALMA-Detects-Rare-Dragon-Egg-That-Could-Reveal-the-First-Moments-of-a-Massive-Star-scaled.png",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "535fd17f43aa26c2163568340a81cf587a00d7b7",
@@ -1091,7 +1246,9 @@
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "Al Jazeera",
-      "publisher_domain": "www.aljazeera.com"
+      "publisher_domain": "www.aljazeera.com",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "96d38de2173b15283d3226b9eaa42f0fbbc61a08",
@@ -1106,7 +1263,9 @@
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/A-German-Team-Found-a-Way-to-Turn-Ordinary-Plastic-Into-Trillions-of-Tiny-Diamonds-Using-Lasers-and-Actually-Managed-to-Catch-Them-scaled-1.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "02d647380bb6fb2f033b3c2c9fe882b0fbf5d2d6",
@@ -1124,7 +1283,9 @@
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:42:38Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "56f542a3f067f1b31d19748c6c571a8984b43d0b",
@@ -1139,7 +1300,9 @@
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "The New York Times",
-      "publisher_domain": "www.nytimes.com"
+      "publisher_domain": "www.nytimes.com",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "0b98cad57c3a9f03601d1b655529e8de0766b638",
@@ -1154,7 +1317,9 @@
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/A-German-Team-Found-a-Way-to-Turn-Ordinary-Plastic-Into-Trillions-of-Tiny-Diamonds-Using-Lasers-and-Actually-Managed-to-Catch-Them-1-scaled-1.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "96d081374d4bd720f8717172a4f19f2889c68531",
@@ -1169,7 +1334,9 @@
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/Six-Bone-Fragments-Pulled-from-a-Spanish-Cave-Just-Revealed-a-46000-Year-Old-Neanderthal-No-One-Knew-Was-There-scaled-1.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "62e3949b3b318579055720b1010d823159a1a115",
@@ -1185,7 +1352,9 @@
       "image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/NVIDIA-A100-1456x819.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "22cd3ed0f3e9e8dd9388fc1556f692f20609e25f",
@@ -1203,7 +1372,9 @@
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:42:38Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "0a603154515b8e5c03e8a323f9913d02f378d69a",
@@ -1221,7 +1392,9 @@
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:42:38Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "9e6fc73e46b887cc8c00b6a9b5645ab5e2cff7d8",
@@ -1236,7 +1409,9 @@
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/A-Man-Exploring-the-Countryside-With-His-Metal-Detector-Finds-Over-4-Kg-of-Silver-Coins-Buried-for-More-Than-1000-Years-scaled.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "ef37035dce24e8783177d1502288d6a9aca82776",
@@ -1251,7 +1426,9 @@
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/A-Photographer-Spent-15-Seasons-in-Antarctica-and-Saw-Only-Two-of-These-Creatures-Then-Captured-Something-No-One-Had-Ever-Photographed-scaled.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "13633f3c61272bbb4fd0c26196d6cf61092c74bf",
@@ -1266,7 +1443,9 @@
       "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "39c860d2459619c4928e6caedd6a4c59dc503ae0",
@@ -1281,7 +1460,9 @@
       "image": null,
       "publisher": "Fox News",
       "publisher_domain": "www.foxnews.com",
-      "image_is_thumbnail": false
+      "image_is_thumbnail": false,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "7c6df155aa1f50a7747d88e346c275048b264f6b",
@@ -1296,7 +1477,9 @@
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "The Guardian",
-      "publisher_domain": "www.theguardian.com"
+      "publisher_domain": "www.theguardian.com",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "585c5fdabe121129983cac305a91fc60c28557bd",
@@ -1311,7 +1494,9 @@
       "image": "https://static.scientificamerican.com/dam/asset/095ddc3e-e8fc-47a5-861c-c9502dbf2c8e/ghostly-building.jpg?m=1792778705.043&w=1200",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "87184477e3f9f330043c2649b86f6baced2fc965",
@@ -1326,7 +1511,9 @@
       "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f9e0.png",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "7be379ee48e252b23dd1f7ab44dd017da89c2a4f",
@@ -1344,7 +1531,9 @@
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:42:38Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "94b56a64fe4eb38da769dae0bb7853d9c93cc23a",
@@ -1357,9 +1546,11 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "The Hill",
       "publisher_domain": "thehill.com",
-      "image_is_thumbnail": false
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "3c546733481ed960090342faa0bc866cf09a8ad0",
@@ -1375,7 +1566,9 @@
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "Los Angeles Times",
-      "publisher_domain": "www.latimes.com"
+      "publisher_domain": "www.latimes.com",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "26631a8e54bf4b95b82fe2900815fda22a1d2f58",
@@ -1390,7 +1583,9 @@
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "Fox Business",
-      "publisher_domain": "www.foxbusiness.com"
+      "publisher_domain": "www.foxbusiness.com",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "448a3a4314785aaf368eb1a334466099f7601277",
@@ -1408,7 +1603,9 @@
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:42:38Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "825aa065e2afff79d6e09ee535d4d865d3014c29",
@@ -1426,7 +1623,9 @@
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:42:38Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "8d78858707a27cb916a3d3eac5309cf2abffe07b",
@@ -1441,7 +1640,9 @@
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "The New York Times",
-      "publisher_domain": "www.nytimes.com"
+      "publisher_domain": "www.nytimes.com",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "4a84716ab642cac1a4165e0f1643ffcb6b601192",
@@ -1456,7 +1657,9 @@
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "The New York Times",
-      "publisher_domain": "www.nytimes.com"
+      "publisher_domain": "www.nytimes.com",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "3176f16c14a3cf51405c224f21d3bf636934b63d",
@@ -1471,7 +1674,9 @@
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "The New York Times",
-      "publisher_domain": "www.nytimes.com"
+      "publisher_domain": "www.nytimes.com",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "07f1d2e10b1b6f4099734df68b6ef06acf93dbd3",
@@ -1486,7 +1691,9 @@
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "The New York Times",
-      "publisher_domain": "www.nytimes.com"
+      "publisher_domain": "www.nytimes.com",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "f55edaee1edfb46cfb12763b31a86780f7a16aa8",
@@ -1501,7 +1708,9 @@
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "NBC News",
-      "publisher_domain": "www.nbcnews.com"
+      "publisher_domain": "www.nbcnews.com",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "f418682f34efc9a135420c912dcdcab4caa1fd9a",
@@ -1516,7 +1725,9 @@
       "image": null,
       "publisher": "NBC News",
       "publisher_domain": "www.nbcnews.com",
-      "image_is_thumbnail": false
+      "image_is_thumbnail": false,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "bd87c1fe77bc4724f395c2465d59f30521ba83a9",
@@ -1532,7 +1743,9 @@
       "image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Intel-DC-CPU-1456x1456.webp",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "fa92a45096e76b1351f5a3bf1598e2c5333f2844",
@@ -1547,7 +1760,9 @@
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "WHP Harrisburg",
-      "publisher_domain": "local21news.com"
+      "publisher_domain": "local21news.com",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "d094f2c7f2ca419035068673530fd2b4d0832c85",
@@ -1562,7 +1777,9 @@
       "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "7d38a55218f1757ce713bfb663d1b5e78e9befdb",
@@ -1580,7 +1797,9 @@
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:42:38Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "8cd5159feed616f1bb39ae7f7be534aa44c964de",
@@ -1598,7 +1817,9 @@
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:42:38Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "a3425ecd4fe570293935172cc74fe4cbc3b1f7a7",
@@ -1613,7 +1834,9 @@
       "image": null,
       "publisher": "The New York Times",
       "publisher_domain": "www.nytimes.com",
-      "image_is_thumbnail": false
+      "image_is_thumbnail": false,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "b34a365b3476017da235ad4a46658fb1335242fb",
@@ -1631,7 +1854,9 @@
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:42:38Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "f96cd53c074f99978ae417da4bc62e8c95face77",
@@ -1646,7 +1871,9 @@
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "Yahoo Finance",
-      "publisher_domain": "finance.yahoo.com"
+      "publisher_domain": "finance.yahoo.com",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "63663c9985fa7b54e86a2dacc34b57217d080563",
@@ -1661,7 +1888,9 @@
       "image": null,
       "publisher": null,
       "publisher_domain": null,
-      "image_is_thumbnail": false
+      "image_is_thumbnail": false,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "99bf2d400c702c8a29430ff529e0c6cd34b4979a",
@@ -1676,7 +1905,9 @@
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "CNN",
-      "publisher_domain": "www.cnn.com"
+      "publisher_domain": "www.cnn.com",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "6a5679988cd3a78a792f4d3cac33a61101e4d824",
@@ -1694,7 +1925,9 @@
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:42:38Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "b57b4cadce3f6a334774a1182e4241e7648afdf0",
@@ -1711,7 +1944,9 @@
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:27:52Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "85719ac03d7c223d08397b35b1774c3ec8e426c9",
@@ -1726,7 +1961,9 @@
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "NBC News",
-      "publisher_domain": "www.nbcnews.com"
+      "publisher_domain": "www.nbcnews.com",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "afbe4d91984a8cfbb03372c94aea8ca7a92936da",
@@ -1744,7 +1981,9 @@
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:42:38Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "f391ab36516777c2dae408a2188d98af8aba92a7",
@@ -1759,7 +1998,9 @@
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "The New York Times",
-      "publisher_domain": "www.nytimes.com"
+      "publisher_domain": "www.nytimes.com",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "ac24f1b833a6d73e7723eb04c5b57799c9163f6b",
@@ -1774,7 +2015,9 @@
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "Texas Public Radio | TPR",
-      "publisher_domain": "www.tpr.org"
+      "publisher_domain": "www.tpr.org",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "aebb4e2b7c0a03c416f51617323fbfbd650196d8",
@@ -1789,7 +2032,9 @@
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "ABC11 News",
-      "publisher_domain": "abc11.com"
+      "publisher_domain": "abc11.com",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "984d37708ff3eea544c0e9e8da5bb306e69588ca",
@@ -1806,7 +2051,9 @@
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:27:52Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "f048d65c0e5a038b1c732ccdf3ad19b1c5d6990c",
@@ -1821,7 +2068,9 @@
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "CBS News",
-      "publisher_domain": "www.cbsnews.com"
+      "publisher_domain": "www.cbsnews.com",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "501a10fda7670cfc6549785ee361fb799e14c7fc",
@@ -1836,7 +2085,26 @@
       "image": null,
       "publisher": "AP News",
       "publisher_domain": "apnews.com",
-      "image_is_thumbnail": false
+      "image_is_thumbnail": false,
+      "summary_neutral": null,
+      "summary_mine": null
+    },
+    {
+      "id": "0683da27f8e3ac38462470432043ebdd84f154ff",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUGtuU1dRalhIbVhTYVgzRVEzeEdIWGxydmtkaTNFcVg2UXRUd3ZDSm5Xd2JkTVV5d1lfQlN5MktfOUdoZkJNa2x5T2ZvenJQODRKTWVKWnFMeEw4T3JLbVRVYWZSSEF0ODhISWVHT0t0bXU0Wm4wYzFyYUtOOWU0UTMxdGpQcm0xZThYTG5UMUZNeTVXMERfVHhVSHI5cTU2UWFlYw?oc=5",
+      "title": "Immigrants in ICE custody don’t have right to bond, court rules - The Texas Tribune",
+      "source_id": "gnews-us",
+      "published": "2026-10-23T22:38:05Z",
+      "topics": [
+        "us"
+      ],
+      "excerpt": "",
+      "image": null,
+      "image_is_thumbnail": false,
+      "publisher": "The Texas Tribune",
+      "publisher_domain": "www.texastribune.org",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "a2e7d44f02e696affec9c646baab428abbdbddd1",
@@ -1852,7 +2120,9 @@
       "image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/FI-14-1456x819.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "cf07c980789bdb7193500183bdaa693c0abc89c7",
@@ -1870,7 +2140,9 @@
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:42:38Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "75c0b126475ab982083d788583091007916b039e",
@@ -1889,7 +2161,9 @@
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:42:38Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "fa22d6b281fef9dfa5f48259392767c4046e0f35",
@@ -1907,7 +2181,9 @@
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:42:38Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "4036b91f345012a70d1683dbe110252b33b42cb2",
@@ -1923,7 +2199,9 @@
       "image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/OpenAI-Abliterated-DeepSeek-V4.1-Flash-1017-1-1456x989.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "b8a48162e51a96dffce6bb0ca979765cc36d27fd",
@@ -1941,7 +2219,9 @@
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:42:38Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "a5a949deb9f3bc02eeee3ad1ef39ae7db3c94e7f",
@@ -1959,7 +2239,9 @@
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:42:38Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "b8f1a8fb46dc4c1a3bb96c97a78328071c01f770",
@@ -1974,7 +2256,9 @@
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "TWZ",
-      "publisher_domain": "www.twz.com"
+      "publisher_domain": "www.twz.com",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "1409ac4dc30c97c4769c3a2c730dbe554424ba4d",
@@ -1989,7 +2273,9 @@
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "AP News",
-      "publisher_domain": "apnews.com"
+      "publisher_domain": "apnews.com",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "819c0990015bebb7c30d72ce1f89f0b5228baf48",
@@ -2005,7 +2291,9 @@
       "image": "https://cdn.wccftech.com/wp-content/uploads/2026/07/AMD-Zen-6-1456x796.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "2b1b6c24db3c4f0fb64eaad72bc73b70342b9597",
@@ -2023,7 +2311,9 @@
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:42:38Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "5a9597843f9bb794d7aba0a391b1c80052d0a71c",
@@ -2042,7 +2332,9 @@
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:42:38Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "52e19618b7ea36510bfb55c768c69e975539a3f6",
@@ -2057,7 +2349,9 @@
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "The New York Times",
-      "publisher_domain": "www.nytimes.com"
+      "publisher_domain": "www.nytimes.com",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "b4c44e7040c6196d5749884120ec185d295f8756",
@@ -2075,7 +2369,9 @@
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:42:38Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "a5184cfa33d2e1c13c24827a4caf062e7e3f2620",
@@ -2093,7 +2389,9 @@
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:42:38Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "41819d28875223bc0dd253541af5fd19ad7334ed",
@@ -2111,7 +2409,9 @@
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:42:38Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "c0d2d6549409415db938b13e946a9281f2e49df1",
@@ -2126,7 +2426,9 @@
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "The San Francisco Standard",
-      "publisher_domain": "sfstandard.com"
+      "publisher_domain": "sfstandard.com",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "d4187f4be18846241935b8ee877dcf9c413a0d9c",
@@ -2144,7 +2446,9 @@
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:42:38Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "5a82d11ebd825aa2c61c367949e83a5540f9ffe8",
@@ -2162,7 +2466,9 @@
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:42:38Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "afa288032bdb7ac33c1af1427a0a43cf1d5ef780",
@@ -2177,7 +2483,9 @@
       "image": "https://static.scientificamerican.com/dam/m/3114b95c23267e01/original/orion_transfer.jpg?m=1792789627.921&w=1200",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "d9b9dbc87c79699ba4c306a19e3f703a80d40a41",
@@ -2192,7 +2500,9 @@
       "image": null,
       "publisher": null,
       "publisher_domain": null,
-      "image_is_thumbnail": false
+      "image_is_thumbnail": false,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "dd5cc9bd9cbc3241b3e1021f8af182764c86967d",
@@ -2208,7 +2518,9 @@
       "image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/NVIDIA-Blackwell-Ultra-B300-1456x819.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "feaed883111fd519d12d2900fb0707655a99eec7",
@@ -2226,7 +2538,9 @@
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:42:38Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "b0121fb96403ef39600c9e7cb81e6bccdae3be56",
@@ -2244,7 +2558,9 @@
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:42:38Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "eb46f7a0a48b21e9fd7e91c69a3dfd5eaf2dfaa4",
@@ -2260,7 +2576,9 @@
       "image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Arkane-Lyon-1456x819.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "318dbd12a962155a5469973fba4380a0c4063336",
@@ -2275,7 +2593,9 @@
       "image": null,
       "publisher": null,
       "publisher_domain": null,
-      "image_is_thumbnail": false
+      "image_is_thumbnail": false,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "7995f4098cca2bbe66690fb304b4e9d392362e3e",
@@ -2293,7 +2613,9 @@
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:42:38Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "b86203602e1a0213033e0da8ae6e90988f269940",
@@ -2309,7 +2631,9 @@
       "image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Moonshot-AI-Kimi-K3.1-Pro.jpeg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "e888431a4a72d3ac4692708a69f3aa01690b858c",
@@ -2324,7 +2648,9 @@
       "image": "https://static.scientificamerican.com/dam/asset/418a8a79-9bf9-4317-8974-95b4650cc4d9/warhound.png?m=1792783306.598&w=1200",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "16efedb57d0dd0b01fb99c3b62cac6d9d01f853c",
@@ -2339,7 +2665,9 @@
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/A-Galaxy-2.5-Million-Light-Years-Away-Appears-Above-Australian-Hills-in-a-Stunning-Night-Sky-Image-scaled.png",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "5fdfbbb5533cffcb2a92a900f8c7876035ff87c7",
@@ -2354,7 +2682,9 @@
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "NPR",
-      "publisher_domain": "www.npr.org"
+      "publisher_domain": "www.npr.org",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "54c99e4fe9707105449f31f3281f25b4a44c7d0b",
@@ -2369,7 +2699,9 @@
       "image": "https://static.scientificamerican.com/dam/asset/70786ab8-5522-4ed2-a8c2-2bc9d9e7e511/DOW-UAP-PR46-Unresolved-UAP-Report-INDOPACOM-2024.jpg?m=1792781432.491&w=1200",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "fd733d26071b6f3e951a9a8464820c5cec1d05c7",
@@ -2384,7 +2716,9 @@
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/The-Suns-Mysterious-Spinning-Jets-May-Be-Hiding-Giant-Curtains-of-Plasma-scaled.png",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "cf58ec257ded048553c33e02b240644e0ffe28ec",
@@ -2399,7 +2733,26 @@
       "image": "https://static.scientificamerican.com/dam/asset/6a6b5460-57f8-4f9c-bd63-1d66be144e31/US-Mexico-border.jpg?m=1792779620.968&w=1200",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
+    },
+    {
+      "id": "73b20e8f245e079606ca0857cd1835a4c7bc8d81",
+      "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPbWYzVDJxbjFSVkZmdXJMQ09nME1ZQ20tZnJxZGhwckluZU9Rdjc2NzJWQ2ZVZWx3dDFOd0JVSHpVWmNPcnZHRkxjU0ZVNEsyUV9ESDQ2YW1penBmX0dkd0ppX0lvTU9aZnB0NTdhNzRGNmtnRl90bmE3cmJnamVLb1Z0LWdSdkpvUk9TVjBpTzVZaXdGNTl1Wi1NYjhtUWEtS2luZ2VXN0NlZE1YUWs0ZFBvcTRuSFFtSlBSdW9hTXl0TkEzLWM2aHB0RlI3d0E4cXVseXlJQ1A2RS1oZ0NHX3E5S2FpX0Eyd1Rpa2cwUEpmSE1ZMW5XYVg3RHhmMHZpQ05uZ0xCRkdsMnhJamcyTmU1dWE4YjZrYXlOdnVNbWY1WEFzRHZHUUpfeVNPdEhpenFWYzBGNEttRVNYMU92dHRLRnk2bmotSGpEeTJBWkhlQ1VXY0xjakN2S0l6aWI4YmgzUjVCcHByUG5uWHZ0ZUFkWjB1b1BSUFJOVFNBN05YT2RicnJiSHBuTkhaSnBqYmZ4bU5DYUdoQQ?oc=5",
+      "title": "More than 100 cats removed from Catskill apartment, two arrested - WRGB",
+      "source_id": "gnews-us",
+      "published": "2026-10-23T17:39:03Z",
+      "topics": [
+        "us"
+      ],
+      "excerpt": "",
+      "image": null,
+      "image_is_thumbnail": false,
+      "publisher": "WRGB",
+      "publisher_domain": "cbs6albany.com",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "7067b1702c7ad9d1515b33b9e56cd2ac4f5fb72c",
@@ -2414,7 +2767,9 @@
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "ABC News - Breaking News, Latest News and Videos",
-      "publisher_domain": "abcnews.com"
+      "publisher_domain": "abcnews.com",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "f4a0cbf41aee5ce768529d5e1264e81d265840a5",
@@ -2429,7 +2784,9 @@
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "NPR",
-      "publisher_domain": "www.npr.org"
+      "publisher_domain": "www.npr.org",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "209481dd1683da296489b5bd0098de0f5b441fd1",
@@ -2445,7 +2802,9 @@
       "image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Mass-Effect-Universe-Liara-HD-1456x819.jpeg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "fcede4892de7e4299fb344041e5c7ff1d9df2694",
@@ -2460,7 +2819,9 @@
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "Houston Chronicle",
-      "publisher_domain": "www.houstonchronicle.com"
+      "publisher_domain": "www.houstonchronicle.com",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "f532ed9534d5a9692fd5d0a69903192604fb65a8",
@@ -2475,7 +2836,9 @@
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/NASA-Is-Pushing-Its-Psyche-Spacecraft-to-the-Limit-as-It-Races-Toward-a-Mysterious-Asteroid-scaled.png",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "2925c2b070c2192103c3297b28be29e5126ac30e",
@@ -2490,7 +2853,9 @@
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "KOAT",
-      "publisher_domain": "www.koat.com"
+      "publisher_domain": "www.koat.com",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "92095d505e0bd101109186c87e711bd8e307133b",
@@ -2505,7 +2870,9 @@
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "WIRED",
-      "publisher_domain": "www.wired.com"
+      "publisher_domain": "www.wired.com",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "2869454c2384b73d0700a894cadaed78f9504c30",
@@ -2521,7 +2888,9 @@
       "image": "https://cdn.wccftech.com/wp-content/uploads/2025/07/RTX-5090-AI-GPU-featured-1456x808.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "4b5008347cd3e6c4c084d9633f144ed6c119624d",
@@ -2536,7 +2905,9 @@
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/NASAs-Roman-Telescope-Moves-Closer-to-Uncovering-Millions-of-Hidden-Cosmic-Objects-scaled.png",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "711eff0f62194e4de85b357ac40787cfb80cd247",
@@ -2551,7 +2922,9 @@
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "The Guardian",
-      "publisher_domain": "www.theguardian.com"
+      "publisher_domain": "www.theguardian.com",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "55ec0fdf1ec482307e04048fd2c74c9b35b91f74",
@@ -2567,7 +2940,9 @@
       "image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/ASUS-ROG-Astral-RTX-5090-RMA-7-1456x869.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "ebf73be4a094cb6d6e0b1141a0a6cdba0aecd5f7",
@@ -2583,7 +2958,9 @@
       "image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/AMD-Athlon-X4-CPU-1456x819.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "329992f171954ccafcfba862d35dbf5f05a9e61f",
@@ -2598,7 +2975,9 @@
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "Politico",
-      "publisher_domain": "www.politico.com"
+      "publisher_domain": "www.politico.com",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "9ad62e2e529410407e090face52e0eeb88fcc170",
@@ -2613,7 +2992,9 @@
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/NASAs-Hubble-Spots-a-Cosmic-Illusion-That-Could-Reveal-the-Universes-Hidden-Matter-scaled.png",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "1f7f5107bdf036226218c3f910c4bf20cadd2000",
@@ -2628,7 +3009,9 @@
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/A-hidden-staircase-opened-the-way-to-an-ancient-burial-vault-scaled.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "4c774c5974fe24b27880c7acaa5094a11e5086bc",
@@ -2643,7 +3026,9 @@
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/Astronomers-Found-Evidence-of-Two-Black-Holes-Locked-in-a-121-Day-Orbit-With-a-Possible-Merger-in-100-Years-scaled-1.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "8b742034266d930f2e176abd2314689f1a12e0a4",
@@ -2658,7 +3043,9 @@
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/Archaeologists-Followed-a-3000-Year-Old-Epic-Poem-to-the-Seabed-and-Discovered-a-Shipwreck-Graveyard-Just-155-Feet-Below-the-Surface-scaled-1.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "90a99c1c622918251648e38c120015844cc56a1d",
@@ -2673,7 +3060,9 @@
       "image": "https://static.scientificamerican.com/dam/asset/17d02aff-4d71-45f0-9bad-423ae4f7b4f0/psychology-concept.jpg?m=1792691002.528&w=1200",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "4bc1edb878fe29f6ef1702b70a2707832538f685",
@@ -2688,7 +3077,9 @@
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/Meta-Is-Building-a-4300-Mile-Cable-Beneath-the-Atlantic-That-Could-Move-25000-HD-Movies-in-a-Single-Second-scaled.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "b3a28190a4259b83ca3582448a721f8da11a8c53",
@@ -2703,7 +3094,9 @@
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/A-419-Million-Year-Old-Fish-Found-in-China-Has-an-Unusual-Feature-That-Reveals-How-It-Lived-on-the-Seafloor-scaled-1.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "3837e52abd1ae26267503c6235baff2c7197f7c1",
@@ -2718,7 +3111,9 @@
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/a-woolly-bear-caterpillar-Pyrrharctia-isabella-among-fallen-autumn-leaves-scaled.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "e0ef33b18446d59857a378aaaf80d75daed276ed",
@@ -2733,7 +3128,9 @@
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/Scientists-Traced-a-Strange-Hydrogen-Fingerprint-in-Icelands-Lava-Back-to-the-Deepest-Place-on-Earth-and-It-May-Not-Be-What-They-Expected-scaled.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "7ee624af6b057d087d7db219345241864a8037c4",
@@ -2748,7 +3145,9 @@
       "image": "https://static.scientificamerican.com/dam/asset/e5fd8dc2-128d-4887-acb9-edacf2a6232d/phobos-pia10368-1920x1200-1.jpg?m=1792699551.472&w=1200",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "4eedcb4b73c0bf517f29c3247f2e493e5781e50e",
@@ -2763,7 +3162,9 @@
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/Egypts-First-Pharaohs-Take-Hundreds-of-People-to-Their-Graves-scaled.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "73ec05f75174a4f7163da431f4edf7c093fb8d41",
@@ -2778,7 +3179,9 @@
       "image": "https://static.scientificamerican.com/dam/asset/6e4bcf32-b198-45ae-9867-6519607c5559/cupcake.jpg?m=1792416504.598&w=1200",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "190e1b5cf35b75bd98a0dac274e7785066abed39",
@@ -2793,7 +3196,9 @@
       "image": "https://static.scientificamerican.com/dam/asset/675257c1-eb71-4b12-b450-ceb5638009b3/2610_SQ_FRI_BRAIN-1.jpeg?m=1792685690.295&w=1200",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "a2a7cfeed74ef545385c702a4891b30a892ec089",
@@ -2808,7 +3213,9 @@
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "The City Reporter",
-      "publisher_domain": "www.thecityreporter.nyc"
+      "publisher_domain": "www.thecityreporter.nyc",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "86ad59744e610d907c706f481470b6f79da15df4",
@@ -2825,7 +3232,9 @@
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:27:52Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "a11d8cda7bda1ada332c85d62dc30520cf79ab4f",
@@ -2840,7 +3249,9 @@
       "image": null,
       "image_is_thumbnail": false,
       "publisher": "Cardinal News",
-      "publisher_domain": "cardinalnews.org"
+      "publisher_domain": "cardinalnews.org",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "301cc6b1d3c22638913328b5c0c5a1e81a13672d",
@@ -2855,7 +3266,9 @@
       "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f590.png",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "9de589d5dbde5730e3e416d816ea6ca732060298",
@@ -2870,7 +3283,9 @@
       "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/26a0.png",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "eae185076172bf67748c931fe8d1e2e0bfcd459e",
@@ -2886,7 +3301,9 @@
       "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11303-y/MediaObjects/41586_2026_11303_Fig1_HTML.png",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "e8fab22f43a7fff7d1de5ea720609bafa328e617",
@@ -2902,7 +3319,9 @@
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03395-3/d41586-026-03395-3_53815146.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "da118bc7d9cf3333ae2c628ebac7b0a5f57dc137",
@@ -2918,7 +3337,9 @@
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02582-6/d41586-026-02582-6_53830968.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "ce4c448173b1dffd34631c533c8c2fb663407e36",
@@ -2934,7 +3355,9 @@
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03383-7/d41586-026-03383-7_53895198.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "98f430df60ac4616ad65e17d5d91c8b1a5ec4527",
@@ -2950,7 +3373,9 @@
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03416-1/d41586-026-03416-1_53891592.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "6cfdb943f67883f6c0e6d5d1fdd871702d4c4429",
@@ -2966,7 +3391,9 @@
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03108-w/d41586-026-03108-w_53800402.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "6a935a96806abe5f7513a6aca094a18736cf2170",
@@ -2982,7 +3409,9 @@
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03418-z/d41586-026-03418-z_53895138.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "5e905ed7ae50bc35789ecbced8a59beae287144f",
@@ -2998,7 +3427,9 @@
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03417-0/d41586-026-03417-0_53894960.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "4b83af2eac7799c0e4c234103c580f09c672c00b",
@@ -3014,7 +3445,9 @@
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03318-2/d41586-026-03318-2_53869076.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "0c379ec53b81a9e91de7ddbe3a9b27d72587444a",
@@ -3029,7 +3462,9 @@
       "image": "https://static.scientificamerican.com/dam/asset/c4c5b45c-adec-4e39-b6a6-6df398515f37/Moderna.jpg?m=1792766690.164&w=1200",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "eff1d849558ca91c44ec2c4d5fd9fdbf1152622d",
@@ -3047,7 +3482,9 @@
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:42:38Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "d3a57e6c73d40191444dec1453b8eb75f5729e86",
@@ -3065,7 +3502,9 @@
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:42:38Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "2a8126ca4019e93d739321c440db1f614299bd18",
@@ -3083,7 +3522,9 @@
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:42:38Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "bc07662f4d21e4f83c3eb7a3f75dd7386967a633",
@@ -3101,7 +3542,9 @@
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:42:38Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "638ff9b82647404dca6b33317e8e502563d9bd8c",
@@ -3119,7 +3562,9 @@
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:42:38Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "b3c49bd304e62ef0dd11ea2717fc9cba014116e5",
@@ -3137,7 +3582,9 @@
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:42:38Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "aff8cef290eac51a086d7b0d9a9f69789f02433d",
@@ -3152,7 +3599,9 @@
       "image": "https://static.scientificamerican.com/dam/asset/93e57095-dcba-4a40-a56f-f3df224f5254/Calley-Means.jpg?m=1792701262.696&w=1200",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "64d19fa3c5989eb3f9d8c6e3abf31b241759e079",
@@ -3167,7 +3616,9 @@
       "image": "https://static.scientificamerican.com/dam/asset/49beebd0-4220-4fd4-8179-4c5f0ae10146/Red-Blood-Cells-shutterstock_1262675005.jpg?m=1792691538.481&w=1200",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "8f3f9e0b2ae3a9289d1a025abe8abb88dfd49725",
@@ -3184,7 +3635,9 @@
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:27:52Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "0ce345b4f57bcbc130d2804b4d34da67953f28c0",
@@ -3199,7 +3652,9 @@
       "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "ce9326de49f5c3f08153f56c704cab86c7042d21",
@@ -3214,7 +3669,9 @@
       "image": "https://static.scientificamerican.com/dam/asset/b817dc33-a865-431d-888e-229dc19b5b0a/data-center.jpg?m=1792688011.37&w=1200",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "33e01b9c0b0515854eec56626a3a775f562c2e39",
@@ -3229,7 +3686,9 @@
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/Scientists-Trace-a-Stars-Most-Powerful-Flares-to-an-Unexpected-Magnetic-Engine-scaled.png",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "21b83f20facaf4b8ee933aae1f8a55ad12bc02c4",
@@ -3244,7 +3703,9 @@
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/NASA-Is-Testing-a-New-Way-to-Reach-Mars-Without-Burning-Through-Tons-of-Fuel-scaled.png",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "51d23bbcd560856ecf46784b3836f04c4008232a",
@@ -3260,7 +3721,9 @@
       "image": "https://static.scientificamerican.com/dam/asset/676cb480-a9d0-4bb0-a42f-466e549cfa5c/ink-clash.jpg?m=1792683756.522&w=1200",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "0373036c888d27a1c2371f3ae4966d111d195ea2",
@@ -3275,7 +3738,9 @@
       "image": "https://static.scientificamerican.com/dam/asset/09e53642-0e59-4569-a1a3-f9c8e9d0bdba/the-starry-night.jpg?m=1792686877.112&w=1200",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "70d4ebc7ddccb210561144d2c4606e76b883621a",
@@ -3290,7 +3755,9 @@
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/NASAs-Moon-Landing-Plans-Just-Took-a-Major-Turn-and-SpaceX-and-Blue-Origin-Face-a-Race-Against-Time-scaled.png",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "f6d2b8ce2c77bb0a4f7628de5e49897def38b66a",
@@ -3305,7 +3772,9 @@
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/Europe-Is-Building-a-Giant-Crane-for-the-Moon-and-It-Could-Change-How-Lunar-Missions-Work-scaled.png",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "3402c81cd66c8aa2b60a19eee28f33d5f23445a6",
@@ -3320,7 +3789,9 @@
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/It-Looks-Like-a-Sci-Fi-Reject-This-300-Million-Year-Old-Creature-Has-Baffled-Scientists-Since-1966-With-Eyes-on-a-Bar-and-a-Pincer-on-Its-Neck-scaled-1.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "761a207677d12a785c527eb835cda0c237ab6160",
@@ -3335,7 +3806,9 @@
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/Astronomers-Found-This-Massive-Galaxy-Cluster-Weighing-Over-Two-Quadrillion-Suns-and-It-Shouldnt-Exist-Yet-scaled-1.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "bccfe8891ca7230da9a3feeb8a55788aa32d66ca",
@@ -3350,7 +3823,9 @@
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/For-Nearly-100-Years-a-Dinosaur-Skull-Fragment-Sat-in-a-London-Museum-Drawer-Until-Researchers-Finally-Discovered-What-It-Was-Hiding-scaled-1.jpeg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "8479f55c0a60b5daa347514a120a7c9044439fe7",
@@ -3365,7 +3840,9 @@
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/a-worn-bronze-ring-carries-an-extraordinary-ancient-image-scaled.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "c58d877e1d581b4c23789931ae53c62b6d5b2c9a",
@@ -3380,7 +3857,9 @@
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/a-476000-Year-Old-Wooden-Structure-That-Predates-Our-Own-Species-scaled.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "f28f45398c6cb404ea589f7df7e56d220f018a30",
@@ -3395,7 +3874,9 @@
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/Discovered-in-Montana-in-2011-This-Toothless-Dinosaur-Has-Finally-Revealed-the-First-Intact-Skull-of-Its-Kind-and-Scientists-Say-Its-Jaw-Worked-Like-a-Parrots-scaled.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "be9fe86618f491a7ae2a10cd79031ddadd6edcd8",
@@ -3410,7 +3891,9 @@
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/Thirty-curved-wooden-ribs-emerged-from-the-sand-beneath-Barcelona-scaled.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "c9cfefb1e976b09cee59c25d3c17cede28e79d8e",
@@ -3425,7 +3908,9 @@
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/This-Giant-Planet-Is-Twice-as-Wide-as-Jupiter-but-Has-the-Density-of-a-Marshmallow-and-James-Webb-Just-Revealed-Why-Its-Even-Stranger-scaled.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "08ed539efa0dafdec60c2f9512139ac6b3acc34e",
@@ -3441,7 +3926,9 @@
       "image": "https://static.scientificamerican.com/dam/asset/38a091ea-3dc2-42f4-82ed-e44a03e8b9e4/neuromorphic-Great-Sky-chip-from-BNL-release.jpg?m=1792614243.041&w=1200",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "4e73f28e38e33e63c4d3539740ccd350e66674c2",
@@ -3456,7 +3943,9 @@
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/Scientists-Think-It-Could-Live-Over-100-Years-scaled.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "42cdd053a0aa24dce427ffae36cac07ab6106ba6",
@@ -3471,7 +3960,9 @@
       "image": "https://static.scientificamerican.com/dam/m/12406aaf11271bda/original/shutterstock_2327799319.jpg?m=1792612676.607&w=1200",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "b99d9b8215014fdfcc2747b851f6a04f5b2b5036",
@@ -3487,7 +3978,9 @@
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03414-3/d41586-026-03414-3_53891482.png",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "b908ce2f90c3578c0616b9a29b3883fdf80f63d8",
@@ -3503,7 +3996,9 @@
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03371-x/d41586-026-03371-x_53883104.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "79bea2ddc22ef3f467c12718b50b8c5f34b4c7d4",
@@ -3519,7 +4014,9 @@
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03357-9/d41586-026-03357-9_53887308.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "38a1025854dcd04360b1435b0c11f28daa9bfccb",
@@ -3537,7 +4034,9 @@
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:27:52Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "1b821a44df09d441975270b90a3f29d6535e6a66",
@@ -3554,7 +4053,9 @@
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03389-1/d41586-026-03389-1_53883260.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "1174f03352439d754aed79463b8a91a8dd8bbf9d",
@@ -3570,7 +4071,9 @@
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03438-9/d41586-026-03438-9_53894906.png",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "73a945f18e79b5b2fc1e66fe56906083d70e8520",
@@ -3588,7 +4091,9 @@
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:42:38Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "d1d777402ebb2369af2a83ec490eb7360ca9e353",
@@ -3606,7 +4111,9 @@
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:42:38Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "166ee6a9d17b83eb89a6e0b75e0066fde8d97e77",
@@ -3624,7 +4131,9 @@
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:42:38Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "1aa0608936007714ab547dfad6d3383c0a80af8b",
@@ -3642,7 +4151,9 @@
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:42:38Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "03251564bd89e524026be8cebc000474723a171f",
@@ -3660,7 +4171,9 @@
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:42:38Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "d04f25a963570e36fa535bc90bba8a230f11f65c",
@@ -3675,7 +4188,9 @@
       "image": "https://static.scientificamerican.com/dam/asset/e7ddb6ad-91e2-498f-917d-5de97db11f7f/NSF.jpg?m=1792614894.401&w=1200",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "180427adfee8c66fe60d8311d4ac9b03db9ece1b",
@@ -3690,7 +4205,9 @@
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/NASA-Advances-Blood-Vessel-Printing-and-Cancer-Research-as-Astronauts-Prepare-for-Spacewalks-scaled.png",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "b2e86883ccf66ae18b65596ed3e16ef76ab72885",
@@ -3705,7 +4222,9 @@
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/SpaceX-Launched-a-New-Kind-of-Spacecraft-and-Its-Mission-Goes-Beyond-Orbit-scaled.png",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "c1e902ca216310d949e9b3257c9982ddf994c7a4",
@@ -3720,7 +4239,9 @@
       "image": "https://static.scientificamerican.com/dam/asset/d873326b-3476-48e2-8cc9-c6e679d4d8cf/Champi.png?m=1792603414.33&w=1200",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "cc90a617b4e2bc472e36486b55e03cc04b5e2421",
@@ -3735,7 +4256,9 @@
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/Five-Years-Into-Its-Journey-NASAs-Lucy-Has-Already-Made-a-Discovery-No-One-Expected-scaled.png",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "a540f22076e4953b97d537f32a937ecba7f533e7",
@@ -3750,7 +4273,9 @@
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/a-strange-blade-concealed-a-story-that-began-far-from-Earth-scaled.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "1f647180602267566808c9dda395d374f719e319",
@@ -3765,7 +4290,9 @@
       "image": "https://static.scientificamerican.com/dam/asset/3174b062-90c1-46b8-b8c4-188aa34716d2/gravity-moon-map.jpg?m=1792601893.94&w=1200",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "7f79a139dab9e91da9e4a6d3acf409a21a2d7fc2",
@@ -3781,7 +4308,9 @@
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/NASAs-Next-Big-Space-Technology-Could-Run-on-Nuclear-Power-and-Its-First-Major-Test-Is-Getting-Closer-scaled.png",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "811663f9671dfb01d8b3c11569120030f683260b",
@@ -3796,7 +4325,9 @@
       "image": "https://static.scientificamerican.com/dam/asset/c8ce3ae2-d702-4225-a7d6-2c48e4cc1575/Particle-light-flare.jpg?m=1792593357.873&w=1200",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "0b8a0422471d1b79f9ca76402661f7fda885da6f",
@@ -3811,7 +4342,9 @@
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/A-2400-Mile-Scar-on-Mars-Is-Still-Moving-and-Scientists-Finally-Have-Proof-scaled.png",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "51534c65b2902e3c52d4209e4ec1c0a304c74247",
@@ -3826,7 +4359,9 @@
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/His-Metal-Detector-Wouldnt-Stop-Beeping-After-15-Coins-and-What-Lay-Underneath-Is-the-Biggest-Hoard-of-Its-Kind-Germany-Has-Seen-scaled.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "68c940d2ff649a09d7d97c65da3295c92b02487c",
@@ -3841,7 +4376,9 @@
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/Tesla-Built-a-Car-That-Sticks-to-Ceilings-and-Flies-Like-a-Rocket-and-Its-Driver-Was-a-Mannequin-in-a-Spacesuit-scaled-1.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "0c4c4507e7586cc24961c7270bfeb898a3081ffb",
@@ -3856,7 +4393,9 @@
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/Mining-Specialists-Pulled-300-Tons-of-Soil-and-Rubble-From-Under-the-Hagia-Sophia-and-Found-Tunnels-Nobody-Knew-Existed-scaled-1.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "9afacb56b22ba88cb00027bb1b4c4f54466c47c9",
@@ -3871,7 +4410,9 @@
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/A-Galaxy-37-Million-Light-Years-Away-Just-Gave-Hubble-a-Rare-Side-On-View-of-Its-Dust-Filled-Disk-scaled-1.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "e765c54c02d35a6e7f0eda903786e18c1f0cad67",
@@ -3886,7 +4427,9 @@
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/this-90-year-old-champion-is-still-winning-scaled.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "c2027c0ff8c86de31d151d9bee641f12b73dea40",
@@ -3901,7 +4444,9 @@
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/a-miniature-wax-book-survived-with-mysterious-Latin-notes-still-intact-scaled.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "1f51cb3e42235504321aa9beea855229310d848e",
@@ -3916,7 +4461,9 @@
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/What-Was-Hidden-Inside-This-99-Million-Year-Old-Piece-of-Amber-Is-Something-Lizards-Still-Do-Today-scaled-1.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "5e6a077b8a7061d54d39367a999b9f78dbeb29da",
@@ -3931,7 +4478,9 @@
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/This-Water-Based-Alternative-Is-Changing-Bathrooms-Everywhere-scaled.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "9d3ebddcfa288e3d25badf33208d1c541758e0d5",
@@ -3946,7 +4495,9 @@
       "image": "https://static.scientificamerican.com/dam/asset/7bf3e60c-8805-4474-8bcf-ac69248d5fec/Tom-Stalcup.jpeg?m=1792507334.262&w=1200",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "0168567da981c06b9aebc3a7ba2f5eec4ccb69a0",
@@ -3961,7 +4512,9 @@
       "image": "https://static.scientificamerican.com/dam/asset/7c40feca-d4d7-49f0-a69b-c0ad65684d2e/2610_SQ_WED_ROAD-1-1.png?m=1792530611.541&w=1200",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "618ec11279abe0fc9a68ac00675e0bb79c85c1f5",
@@ -3977,7 +4530,9 @@
       "image": "https://cdn.discovermagazine.com/undefined",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "fe48938d628c2c0e6e09e79c4d531040b27d0b29",
@@ -3993,7 +4548,9 @@
       "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10733-y/MediaObjects/41586_2026_10733_Fig1_HTML.png",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "fc4f02f7884d3e7e587188c692c0d1bc59d36a92",
@@ -4010,7 +4567,9 @@
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03065-4/d41586-026-03065-4_53883050.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "f993caaff184a27e2b75a511105df3af2b9d16cc",
@@ -4026,7 +4585,9 @@
       "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11172-5/MediaObjects/41586_2026_11172_Fig1_HTML.png",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "f6a536de07cdfe3b4371c610a5dd780a04402108",
@@ -4042,7 +4603,9 @@
       "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11168-1/MediaObjects/41586_2026_11168_Fig1_HTML.png",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "e4a0c2448816cd304fe0e6b7a460e1c72cc8be26",
@@ -4058,7 +4621,9 @@
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03110-2/d41586-026-03110-2_53800418.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "e48b4f64f815987fc9598379cfcb7f97e594dd5f",
@@ -4074,7 +4639,9 @@
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03285-8/d41586-026-03285-8_53878656.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "e3ad130c1657a188e60281864c9c89675bb374fd",
@@ -4090,7 +4657,9 @@
       "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11192-1/MediaObjects/41586_2026_11192_Fig1_HTML.png",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "dbcead965b55fbbb0547f41cc3da449e9250aea7",
@@ -4106,7 +4675,9 @@
       "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11175-2/MediaObjects/41586_2026_11175_Fig1_HTML.png",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "db02d89826edf31c165fea2ab3e333a87f1463fe",
@@ -4122,7 +4693,9 @@
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03355-x/d41586-026-03355-x_53883066.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "d9682aab4f6539cafe022c80569692d2ab5539e5",
@@ -4138,7 +4711,9 @@
       "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11152-9/MediaObjects/41586_2026_11152_Fig1_HTML.png",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "ca00c6fdd6db73bbac4a1bd47432e6fd6c1bf066",
@@ -4154,7 +4729,9 @@
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03064-5/d41586-026-03064-5_53863204.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "c86bd9f21b6e064c54725abba074a999afa71fe7",
@@ -4171,7 +4748,9 @@
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03077-0/d41586-026-03077-0_53882678.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "c626e251a97b84912b1d3c8cc5187e28f6dc5e82",
@@ -4187,7 +4766,9 @@
       "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11128-9/MediaObjects/41586_2026_11128_Fig1_HTML.png",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "c2789471f4d71e130f87f7fe4423307b6b6f07d2",
@@ -4203,7 +4784,9 @@
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03326-2/d41586-026-03326-2_53879802.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "b57a06a0fccaaed989d229349447b5b7e8f28f37",
@@ -4219,7 +4802,9 @@
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03375-7/d41586-026-03375-7_53883248.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "a6b2e70a0cd70b6d0f99e75c7b5456e9c7f24d3b",
@@ -4235,7 +4820,9 @@
       "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11188-x/MediaObjects/41586_2026_11188_Fig1_HTML.png",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "79bae7563d7ea932281428ae90249ea84c374a35",
@@ -4251,7 +4838,9 @@
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03376-6/d41586-026-03376-6_53879440.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "75ca97617acb7dd378f709183b90dbd1bd469e40",
@@ -4267,7 +4856,9 @@
       "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11183-2/MediaObjects/41586_2026_11183_Fig1_HTML.png",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "73f0d87bff3d8e5e2dc20ac500c1be1cd4ab1928",
@@ -4283,7 +4874,9 @@
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03319-1/d41586-026-03319-1_53869064.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "6bad30cd998526b324fb7b09b2fb89550dcb0b92",
@@ -4299,7 +4892,9 @@
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03066-3/d41586-026-03066-3_53846254.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "6a23b315d009436a29760cf396606ad8baf7e6db",
@@ -4315,7 +4910,9 @@
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03282-x/d41586-026-03282-x_53879620.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "69ff6e60672fb46d4ddec8fbb4b32d2f5f300f66",
@@ -4331,7 +4928,9 @@
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03360-0/d41586-026-03360-0_53887042.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "603471e3707eb6c44a786022b76faaef68e75a2e",
@@ -4347,7 +4946,9 @@
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03311-9/d41586-026-03311-9_53860580.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "534caf032a9429ee46b79162bbf5a6040edee70f",
@@ -4363,7 +4964,9 @@
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03063-6/d41586-026-03063-6_53883100.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "500fd4c1b9eb11552528337674a691598fbc12c1",
@@ -4379,7 +4982,9 @@
       "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11207-x/MediaObjects/41586_2026_11207_Fig1_HTML.png",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "4cb5a4e4f7331a8fc26f4a3d3990afe837f25d66",
@@ -4395,7 +5000,9 @@
       "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11205-z/MediaObjects/41586_2026_11205_Fig1_HTML.png",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "4820068395297642f2c75ac30c6c47febb80b828",
@@ -4411,7 +5018,9 @@
       "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11186-z/MediaObjects/41586_2026_11186_Fig1_HTML.png",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "3dec29ed7f7af87e584a34570f39f6212d19f742",
@@ -4428,7 +5037,9 @@
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03320-8/d41586-026-03320-8_53869122.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "394b491a08bb680025aa54fd0d6900fccecedf23",
@@ -4444,7 +5055,9 @@
       "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11096-0/MediaObjects/41586_2026_11096_Fig1_HTML.png",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "35c40b20a3761c429302ddf26b01c6ac374c4fbc",
@@ -4460,7 +5073,9 @@
       "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11161-8/MediaObjects/41586_2026_11161_Fig1_HTML.png",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "30d52d032a04b9259e114e7a3544791eb85cccf4",
@@ -4476,7 +5091,9 @@
       "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11184-1/MediaObjects/41586_2026_11184_Fig1_HTML.png",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "301454ac4415dd16e61541d3cc5dcfbd48cd1071",
@@ -4492,7 +5109,9 @@
       "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11179-y/MediaObjects/41586_2026_11179_Fig1_HTML.png",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "2e3c5c97d49118a90035d5c319174a0d65c3ab5e",
@@ -4508,7 +5127,9 @@
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03334-2/d41586-026-03334-2_53886862.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "2e12b900e89be0e43e6d69ebc055b55dd582beb6",
@@ -4526,7 +5147,9 @@
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:27:52Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "2b46a7ec7922ce355ddf3b98536475563b8b12ed",
@@ -4542,7 +5165,9 @@
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03257-y/d41586-026-03257-y_53883112.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "24e60cfcf465cd068827da8d6664476a8da3c34e",
@@ -4559,7 +5184,9 @@
       "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11145-8/MediaObjects/41586_2026_11145_Fig1_HTML.png",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "1eb157ccd5cc783e701b6d3b5008c5976d457394",
@@ -4575,7 +5202,9 @@
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03161-5/d41586-026-03161-5_53883188.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "1d25570fe27e28f70fc49c7502cfde11eef01bb6",
@@ -4591,7 +5220,9 @@
       "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11132-z/MediaObjects/41586_2026_11132_Fig1_HTML.png",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "1b78cf1b363d297682f9afba9398030a20f95a19",
@@ -4607,7 +5238,9 @@
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03342-2/d41586-026-03342-2_53887176.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "1aa70941986e3c243e2b53b29e45e88c2d2eba9d",
@@ -4625,7 +5258,9 @@
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:27:52Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "10f5b301506d3586d482a1a677e25cf33e198857",
@@ -4641,7 +5276,9 @@
       "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11185-0/MediaObjects/41586_2026_11185_Fig1_HTML.png",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "0f0677d2b5b3391dc6eb340fa8ec203ad46eff89",
@@ -4657,7 +5294,9 @@
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03400-9/d41586-026-03400-9_53890908.png",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "0811d94ae429ce58fa605aa4d699d95062966cb0",
@@ -4673,7 +5312,9 @@
       "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11194-z/MediaObjects/41586_2026_11194_Fig1_HTML.png",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "07c94e136c3a9bc4e69069fd83f9a90902bc32dd",
@@ -4689,7 +5330,9 @@
       "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11165-4/MediaObjects/41586_2026_11165_Fig1_HTML.png",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "a600b44e5cefafab42ff9cf92d56b06f1630b822",
@@ -4705,7 +5348,9 @@
       "image": "https://cdn.discovermagazine.com/undefined",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "c5501f40d3a67607eb199efe877e67b6ede7d854",
@@ -4723,7 +5368,9 @@
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:42:38Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "ba0aa7147e228a5635492c79354bf19680957943",
@@ -4738,7 +5385,9 @@
       "image": "https://static.scientificamerican.com/dam/asset/3ec6b56c-7fce-4d51-b4f1-11b8fba1c2c7/orionids.jpg?m=1792529472.593&w=1200",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "a4ccd4d011383cbc88ba5bf88123de6029cdd922",
@@ -4753,7 +5402,9 @@
       "image": "https://static.scientificamerican.com/dam/asset/1296a597-8232-4280-a86b-a49f571cdcab/Applegate.jpg?m=1792530397.474&w=1200",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "a547f43c82ffffbed71e3c8118f8f6ec17eaa6c8",
@@ -4768,7 +5419,9 @@
       "image": "https://static.scientificamerican.com/dam/asset/ecb674ee-d180-495e-8b55-7df41b2d815f/Equal-Earth-projection.jpg?m=1792162360.46&w=1200",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "ab201f36fcc5c3d2ad02c39d1234a96ec81eb154",
@@ -4783,7 +5436,9 @@
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/Mercury-Is-Hiding-Something-Beneath-Its-Surface-and-Scientists-Know-What-They-Need-to-Do-scaled.png",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "803b79b8405199d4bb8092985f3ed20cae3e3334",
@@ -4798,7 +5453,9 @@
       "image": "https://static.scientificamerican.com/dam/asset/d5cf4547-d504-43af-b4c2-645204864d54/NSF-logo.jpg?m=1792508039.824&w=1200",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "73843e065da3471fe11d38bc302d83524e6b7b14",
@@ -4813,7 +5470,9 @@
       "image": "https://static.scientificamerican.com/dam/asset/67802926-0ce7-4319-950f-f1e25fc26720/green_university-of-warwick-adj-3.jpg?m=1792506706.563&w=1200",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "ea71af23a90414ca23880abd5829ca75c274b158",
@@ -4828,7 +5487,9 @@
       "image": "https://static.scientificamerican.com/dam/asset/ee914aee-5897-4c72-8e2c-40e698cc064d/shutterstock_160874294.jpg?m=1792505126.597&w=1200",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "f713038f888c9a45c40d74e35a639bfffea1bcaa",
@@ -4843,7 +5504,9 @@
       "image": "https://static.scientificamerican.com/dam/m/3da926a3ccf413bb/original/mathPuzzles-opener.jpg?m=1723038172.878&w=1200",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "eaebab2c4617ff4a5643f67ddb01e256cfc54bf0",
@@ -4858,7 +5521,9 @@
       "image": "https://static.scientificamerican.com/dam/asset/2a3b0f04-e239-4802-9d2c-110a9aff63ad/saw1126Luhn_lead.jpg?m=1791578350.184&w=1200",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "ea881510be7ee3d0ec6871d887bfc34dbd127f77",
@@ -4873,7 +5538,9 @@
       "image": "https://static.scientificamerican.com/dam/asset/98719ffc-d401-4742-9916-dfb6cf3068e4/saw1126-FromTheEditor-IssueCover.jpg?m=1790608387.326&w=1200",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "d59b7e2906bdf718ab9736aa8204f73104fbc52f",
@@ -4888,7 +5555,9 @@
       "image": "https://static.scientificamerican.com/dam/asset/72fb7db1-7e60-4a25-a78d-fcc8d67b1f9a/saw1126Gsci31_leadImage.png?m=1791314718.615&w=1200",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "d591ff7a6ef5b12e7bd4ec3744acca6c09e60253",
@@ -4904,7 +5573,9 @@
       "image": "https://static.scientificamerican.com/dam/asset/1238bcf9-445c-46b5-8082-9e969a0e84ae/saw1126Jaco01.jpg?m=1790531976.207&w=1200",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "b1770651b8a1a2ab7cb1fed599830dd545003080",
@@ -4919,7 +5590,9 @@
       "image": "https://static.scientificamerican.com/dam/asset/028fda0f-98b5-4fc0-bbfe-99d748fac59f/saw1126-Letters-IssueCover.jpg?m=1790608464.627&w=1200",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "accc771a748d765023daa9ec338bb9607fa374ba",
@@ -4934,7 +5607,9 @@
       "image": "https://static.scientificamerican.com/dam/asset/b6effcf0-b0d4-413f-8149-acc0402caf5d/saw1126-HistoryLead.jpg?m=1791315116.324&w=1200",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "a5817495c290b366ea04f8de13994bea63e37c67",
@@ -4950,7 +5625,9 @@
       "image": "https://static.scientificamerican.com/dam/asset/2c46abd5-8095-4c6f-a02c-7f8dadad362e/saw1126SOW.jpg?m=1791308920.564&w=1200",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "8eab4e9409b0885630fcec459ffeb91a9f676642",
@@ -4965,7 +5642,9 @@
       "image": "https://static.scientificamerican.com/dam/asset/80b8bc19-ba1e-463b-a934-6de23ef320ca/saw1126Szal01_Online.jpg?m=1791157879.138&w=1200",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "7e9045636ee9117986e6f87169c01422e5cb6c87",
@@ -4980,7 +5659,9 @@
       "image": "https://static.scientificamerican.com/dam/asset/74e78a67-3d94-46a2-aa86-1d981561c73d/saw1126Stra01.jpg?m=1790692636.492&w=1200",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "724fc98769207c2ea21f8abcc0aa4378dc054e61",
@@ -4995,7 +5676,9 @@
       "image": "https://static.scientificamerican.com/dam/asset/0e9d489c-92aa-45ab-8733-dcb22d1374f9/saw1126Andr01.jpg?m=1791158683.981&w=1200",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "500d8d74cf8a7e34d9ea38438d8965403d055b0c",
@@ -5010,7 +5693,9 @@
       "image": "https://static.scientificamerican.com/dam/asset/8780deb1-a815-4e5a-8a76-21309b772fe7/saw1126SoH01.jpg?m=1791307095.972&w=1200",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "4088ab5cc378ae325a8a45cc5e0b0be7d12b780f",
@@ -5025,7 +5710,9 @@
       "image": "https://static.scientificamerican.com/dam/asset/16f4139d-d39a-45ea-ba4a-35f1a0cc66b0/saw1126-Industry1.jpg?m=1790608663.159&w=1200",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "3a1fd363ac219234197abd84492a33f0f039078c",
@@ -5040,7 +5727,9 @@
       "image": "https://static.scientificamerican.com/dam/asset/8a0060ee-4cb8-401a-8614-0a0f59b935d0/sa1126Pars03_online.jpeg?m=1790530840.998&w=1200",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "2c007a5a907a45e6d1aff2317f3d2fd70336dee7",
@@ -5055,7 +5744,9 @@
       "image": "https://static.scientificamerican.com/dam/m/1d759b538f62dbef/original/Games-AllGamesIcon.jpg?m=1720649253.362",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "2aa5db150168f6ca5a37e4a3264812cb28768835",
@@ -5070,7 +5761,9 @@
       "image": "https://static.scientificamerican.com/dam/asset/bd6accdf-02ba-4119-a924-53cfbac73ffe/saw1126Meter.jpg?m=1791307401.781&w=1200",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "fdf096bde9a12040c0402b26d18ba2fd61daf2e2",
@@ -5086,7 +5779,9 @@
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03358-8/d41586-026-03358-8_53883202.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "f115627a785ebf4800c1c824db53463d26d4a9ad",
@@ -5102,7 +5797,9 @@
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02975-7/d41586-026-02975-7_15948436.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "c3f235ebe87f817ade6586e612f8c44e1af862db",
@@ -5118,7 +5815,9 @@
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03310-w/d41586-026-03310-w_53878962.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "c325347072e8e5e2def82ac21511d219c2d4dee9",
@@ -5136,7 +5835,9 @@
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:27:52Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "93341bff5f4ff0196a499a5eefda6b6814f0d78a",
@@ -5154,7 +5855,9 @@
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:27:52Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "8c7ca6cf243322aab3ec9f9edaf204cc4db99cfd",
@@ -5170,7 +5873,9 @@
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03151-7/d41586-026-03151-7_53814886.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "832f355f36ef28f1502fd4195997e14c66f03745",
@@ -5186,7 +5891,9 @@
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03062-7/d41586-026-03062-7_53860668.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "698bb6bce15b884d21b07a01b6c7b1c288b27640",
@@ -5202,7 +5909,9 @@
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03200-1/d41586-026-03200-1_53879422.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "63150fcb28fdd1a6d4b36c3a35815900c9e6b331",
@@ -5218,7 +5927,9 @@
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03359-7/d41586-026-03359-7_53882692.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "3155608922430e185856f3099ed43108eebaefb6",
@@ -5236,7 +5947,9 @@
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:27:52Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "2dfdaafe89137acf25883591da8e706c8604166c",
@@ -5252,7 +5965,9 @@
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03327-1/d41586-026-03327-1_53879796.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "1d329b70a73cb11dee856250fc02737cecd2809f",
@@ -5268,7 +5983,9 @@
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03314-6/d41586-026-03314-6_53846416.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "0e7a9d5608869349089a582d29bc68c2b0d5ede7",
@@ -5286,7 +6003,9 @@
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:27:52Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "0c318a1fb923f0d365ed22c0ba992dde2a9b8a34",
@@ -5302,7 +6021,9 @@
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03374-8/d41586-026-03374-8_53886878.png",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "07e08c923c82868fca53f75e586f1ec421e5997e",
@@ -5318,7 +6039,9 @@
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03316-4/d41586-026-03316-4_53868692.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "286af381774f2dc28adaf9200832dbb2e4c70783",
@@ -5334,7 +6057,9 @@
       "image": "https://static.scientificamerican.com/dam/asset/43030498-6a8a-4e7e-ade9-1abf11916843/face-attention-mapping.png?m=1792520259.954&w=1200",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "c262dd5c4f4574414e2f93997ae8ee9e15b51b39",
@@ -5349,7 +6074,9 @@
       "image": "https://static.scientificamerican.com/dam/asset/a58e09fb-deac-49f3-a7aa-8819495f0330/MMX-mission.png?m=1792442130.551&w=1200",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "52b232ec590064432814b350687c08d1695031fb",
@@ -5364,7 +6091,9 @@
       "image": "https://static.scientificamerican.com/dam/asset/22580373-927b-440c-b68b-52cd94c55bc5/ICEYE-X36_COSMOS-2612.gif?m=1792494922.589&w=1200",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "23f22ab67f2f7c04d409858f71122df30628a8f5",
@@ -5379,7 +6108,27 @@
       "image": "https://static.scientificamerican.com/dam/asset/ed025c64-e1d0-471a-9a65-b3459a5902fb/emotions.jpg?m=1792427313.952&w=1200",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
+    },
+    {
+      "id": "d943a8df40ea5c480d04a71347fe056b4af15835",
+      "url": "https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/",
+      "title": "AI Proved the Quasi-Riemann Hypothesis. What Happens Now?",
+      "source_id": "quanta-math",
+      "published": "2026-10-19T15:40:26Z",
+      "topics": [
+        "ai",
+        "matematika"
+      ],
+      "excerpt": "Unlike other recent AI proofs, this one has been unpacked by human experts. The implications, one mathematician said, are “staggering.” The post AI Proved the Quasi-Riemann Hypothesis. What Happens Now? first appeared on Quanta Magazine",
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/ReimannAI-crEmilyBuder_GuanHueiWu-Default.webp",
+      "image_is_thumbnail": false,
+      "publisher": null,
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "8ca3743d0701e14cfd493331eb434c7f98d2ef4b",
@@ -5394,7 +6143,9 @@
       "image": "https://static.scientificamerican.com/dam/asset/c62caacb-4604-47db-94b7-67122134221f/mmx.webp?m=1792442259.702&w=1200",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "17bf5826c0df6ce26bde8c2c3cd961561f820e0d",
@@ -5410,7 +6161,9 @@
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03317-3/d41586-026-03317-3_53863090.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
     }
   ]
 }

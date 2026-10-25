@@ -3,7 +3,10 @@ const $ = (id) => document.getElementById(id);
 const readLocal = (key, fallback) => { try { return JSON.parse(localStorage.getItem(key)) ?? fallback; } catch { return fallback; } };
 const writeLocal = (key, value) => { try { localStorage.setItem(key, JSON.stringify(value)); } catch { /* Private mode still works. */ } };
 const stored = readLocal('novice:preferences', {});
-const prefs = {theme:'system',topics:{},sources:{}, ...(stored && typeof stored === 'object' ? stored : {})};
+const modes = {official:'Uradno', neutral:'Povzeto', mine:'Po domače'};
+const prefs = {theme:'system',mode:'official',topics:{},sources:{}, ...(stored && typeof stored === 'object' ? stored : {})};
+if(!Object.hasOwn(modes,prefs.mode)) prefs.mode='official';
+const cardModes = new Map();
 if (!prefs.topics || typeof prefs.topics !== 'object') prefs.topics = {};
 if (!prefs.sources || typeof prefs.sources !== 'object') prefs.sources = {};
 let config = {topics:[],sources:[]}, feed = {items:[]}, status = null, selected = 'all', limit = 30;
@@ -64,14 +67,36 @@ function card(item) {
   if(picture) lead.append(picture);
   lead.append(heading);
   article.append(top,lead);
-  if(item.excerpt) article.append(element('p','excerpt',item.excerpt));
+  const summary = element('p','excerpt');
+  article.append(summary);
   const bottom = element('div','article-bottom'), tags = element('div','tags');
   for(const t of item.topics || []) tags.append(element('span','tag',topic(t)));
   const original=link('Preberi izvirnik ↗',item.url); original.className='original';
   bottom.append(tags,original); article.append(bottom);
+  const toggle=element('div','summary-toggle');
+  toggle.setAttribute('role','group');
+  toggle.setAttribute('aria-label','Način povzetka');
+  const buttons=new Map();
+  function updateSummary() {
+    const chosen=cardModes.get(item.id) || prefs.mode;
+    const candidate=chosen==='neutral'?item.summary_neutral:chosen==='mine'?item.summary_mine:null;
+    const effective=chosen!=='official' && typeof candidate==='string' && candidate.trim() ? chosen : 'official';
+    summary.textContent=effective==='official'?(item.excerpt || ''):candidate;
+    summary.hidden=!summary.textContent;
+    article.classList.toggle('has-ai-summary',effective!=='official');
+    for(const [mode,button] of buttons) button.setAttribute('aria-pressed',String(mode===effective));
+  }
+  for(const [mode,label] of Object.entries(modes)) {
+    const button=element('button','',label);
+    button.type='button';
+    button.addEventListener('click',()=>{cardModes.set(item.id,mode);updateSummary();});
+    buttons.set(mode,button);toggle.append(button);
+  }
+  updateSummary();article.append(toggle);
   return article;
 }
 function render() {
+  $('mode-indicator').textContent='Privzeto · '+modes[prefs.mode];
   const filtered=feed.items.filter(i=>safeLink(i.url) && prefs.sources[i.source_id]!==false && config.sources.some(s=>s.id===i.source_id && s.enabled!==false) && (i.topics||[]).some(t=>prefs.topics[t]!==false) && (selected==='all'||i.topics.includes(selected)));
   $('feed-title').textContent=selected==='all'?'Tvoj izbor':topic(selected);
   $('count').textContent=`${filtered.length} člankov`;
@@ -83,7 +108,7 @@ function toggleSettings(target, entries, pref) {
   target.replaceChildren();
   for(const entry of entries) { const label=element('label','toggle-row',entry.label||entry.name), input=element('input'); input.type='checkbox'; input.checked=pref[entry.id]!==false; input.addEventListener('change',()=>{pref[entry.id]=input.checked;savePrefs();if(selected!=='all'&&prefs.topics[selected]===false)selected='all';renderTopics();render();}); label.append(input);target.append(label); }
 }
-function settings() { toggleSettings($('topic-settings'),config.topics,prefs.topics); toggleSettings($('source-settings'),config.sources.filter(s=>s.enabled!==false),prefs.sources); $('theme').value=['dark','light'].includes(prefs.theme)?prefs.theme:'system'; const bad=(status?.sources||[]).filter(s=>!s.ok); $('source-status').textContent=bad.length?`Trenutno nedosegljivi viri: ${bad.map(s=>source(s.id)).join(', ')}. Ostale novice se osvežujejo normalno.`:'Viri se preverjajo ob vsakem zajemu.'; }
+function settings() { toggleSettings($('topic-settings'),config.topics,prefs.topics); toggleSettings($('source-settings'),config.sources.filter(s=>s.enabled!==false),prefs.sources); $('theme').value=['dark','light'].includes(prefs.theme)?prefs.theme:'system'; $('default-mode').value=prefs.mode; const bad=(status?.sources||[]).filter(s=>!s.ok); $('source-status').textContent=bad.length?`Trenutno nedosegljivi viri: ${bad.map(s=>source(s.id)).join(', ')}. Ostale novice se osvežujejo normalno.`:'Viri se preverjajo ob vsakem zajemu.'; }
 async function json(path) { const response=await fetch(path,{cache:'no-cache'}); if(!response.ok) throw new Error('Podatki niso dosegljivi'); return response.json(); }
 async function refresh() {
   $('refresh').disabled=true;
@@ -104,6 +129,7 @@ $('refresh').addEventListener('click',refresh);
 $('settings').addEventListener('click',()=>{$('preferences').showModal();});
 $('preferences').addEventListener('click',e=>{if(e.target===$('preferences')){const r=e.target.getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)e.target.close();}});
 $('theme').addEventListener('change',e=>{prefs.theme=e.target.value;savePrefs();});
+$('default-mode').addEventListener('change',e=>{prefs.mode=e.target.value;savePrefs();render();});
 $('more').addEventListener('click',()=>{limit+=30;render();});
 window.addEventListener('online',refresh);
 window.addEventListener('offline',()=>{$('connection').textContent='Povezava ni na voljo';});
