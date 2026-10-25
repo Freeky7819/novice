@@ -53,6 +53,7 @@ test('safe text, three modes, missing summary fallback, persisted default',async
   assert.equal(pressed(cards[1]),'Uradno');
   assert.ok(cards[1].textContent.includes(attack));
   assert.ok(cards[1].textContent.includes('Fallback.'));
+  assert.ok(cards[1].textContent.includes('Povzetek za ta članek še ni pripravljen'));
   button(cards[2],'Povzeto').click();
   assert.ok(cards[2].textContent.includes(items[2].summary_neutral));
   assert.ok(!ui.created.includes('script')&&!ui.created.includes('img'));

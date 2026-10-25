@@ -1,5 +1,11 @@
 name: Osveži novice
 on:
+  push:
+    branches: [main]
+    paths:
+      - 'config/**'
+      - 'summarize.py'
+      - '.github/workflows/fetch.yml'
   schedule:
     - cron: '*/30 * * * *'
   workflow_dispatch:

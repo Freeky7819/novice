@@ -565,6 +565,11 @@ html[data-theme=light] .article:first-child {
 }
 .compact.has-ai-summary .excerpt { display:block; }
 .compact.has-ai-summary .original { display:inline; }
+.summary-availability {
+  color:var(--muted);
+  font-size:11px;
+  margin:8px 0 0;
+}
 @media(max-width:500px) {
   .mode-label {
     font-size:9px

@@ -74,6 +74,8 @@ function card(item) {
   const original=link('Preberi izvirnik ↗',item.url); original.className='original';
   bottom.append(tags,original); article.append(bottom);
   const toggle=element('div','summary-toggle');
+  const availability=element('p','summary-availability');
+  availability.setAttribute('role','status');
   toggle.setAttribute('role','group');
   toggle.setAttribute('aria-label','Način povzetka');
   const buttons=new Map();
@@ -81,6 +83,8 @@ function card(item) {
     const chosen=cardModes.get(item.id) || prefs.mode;
     const candidate=chosen==='neutral'?item.summary_neutral:chosen==='mine'?item.summary_mine:null;
     const effective=chosen!=='official' && typeof candidate==='string' && candidate.trim() ? chosen : 'official';
+    availability.textContent=chosen!=='official' && effective==='official' ? 'Povzetek za ta članek še ni pripravljen. Za zdaj je prikazan način Uradno.' : '';
+    availability.hidden=!availability.textContent;
     summary.textContent=effective==='official'?(item.excerpt || ''):candidate;
     summary.hidden=!summary.textContent;
     article.classList.toggle('has-ai-summary',effective!=='official');
@@ -92,7 +96,7 @@ function card(item) {
     button.addEventListener('click',()=>{cardModes.set(item.id,mode);updateSummary();});
     buttons.set(mode,button);toggle.append(button);
   }
-  updateSummary();article.append(toggle);
+  updateSummary();article.append(toggle,availability);
   return article;
 }
 function render() {
