@@ -178,6 +178,18 @@ class OnDemandTests(unittest.TestCase):
 
 
 class ArticleReaderTests(unittest.TestCase):
+    def test_real_extractor_reads_public_html_with_installed_library(self):
+        paragraph='Scientists study how stars form from clouds of gas and dust in distant galaxies. '
+        html='<html><body><article><h1>How stars form</h1>'+''.join('<p>'+paragraph*3+'</p>' for _ in range(10))+'</article></body></html>'
+        def handler(request):
+            return httpx.Response(404) if request.url.path=='/robots.txt' else httpx.Response(200,headers={'Content-Type':'text/html'},text=html)
+        client=httpx.Client(transport=httpx.MockTransport(handler))
+        with patch('article_reader.httpx.Client',return_value=client),patch('article_reader.public_url'):
+            text,basis=article_reader.read_article({'url':'https://example.com/article','excerpt':'RSS excerpt'})
+        self.assertIn('Scientists study',text)
+        # The extractor collapses repeated fixture paragraphs into a short part.
+        self.assertEqual(basis,'public_part')
+
     def read(self,handler,extract='Public text. '*100):
         client=httpx.Client(transport=httpx.MockTransport(handler))
         with patch('article_reader.httpx.Client',return_value=client),patch('article_reader.public_url') as public,patch('article_reader.trafilatura.extract',return_value=extract):

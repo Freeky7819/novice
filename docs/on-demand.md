@@ -43,4 +43,4 @@ Po [ceniku Anthropic](https://platform.claude.com/docs/en/about-claude/pricing),
 
 ## Preverjanje
 
-55 Python testov in 4 frontend testi uporabljajo lažne ponudnike, lažen prenos člankov in lokalni HTTP strežnik, brez plačljivih klicev. Pokriti so izbira samo zahtevanega članka, oba rezultata, predpomnilnik po ponovnem zagonu, sočasni kliki in limiti, izpadi, robots, zasebne preusmeritve, nezaupanja vredni izhodi ter prikaz med čakanjem in po ponovnem nalaganju.
+56 Python testov in 4 frontend testi uporabljajo lažne ponudnike, lažen prenos člankov in lokalni HTTP strežnik, brez plačljivih klicev. Pokriti so izbira samo zahtevanega članka, oba rezultata, predpomnilnik po ponovnem zagonu, sočasni kliki in limiti, izpadi, robots, zasebne preusmeritve, nezaupanja vredni izhodi ter prikaz med čakanjem in po ponovnem nalaganju.

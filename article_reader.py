@@ -6,12 +6,15 @@ from urllib.robotparser import RobotFileParser
 
 import httpx
 import trafilatura
+from trafilatura.settings import use_config
 
 from feedlib import public_url
 
 AGENT = 'Novice/2.1 (personal news reader)'
 MAX_HTML = 1_000_000
 MAX_TEXT = 12_000
+EXTRACT_CONFIG = use_config()
+EXTRACT_CONFIG.set('DEFAULT', 'MAX_TREE_SIZE', '50000')
 
 
 def limited_get(client, url, deadline, limit):
@@ -74,7 +77,7 @@ def read_article(item):
                 paywall = bool(re.search(br'"isAccessibleForFree"\s*:\s*(?:false|"false")', body, re.I))
                 text = trafilatura.extract(body, url=url, include_comments=False,
                         include_tables=False, include_links=False, favor_precision=True,
-                        max_tree_size=50000) or ''
+                        config=EXTRACT_CONFIG) or ''
                 text = text.strip()
                 if not text:
                     return fallback
