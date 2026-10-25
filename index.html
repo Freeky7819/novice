@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="sl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#101512">
+  <meta name="description" content="Tvoj miren kotiček za znanost, vesolje in tehnologijo. Novice iz virov, ki jih izbereš sam.">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <link rel="manifest" href="manifest.json">
+  <link rel="apple-touch-icon" href="icons/icon-192.png">
+  <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="style.css">
+  <title>Novice — Radovednost na enem mestu</title>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <div class="shell">
+    <header class="header"><a class="brand" href="./" aria-label="Novice, domov"><span class="brand-icon">n<span>·</span></span>novice<span class="brand-dot">.</span></a><div class="header-actions"><button class="icon-button" id="refresh" aria-label="Osveži novice" title="Osveži novice">↻</button><button class="icon-button" id="settings" aria-label="Odpri nastavitve" title="Nastavitve">⚙</button></div></header>
+    <main>
+      <section class="intro"><div class="eyebrow"><span class="live-dot"></span> TVOJ OSEBNI PREGLED</div><h1>Svet se premika.<br><span>Ostani radoveden.</span></h1><p>Znanost, vesolje in tehnologija. Tvoji viri, tvoj pogled.</p><div class="intro-footer"><span id="today"></span><span id="connection">Povezovanje …</span></div></section>
+      <nav id="topics" class="topics" aria-label="Filtriraj po temi"></nav>
+      <section class="feed-heading"><div><h2 id="feed-title">Tvoj izbor</h2><span id="count"></span></div><span class="mode-label">Uradno · izvlečki virov</span></section>
+      <p id="notice" role="status" aria-live="polite"></p>
+      <div id="feed" aria-busy="true"><div class="loading">Nabiramo zanimive zgodbe …</div></div>
+      <button id="more" class="more" hidden>Pokaži več novic ↓</button>
+    </main>
+    <footer class="footer"><span class="footer-brand">novice.</span><span>Manj hrupa. Več zanimivega.</span><span>Vedno s povezavo do izvirnika ↗</span></footer>
+  </div>
+  <dialog id="preferences"><form method="dialog"><div class="dialog-heading"><h2>Po tvoje.</h2><button class="icon-button" aria-label="Zapri nastavitve">×</button></div></form><p class="muted">Tvoj izbor ostane shranjen na tej napravi.</p><label class="setting-label">Videz <select id="theme"><option value="system">Po sistemu</option><option value="dark">Temno</option><option value="light">Svetlo</option></select></label><h3>Teme, ki te zanimajo</h3><div id="topic-settings"></div><h3>Tvoji viri</h3><div id="source-settings"></div><p id="source-status" class="muted small"></p><div class="install-note">Na iPhonu: odpri v Safariju → Deli → Dodaj na domači zaslon.</div></dialog>
+</body>
+</html>

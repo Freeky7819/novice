@@ -1,0 +1,53 @@
+{
+  "checked_at": "2026-10-25T01:10:57Z",
+  "sources": [
+    {
+      "id": "nature",
+      "ok": true,
+      "count": 75,
+      "feed_url": "https://www.nature.com/nature.rss"
+    },
+    {
+      "id": "sciam",
+      "ok": true,
+      "count": 50,
+      "feed_url": "https://www.scientificamerican.com/platform/syndication/rss/"
+    },
+    {
+      "id": "physorg",
+      "ok": true,
+      "count": 30,
+      "feed_url": "https://phys.org/rss-feed/"
+    },
+    {
+      "id": "discover",
+      "ok": true,
+      "count": 20,
+      "feed_url": "https://www.discovermagazine.com/rss/all"
+    },
+    {
+      "id": "dailygalaxy",
+      "ok": true,
+      "count": 50,
+      "feed_url": "https://dailygalaxy.com/feed/"
+    },
+    {
+      "id": "marktechpost",
+      "ok": true,
+      "count": 10,
+      "feed_url": "https://www.marktechpost.com/feed/"
+    },
+    {
+      "id": "wccftech",
+      "ok": true,
+      "count": 20,
+      "feed_url": "https://wccftech.com/feed/"
+    },
+    {
+      "id": "gnews-us",
+      "ok": true,
+      "count": 70,
+      "feed_url": "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSkwyMHZNRGxqTjNjd0VnVmxiaTFWVXlnQVAB?hl=en-US&gl=US&ceid=US:en"
+    }
+  ]
+}

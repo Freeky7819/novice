@@ -1,0 +1,74 @@
+{
+  "topics": [
+    {
+      "id": "znanost",
+      "label": "Znanost"
+    },
+    {
+      "id": "fizika",
+      "label": "Fizika"
+    },
+    {
+      "id": "vesolje",
+      "label": "Vesolje"
+    },
+    {
+      "id": "energija",
+      "label": "Energija"
+    },
+    {
+      "id": "ai",
+      "label": "AI"
+    },
+    {
+      "id": "strojna-oprema",
+      "label": "GPU & strojna oprema"
+    },
+    {
+      "id": "us",
+      "label": "U.S."
+    }
+  ],
+  "sources": [
+    {
+      "id": "nature",
+      "name": "Nature",
+      "enabled": true
+    },
+    {
+      "id": "sciam",
+      "name": "Scientific American",
+      "enabled": true
+    },
+    {
+      "id": "physorg",
+      "name": "Phys.org",
+      "enabled": true
+    },
+    {
+      "id": "discover",
+      "name": "Discover Magazine",
+      "enabled": true
+    },
+    {
+      "id": "dailygalaxy",
+      "name": "The Daily Galaxy",
+      "enabled": true
+    },
+    {
+      "id": "marktechpost",
+      "name": "MarkTechPost",
+      "enabled": true
+    },
+    {
+      "id": "wccftech",
+      "name": "Wccftech",
+      "enabled": true
+    },
+    {
+      "id": "gnews-us",
+      "name": "Google News · U.S.",
+      "enabled": true
+    }
+  ]
+}
