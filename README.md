@@ -44,9 +44,11 @@ Vsak članek ima `image` (izvirni URL ali `null`). Prednost imajo `media:content
 
 Čas poskusa se zapiše v `image_tried_at`, število pa v `image_attempts`. Po neuspehu je dovoljen največ en ponovni poskus, najmanj 24 ur pozneje (skupaj največ dva poskusa OG). Zapisi stare različice brez teh polj se ob nadgradnji enkrat preverijo. Slika, ki se pozneje pojavi neposredno v feedu, se lahko uporabi tudi po doseženem limitu OG.
 
-Za `gnews-us` se OG ne preverja in `image` ostane `null`. Iz `<source url="...">` se shranita `publisher` in `publisher_domain`; placeholder prikaže ime medija ter domeno. Hranjene stare vnose brez teh podatkov dopolnimo le, če se ime na koncu naslova ujema s parom medij/domena, potrjenim v trenutnem feedu. Google News ima `excerpt: false`, zato seznam drugih naslovov ne nastopa niti kot izvleček niti kot vhod za teme.
+Za `gnews-us` se OG ne preverja in `image` ostane `null`. Iz `<source url="...">` se shranita `publisher` in `publisher_domain`; vrstica vira prikaže ime medija in »prek Google News«. Pripona » - Ime medija« se odstrani iz prikazanega naslova. Hranjene stare vnose brez teh podatkov dopolnimo le, če se ime na koncu naslova ujema s parom medij/domena, potrjenim v trenutnem feedu. Google News ima `excerpt: false`, zato seznam drugih naslovov ne nastopa niti kot izvleček niti kot vhod za teme.
 
-Slike ostanejo na izvirnih strežnikih in se ne kopirajo v repo. Brskalnik uporabi `loading="lazy"`, `referrerpolicy="no-referrer"`, razmerje 16 : 9 in `object-fit: cover`. Brez slike ali ob napaki nalaganja kartica prikaže nevtralno CSS ozadje in simbol teme. Tudi slike, ki jih ponudnik blokira, ostanejo brez opozoril na kartici.
+Sličice prepoznamo po širini media:thumbnail/content pod 400 px ali vzorcih URL (/tmb/, /thumb, -t.jpg, -150x150 …). Zanje najprej poskusimo OG; če ne uspe, ostane prvotna sličica. Pri naslednjem zajemu se uspešno pridobljena večja slika ohrani. Brskalnik preveri tudi dejanski `naturalWidth`: pod 400 px kartica dobi razred `thumb` in 96 × 96 px sliko levo ob naslovu.
+
+Slike ostanejo na izvirnih strežnikih in se ne kopirajo v repo. Brskalnik uporabi `loading="lazy"`, `referrerpolicy="no-referrer"`, razmerje 16 : 9 in `object-fit: cover`. Brez slike ali ob napaki nalaganja je kartica kompaktna: vir, čas, naslov in oznake, brez velikega placeholderja ali izvlečka.
 
 `config/style.md` vsebuje priloženi Damjanov slog in primere za prihodnji način »Po domače«. Datoteka je shranjena kot konfiguracija za F2; v F1 je nobena koda ne uporablja in povzetki ostajajo izvlečki virov. Novo poglavje F5 v širši specifikaciji ni del tega PR.
 

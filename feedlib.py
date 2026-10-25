@@ -159,6 +159,28 @@ def feed_image(entry, base):
     return None
 
 
+def is_thumbnail(url, width=None):
+    if width is not None:
+        match = re.fullmatch(r'\s*(\d+(?:\.\d+)?)\s*(?:px)?\s*', str(width), re.I)
+        if match and float(match.group(1)) < 400:
+            return True
+    path = urlsplit(url or '').path.lower()
+    if re.search(r'/tmb/|/thumb|[-_]t\.(?:jpe?g|png|webp)$', path):
+        return True
+    sizes = re.search(r'[-_](\d+)x(\d+)(?=\.|/|$)', path)
+    return bool(sizes and int(sizes.group(1)) < 400)
+
+
+def feed_thumbnail(entry, url, base):
+    if is_thumbnail(url):
+        return True
+    for key in ('media_content', 'media_thumbnail'):
+        for candidate in entry.get(key, []):
+            if image_url(candidate.get('url'), base) == url and is_thumbnail(url, candidate.get('width')):
+                return True
+    return False
+
+
 class ContentImage(HTMLParser):
     def __init__(self, base):
         super().__init__()

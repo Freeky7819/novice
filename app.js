@@ -24,40 +24,46 @@ function renderTopics() {
     b.addEventListener('click',()=>{ selected=t.id; limit=30; renderTopics(); render(); }); nav.append(b);
   }
 }
-function articleImage(item) {
-  const symbols = {znanost:'✳',fizika:'⚛',vesolje:'✦',energija:'ϟ',ai:'◈','strojna-oprema':'▦',us:'◎'};
-  const theme = (item.topics || []).find(t=>symbols[t]) || 'znanost';
-  const frame = element('div',`article-image image-${theme}`);
-  const publisher = item.source_id === 'gnews-us';
-  if(!publisher) frame.setAttribute('aria-hidden','true');
-  const placeholder = element('div','image-placeholder');
-  if(publisher) {
-    placeholder.append(element('span','publisher-name',item.publisher || 'Google News'),element('span','publisher-domain',item.publisher_domain || 'U.S.'));
-  } else {
-    placeholder.append(element('span','image-symbol',symbols[theme]),element('span','image-topic',topic(theme)));
-  }
-  frame.append(placeholder);
-  const url = publisher ? null : safeLink(item.image);
-  if(url) {
-    const img = element('img');
-    img.alt = '';
-    img.loading = 'lazy';
-    img.decoding = 'async';
-    img.referrerPolicy = 'no-referrer';
-    img.addEventListener('load',()=>{frame.classList.add('image-loaded');});
-    img.addEventListener('error',()=>{img.remove();frame.classList.remove('image-loaded');},{once:true});
-    img.src = url;
-    frame.append(img);
-  }
+function articleImage(item, article) {
+  const url = item.source_id === 'gnews-us' ? null : safeLink(item.image);
+  if(!url) { article.classList.add('compact'); return null; }
+  const frame = element('div','article-image');
+  frame.setAttribute('aria-hidden','true');
+  if(item.image_is_thumbnail) article.classList.add('thumb');
+  const img = element('img');
+  img.alt = '';
+  img.loading = 'lazy';
+  img.decoding = 'async';
+  img.referrerPolicy = 'no-referrer';
+  img.addEventListener('load',()=>{frame.classList.add('image-loaded');article.classList.toggle('thumb',img.naturalWidth < 400);});
+  img.addEventListener('error',()=>{frame.remove();article.classList.remove('thumb');article.classList.add('compact');},{once:true});
+  img.src = url;
+  frame.append(img);
   return frame;
+}
+function publisherName(item) {
+  if(item.source_id !== 'gnews-us') return source(item.source_id);
+  return item.publisher || (item.title.includes(' - ') ? item.title.slice(item.title.lastIndexOf(' - ')+3) : 'Google News');
+}
+function articleTitle(item) {
+  if(item.source_id !== 'gnews-us') return item.title;
+  const suffix = ' - ' + publisherName(item);
+  return item.title.endsWith(suffix) ? item.title.slice(0,-suffix.length) : item.title;
 }
 function card(item) {
   const article = element('article','article');
   const top = element('div','article-top');
-  top.append(element('span','source-mark',source(item.source_id).slice(0,1)),element('span','source-name',source(item.source_id)),element('span','','·'));
+  const name = publisherName(item);
+  top.append(element('span','source-mark',name.slice(0,1)),element('span','source-name',name));
+  if(item.source_id==='gnews-us') top.append(element('span','via','· prek Google News'));
+  top.append(element('span','','·'));
   const time = element('time','',relative(item.published)); time.dateTime = item.published; time.title = new Date(item.published).toLocaleString('sl-SI'); top.append(time);
-  const heading = element('h3'); heading.append(link(item.title,item.url));
-  article.append(top,articleImage(item),heading);
+  const heading = element('h3'); heading.append(link(articleTitle(item),item.url));
+  const lead = element('div','article-lead');
+  const picture = articleImage(item,article);
+  if(picture) lead.append(picture);
+  lead.append(heading);
+  article.append(top,lead);
   if(item.excerpt) article.append(element('p','excerpt',item.excerpt));
   const bottom = element('div','article-bottom'), tags = element('div','tags');
   for(const t of item.topics || []) tags.append(element('span','tag',topic(t)));

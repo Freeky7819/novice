@@ -1,6 +1,21 @@
 {
-  "generated_at": "2026-10-25T01:28:51Z",
+  "generated_at": "2026-10-25T01:42:38Z",
   "items": [
+    {
+      "id": "ee4e256deb6a79b94faf5e71a43b2dcaf912c390",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMTV4UWVSTlZYSFJCUWhTOVU4MUxteVB5OGJFYm1fLUxjdkN3MlppUGpvMWx5NUxONzYycWNacm1LT2lWYlRRZkkyaXQxUVpTS1pFY04tZVlCb0lpNUJmQmRPVHZhTnlUVHVnOS1JcjVWNG5saGZvU0JNYmVROVBmZko3U0RMMFEzTko1S3cxak1UUHE1OXhzWkVVUEhobF82UlJDb1VsV1QtdDFRSWc?oc=5",
+      "title": "Smoke near Quaker Oats in downtown Cedar Rapids - KGAN",
+      "source_id": "gnews-us",
+      "published": "2026-10-25T01:25:19Z",
+      "topics": [
+        "us"
+      ],
+      "excerpt": "",
+      "image": null,
+      "image_is_thumbnail": false,
+      "publisher": "KGAN",
+      "publisher_domain": "cbs2iowa.com"
+    },
     {
       "id": "d4bb1fa09bcef2bd956009dbafb52a87e4945c96",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeUdkajdVaE81UXowdEROTVA0NFNwX0JJTUw1RHdaMmtHQURmRzZmNVN6dmplOGQtZ1BrQXNrb0JPZXdPZXQ3Qi1mNG9zb1RONC1DeDV0eXNzRmdDd2lpNkhjSHJLWDFrcFk5S0JLNHpKWVB5UnoyT2E3U2NPSHpKVXE5REdYdzlR?oc=5",
@@ -13,7 +28,8 @@
       "excerpt": "",
       "image": null,
       "publisher": "The New York Times",
-      "publisher_domain": "www.nytimes.com"
+      "publisher_domain": "www.nytimes.com",
+      "image_is_thumbnail": false
     },
     {
       "id": "f2f198d9c28c46b3dd649f001a82f9d38e49ee2a",
@@ -26,13 +42,14 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "CBS News",
       "publisher_domain": "www.cbsnews.com"
     },
     {
       "id": "33815c89d18eb8a07c0519e90b12ebfbdd182232",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZkp6bHg5OWk2TXZXZndoNmVFcGlkRmktbEtieHpmckduS1BiSFB6dHN4N3dnamM2YUc0OVQ1d2VMSGZOUS1qQzRmRFZuZV9sQ0d5cjBwS1JJemtkRFBIZGdBSFpKVDd0bzdCWEpXSkJkZWE2ek9Pd1E1MXpSN0NVNUQ0enlqcEV6bFFhT1dJNWVjeUlxZHRjZFhtazV5TnpCZlBlUEc0eXA3SGZzQkdn?oc=5",
-      "title": "Obama, in Ohio, assails 'cruelty' and indecency from Trump and his allies in the midterm campaign - AP News",
+      "title": "Obama, in Midwest, assails 'cruelty' and indecency from Trump and his allies in the midterm campaign - AP News",
       "source_id": "gnews-us",
       "published": "2026-10-25T01:05:00Z",
       "topics": [
@@ -40,6 +57,7 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "AP News",
       "publisher_domain": "apnews.com"
     },
@@ -54,6 +72,7 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "AP News",
       "publisher_domain": "apnews.com"
     },
@@ -69,8 +88,11 @@
       ],
       "excerpt": "In 1987, biologists captured the last free-flying condor to transfer it to captivity, and the largest flying North American bird species was officially declared extinct in the wild. Today, after decades of coordinated efforts and millions of dollars spent on captive breeding and reintroduction efforts, more than 300 condors have been restored to their natural environment.",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-condor-with-wings-sp-1.jpg",
+      "image_is_thumbnail": true,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "image_tried_at": "2026-10-25T01:42:38Z",
+      "image_attempts": 1
     },
     {
       "id": "cc44011f080ef469dfd399d9e4a63a554cba2fe3",
@@ -83,22 +105,9 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "The Guardian",
       "publisher_domain": "www.theguardian.com"
-    },
-    {
-      "id": "ee4e256deb6a79b94faf5e71a43b2dcaf912c390",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMTV4UWVSTlZYSFJCUWhTOVU4MUxteVB5OGJFYm1fLUxjdkN3MlppUGpvMWx5NUxONzYycWNacm1LT2lWYlRRZkkyaXQxUVpTS1pFY04tZVlCb0lpNUJmQmRPVHZhTnlUVHVnOS1JcjVWNG5saGZvU0JNYmVROVBmZko3U0RMMFEzTko1S3cxak1UUHE1OXhzWkVVUEhobF82UlJDb1VsV1QtdDFRSWc?oc=5",
-      "title": "Smoke near Quaker Oats in downtown Cedar Rapids - KGAN",
-      "source_id": "gnews-us",
-      "published": "2026-10-24T23:15:00Z",
-      "topics": [
-        "us"
-      ],
-      "excerpt": "",
-      "image": null,
-      "publisher": "KGAN",
-      "publisher_domain": "cbs2iowa.com"
     },
     {
       "id": "08e405ddd9d7d5291bf0c424be3c23af44d00ae1",
@@ -112,7 +121,8 @@
       "excerpt": "",
       "image": null,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "image_is_thumbnail": false
     },
     {
       "id": "3a05f4249a23be52b14d7104ffb4b9e9638524bb",
@@ -126,7 +136,8 @@
       "excerpt": "",
       "image": null,
       "publisher": "The New York Times",
-      "publisher_domain": "www.nytimes.com"
+      "publisher_domain": "www.nytimes.com",
+      "image_is_thumbnail": false
     },
     {
       "id": "96fb79d52910a2e51807a115cb199d8f7dd49def",
@@ -140,7 +151,8 @@
       "excerpt": "",
       "image": null,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "image_is_thumbnail": false
     },
     {
       "id": "8ec5e9b7ba4d4bd986a4a086e0513cf0dc4ccf15",
@@ -153,6 +165,7 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "The Guardian",
       "publisher_domain": "www.theguardian.com"
     },
@@ -167,6 +180,7 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "Fox News",
       "publisher_domain": "www.foxnews.com"
     },
@@ -181,6 +195,7 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "Fox Business",
       "publisher_domain": "www.foxbusiness.com"
     },
@@ -196,7 +211,8 @@
       "excerpt": "",
       "image": null,
       "publisher": "The New York Times",
-      "publisher_domain": "www.nytimes.com"
+      "publisher_domain": "www.nytimes.com",
+      "image_is_thumbnail": false
     },
     {
       "id": "a52db57f72754d2522633ae3b1a30a3f7f98d991",
@@ -209,6 +225,7 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "The Guardian",
       "publisher_domain": "www.theguardian.com"
     },
@@ -223,6 +240,7 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "Chicago Tribune",
       "publisher_domain": "www.chicagotribune.com"
     },
@@ -237,6 +255,7 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "AP News",
       "publisher_domain": "apnews.com"
     },
@@ -252,8 +271,11 @@
       ],
       "excerpt": "Raw, grilled, roasted, stuffed—there are many ways to enjoy bell peppers, also called capsicums, sweet peppers or paprika. Bell peppers originated in Central and South America and belong to the nightshade family along with tomatoes and eggplants.",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/-bell-peppers.jpg",
+      "image_is_thumbnail": true,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "image_tried_at": "2026-10-25T01:42:38Z",
+      "image_attempts": 1
     },
     {
       "id": "0b73bd1edbd31be85effaeaf91c2efaad861530f",
@@ -267,8 +289,11 @@
       ],
       "excerpt": "Stainless steel is widely used for its corrosion resistance, but it is not invincible. In environments containing chloride ions, such as seawater, pitting corrosion can occur. These pits often start at tiny particles called inclusions embedded in the steel.",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/where-does-pitting-cor.jpg",
+      "image_is_thumbnail": true,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "image_tried_at": "2026-10-25T01:42:38Z",
+      "image_attempts": 1
     },
     {
       "id": "f377686b97311ab2be50bd6e0a7e321d13e50adb",
@@ -281,6 +306,7 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "Los Angeles Times",
       "publisher_domain": "www.latimes.com"
     },
@@ -296,6 +322,7 @@
       ],
       "excerpt": "The top-tier 13-inch M5 MacBook Air listed on Amazon has dropped to its lowest price on the online retailer thanks to a $200 discount. This means that for $1,599, you can become the proud owner of the portable Mac that ships with not just 24GB of unified memory, but you also get a 1TB SSD, as Apple has raised the bar and the storage count with the latest model. Amazon has also discounted other con",
       "image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/13-inch-and-15-inch-M5-MacBook-Air-1-1456x819.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -310,6 +337,7 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "The New York Times",
       "publisher_domain": "www.nytimes.com"
     },
@@ -324,6 +352,7 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "Fox News",
       "publisher_domain": "www.foxnews.com"
     },
@@ -339,7 +368,8 @@
       "excerpt": "",
       "image": null,
       "publisher": "AP News",
-      "publisher_domain": "apnews.com"
+      "publisher_domain": "apnews.com",
+      "image_is_thumbnail": false
     },
     {
       "id": "72622a12ab71f51fd6c075779486d504d3721032",
@@ -352,6 +382,7 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "CNBC",
       "publisher_domain": "www.cnbc.com"
     },
@@ -366,6 +397,7 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "Tampa Bay Times",
       "publisher_domain": "www.tampabay.com"
     },
@@ -382,8 +414,11 @@
       ],
       "excerpt": "Understanding instabilities and turbulence in plasmas is one of the key challenges across a wide range of plasma research fields, including nuclear fusion, astrophysics and laser-plasma physics. In plasmas, slight disturbances can grow due to instabilities, and energy is transferred between structures of various sizes due to turbulence. These phenomena give rise to structures ranging from very sma",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/worlds-first-simultane.jpg",
+      "image_is_thumbnail": true,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "image_tried_at": "2026-10-25T01:42:38Z",
+      "image_attempts": 1
     },
     {
       "id": "9392e3d1c386e8eb65db1dc301706fbbfa8b76ae",
@@ -396,6 +431,7 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "Daily Kos",
       "publisher_domain": "www.dailykos.com"
     },
@@ -411,6 +447,7 @@
       ],
       "excerpt": "A new GPU unlock tool has unlocked the full potential of NVIDIA's RTX 30 & RTX 40 GPUs, achieving faster AI LLM performance and compute capabilities. Zagitta \"GPU-Unlock\" Tool Gives NVIDIA RTX 30/40 GPUs A New Life In AI LLMs, As Compute Gets Unlocked To Original Rates Back in the crypto mining days, NVIDIA had the compute performance of its GeForce RTX 30 GPUs virtually unlocked through BIOS firm",
       "image": "https://cdn.wccftech.com/wp-content/uploads/2023/02/NVIDIA-GeForce-RTX-3090-Ti-RTX-3080-Ti-RTX-3080-RTX-3070-BestBuy-Clearance-Deals-_1.webp",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -425,6 +462,7 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "The Guardian",
       "publisher_domain": "www.theguardian.com"
     },
@@ -440,6 +478,7 @@
       ],
       "excerpt": "Nearly four years after its release, Dead Space Remake remains one of the most visually impressive survival horror games on PC. Unfortunately, it also suffers from notoriously persistent traversal stutters, which occur when moving between different areas of the USG Ishimura, regardless of how powerful your hardware is. Now, a new community-developed mod called Ishimura Patch promises to address th",
       "image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/FI-18-1456x819.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -454,6 +493,7 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "The New York Times",
       "publisher_domain": "www.nytimes.com"
     },
@@ -468,6 +508,7 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "The New York Times",
       "publisher_domain": "www.nytimes.com"
     },
@@ -482,6 +523,7 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "The Hill",
       "publisher_domain": "thehill.com"
     },
@@ -498,8 +540,11 @@
       ],
       "excerpt": "Many topics in astronomy and astrophysics are esoteric. There's not much of a relationship between something like the supermassive black hole at the center of the Milky Way and the life of a regular person going about their business. But the sun is different. Its presence in our lives is inescapable. Its behavior, especially its flaring, has an impact.",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/how-flare-ribbons-reve.jpg",
+      "image_is_thumbnail": true,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "image_tried_at": "2026-10-25T01:42:38Z",
+      "image_attempts": 1
     },
     {
       "id": "fae5d71ec01606d87c3c22c87d99e3ee2f95d240",
@@ -512,6 +557,7 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "FOX 8 News",
       "publisher_domain": "fox8.com"
     },
@@ -526,6 +572,7 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "NBC News",
       "publisher_domain": "www.nbcnews.com"
     },
@@ -540,6 +587,7 @@
       ],
       "excerpt": "As Saturn drifts away, Fomalhaut reclaims its lonely place in the autumn sky, while its mysterious debris rings continue to intrigue astronomers.",
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/The-‘Loneliest-Star-Is-Back-in-the-Night-Sky-Heres-How-to-Find-It-scaled.png",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -555,7 +603,8 @@
       "excerpt": "",
       "image": null,
       "publisher": "CBS News",
-      "publisher_domain": "www.cbsnews.com"
+      "publisher_domain": "www.cbsnews.com",
+      "image_is_thumbnail": false
     },
     {
       "id": "fe5dda226496d21e7de4bde808f459887a93094d",
@@ -568,6 +617,7 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "CBS News",
       "publisher_domain": "www.cbsnews.com"
     },
@@ -583,8 +633,11 @@
       ],
       "excerpt": "The positron is the antimatter counterpart of the electron, identical in mass but carrying an equal and opposite electric charge. Like the electron, it also behaves like a tiny bar magnet, and according to a key prediction of the Standard Model of particle physics, its magnetic moment should be exactly equal and opposite to the electron's.",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/one-positron-cyclotron-2.jpg",
+      "image_is_thumbnail": true,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "image_tried_at": "2026-10-25T01:42:38Z",
+      "image_attempts": 1
     },
     {
       "id": "644a60824c9db677459a681d8fc7d994a1cdfeb7",
@@ -597,6 +650,7 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "WSJ",
       "publisher_domain": "www.wsj.com"
     },
@@ -611,6 +665,7 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "The Independent",
       "publisher_domain": "www.independent.co.uk"
     },
@@ -625,6 +680,7 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "The New York Times",
       "publisher_domain": "www.nytimes.com"
     },
@@ -639,6 +695,7 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "Fox News",
       "publisher_domain": "www.foxnews.com"
     },
@@ -654,6 +711,7 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "The Washington Post",
       "publisher_domain": "www.washingtonpost.com"
     },
@@ -668,6 +726,7 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "WSJ",
       "publisher_domain": "www.wsj.com"
     },
@@ -683,7 +742,8 @@
       "excerpt": "",
       "image": null,
       "publisher": "KOAT",
-      "publisher_domain": "www.koat.com"
+      "publisher_domain": "www.koat.com",
+      "image_is_thumbnail": false
     },
     {
       "id": "54c8c131fdb0dd65b0d2be711df84d2bfc6ef2aa",
@@ -696,6 +756,7 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "The Daily Beast",
       "publisher_domain": "www.thedailybeast.com"
     },
@@ -710,6 +771,7 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "AP News",
       "publisher_domain": "apnews.com"
     },
@@ -724,6 +786,7 @@
       ],
       "excerpt": "NASA's Artemis III will bring Orion, SpaceX Starship, and Blue Origin's lunar lander together for an unprecedented orbital test before the 2028 Moon landing.",
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/NASA-Reveals-New-Plan-for-Artemis-III-Moon-Lander-Test-Flight-scaled.png",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -738,6 +801,7 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "Politico",
       "publisher_domain": "www.politico.com"
     },
@@ -752,6 +816,7 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "The New York Times",
       "publisher_domain": "www.nytimes.com"
     },
@@ -767,8 +832,11 @@
       ],
       "excerpt": "Current HIV medicines are effective at suppressing the virus in the blood. However, HIV can remain \"asleep\" or dormant inside certain immune cells and in the brain. These hidden pockets of virus, called HIV reservoirs, are the main reason HIV cannot be cured with today's treatments.",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2021/hiv-2.jpg",
+      "image_is_thumbnail": true,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "image_tried_at": "2026-10-25T01:42:38Z",
+      "image_attempts": 1
     },
     {
       "id": "edc6dd1d7537852cbffd1a9879c828f15ec7bd5d",
@@ -782,6 +850,7 @@
       ],
       "excerpt": "For a limited time, Newegg is selling an expensive bundle at a price nearly $217 lower than usual, and this won't last long. 32 GB DDR5 Memory Becomes Cheap When Bundled With Ryzen 9600X and B650E Motherboard; Also Comes With a Free 850W PSU Valued at $84 We just stumbled upon an amazing hardware deal on Newegg. We try to come up with the best possible hardware deals these days, as component price",
       "image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Ryzen-9600X-bundle-deal-featured-1456x819.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -797,6 +866,7 @@
       ],
       "excerpt": "NVIDIA has officially brought DLSS 5 with 3D-Guided Neural Rendering to Portal with RTX and the Half-Life 2 RTX demo, allowing players to experience its latest AI-powered graphics technology in two classic Valve titles enhanced with full path tracing. Both games have also received additional rendering and performance improvements, including support for up to 6X Multi Frame Generation on compatible",
       "image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/FI-17-1456x819.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -812,7 +882,8 @@
       "excerpt": "",
       "image": null,
       "publisher": "The New York Times",
-      "publisher_domain": "www.nytimes.com"
+      "publisher_domain": "www.nytimes.com",
+      "image_is_thumbnail": false
     },
     {
       "id": "3446e0fa655758572f30a33a159e072fc648e430",
@@ -825,6 +896,7 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "The Daily Beast",
       "publisher_domain": "www.thedailybeast.com"
     },
@@ -841,8 +913,11 @@
       ],
       "excerpt": "Metallic materials used in extremely cold environments must maintain high strength, ductility and fracture toughness to support applications in aerospace, clean energy, superconducting systems and deep-space exploration. However, traditional alloys often suffer performance degradation at ultralow temperatures because of the long-standing trade-off between strength, ductility and toughness. Althoug",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/polyu-scholar-develops.jpg",
+      "image_is_thumbnail": true,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "image_tried_at": "2026-10-25T01:42:38Z",
+      "image_attempts": 1
     },
     {
       "id": "9011a476037f52d7c47670913f51be2894e64f24",
@@ -856,6 +931,7 @@
       ],
       "excerpt": "Yesterday, legendary game designer Shigeru Miyamoto spoke at a press conference following the news that he's scheduled to receive the prestigious Order of Culture award from Emperor Naruhito on November 3. Established in 1937, the Order of Culture rewards outstanding contributions to the nation's cultural development, with only a handful of recipients selected each year. Miyamoto is the first pers",
       "image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Shigeru-Miyamoto-Nintendo-HD-1456x819.jpeg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -871,6 +947,7 @@
       ],
       "excerpt": "The new tool reportedly helps the RTX 3090 Ti's BF16 compute performance jump from 87.5 FLOPS to 157 TFLOPS while also improving the vLLM inference speeds by up to 36%. Open-Source Project \"GPU Unlock\" Bypasses NVIDIA's Software-Level Restrictions on GeForce GPUs, Unlocking Professional-Grade Compute Capabilities A new trick has been unlocked to bypass NVIDIA's software-level restrictions on consu",
       "image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/rtx-3090-ti-1456x819.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -886,6 +963,7 @@
       ],
       "excerpt": "NVIDIA's aging GeForce RTX 30 Series (codename Ampere) GPUs apparently have a considerable amount of untapped computing potential. A new open-source project called GPU Unlock, developed by GitHub user Zagitta, allows Ampere GPUs to overcome certain artificial performance restrictions, nearly doubling their Tensor Core compute throughput in specific workloads without requiring a modified NVIDIA dri",
       "image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/FI-16-1456x819.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -900,8 +978,24 @@
       ],
       "excerpt": "Tiny crystals aboard NASA’s Artemis I mission reveal unexpected details about radiation exposure near the Moon.",
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/Tiny-Crystals-Sent-Around-the-Moon-Have-Revealed-Something-Unexpected-About-Space-Radiation-scaled.png",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
+    },
+    {
+      "id": "029b5ba365e617b7d2590c961677ea6ba6b0b4db",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYnJoTVRqZGhfWXB3bGdfbUM5VVNrSU1OOU51NnVuM3lDMU00ZTB0OEtFTmh3OEhPME41bHhYNGVZQlA5QU5qUGpOeDBFVnNwZTZUU2FsM2dsaUFfdUFMUGtITlhZbHFpaXBTTFlCak40UlM2aXN1WG9LTDVTYzBHQ25JdDNyVEdQci1HLU5MMUFqVjZuM1hXenFkUQ?oc=5",
+      "title": "The 2028 crop hits New Mexico - Politico",
+      "source_id": "gnews-us",
+      "published": "2026-10-24T14:36:54Z",
+      "topics": [
+        "us"
+      ],
+      "excerpt": "",
+      "image": null,
+      "image_is_thumbnail": false,
+      "publisher": "Politico",
+      "publisher_domain": "www.politico.com"
     },
     {
       "id": "6c17b2f71a63e89ece290738b2b2f69df9ce255b",
@@ -914,6 +1008,7 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "Fox News",
       "publisher_domain": "www.foxnews.com"
     },
@@ -929,8 +1024,11 @@
       ],
       "excerpt": "What seabirds eat might seem like a good starting point for identifying species that tend to accumulate plastic in their digestive systems. Yet a recent global analysis suggests that mapping the evolutionary relatives of birds could offer better clues than their diets or feeding methods alone.",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/seabird-family-tree-of-1.jpg",
+      "image_is_thumbnail": true,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "image_tried_at": "2026-10-25T01:42:38Z",
+      "image_attempts": 1
     },
     {
       "id": "6e81fac95d8bbf145d4408a83e9ac7604dfc4857",
@@ -943,9 +1041,12 @@
         "znanost"
       ],
       "excerpt": "Learn more about ectopic pregnancies, why they're dangerous, and what treatments look like.",
-      "image": "https://cdn.discovermagazine.com/assets/image/60763/ectopic-pregnancy-t.jpg",
+      "image": "https://cdn.discovermagazine.com/assets/image/60763/ectopic-pregnancy-meta.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "image_tried_at": "2026-10-25T01:42:38Z",
+      "image_attempts": 1
     },
     {
       "id": "df0dcbb833e156925da701bf8efb5f488092e651",
@@ -958,6 +1059,7 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "NBC News",
       "publisher_domain": "www.nbcnews.com"
     },
@@ -972,6 +1074,7 @@
       ],
       "excerpt": "A dense object hidden 16,300 light-years away may capture a massive star at one of the earliest stages of its formation.",
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/ALMA-Detects-Rare-Dragon-Egg-That-Could-Reveal-the-First-Moments-of-a-Massive-Star-scaled.png",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -986,6 +1089,7 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "Al Jazeera",
       "publisher_domain": "www.aljazeera.com"
     },
@@ -1000,6 +1104,7 @@
       ],
       "excerpt": "Can ordinary plastic turn into diamond? Researchers set out to recreate the extreme conditions found inside distant planets, and the result surprised even them.",
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/A-German-Team-Found-a-Way-to-Turn-Ordinary-Plastic-Into-Trillions-of-Tiny-Diamonds-Using-Lasers-and-Actually-Managed-to-Catch-Them-scaled-1.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -1015,8 +1120,11 @@
       ],
       "excerpt": "In places like South Asia, Africa and parts of the Americas, monsoon rains supply water for drinking, crops and hydropower for billions of people. Understanding the patterns that monsoons tend to follow can help people plan for drought risks affecting agriculture, reservoirs and hydropower across distant regions.",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ancient-stalagmites-re.jpg",
+      "image_is_thumbnail": true,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "image_tried_at": "2026-10-25T01:42:38Z",
+      "image_attempts": 1
     },
     {
       "id": "56f542a3f067f1b31d19748c6c571a8984b43d0b",
@@ -1029,6 +1137,7 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "The New York Times",
       "publisher_domain": "www.nytimes.com"
     },
@@ -1043,6 +1152,7 @@
       ],
       "excerpt": "A volcano famous for its glowing lava lake has been quietly keeping something from the people who live beside it. Researchers watched it from space for six years, and what they noticed in the ground has them rethinking what’s happening far below the surface.",
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/A-German-Team-Found-a-Way-to-Turn-Ordinary-Plastic-Into-Trillions-of-Tiny-Diamonds-Using-Lasers-and-Actually-Managed-to-Catch-Them-1-scaled-1.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -1057,6 +1167,7 @@
       ],
       "excerpt": "For years, nothing in this cave could say who had been there. Then a few old bones went under the microscope, and the marks they carry began to tell a story no one had read yet.",
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/Six-Bone-Fragments-Pulled-from-a-Spanish-Cave-Just-Revealed-a-46000-Year-Old-Neanderthal-No-One-Knew-Was-There-scaled-1.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -1072,6 +1183,7 @@
       ],
       "excerpt": "The Tesla V100 has found itself a new purpose during the AI boom, meaning that NVIDIA's older GPUs are also being treated with the same value as token consumption from running LLMs continues to rise. According to the latest data, four graphics processors, the A100, H100, H200, and the RTX PRO 6000, have seen a rise in rental prices by up to 143 percent compared to the start of 2026. Despite GPU re",
       "image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/NVIDIA-A100-1456x819.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -1087,8 +1199,11 @@
       ],
       "excerpt": "Relatively simple changes to the way traditional brick kilns operate in Bangladesh can reduce pollution, save fuel and improve the quality of bricks they produce.",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/brick-kilns.jpg",
+      "image_is_thumbnail": true,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "image_tried_at": "2026-10-25T01:42:38Z",
+      "image_attempts": 1
     },
     {
       "id": "0a603154515b8e5c03e8a323f9913d02f378d69a",
@@ -1102,8 +1217,11 @@
       ],
       "excerpt": "The fossilized skull of a new species of mysterious meat-eating dinosaur from the Isle of Wight has been rediscovered in the collections of the Natural History Museum after over 100 years in storage.",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/uk-dinosaur-fossil-ide.jpg",
+      "image_is_thumbnail": true,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "image_tried_at": "2026-10-25T01:42:38Z",
+      "image_attempts": 1
     },
     {
       "id": "9e6fc73e46b887cc8c00b6a9b5645ab5e2cff7d8",
@@ -1116,6 +1234,7 @@
       ],
       "excerpt": "“I have not had time to go through them.” That is the archaeologist who excavated the find, and it tells you something about the coins that came out of the ground. Buried between two stones, in two separate spots, the hoard is already rewriting a record in Finland. The question is what these coins are, and who they really belonged to.",
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/A-Man-Exploring-the-Countryside-With-His-Metal-Detector-Finds-Over-4-Kg-of-Silver-Coins-Buried-for-More-Than-1000-Years-scaled.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -1130,6 +1249,7 @@
       ],
       "excerpt": "Fifteen seasons in Antarctica. Only two encounters with one of the world’s rarest seals. For photographer Justin Hofman, spotting this elusive creature was never a goal, just a “wouldn’t that be cool” kind of thought. Then, far deeper south than he had ever traveled, something happened that he never believed was possible.",
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/A-Photographer-Spent-15-Seasons-in-Antarctica-and-Saw-Only-Two-of-These-Creatures-Then-Captured-Something-No-One-Had-Ever-Photographed-scaled.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -1144,6 +1264,7 @@
       ],
       "excerpt": "Anthropic sandbox-runtime (srt) is the open-source, OS-level sandbox behind Claude Code. It restricts file and network access for agents, MCP servers and CLI tools with Seatbelt on macOS and bubblewrap on Linux, no containers needed. The post Meet Anthropic’s sandbox-runtime: OS-Level Sandboxing for AI Agents, No Containers appeared first on MarkTechPost .",
       "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -1159,7 +1280,8 @@
       "excerpt": "",
       "image": null,
       "publisher": "Fox News",
-      "publisher_domain": "www.foxnews.com"
+      "publisher_domain": "www.foxnews.com",
+      "image_is_thumbnail": false
     },
     {
       "id": "7c6df155aa1f50a7747d88e346c275048b264f6b",
@@ -1172,6 +1294,7 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "The Guardian",
       "publisher_domain": "www.theguardian.com"
     },
@@ -1186,6 +1309,7 @@
       ],
       "excerpt": "They weren't afraid of no ghost",
       "image": "https://static.scientificamerican.com/dam/asset/095ddc3e-e8fc-47a5-861c-c9502dbf2c8e/ghostly-building.jpg?m=1792778705.043&w=1200",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -1200,6 +1324,7 @@
       ],
       "excerpt": "Discover how to extend agentic memory beyond basic prompts by building a stateful engineering copilot with Letta. This comprehensive guide covers inspectable core memory, archival vector retrieval, multi-agent shared state, custom tools, and portable workflows. The post Stateful Agentic Engineering Copilots with Letta: Core Memory, Shared State, Semantic Retrieval, Custom Tools, Streaming, and Por",
       "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f9e0.png",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -1215,8 +1340,11 @@
       ],
       "excerpt": "Punching a virtual response box or swinging a virtual lightsaber can dramatically improve learning on certain tasks, according to new research from Florida Atlantic University's College of Engineering and Computer Science, which challenges long-standing assumptions about how people learn.",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/fau-study-reveals-how-1.jpg",
+      "image_is_thumbnail": true,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "image_tried_at": "2026-10-25T01:42:38Z",
+      "image_attempts": 1
     },
     {
       "id": "94b56a64fe4eb38da769dae0bb7853d9c93cc23a",
@@ -1230,7 +1358,8 @@
       "excerpt": "",
       "image": null,
       "publisher": "The Hill",
-      "publisher_domain": "thehill.com"
+      "publisher_domain": "thehill.com",
+      "image_is_thumbnail": false
     },
     {
       "id": "3c546733481ed960090342faa0bc866cf09a8ad0",
@@ -1244,6 +1373,7 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "Los Angeles Times",
       "publisher_domain": "www.latimes.com"
     },
@@ -1258,6 +1388,7 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "Fox Business",
       "publisher_domain": "www.foxbusiness.com"
     },
@@ -1273,8 +1404,11 @@
       ],
       "excerpt": "Emergency crews scrambled on Saturday to restore power to tens of thousands of homes in Taiwan after Typhoon Champi's fierce winds battered the island, with the storm moving toward China and Japan.",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/typhoon-champi-dumped.jpg",
+      "image_is_thumbnail": true,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "image_tried_at": "2026-10-25T01:42:38Z",
+      "image_attempts": 1
     },
     {
       "id": "825aa065e2afff79d6e09ee535d4d865d3014c29",
@@ -1288,8 +1422,11 @@
       ],
       "excerpt": "NASA is moving fast on its plans to build a moon base and return astronauts to the lunar surface in as little as two years.",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/nasa-artemis-moon.jpg",
+      "image_is_thumbnail": true,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "image_tried_at": "2026-10-25T01:42:38Z",
+      "image_attempts": 1
     },
     {
       "id": "8d78858707a27cb916a3d3eac5309cf2abffe07b",
@@ -1302,6 +1439,7 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "The New York Times",
       "publisher_domain": "www.nytimes.com"
     },
@@ -1316,6 +1454,7 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "The New York Times",
       "publisher_domain": "www.nytimes.com"
     },
@@ -1330,13 +1469,14 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "The New York Times",
       "publisher_domain": "www.nytimes.com"
     },
     {
       "id": "07f1d2e10b1b6f4099734df68b6ef06acf93dbd3",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSzJzTkxtRVVkZWJTaXlwYVJsWGpjQnVoS1huZlBVbGpwOG9Wa3g2M1RmQ1lKbXB5VFdfUklvSWwxY3hoc253aGVLYldOc2tZLU1VWVhuYWlwa1BWZGVZb2ZBYmNXT1AzOFFNWmNSZGd0R0RrYVR1Nnh2ek1XUDljb2Z1bXA0ZzQwMkV5bDNENjdwRFll?oc=5",
-      "title": "A New 2028 Poll Finds Vance, Rubio and a Mishmash of Democrats in the Mix - The New York Times",
+      "title": "A 2028 Presidential Poll Finds Vance, Rubio and Several Democrats in the Mix - The New York Times",
       "source_id": "gnews-us",
       "published": "2026-10-24T09:02:43Z",
       "topics": [
@@ -1344,6 +1484,7 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "The New York Times",
       "publisher_domain": "www.nytimes.com"
     },
@@ -1358,6 +1499,7 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "NBC News",
       "publisher_domain": "www.nbcnews.com"
     },
@@ -1373,7 +1515,8 @@
       "excerpt": "",
       "image": null,
       "publisher": "NBC News",
-      "publisher_domain": "www.nbcnews.com"
+      "publisher_domain": "www.nbcnews.com",
+      "image_is_thumbnail": false
     },
     {
       "id": "bd87c1fe77bc4724f395c2465d59f30521ba83a9",
@@ -1387,6 +1530,7 @@
       ],
       "excerpt": "Intel's vice president and general manager for manufacturing development and customer engagement, Chris Auth, believes that his firm is better suited to using High NA EUV lithography machines than TSMC. Auth made the remarks during the Dwarkesh podcast, where he explained that since Intel relies on backside power delivery on its products, it can print circuits directly with High NA EUV. The podcas",
       "image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Intel-DC-CPU-1456x1456.webp",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -1401,6 +1545,7 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "WHP Harrisburg",
       "publisher_domain": "local21news.com"
     },
@@ -1415,6 +1560,7 @@
       ],
       "excerpt": "NVIDIA released Nemotron 3.5 Bolt E4B 4GB, an open small language model post-trained from Gemma 4 E4B for local voice assistants, game characters and robots, targeting about 4GB of VRAM on RTX and Jetson. The post NVIDIA Releases Nemotron 3.5 Bolt E4B 4GB: An Open Small Language Model for Local Voice Agents, Game Characters and Robots appeared first on MarkTechPost .",
       "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -1430,8 +1576,11 @@
       ],
       "excerpt": "The Malik Lab thrives on competition. But for HHMI investigator Harmit Malik and his team at the Fred Hutchinson Cancer Center, it's the genomes—not the people—that are in conflict. The lab studies rapid evolution—the genetic changes that happen in a species over a few generations rather than thousands of years. These fast changes are often fueled by genetic conflicts—competitions between differen",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/surveying-the-genetic.jpg",
+      "image_is_thumbnail": true,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "image_tried_at": "2026-10-25T01:42:38Z",
+      "image_attempts": 1
     },
     {
       "id": "8cd5159feed616f1bb39ae7f7be534aa44c964de",
@@ -1445,8 +1594,11 @@
       ],
       "excerpt": "Pollution from human-generated waste in marine ecosystems has reached critical levels, with cigarette butts (CBs) among the most persistent and harmful pollutants. Globally, an estimated 4.5 trillion cigarette butts are discarded annually, making them the most common type of litter on beaches over the past three decades.",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/coastal-transformation-1.jpg",
+      "image_is_thumbnail": true,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "image_tried_at": "2026-10-25T01:42:38Z",
+      "image_attempts": 1
     },
     {
       "id": "a3425ecd4fe570293935172cc74fe4cbc3b1f7a7",
@@ -1460,7 +1612,8 @@
       "excerpt": "",
       "image": null,
       "publisher": "The New York Times",
-      "publisher_domain": "www.nytimes.com"
+      "publisher_domain": "www.nytimes.com",
+      "image_is_thumbnail": false
     },
     {
       "id": "b34a365b3476017da235ad4a46658fb1335242fb",
@@ -1474,8 +1627,11 @@
       ],
       "excerpt": "Researchers at the University of Helsinki wanted to understand which is the dominant factor for species occurrence and abundance: the climate or habitat-related variables, such as their natural state and the share of land shaped by human activity. Solutions to mitigate biodiversity loss depend on the answer to this question.",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/logging-1.jpg",
+      "image_is_thumbnail": true,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "image_tried_at": "2026-10-25T01:42:38Z",
+      "image_attempts": 1
     },
     {
       "id": "f96cd53c074f99978ae417da4bc62e8c95face77",
@@ -1488,6 +1644,7 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "Yahoo Finance",
       "publisher_domain": "finance.yahoo.com"
     },
@@ -1503,7 +1660,8 @@
       "excerpt": "",
       "image": null,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "image_is_thumbnail": false
     },
     {
       "id": "99bf2d400c702c8a29430ff529e0c6cd34b4979a",
@@ -1516,6 +1674,7 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "CNN",
       "publisher_domain": "www.cnn.com"
     },
@@ -1531,8 +1690,11 @@
       ],
       "excerpt": "South Africa endured its worst year of load shedding (scheduled power cuts by the country's utility, Eskom) in 2023. The power went off on 335 of the year's 365 days, often several times a day. Since then, the country has gone more than a year and a half without these planned power cuts.",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/child-resting-their-he.jpg",
+      "image_is_thumbnail": true,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "image_tried_at": "2026-10-25T01:42:38Z",
+      "image_attempts": 1
     },
     {
       "id": "b57b4cadce3f6a334774a1182e4241e7648afdf0",
@@ -1545,6 +1707,7 @@
       ],
       "excerpt": "Kyutai released CADRE, a family of 7 open causal diffusion video autoencoders for interactive world models. World models built on CADRE run at 20 fps on 1 H100 and react in under 230 ms. The post Kyutai CADRE: Video Autoencoders That Cut World Model Lag Below 230 ms appeared first on MarkTechPost .",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:27:52Z",
@@ -1561,6 +1724,7 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "NBC News",
       "publisher_domain": "www.nbcnews.com"
     },
@@ -1576,8 +1740,11 @@
       ],
       "excerpt": "Researchers at the MRC Laboratory of Medical Sciences (LMS) have developed a new way to make glowing biological reporters more accurate, allowing scientists to track gene activity in living plants over days, weeks and potentially even months and years. The approach could help researchers study how plants respond to disease, pests and environmental stress, while opening the door to similar applicat",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/breakthrough-makes-glo.jpg",
+      "image_is_thumbnail": true,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "image_tried_at": "2026-10-25T01:42:38Z",
+      "image_attempts": 1
     },
     {
       "id": "f391ab36516777c2dae408a2188d98af8aba92a7",
@@ -1590,6 +1757,7 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "The New York Times",
       "publisher_domain": "www.nytimes.com"
     },
@@ -1604,6 +1772,7 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "Texas Public Radio | TPR",
       "publisher_domain": "www.tpr.org"
     },
@@ -1618,6 +1787,7 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "ABC11 News",
       "publisher_domain": "abc11.com"
     },
@@ -1632,6 +1802,7 @@
       ],
       "excerpt": "Moonshot AI released Kimi K3.1 Pro, a 2.8T-parameter, 104B-active MoE model with 1M-token context. It scores 65.7% on Terminal-Bench 4.0, costs $2/$10 per million tokens, and open weights arrive by Nov 4, 2026. The post Moonshot AI Releases Kimi K3.1 Pro: A 2.8T Total/104B Active Params (MoE) Model with 1M Context appeared first on MarkTechPost .",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:27:52Z",
@@ -1648,6 +1819,7 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "CBS News",
       "publisher_domain": "www.cbsnews.com"
     },
@@ -1663,7 +1835,8 @@
       "excerpt": "",
       "image": null,
       "publisher": "AP News",
-      "publisher_domain": "apnews.com"
+      "publisher_domain": "apnews.com",
+      "image_is_thumbnail": false
     },
     {
       "id": "a2e7d44f02e696affec9c646baab428abbdbddd1",
@@ -1677,6 +1850,7 @@
       ],
       "excerpt": "NVIDIA has released a major new update for its RTX Remix modding platform, bringing several substantial improvements to rendering quality, performance, and modding capabilities. Available through GitHub and the NVIDIA App, RTX Remix 1.6 introduces DLSS 5 with 3D-Guided Neural Rendering, up to 6X Multi Frame Generation, native Windows on ARM support, and expanded AI-powered asset creation tools. Pe",
       "image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/FI-14-1456x819.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -1692,8 +1866,11 @@
       ],
       "excerpt": "When heavy rain hits a city, knowing where water will accumulate is only part of the picture. Who lives in the affected buildings? How might flooding disrupt their lives? And where could additional support make the greatest difference?",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/flooding-1.jpg",
+      "image_is_thumbnail": true,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "image_tried_at": "2026-10-25T01:42:38Z",
+      "image_attempts": 1
     },
     {
       "id": "75c0b126475ab982083d788583091007916b039e",
@@ -1707,9 +1884,12 @@
         "znanost"
       ],
       "excerpt": "Learn how a wearable device can recreate smells transmitted over the internet, potentially bringing a new sensory dimension to virtual experiences.",
-      "image": "https://cdn.discovermagazine.com/assets/image/60768/smell-over-internet-t.jpg",
+      "image": "https://cdn.discovermagazine.com/assets/image/60768/smell-over-internet-meta.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "image_tried_at": "2026-10-25T01:42:38Z",
+      "image_attempts": 1
     },
     {
       "id": "fa22d6b281fef9dfa5f48259392767c4046e0f35",
@@ -1722,9 +1902,12 @@
         "znanost"
       ],
       "excerpt": "Learn more about Mount Erebus, why it's so unique, and what modern technology has told us about it.",
-      "image": "https://cdn.discovermagazine.com/assets/image/60766/mount-erebus-t.jpg",
+      "image": "https://cdn.discovermagazine.com/assets/image/60766/mount-erebus-meta.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "image_tried_at": "2026-10-25T01:42:38Z",
+      "image_attempts": 1
     },
     {
       "id": "4036b91f345012a70d1683dbe110252b33b42cb2",
@@ -1738,6 +1921,7 @@
       ],
       "excerpt": "This week has been nothing but a litany of one AI-spurred scare after another, beginning with a spate of high-profile attacks around the globe widely pinned on jailbroken versions of DeepSeek's V4.1-Flash-1017 model, and culminating in a troubling anecdote from OpenAI itself, detailing how some of its AI agents were able to communicate with each other across isolated VMs by using nothing more than",
       "image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/OpenAI-Abliterated-DeepSeek-V4.1-Flash-1017-1-1456x989.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -1752,9 +1936,12 @@
         "znanost"
       ],
       "excerpt": "Learn about the spider-tailed horned viper, a snake that uses a spider-like appendage on the tip of its tail to lure in unsuspecting prey.",
-      "image": "https://cdn.discovermagazine.com/assets/image/60765/spider-tailed-horned-viper-tail-t.jpg",
+      "image": "https://cdn.discovermagazine.com/assets/image/60765/spider-tailed-horned-viper-tail-meta.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "image_tried_at": "2026-10-25T01:42:38Z",
+      "image_attempts": 1
     },
     {
       "id": "a5a949deb9f3bc02eeee3ad1ef39ae7db3c94e7f",
@@ -1768,8 +1955,11 @@
       ],
       "excerpt": "Researchers at AIST have directly observed magnetic flux quanta generated in a superconductor by photon absorption and demonstrated a new principle of photon detection that identifies the number of photons based on the number of these flux quanta.",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/demonstration-of-a-new.jpg",
+      "image_is_thumbnail": true,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "image_tried_at": "2026-10-25T01:42:38Z",
+      "image_attempts": 1
     },
     {
       "id": "b8f1a8fb46dc4c1a3bb96c97a78328071c01f770",
@@ -1782,6 +1972,7 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "TWZ",
       "publisher_domain": "www.twz.com"
     },
@@ -1796,6 +1987,7 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "AP News",
       "publisher_domain": "apnews.com"
     },
@@ -1811,6 +2003,7 @@
       ],
       "excerpt": "AMD's Zen 6 core architecture has been tested in Geekbench, showcasing strong single-core performance versus Zen 5, which is great news for those waiting for next-gen Ryzen CPUs. AMD 4 GHz \"Zen 6\" CPU Comes Close To A 5.5 GHz \"Zen 5\" CPU, And That Means Next-Gen Ryzen Chips Can Offer A Fantastic Leap In Performance The AMD EPYC 9006 \"Venice\" CPU lineup launched a few months back and has been shipp",
       "image": "https://cdn.wccftech.com/wp-content/uploads/2026/07/AMD-Zen-6-1456x796.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -1826,8 +2019,11 @@
       ],
       "excerpt": "Masculinity content promises young men self-optimization and success, but often delivers health harms, risk-taking, unattainable standards, gender stereotypes and misogyny. The latter is the strongest predictor of violent extremism.",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/its-pretty-toxic-but-j.jpg",
+      "image_is_thumbnail": true,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "image_tried_at": "2026-10-25T01:42:38Z",
+      "image_attempts": 1
     },
     {
       "id": "5a9597843f9bb794d7aba0a391b1c80052d0a71c",
@@ -1842,8 +2038,11 @@
       ],
       "excerpt": "The new RFD4-Proteina unified generative model for protein design—created by the Institute for Protein Design (IPD) in collaboration with NVIDIA—uses advanced AI to generate entirely new protein sequences and structures, achieving computational design success rates five to 10 times higher than previous models and generating candidates five to 10 times faster.",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/manchester-scientists-5.jpg",
+      "image_is_thumbnail": true,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "image_tried_at": "2026-10-25T01:42:38Z",
+      "image_attempts": 1
     },
     {
       "id": "52e19618b7ea36510bfb55c768c69e975539a3f6",
@@ -1856,6 +2055,7 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "The New York Times",
       "publisher_domain": "www.nytimes.com"
     },
@@ -1871,8 +2071,11 @@
       ],
       "excerpt": "Researchers at AIST have demonstrated the synthesis of nanoporous carbonaceous materials and carbonaceous materials with layered nanostructures through a simple process involving the chemical modification of common sugars such as sucrose and fructose.",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/chemically-modified-su.jpg",
+      "image_is_thumbnail": true,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "image_tried_at": "2026-10-25T01:42:38Z",
+      "image_attempts": 1
     },
     {
       "id": "a5184cfa33d2e1c13c24827a4caf062e7e3f2620",
@@ -1886,8 +2089,11 @@
       ],
       "excerpt": "Consumers routinely ignore information when making purchases. They overlook the tax attached to a price, skim past ingredient lists and often fail to process exact numbers with any precision.",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/used-cars.jpg",
+      "image_is_thumbnail": true,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "image_tried_at": "2026-10-25T01:42:38Z",
+      "image_attempts": 1
     },
     {
       "id": "41819d28875223bc0dd253541af5fd19ad7334ed",
@@ -1900,9 +2106,12 @@
         "znanost"
       ],
       "excerpt": "Learn more about interstellar travel and what it would look like to travel to Proxima Centauri.",
-      "image": "https://cdn.discovermagazine.com/assets/image/60764/proxima-centauri-b-t.jpg",
+      "image": "https://cdn.discovermagazine.com/assets/image/60764/proxima-centauri-b-meta.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "image_tried_at": "2026-10-25T01:42:38Z",
+      "image_attempts": 1
     },
     {
       "id": "c0d2d6549409415db938b13e946a9281f2e49df1",
@@ -1915,6 +2124,7 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "The San Francisco Standard",
       "publisher_domain": "sfstandard.com"
     },
@@ -1930,8 +2140,11 @@
       ],
       "excerpt": "A review by Tohoku University researchers identifies key molecular features that could guide the development of more effective materials for removing PFAS from water. The study is published in the journal ACS Materials Au.",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/designing-better-adsor.jpg",
+      "image_is_thumbnail": true,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "image_tried_at": "2026-10-25T01:42:38Z",
+      "image_attempts": 1
     },
     {
       "id": "5a82d11ebd825aa2c61c367949e83a5540f9ffe8",
@@ -1945,8 +2158,11 @@
       ],
       "excerpt": "In 1953, two physicists showed that an electron beam skimming past a grating emits light whose color depends only on the electron's speed and the grating's spacing. Known as Smith-Purcell radiation, this phenomenon has become a useful tool for building compact, tunable light sources and tracking particle beams without touching them.",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/plain-silicon-grating.jpg",
+      "image_is_thumbnail": true,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "image_tried_at": "2026-10-25T01:42:38Z",
+      "image_attempts": 1
     },
     {
       "id": "afa288032bdb7ac33c1af1427a0a43cf1d5ef780",
@@ -1959,6 +2175,7 @@
       ],
       "excerpt": "The mission, scheduled for the summer of 2027, will include be pivotal in deciding whether SpaceX or Blue Origin supplies the lunar lander for the first crewed trip to the lunar surface in decades",
       "image": "https://static.scientificamerican.com/dam/m/3114b95c23267e01/original/orion_transfer.jpg?m=1792789627.921&w=1200",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -1974,7 +2191,8 @@
       "excerpt": "",
       "image": null,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "image_is_thumbnail": false
     },
     {
       "id": "dd5cc9bd9cbc3241b3e1021f8af182764c86967d",
@@ -1988,6 +2206,7 @@
       ],
       "excerpt": "NVIDIA’s flagship Blackwell Ultra B300 has continued to find a place in Chinese infrastructure after an investigation by security firm Lava revealed that 32 of these high-performance units were operating inside the network of China Telecom, a state-owned telecommunications giant. The report concludes that, despite the U.S. export controls in place, these GPUs are still finding a way onto Chinese s",
       "image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/NVIDIA-Blackwell-Ultra-B300-1456x819.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -2003,8 +2222,11 @@
       ],
       "excerpt": "As politics in America become more polarized and each voting cycle seems more fraught than the last, a common narrative in the media is that each election is unique and increasingly unpredictable. But new research shows that congressional elections follow strong statistical patterns, even when individual races produce surprises.",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/elections-are-more-pre.jpg",
+      "image_is_thumbnail": true,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "image_tried_at": "2026-10-25T01:42:38Z",
+      "image_attempts": 1
     },
     {
       "id": "b0121fb96403ef39600c9e7cb81e6bccdae3be56",
@@ -2018,8 +2240,11 @@
       ],
       "excerpt": "Many of the most potent antibiotics originate from bacteria. A large proportion belong to a class of compounds known as nonribosomal peptides (NRP). They are produced by large bacterial enzyme machineries—the nonribosomal peptide synthetases, or NRPS for short. These function like molecular assembly lines: Similar to the stations in a car factory, where new parts are added to the car at each step,",
       "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/bacteria-constantly-re.jpg",
+      "image_is_thumbnail": true,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "image_tried_at": "2026-10-25T01:42:38Z",
+      "image_attempts": 1
     },
     {
       "id": "eb46f7a0a48b21e9fd7e91c69a3dfd5eaf2dfaa4",
@@ -2033,6 +2258,7 @@
       ],
       "excerpt": "Arkane Lyon, the acclaimed French studio behind Dishonored, Deathloop, and the in-development Marvel's Blade, has only a few weeks to avoid closure. According to Le Monde, the owner, Microsoft, informed employees on July 16 that it intended to close the Lyon-based developer, leaving 217 jobs at risk unless a buyer or partner can be found during France's mandatory consultation process. Consultation",
       "image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Arkane-Lyon-1456x819.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -2048,7 +2274,8 @@
       "excerpt": "",
       "image": null,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "image_is_thumbnail": false
     },
     {
       "id": "7995f4098cca2bbe66690fb304b4e9d392362e3e",
@@ -2061,9 +2288,12 @@
         "znanost"
       ],
       "excerpt": "Discover the top stories from Oct. 17 to Oct. 23, 2026, including why thousands of snakes close a road in Illinois twice a year and a mysterious space object found in a farmer's field.",
-      "image": "https://cdn.discovermagazine.com/assets/image/60760/shutterstock-1286497516-t.jpg",
+      "image": "https://cdn.discovermagazine.com/assets/image/60762/top-stories-oct-23-meta.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "image_tried_at": "2026-10-25T01:42:38Z",
+      "image_attempts": 1
     },
     {
       "id": "b86203602e1a0213033e0da8ae6e90988f269940",
@@ -2077,6 +2307,7 @@
       ],
       "excerpt": "With OpenAI and Anthropic both clamping down hard on the ability of China's AI labs to distill their leading models, many expected Moonshot's Kimi K3.1 Pro to flounder. And yet, not only has that eventually not come to pass, Moonshot seems to have surpassed the expectations of even its harshest critics, delivering a model that comfortably outranks both GPT-6 Astra and Claude Fable 5.1 on Artificia",
       "image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Moonshot-AI-Kimi-K3.1-Pro.jpeg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -2091,6 +2322,7 @@
       ],
       "excerpt": "The start-up is the brainchild of a founder of Anduril, the military tech firm, and Colossal Biosciences, a biotech company known for its de-extinction efforts",
       "image": "https://static.scientificamerican.com/dam/asset/418a8a79-9bf9-4317-8974-95b4650cc4d9/warhound.png?m=1792783306.598&w=1200",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -2105,6 +2337,7 @@
       ],
       "excerpt": "A remarkable image from Australia reveals the Andromeda Galaxy stretching across the night sky just above the horizon.",
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/A-Galaxy-2.5-Million-Light-Years-Away-Appears-Above-Australian-Hills-in-a-Stunning-Night-Sky-Image-scaled.png",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -2119,6 +2352,7 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "NPR",
       "publisher_domain": "www.npr.org"
     },
@@ -2133,6 +2367,7 @@
       ],
       "excerpt": "The latest batch of declassified files includes eyewitness sightings from earlier this year of a flying black triangle performing inexplicable aerial maneuvers",
       "image": "https://static.scientificamerican.com/dam/asset/70786ab8-5522-4ed2-a8c2-2bc9d9e7e511/DOW-UAP-PR46-Unresolved-UAP-Report-INDOPACOM-2024.jpg?m=1792781432.491&w=1200",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -2147,6 +2382,7 @@
       ],
       "excerpt": "New simulations reveal that the Sun’s apparently spinning jets may actually be folded plasma curtains shaped by enormous magnetic swirls.",
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/The-Suns-Mysterious-Spinning-Jets-May-Be-Hiding-Giant-Curtains-of-Plasma-scaled.png",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -2161,6 +2397,7 @@
       ],
       "excerpt": "The Active Denial System uses millimeter waves to heat people’s skin from as far as a kilometer away",
       "image": "https://static.scientificamerican.com/dam/asset/6a6b5460-57f8-4f9c-bd63-1d66be144e31/US-Mexico-border.jpg?m=1792779620.968&w=1200",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -2175,6 +2412,7 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "ABC News - Breaking News, Latest News and Videos",
       "publisher_domain": "abcnews.com"
     },
@@ -2189,6 +2427,7 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "NPR",
       "publisher_domain": "www.npr.org"
     },
@@ -2204,6 +2443,7 @@
       ],
       "excerpt": "A flood of information on the canceled Mass Effect game has just come out. First and foremost, it was reportedly called Mass Effect Universe, featured a customizable N7 agent with experimental hacking technology, and would have combined the original trilogy's handcrafted missions with more open-ended approaches inspired by Hitman. That's all according to Australian content creator Dantics, who say",
       "image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Mass-Effect-Universe-Liara-HD-1456x819.jpeg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -2218,6 +2458,7 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "Houston Chronicle",
       "publisher_domain": "www.houstonchronicle.com"
     },
@@ -2232,6 +2473,7 @@
       ],
       "excerpt": "NASA’s Psyche spacecraft is entering an intense propulsion phase as it travels toward a metal-rich asteroid, testing its engines in ways never achieved before.",
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/NASA-Is-Pushing-Its-Psyche-Spacecraft-to-the-Limit-as-It-Races-Toward-a-Mysterious-Asteroid-scaled.png",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -2246,6 +2488,7 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "KOAT",
       "publisher_domain": "www.koat.com"
     },
@@ -2260,6 +2503,7 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "WIRED",
       "publisher_domain": "www.wired.com"
     },
@@ -2275,6 +2519,7 @@
       ],
       "excerpt": "If you thought the RTX 5090 was really discontinued, then you need to see what's going on in these Chinese labs. Huge Inventory of RTX 5090 GPUs Appear in a Chinese Factory, Where Technicians Remove Their GPU Chip and VRAM to Deploy on Custom Boards This isn't new. We have already seen a huge inventory of the flagship Blackwell RTX 50 series GPUs being turned into AI GPUs in China last year as wel",
       "image": "https://cdn.wccftech.com/wp-content/uploads/2025/07/RTX-5090-AI-GPU-featured-1456x808.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -2289,6 +2534,7 @@
       ],
       "excerpt": "NASA’s Roman Space Telescope has cleared major operational tests as engineers fine-tune its ability to capture remarkably faint objects across the universe.",
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/NASAs-Roman-Telescope-Moves-Closer-to-Uncovering-Millions-of-Hidden-Cosmic-Objects-scaled.png",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -2303,6 +2549,7 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "The Guardian",
       "publisher_domain": "www.theguardian.com"
     },
@@ -2318,6 +2565,7 @@
       ],
       "excerpt": "You mostly hear about the RMA horror stories on Reddit, but we hardly see expensive hardware being repaired successfully. ASUS Fixes User's ROG Astral RTX 5090, Which Had Malfunctioning Fans Instead of Offering a Full Refund as We Usually See These days, getting your GPU replaced, especially if it's an RTX 5090, is incredibly difficult. Many vendors try to find excuses not to honor the warranty cl",
       "image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/ASUS-ROG-Astral-RTX-5090-RMA-7-1456x869.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -2333,6 +2581,7 @@
       ],
       "excerpt": "The Ryzen 9 5950X might be a couple of generations old, but it still has adequate kick when it comes to multi-core performance, and one customer must have landed on a salivating deal on AliExpress, otherwise we see no reason why the buyer would resort to such risk. Unfortunately, shopping from overseas online retailers has its share of pitfalls, and on this occasion, instead of receiving a brand-n",
       "image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/AMD-Athlon-X4-CPU-1456x819.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -2347,6 +2596,7 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "Politico",
       "publisher_domain": "www.politico.com"
     },
@@ -2361,6 +2611,7 @@
       ],
       "excerpt": "A distant galaxy distorted by gravity is helping NASA prepare its next space telescope to investigate the universe's invisible matter.",
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/NASAs-Hubble-Spots-a-Cosmic-Illusion-That-Could-Reveal-the-Universes-Hidden-Matter-scaled.png",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -2375,6 +2626,7 @@
       ],
       "excerpt": "Six stone coffins waited deep below a medieval church, where centuries of burials had piled up in silence.",
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/A-hidden-staircase-opened-the-way-to-an-ancient-burial-vault-scaled.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -2389,6 +2641,7 @@
       ],
       "excerpt": "For years, what happens when black holes meet has remained out of reach. Now, something unusual in a distant galaxy may be about to change that.",
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/Astronomers-Found-Evidence-of-Two-Black-Holes-Locked-in-a-121-Day-Orbit-With-a-Possible-Merger-in-100-Years-scaled-1.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -2403,6 +2656,7 @@
       ],
       "excerpt": "In 2019, a team of archaeologists began exploring the waters around Kasos, a small, isolated island mentioned in an epic. Four years later, their shipwreck survey had delivered results beyond what they had anticipated.",
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/Archaeologists-Followed-a-3000-Year-Old-Epic-Poem-to-the-Seabed-and-Discovered-a-Shipwreck-Graveyard-Just-155-Feet-Below-the-Surface-scaled-1.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -2417,6 +2671,7 @@
       ],
       "excerpt": "It is possible to take lessons from exposure therapy and apply them outside the clinic, experts say",
       "image": "https://static.scientificamerican.com/dam/asset/17d02aff-4d71-45f0-9bad-423ae4f7b4f0/psychology-concept.jpg?m=1792691002.528&w=1200",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -2431,6 +2686,7 @@
       ],
       "excerpt": "Beneath the Atlantic, a new cable is being planned that could change what we think of as “fast.” Backed by one of the biggest names in tech, it will stretch across thousands of kilometers of ocean floor, and its capacity is so large that the number alone barely means anything.",
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/Meta-Is-Building-a-4300-Mile-Cable-Beneath-the-Atlantic-That-Could-Move-25000-HD-Movies-in-a-Single-Second-scaled.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -2445,6 +2701,7 @@
       ],
       "excerpt": "Six fossilized headshields, collected in southwestern China, belong to a jawless fish that lived about 419 million years ago. Scientists have now given it a name and a place in the family tree. But it is the way its head is built that raises the real question: where, and how, did this creature spend its days?",
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/A-419-Million-Year-Old-Fish-Found-in-China-Has-an-Unusual-Feature-That-Reveals-How-It-Lived-on-the-Seafloor-scaled-1.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -2459,6 +2716,7 @@
       ],
       "excerpt": "A freshly raked lawn may look perfect, but scientists found something alarming happening beneath the bare soil.",
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/a-woolly-bear-caterpillar-Pyrrharctia-isabella-among-fallen-autumn-leaves-scaled.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -2473,6 +2731,7 @@
       ],
       "excerpt": "Some volcanic rocks carry a strange fingerprint that shouldn’t be there. Scientists tried to explain it with everything they knew about the young Earth, and it still didn’t add up. Now a new study points to a possible source, and it’s hiding far deeper than anyone looked before.",
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/Scientists-Traced-a-Strange-Hydrogen-Fingerprint-in-Icelands-Lava-Back-to-the-Deepest-Place-on-Earth-and-It-May-Not-Be-What-They-Expected-scaled.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -2487,6 +2746,7 @@
       ],
       "excerpt": "Although Phobos and Deimos may look like lumpy space potatoes, they’re actually moons of Mars. No one knows how they formed, but a newly launched spacecraft should soon offer answers",
       "image": "https://static.scientificamerican.com/dam/asset/e5fd8dc2-128d-4887-acb9-edacf2a6232d/phobos-pia10368-1920x1200-1.jpg?m=1792699551.472&w=1200",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -2501,6 +2761,7 @@
       ],
       "excerpt": "An archaeologist spotted strange fractures a century ago. Modern forensic science reveals what he may have missed.",
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/Egypts-First-Pharaohs-Take-Hundreds-of-People-to-Their-Graves-scaled.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -2515,6 +2776,7 @@
       ],
       "excerpt": "A definition would help Americans eat healthier food, experts say. It's turned out to be harder than expected",
       "image": "https://static.scientificamerican.com/dam/asset/6e4bcf32-b198-45ae-9867-6519607c5559/cupcake.jpg?m=1792416504.598&w=1200",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -2529,6 +2791,7 @@
       ],
       "excerpt": "The science of handling uncertainty, anxiety and stress",
       "image": "https://static.scientificamerican.com/dam/asset/675257c1-eb71-4b12-b450-ceb5638009b3/2610_SQ_FRI_BRAIN-1.jpeg?m=1792685690.295&w=1200",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -2543,6 +2806,7 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "The City Reporter",
       "publisher_domain": "www.thecityreporter.nyc"
     },
@@ -2557,6 +2821,7 @@
       ],
       "excerpt": "TinyFish published two engineering research articles on agentic search. One defines a 7-phase production architecture with evidence contracts and bounded retries. The other explains why its deep research system dropped a separate planner and per-query subagents. The post TinyFish Breaks Down Agentic Search Architecture for Production AI Agents appeared first on MarkTechPost .",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:27:52Z",
@@ -2573,6 +2838,7 @@
       ],
       "excerpt": "",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": "Cardinal News",
       "publisher_domain": "cardinalnews.org"
     },
@@ -2587,6 +2853,7 @@
       ],
       "excerpt": "Google Cloud announced Agent Compute Engine, a compute service that gives every AI agent its own hardware-isolated microVM with no credentials inside. It already runs Gemini agents and enters preview in the coming months. The post Google Cloud Launches Agent Compute Engine: A MicroVM per AI Agent appeared first on MarkTechPost .",
       "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f590.png",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -2601,6 +2868,7 @@
       ],
       "excerpt": "You.com launched Inference Router, an OpenAI-compatible API for 12 open-weight models with a 99.9% uptime SLA, zero data retention, 100% US hosting, server-side web search and no platform fee. The post You.com Launches Inference Router: 12 Open-Weight Models With 99.9% Uptime SLA appeared first on MarkTechPost .",
       "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/26a0.png",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -2616,6 +2884,7 @@
       ],
       "excerpt": "Nature, Published online: 23 October 2026; doi:10.1038/s41586-026-11303-y Author Correction: DYNLL1 binds to MRE11 to limit DNA end resection in BRCA1-deficient cells",
       "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11303-y/MediaObjects/41586_2026_11303_Fig1_HTML.png",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -2631,6 +2900,7 @@
       ],
       "excerpt": "Nature, Published online: 23 October 2026; doi:10.1038/d41586-026-03395-3 Andrew Robinson reviews five of the best science picks.",
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03395-3/d41586-026-03395-3_53815146.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -2646,6 +2916,7 @@
       ],
       "excerpt": "Nature, Published online: 23 October 2026; doi:10.1038/d41586-026-02582-6 What can a researcher in an overworked laboratory do to take care of themselves and their lab-mates, and how should they navigate medical disclosure?",
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02582-6/d41586-026-02582-6_53830968.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -2661,6 +2932,7 @@
       ],
       "excerpt": "Nature, Published online: 23 October 2026; doi:10.1038/d41586-026-03383-7 You Can See Everything brings blood-testing start-ups back into the public eye. They persevere in Theranos’s shadow.",
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03383-7/d41586-026-03383-7_53895198.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -2676,6 +2948,7 @@
       ],
       "excerpt": "Nature, Published online: 23 October 2026; doi:10.1038/d41586-026-03416-1 Infectious-disease researchers say the risk of the livestock pathogen moving between people is low.",
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03416-1/d41586-026-03416-1_53891592.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -2691,6 +2964,7 @@
       ],
       "excerpt": "Nature, Published online: 23 October 2026; doi:10.1038/d41586-026-03108-w Fighting fit.",
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03108-w/d41586-026-03108-w_53800402.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -2706,6 +2980,7 @@
       ],
       "excerpt": "Nature, Published online: 23 October 2026; doi:10.1038/d41586-026-03418-z Nature staff discuss how precisely measuring a positron could shed light on one of physics’ greatest mysteries — plus, the latest on an ambitious mission to a Martian moon.",
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03418-z/d41586-026-03418-z_53895138.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -2721,6 +2996,7 @@
       ],
       "excerpt": "Nature, Published online: 23 October 2026; doi:10.1038/d41586-026-03417-0 Long-awaited results from phase III trial show huge benefits for treatment-resistant melanoma.",
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03417-0/d41586-026-03417-0_53894960.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -2736,6 +3012,7 @@
       ],
       "excerpt": "Nature, Published online: 23 October 2026; doi:10.1038/d41586-026-03318-2 Scientists tracked the changing sleep patterns of Indigenous people in Argentina who gained access to mains electricity — and smart phones.",
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03318-2/d41586-026-03318-2_53869076.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -2750,6 +3027,7 @@
       ],
       "excerpt": "The Merck-Moderna mRNA cancer vaccine helps prevent cancer recurrence and death, the new results show",
       "image": "https://static.scientificamerican.com/dam/asset/c4c5b45c-adec-4e39-b6a6-6df398515f37/Moderna.jpg?m=1792766690.164&w=1200",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -2764,9 +3042,12 @@
         "znanost"
       ],
       "excerpt": "Learn about the significance of two newly identified magma reservoirs at Nicaragua's Masaya volcano, famous for the lava lake at its summit.",
-      "image": "https://cdn.discovermagazine.com/assets/image/60758/masaya-volcano-t.jpg",
+      "image": "https://cdn.discovermagazine.com/assets/image/60758/masaya-volcano-meta.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "image_tried_at": "2026-10-25T01:42:38Z",
+      "image_attempts": 1
     },
     {
       "id": "d3a57e6c73d40191444dec1453b8eb75f5729e86",
@@ -2779,9 +3060,12 @@
         "znanost"
       ],
       "excerpt": "Learn how eland proteins found in 60,000-year-old ochre sediments from South Africa may point to unknown technical and symbolic behaviors of early humans.",
-      "image": "https://cdn.discovermagazine.com/assets/image/60756/klipdrift-t.jpg",
+      "image": "https://cdn.discovermagazine.com/assets/image/60756/klipdrift-meta.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "image_tried_at": "2026-10-25T01:42:38Z",
+      "image_attempts": 1
     },
     {
       "id": "2a8126ca4019e93d739321c440db1f614299bd18",
@@ -2794,9 +3078,12 @@
         "znanost"
       ],
       "excerpt": "USDA detects the New World screwworm in a Texas elk. Learn more about this outbreak and how to watch for infestations.",
-      "image": "https://cdn.discovermagazine.com/assets/image/60757/cochliomyia-hominivorax-new-world-screwworm-t.jpg",
+      "image": "https://cdn.discovermagazine.com/assets/image/60757/cochliomyia-hominivorax-new-world-screwworm-meta.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "image_tried_at": "2026-10-25T01:42:38Z",
+      "image_attempts": 1
     },
     {
       "id": "bc07662f4d21e4f83c3eb7a3f75dd7386967a633",
@@ -2809,9 +3096,12 @@
         "znanost"
       ],
       "excerpt": "Learn more about the shared neural code the brain uses to recognize emotions in different ways.",
-      "image": "https://cdn.discovermagazine.com/assets/image/60754/deep-talk-t.jpg",
+      "image": "https://cdn.discovermagazine.com/assets/image/60754/deep-talk-meta.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "image_tried_at": "2026-10-25T01:42:38Z",
+      "image_attempts": 1
     },
     {
       "id": "638ff9b82647404dca6b33317e8e502563d9bd8c",
@@ -2824,9 +3114,12 @@
         "znanost"
       ],
       "excerpt": "Meet Turritopsis dohrnii , a tiny jellyfish that can revert to an earlier stage of its life cycle when times are tough, offering insights into how to reverse aging.",
-      "image": "https://cdn.discovermagazine.com/assets/image/60753/immortal-jellyfish-t.jpg",
+      "image": "https://cdn.discovermagazine.com/assets/image/60753/immortal-jellyfish-meta.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "image_tried_at": "2026-10-25T01:42:38Z",
+      "image_attempts": 1
     },
     {
       "id": "b3c49bd304e62ef0dd11ea2717fc9cba014116e5",
@@ -2839,9 +3132,12 @@
         "znanost"
       ],
       "excerpt": "Psychotherapy during pregnancy may impact the infant's brain development. Learn more about a randomized clinical trial that linked depression and brain development, and why more study is still needed.",
-      "image": "https://cdn.discovermagazine.com/assets/image/60751/pregnancy-threapy-t.jpg",
+      "image": "https://cdn.discovermagazine.com/assets/image/60751/pregnancy-threapy-meta.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "image_tried_at": "2026-10-25T01:42:38Z",
+      "image_attempts": 1
     },
     {
       "id": "aff8cef290eac51a086d7b0d9a9f69789f02433d",
@@ -2854,6 +3150,7 @@
       ],
       "excerpt": "Means’s views on the COVID vaccine, raw milk and fluoride have all been criticized by health care professionals",
       "image": "https://static.scientificamerican.com/dam/asset/93e57095-dcba-4a40-a56f-f3df224f5254/Calley-Means.jpg?m=1792701262.696&w=1200",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -2868,6 +3165,7 @@
       ],
       "excerpt": "A new USB-sized device, tested in mice, could help people with type 2 diabetes better manage glucose levels",
       "image": "https://static.scientificamerican.com/dam/asset/49beebd0-4220-4fd4-8179-4c5f0ae10146/Red-Blood-Cells-shutterstock_1262675005.jpg?m=1792691538.481&w=1200",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -2882,6 +3180,7 @@
       ],
       "excerpt": "Liquid AI released RIPL, a real-time inference engine for its LFM models. On one B200, LFM2.5-1.2B on RIPL showed 14.4 to 28.4x lower p95 latency than Qwen3.5-0.8B on vLLM. The post Liquid AI Launches RIPL, a Real-Time Inference Engine for Sub-50 ms LFMs appeared first on MarkTechPost .",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:27:52Z",
@@ -2898,6 +3197,7 @@
       ],
       "excerpt": "Gradium has open-sourced Phonon, a family of on-device text-to-speech models. The English Phonon 31m ships under Apache 2.0, fits in 64.5 MB, and starts speaking in about 7 ms on a laptop CPU. The post Gradium Open-Sources Phonon, a 31M-Parameter On-Device TTS Model Under Apache 2.0 appeared first on MarkTechPost .",
       "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -2912,6 +3212,7 @@
       ],
       "excerpt": "Attacks against data centers in Europe and the Middle East are raising questions as to how we protect the infrastructure on which our digital lives depend",
       "image": "https://static.scientificamerican.com/dam/asset/b817dc33-a865-431d-888e-229dc19b5b0a/data-center.jpg?m=1792688011.37&w=1200",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -2926,6 +3227,7 @@
       ],
       "excerpt": "A distant red giant's violent eruptions reveal how a stellar companion and a powerful magnetic engine combine to produce extraordinary superflares.",
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/Scientists-Trace-a-Stars-Most-Powerful-Flares-to-an-Unexpected-Magnetic-Engine-scaled.png",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -2940,6 +3242,7 @@
       ],
       "excerpt": "NASA is working with California startup Inversion to explore a spacecraft maneuver that could transform how future missions enter orbit around other worlds.",
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/NASA-Is-Testing-a-New-Way-to-Reach-Mars-Without-Burning-Through-Tons-of-Fuel-scaled.png",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -2955,6 +3258,7 @@
       ],
       "excerpt": "AI’s solution to the Navier-Stokes problem, and the details of how it happened, preview a chaotic future for math—and the world",
       "image": "https://static.scientificamerican.com/dam/asset/676cb480-a9d0-4bb0-a42f-466e549cfa5c/ink-clash.jpg?m=1792683756.522&w=1200",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -2969,6 +3273,7 @@
       ],
       "excerpt": "A misidentified constellation could revise the timeline for Vincent van Gogh’s creation of his iconic painting",
       "image": "https://static.scientificamerican.com/dam/asset/09e53642-0e59-4569-a1a3-f9c8e9d0bdba/the-starry-night.jpg?m=1792686877.112&w=1200",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -2983,6 +3288,7 @@
       ],
       "excerpt": "NASA's revised Artemis schedule puts SpaceX and Blue Origin on a tight path toward the first crewed lunar landing in more than 50 years.",
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/NASAs-Moon-Landing-Plans-Just-Took-a-Major-Turn-and-SpaceX-and-Blue-Origin-Face-a-Race-Against-Time-scaled.png",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -2997,6 +3303,7 @@
       ],
       "excerpt": "European engineers have tested a foldable lunar crane designed to lift heavy cargo and help future landers deploy equipment on the Moon.",
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/Europe-Is-Building-a-Giant-Crane-for-the-Moon-and-It-Could-Change-How-Lunar-Missions-Work-scaled.png",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -3011,6 +3318,7 @@
       ],
       "excerpt": "Between 6 and 35 centimetres long, with eyes mounted on a horizontal bar, this creature lived 300 million years ago in the waters of what is now Illinois. When it was first described, it baffled everyone. Today, scientists are still trying to work out what it really was.",
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/It-Looks-Like-a-Sci-Fi-Reject-This-300-Million-Year-Old-Creature-Has-Baffled-Scientists-Since-1966-With-Eyes-on-a-Bar-and-a-Pincer-on-Its-Neck-scaled-1.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -3025,6 +3333,7 @@
       ],
       "excerpt": "Astronomers have spent years studying a colossal galaxy cluster caught in a cosmic collision that appears far too big, far too early. Now, a new study is asking an unsettling question: what if the invisible material that holds the universe together isn’t as simple as we thought?",
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/Astronomers-Found-This-Massive-Galaxy-Cluster-Weighing-Over-Two-Quadrillion-Suns-and-It-Shouldnt-Exist-Yet-scaled-1.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -3039,6 +3348,7 @@
       ],
       "excerpt": "Human-sized, likely feathered, with claws up to 8 inches long: a 120-million-year-old predator sat unnoticed in a London museum drawer for nearly a century.",
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/For-Nearly-100-Years-a-Dinosaur-Skull-Fragment-Sat-in-a-London-Museum-Drawer-Until-Researchers-Finally-Discovered-What-It-Was-Hiding-scaled-1.jpeg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -3053,6 +3363,7 @@
       ],
       "excerpt": "Deep beneath Egypt's ancient harbor, divers found a ring bearing a lost wonder.",
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/a-worn-bronze-ring-carries-an-extraordinary-ancient-image-scaled.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -3067,6 +3378,7 @@
       ],
       "excerpt": "Deep beneath Zambia's riverbank, archaeologists uncovered evidence of construction by builders whose identity is unknown.",
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/a-476000-Year-Old-Wooden-Structure-That-Predates-Our-Own-Species-scaled.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -3081,6 +3393,7 @@
       ],
       "excerpt": "It had no teeth, weighed about as much as a large dog, and was buried in Montana rock for far longer than anyone can easily imagine. Now a new study is asking a simple question about this “hell chicken”: what was it actually eating?",
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/Discovered-in-Montana-in-2011-This-Toothless-Dinosaur-Has-Finally-Revealed-the-First-Intact-Skull-of-Its-Kind-and-Scientists-Say-Its-Jaw-Worked-Like-a-Parrots-scaled.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -3095,6 +3408,7 @@
       ],
       "excerpt": "A routine excavation beneath Barcelona exposed ancient wooden ribs buried in sand for centuries.",
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/Thirty-curved-wooden-ribs-emerged-from-the-sand-beneath-Barcelona-scaled.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -3109,6 +3423,7 @@
       ],
       "excerpt": "Twice as wide as Jupiter, yet surprisingly light. This distant planet is full of surprises, and James Webb has just uncovered another one.",
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/This-Giant-Planet-Is-Twice-as-Wide-as-Jupiter-but-Has-the-Density-of-a-Marshmallow-and-James-Webb-Just-Revealed-Why-Its-Even-Stranger-scaled.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -3124,6 +3439,7 @@
       ],
       "excerpt": "Researchers fed fusion data to a new chip to see whether it could spot signs that superhot plasma is about to go haywire",
       "image": "https://static.scientificamerican.com/dam/asset/38a091ea-3dc2-42f4-82ed-e44a03e8b9e4/neuromorphic-Great-Sky-chip-from-BNL-release.jpg?m=1792614243.041&w=1200",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -3138,6 +3454,7 @@
       ],
       "excerpt": "A decades-long reef experiment uncovered an extraordinary lifespan and a troubling warning for an endangered species.",
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/Scientists-Think-It-Could-Live-Over-100-Years-scaled.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -3152,6 +3469,7 @@
       ],
       "excerpt": "Ancient Egypt’s first female ruler lived centuries before Nefertiti or Cleopatra",
       "image": "https://static.scientificamerican.com/dam/m/12406aaf11271bda/original/shutterstock_2327799319.jpg?m=1792612676.607&w=1200",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -3167,6 +3485,7 @@
       ],
       "excerpt": "Nature, Published online: 22 October 2026; doi:10.1038/d41586-026-03414-3 From underwater speakers to growing super-corals, scientists battle to save reefs around the world.",
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03414-3/d41586-026-03414-3_53891482.png",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -3182,6 +3501,7 @@
       ],
       "excerpt": "Nature, Published online: 22 October 2026; doi:10.1038/d41586-026-03371-x Application of the high-precision technique is part of a clinical trial to treat a genetic disease that can cause liver and nerve damage.",
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03371-x/d41586-026-03371-x_53883104.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -3197,6 +3517,7 @@
       ],
       "excerpt": "Nature, Published online: 22 October 2026; doi:10.1038/d41586-026-03357-9 Analysis of nearly 30,000 brain scans yields detailed timeline of how the brain matures — and hints at the consequences of disrupting it.",
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03357-9/d41586-026-03357-9_53887308.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -3212,6 +3533,7 @@
       ],
       "excerpt": "Nature, Published online: 22 October 2026; doi:10.1038/s41586-026-11312-x Current-Driven Molecular Machine with Rotation-Enhanced Conductance",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:27:52Z",
@@ -3230,6 +3552,7 @@
       ],
       "excerpt": "Nature, Published online: 22 October 2026; doi:10.1038/d41586-026-03389-1 As machines race ahead in solving problems, mathematicians must establish a new era that prizes human understanding over simply publishing more solutions.",
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03389-1/d41586-026-03389-1_53883260.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -3245,6 +3568,7 @@
       ],
       "excerpt": "Nature, Published online: 22 October 2026; doi:10.1038/d41586-026-03438-9 See what gave Denisovans their distinct look. Plus, a vaccine trial for Ebola could kick off this week in the Democratic Republic of the Congo and what makes a great climate graphic.",
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03438-9/d41586-026-03438-9_53894906.png",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -3259,9 +3583,12 @@
         "znanost"
       ],
       "excerpt": "Learn more about hooded vultures, why they're important to the environment, and why they're so endangered.",
-      "image": "https://cdn.discovermagazine.com/assets/image/60740/hooded-vultures-t.jpg",
+      "image": "https://cdn.discovermagazine.com/assets/image/60740/hooded-vultures-meta.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "image_tried_at": "2026-10-25T01:42:38Z",
+      "image_attempts": 1
     },
     {
       "id": "d1d777402ebb2369af2a83ec490eb7360ca9e353",
@@ -3274,9 +3601,12 @@
         "znanost"
       ],
       "excerpt": "Learn how the discovery of roads, terraces, and platforms covered by the thick jungle of the Machu Picchu valley may hint at a larger infrastructure surrounding the cultural heritage site.",
-      "image": "https://cdn.discovermagazine.com/assets/image/60749/machu-pichu-t.jpg",
+      "image": "https://cdn.discovermagazine.com/assets/image/60749/machu-pichu-meta.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "image_tried_at": "2026-10-25T01:42:38Z",
+      "image_attempts": 1
     },
     {
       "id": "166ee6a9d17b83eb89a6e0b75e0066fde8d97e77",
@@ -3289,9 +3619,12 @@
         "znanost"
       ],
       "excerpt": "Learn more about what researchers found at this ancient base camp and what it reveals about life at the time.",
-      "image": "https://cdn.discovermagazine.com/assets/image/60747/beringia-t.jpg",
+      "image": "https://cdn.discovermagazine.com/assets/image/60747/beringia-meta.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "image_tried_at": "2026-10-25T01:42:38Z",
+      "image_attempts": 1
     },
     {
       "id": "1aa0608936007714ab547dfad6d3383c0a80af8b",
@@ -3304,9 +3637,12 @@
         "znanost"
       ],
       "excerpt": "Learn more about a promising method for restoring bleached corals and its implications for the future.",
-      "image": "https://cdn.discovermagazine.com/assets/image/60743/coral-restoration-t.jpg",
+      "image": "https://cdn.discovermagazine.com/assets/image/60743/coral-restoration-meta.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "image_tried_at": "2026-10-25T01:42:38Z",
+      "image_attempts": 1
     },
     {
       "id": "03251564bd89e524026be8cebc000474723a171f",
@@ -3319,9 +3655,12 @@
         "znanost"
       ],
       "excerpt": "Learn how a Minnesota farmer found a mysterious metal object in his field and why experts believe it could have fallen from space.",
-      "image": "https://cdn.discovermagazine.com/assets/image/60742/space-object-found-in-minnesota-t.jpg",
+      "image": "https://cdn.discovermagazine.com/assets/image/60742/space-object-found-in-minnesota-meta.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "image_tried_at": "2026-10-25T01:42:38Z",
+      "image_attempts": 1
     },
     {
       "id": "d04f25a963570e36fa535bc90bba8a230f11f65c",
@@ -3334,6 +3673,7 @@
       ],
       "excerpt": "President Donald Trump’s nominee to replace Stone, James O’Neill, has yet to have a confirmation hearing in the Senate, leaving the future leadership of the NSF unclear",
       "image": "https://static.scientificamerican.com/dam/asset/e7ddb6ad-91e2-498f-917d-5de97db11f7f/NSF.jpg?m=1792614894.401&w=1200",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -3348,6 +3688,7 @@
       ],
       "excerpt": "NASA astronauts are printing blood vessels and studying cancer in orbit, exploring how microgravity could advance medicine on Earth.",
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/NASA-Advances-Blood-Vessel-Printing-and-Cancer-Research-as-Astronauts-Prepare-for-Spacewalks-scaled.png",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -3362,6 +3703,7 @@
       ],
       "excerpt": "A new return capsule aboard SpaceX's Bandwagon-5 mission could bring orbital research and manufacturing closer to commercial reality.",
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/SpaceX-Launched-a-New-Kind-of-Spacecraft-and-Its-Mission-Goes-Beyond-Orbit-scaled.png",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -3376,6 +3718,7 @@
       ],
       "excerpt": "The cyclone’s winds hit 185 miles per hour—the strongest windspeed of any storm this year",
       "image": "https://static.scientificamerican.com/dam/asset/d873326b-3476-48e2-8cc9-c6e679d4d8cf/Champi.png?m=1792603414.33&w=1200",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -3390,6 +3733,7 @@
       ],
       "excerpt": "Five years after launch, NASA’s Lucy has revealed unusual asteroid structures as it prepares to explore Jupiter’s ancient Trojan swarms.",
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/Five-Years-Into-Its-Journey-NASAs-Lucy-Has-Already-Made-a-Discovery-No-One-Expected-scaled.png",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -3404,6 +3748,7 @@
       ],
       "excerpt": "Among thousands of ancient treasures, archaeologists uncovered a corroded blade with an origin far beyond Earth.",
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/a-strange-blade-concealed-a-story-that-began-far-from-Earth-scaled.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -3418,6 +3763,7 @@
       ],
       "excerpt": "Besides building crewed outposts at the lunar south pole, where else should astronauts go on the moon? An authoritative new report has suggestions",
       "image": "https://static.scientificamerican.com/dam/asset/3174b062-90c1-46b8-b8c4-188aa34716d2/gravity-moon-map.jpg?m=1792601893.94&w=1200",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -3433,6 +3779,7 @@
       ],
       "excerpt": "NASA's SR-1 Freedom is moving toward a 2028 launch, bringing nuclear electric propulsion and three robotic helicopters closer to Mars.",
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/NASAs-Next-Big-Space-Technology-Could-Run-on-Nuclear-Power-and-Its-First-Major-Test-Is-Getting-Closer-scaled.png",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -3447,6 +3794,7 @@
       ],
       "excerpt": "For the first time, scientists can make quantum measurements on a positron particle",
       "image": "https://static.scientificamerican.com/dam/asset/c8ce3ae2-d702-4225-a7d6-2c48e4cc1575/Particle-light-flare.jpg?m=1792593357.873&w=1200",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -3461,6 +3809,7 @@
       ],
       "excerpt": "A distant marsquake reveals that ancient faults beneath Mars’ largest canyon are still moving billions of years after its formation.",
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/A-2400-Mile-Scar-on-Mars-Is-Still-Moving-and-Scientists-Finally-Have-Proof-scaled.png",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -3475,6 +3824,7 @@
       ],
       "excerpt": "An amateur detectorist had already dug up 15 silver coins when his machine kept signaling, and he made a decision that changed everything that came next. Archaeologists soon arrived, and what they carefully lifted from the ground has been described as one of the biggest finds of its kind in the country.",
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/His-Metal-Detector-Wouldnt-Stop-Beeping-After-15-Coins-and-What-Lay-Underneath-Is-the-Biggest-Hoard-of-Its-Kind-Germany-Has-Seen-scaled.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -3489,6 +3839,7 @@
       ],
       "excerpt": "It began with a car climbing a wall, and it only got stranger from there. In front of a livestream audience, Tesla’s next-generation Roadster pulled off a performance that had little to do with ordinary driving.",
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/Tesla-Built-a-Car-That-Sticks-to-Ceilings-and-Flies-Like-a-Rocket-and-Its-Driver-Was-a-Mannequin-in-a-Spacesuit-scaled-1.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -3503,6 +3854,7 @@
       ],
       "excerpt": "Some places keep their secrets longer than others. Beneath a monument visited by millions, a team went looking for dirt and debris and found tunnels no one knew existed. Most of these tunnels make sense. One of them doesn’t, and the experts are the first to admit it.",
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/Mining-Specialists-Pulled-300-Tons-of-Soil-and-Rubble-From-Under-the-Hagia-Sophia-and-Found-Tunnels-Nobody-Knew-Existed-scaled-1.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -3517,6 +3869,7 @@
       ],
       "excerpt": "NASA has shared a new image from Hubble, and one distant galaxy is taking center stage. What makes this observation worth a closer look?",
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/A-Galaxy-37-Million-Light-Years-Away-Just-Gave-Hubble-a-Rare-Side-On-View-of-Its-Dust-Filled-Disk-scaled-1.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -3531,6 +3884,7 @@
       ],
       "excerpt": "Once a rival of Schwarzenegger, this 90-year-old champion is still winning. His comeback began with his wife.",
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/this-90-year-old-champion-is-still-winning-scaled.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -3545,6 +3899,7 @@
       ],
       "excerpt": "A medieval merchant may have lost this tiny book 700 years ago.",
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/a-miniature-wax-book-survived-with-mysterious-Latin-notes-still-intact-scaled.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -3559,6 +3914,7 @@
       ],
       "excerpt": "A tiny piece of amber from Myanmar has been holding onto something for 99 million years. When researchers scanned the amber with X-rays, they spotted a pattern that living animals still produce today. But how did it end up trapped there?",
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/What-Was-Hidden-Inside-This-99-Million-Year-Old-Piece-of-Amber-Is-Something-Lizards-Still-Do-Today-scaled-1.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -3573,6 +3929,7 @@
       ],
       "excerpt": "A more sustainable alternative is changing the way people clean.",
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/This-Water-Based-Alternative-Is-Changing-Bathrooms-Everywhere-scaled.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -3587,6 +3944,7 @@
       ],
       "excerpt": "Scientific American spoke to the candidate for Massachusetts’s fourth congressional district about climate change, misinformation and why, when it comes to health care, some socialism may be required",
       "image": "https://static.scientificamerican.com/dam/asset/7bf3e60c-8805-4474-8bcf-ac69248d5fec/Tom-Stalcup.jpeg?m=1792507334.262&w=1200",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -3601,6 +3959,7 @@
       ],
       "excerpt": "Slime mold aliens explore Pompeii—and humanity—in a new book by Annalee Newitz",
       "image": "https://static.scientificamerican.com/dam/asset/7c40feca-d4d7-49f0-a69b-c0ad65684d2e/2610_SQ_WED_ROAD-1-1.png?m=1792530611.541&w=1200",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -3616,6 +3975,7 @@
       ],
       "excerpt": "Learn how researchers have come up with two possible identities for a mysterious skeleton found in a Roman sarcophagus on the grounds of Westminster Abbey.",
       "image": "https://cdn.discovermagazine.com/undefined",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -3631,6 +3991,7 @@
       ],
       "excerpt": "Nature, Published online: 21 October 2026; doi:10.1038/s41586-026-10733-y Proteotoxic stress drives formation of GRP75-dependent protein aggregates that signal through mitochondria–ER contact sites to activate targeted quality-control pathways, enabling selective clearance of damaged proteins and preserving mitochondrial integrity.",
       "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10733-y/MediaObjects/41586_2026_10733_Fig1_HTML.png",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -3647,6 +4008,7 @@
       ],
       "excerpt": "Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03065-4 The use of artificial-intelligence tools in medicine is increasing. What types of technology might be on the horizon and how can such health-advice tools be tested?",
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03065-4/d41586-026-03065-4_53883050.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -3662,6 +4024,7 @@
       ],
       "excerpt": "Nature, Published online: 21 October 2026; doi:10.1038/s41586-026-11172-5 All-antiferromagnetic tunnel junctions can display both a large TMR and a reciprocal switching effect, octupole-driven spin-transfer torque, enabling nanoscale magnetic memory and potentially room-temperature terahertz spintronic devices.",
       "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11172-5/MediaObjects/41586_2026_11172_Fig1_HTML.png",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -3677,6 +4040,7 @@
       ],
       "excerpt": "Nature, Published online: 21 October 2026; doi:10.1038/s41586-026-11168-1 Fifteen years of atmospheric CO2 measurements show that the Amazon carbon sink is weakening, with fires, deforestation and climate stress driving increasingly high carbon emissions.",
       "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11168-1/MediaObjects/41586_2026_11168_Fig1_HTML.png",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -3692,6 +4056,7 @@
       ],
       "excerpt": "Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03110-2 A good way to learn?",
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03110-2/d41586-026-03110-2_53800418.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -3707,6 +4072,7 @@
       ],
       "excerpt": "Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03285-8 A 450,000-year stalagmite record of rainfall in the Amazon Basin , combined with existing Asian records, shows that the global monsoon system has oscillated regularly, strengthening in one hemisphere while weakening in the other. However, during intervals of warmth and warming climate, monsoons in both hemispheres failed for",
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03285-8/d41586-026-03285-8_53878656.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -3722,6 +4088,7 @@
       ],
       "excerpt": "Nature, Published online: 21 October 2026; doi:10.1038/s41586-026-11192-1 Near-complete deep-sea degradation of enzyme-embedded compostable polyesters shows that thermal enzyme embedding greatly accelerates breakdown across marine environments while preserving material performance, offering a promising strategy to mitigate persistent ocean plastic pollution.",
       "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11192-1/MediaObjects/41586_2026_11192_Fig1_HTML.png",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -3737,6 +4104,7 @@
       ],
       "excerpt": "Nature, Published online: 21 October 2026; doi:10.1038/s41586-026-11175-2 A functional architecture of the human insula links cytoarchitecture to directed and asymmetric electrophysiological interactions, with mechanistic implications for cognitive modulation of pain and interoceptive experience.",
       "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11175-2/MediaObjects/41586_2026_11175_Fig1_HTML.png",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -3752,6 +4120,7 @@
       ],
       "excerpt": "Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03355-x The United Nations’ latest climate report is a stark reminder that limiting warming to the safest levels is now likely to be out of reach.",
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03355-x/d41586-026-03355-x_53883066.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -3767,6 +4136,7 @@
       ],
       "excerpt": "Nature, Published online: 21 October 2026; doi:10.1038/s41586-026-11152-9 A multi-tissue signalling system links cold temperature to enhanced longevity and proteostasis in Caenorhabditis elegans.",
       "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11152-9/MediaObjects/41586_2026_11152_Fig1_HTML.png",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -3782,6 +4152,7 @@
       ],
       "excerpt": "Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03064-5 Touch-sensitive, light-emitting yarn can turn everyday clothing into washable, bendable user interfaces with dynamic graphics and versatile computing functions.",
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03064-5/d41586-026-03064-5_53863204.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -3798,6 +4169,7 @@
       ],
       "excerpt": "Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03077-0 An innovative artificial-intelligence application enhances weather forecasting in the difficult subseasonal range, providing accurate forecasts of precipitation, temperature and pressure 3–5 weeks in advance. The tool refines both physics- and AI-based weather models and improves the early prediction of extremes of heat, col",
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03077-0/d41586-026-03077-0_53882678.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -3813,6 +4185,7 @@
       ],
       "excerpt": "Nature, Published online: 21 October 2026; doi:10.1038/s41586-026-11128-9 Multifunctional digital fibres integrate display, touch sensing, computation and multimodal input–output, enabling flexible, washable garments with interactive graphical interfaces and wireless multimedia capabilities.",
       "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11128-9/MediaObjects/41586_2026_11128_Fig1_HTML.png",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -3828,6 +4201,7 @@
       ],
       "excerpt": "Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03326-2 Tech entrepreneurs are bringing an engineer’s eye to research funding. They must be open about their findings to reap maximum benefit.",
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03326-2/d41586-026-03326-2_53879802.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -3843,6 +4217,7 @@
       ],
       "excerpt": "Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03375-7 Researcher and policy adviser who championed tests and treatments for genetic diseases.",
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03375-7/d41586-026-03375-7_53883248.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -3858,6 +4233,7 @@
       ],
       "excerpt": "Nature, Published online: 21 October 2026; doi:10.1038/s41586-026-11188-x Experimental and modelling data indicate that WEE1 promotes re-entry of quiescent cells into the cell cycle, potentially explaining the toxic side effects of WEE1 inhibitors in cancer therapies.",
       "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11188-x/MediaObjects/41586_2026_11188_Fig1_HTML.png",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -3873,6 +4249,7 @@
       ],
       "excerpt": "Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03376-6 Experiment shows how these ecosystems could protect coastlines from huge storms — plus, new evidence hints at what Denisovans might have looked like.",
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03376-6/d41586-026-03376-6_53879440.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -3888,6 +4265,7 @@
       ],
       "excerpt": "Nature, Published online: 21 October 2026; doi:10.1038/s41586-026-11183-2 The use of zeolites with an appropriate pore structure combined with a high CO/olefin ratio is shown to catalyse olefin carbonylation and produce primary and secondary carboxylic acids as the main products.",
       "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11183-2/MediaObjects/41586_2026_11183_Fig1_HTML.png",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -3903,6 +4281,7 @@
       ],
       "excerpt": "Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03319-1 Analysis of some nearby stars shows that, despite their name, these bodies can be pink, yellow and more.",
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03319-1/d41586-026-03319-1_53869064.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -3918,6 +4297,7 @@
       ],
       "excerpt": "Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03066-3 In nematodes, a metabolite induced by the cold links low temperatures to a body-wide signal that promotes longevity. This signalling system is also seen in human cells.",
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03066-3/d41586-026-03066-3_53846254.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -3933,6 +4313,7 @@
       ],
       "excerpt": "Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03282-x Embedding enzymes that break down ester bonds into compostable polyesters enables rapid and complete biodegradation even in microbe-scarce environments. This method is effective in marine sites ranging from coastal sea water to the deep sea, and could therefore contribute towards solving the global plastic pollution problem.",
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03282-x/d41586-026-03282-x_53879620.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -3948,6 +4329,7 @@
       ],
       "excerpt": "Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03360-0 Archaeologists identified skull fragments from China as belonging to this group of ancient human relatives.",
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03360-0/d41586-026-03360-0_53887042.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -3963,6 +4345,7 @@
       ],
       "excerpt": "Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03311-9 Money from the world’s increasingly prosperous technology entrepreneurs has been flooding into biomedical research. Is it changing how science is done?",
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03311-9/d41586-026-03311-9_53860580.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -3978,6 +4361,7 @@
       ],
       "excerpt": "Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03063-6 Salt-marsh plants can protect inland areas against huge waves — but seemingly only up to a point, and big storms cause progressive damage.",
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03063-6/d41586-026-03063-6_53883100.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -3993,6 +4377,7 @@
       ],
       "excerpt": "Nature, Published online: 21 October 2026; doi:10.1038/s41586-026-11207-x Methanoglobus dolicholipophagus AA-75 is a thermophilic archaeon isolated from a Chinese petroleum reservoir that converts methanol into methane, carbon dioxide and acetate, and uses saturated and unsaturated fatty acids to produce methane.",
       "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11207-x/MediaObjects/41586_2026_11207_Fig1_HTML.png",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -4008,6 +4393,7 @@
       ],
       "excerpt": "Nature, Published online: 21 October 2026; doi:10.1038/s41586-026-11205-z Pinal, a 16-billion-parameter artificial intelligence model, designs functional proteins from natural-language descriptions, demonstrating experimentally validated activities and improved CO2-fixation product yields without iterative optimization.",
       "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11205-z/MediaObjects/41586_2026_11205_Fig1_HTML.png",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -4023,6 +4409,7 @@
       ],
       "excerpt": "Nature, Published online: 21 October 2026; doi:10.1038/s41586-026-11186-z CD51+ astrocytes promote synapse formation in the developing cortex, circuit plasticity in the hippocampus and circuit remodelling after stroke.",
       "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11186-z/MediaObjects/41586_2026_11186_Fig1_HTML.png",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -4039,6 +4426,7 @@
       ],
       "excerpt": "Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03320-8 Large language models suggest more tests, referrals and medications than human physicians do, driving up the cost of care.",
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03320-8/d41586-026-03320-8_53869122.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -4054,6 +4442,7 @@
       ],
       "excerpt": "Nature, Published online: 21 October 2026; doi:10.1038/s41586-026-11096-0 Now that hyperacute rejection of pig xenografts can be reliably prevented, subtler immune-mediated graft injuries have emerged that conventional diagnostics often miss; a multimodal precision diagnostic framework is proposed to detect these injuries earlier, guide personalized immunosuppression and inform future gene editing",
       "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11096-0/MediaObjects/41586_2026_11096_Fig1_HTML.png",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -4069,6 +4458,7 @@
       ],
       "excerpt": "Nature, Published online: 21 October 2026; doi:10.1038/s41586-026-11161-8 A multi-agent framework that coordinates data science, medical reasoning and health coaching over longitudinal wearable and clinical data to provide holistic personal health support is described.",
       "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11161-8/MediaObjects/41586_2026_11161_Fig1_HTML.png",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -4084,6 +4474,7 @@
       ],
       "excerpt": "Nature, Published online: 21 October 2026; doi:10.1038/s41586-026-11184-1 The structure of PCDH1 bound to the ANDV spike defines the structural determinants of hantavirus–receptor recognition.",
       "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11184-1/MediaObjects/41586_2026_11184_Fig1_HTML.png",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -4099,6 +4490,7 @@
       ],
       "excerpt": "Nature, Published online: 21 October 2026; doi:10.1038/s41586-026-11179-y An environment-regulated state is identified across multiple cell types at the root tip, revealing a shared dichotomy between cells with and without this state.",
       "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11179-y/MediaObjects/41586_2026_11179_Fig1_HTML.png",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -4114,6 +4506,7 @@
       ],
       "excerpt": "Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03334-2 Signals in the insula region, deep in the brain, can make people feel hot, tingly and nauseous.",
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03334-2/d41586-026-03334-2_53886862.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -4129,6 +4522,7 @@
       ],
       "excerpt": "Nature, Published online: 21 October 2026; doi:10.1038/s41586-026-11317-6 De novo design of enantioselective artificial metalloenzyme photocatalysts",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:27:52Z",
@@ -4146,6 +4540,7 @@
       ],
       "excerpt": "Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03257-y A 3D-printing method has made single crystals of metals and alloys in complex shapes and up to one metre in length, as needed for advanced technological applications.",
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03257-y/d41586-026-03257-y_53883112.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -4162,6 +4557,7 @@
       ],
       "excerpt": "Nature, Published online: 21 October 2026; doi:10.1038/s41586-026-11145-8 Salt marsh platforms resist erosion under extreme waves, but vegetation damage reduces wave attenuation; substantial wave attenuation by vegetation is mainly limited to low-energy marsh coasts with waves below 1 m.",
       "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11145-8/MediaObjects/41586_2026_11145_Fig1_HTML.png",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -4177,6 +4573,7 @@
       ],
       "excerpt": "Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03161-5 Tolullah Oni has developed a platform to transfer the intellectual capital of African diaspora scholars back to the continent.",
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03161-5/d41586-026-03161-5_53883188.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -4192,6 +4589,7 @@
       ],
       "excerpt": "Nature, Published online: 21 October 2026; doi:10.1038/s41586-026-11132-z Denisovans from the Xujiayao and other East Asian sites are morphologically distinctive, with a low cranial profile with near-parallel lateral walls, a massive supraorbital torus, a flat zygomaxillary region and weak prognathism.",
       "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11132-z/MediaObjects/41586_2026_11132_Fig1_HTML.png",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -4207,6 +4605,7 @@
       ],
       "excerpt": "Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03342-2 Physicists trap and cool down positron for months to measure its ‘magnetic moment’ with extraordinary precision.",
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03342-2/d41586-026-03342-2_53887176.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -4222,6 +4621,7 @@
       ],
       "excerpt": "Nature, Published online: 21 October 2026; doi:10.1038/s41586-026-11252-6 Author Correction: Catalyst-free, microdroplet-mediated waste plastic conversion to diacids",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:27:52Z",
@@ -4239,6 +4639,7 @@
       ],
       "excerpt": "Nature, Published online: 21 October 2026; doi:10.1038/s41586-026-11185-0 A free-form additive manufacturing method that uses alternating and pulsed heat inputs is described for fabricating metre-tall, centimetre-diameter single crystals of Ti-6Al-4V, as well as hard-to-process refractory metals, including W, Mo, Nb and MoNb alloys.",
       "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11185-0/MediaObjects/41586_2026_11185_Fig1_HTML.png",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -4254,6 +4655,7 @@
       ],
       "excerpt": "Nature, Published online: 21 October 2026; doi:10.1038/d41586-026-03400-9 Ultra-rich philanthropists are disrupting biomedical science. Plus, why physicists have kept an antimatter particle caged for months and whether it’s really possible to be swallowed by a whale and survive.",
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03400-9/d41586-026-03400-9_53890908.png",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -4269,6 +4671,7 @@
       ],
       "excerpt": "Nature, Published online: 21 October 2026; doi:10.1038/s41586-026-11194-z Climate-driven drought and prey decline triggered lynx predation on raptors, reducing raptor fitness and abundance and producing cascading effects across lower trophic levels.",
       "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11194-z/MediaObjects/41586_2026_11194_Fig1_HTML.png",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -4284,6 +4687,7 @@
       ],
       "excerpt": "Nature, Published online: 21 October 2026; doi:10.1038/s41586-026-11165-4 Genetic and proteomic analyses in human neurons and mouse models of Angelman syndrome (AS) show that loss of the ubiquitin ligase UBE3A leads to an overabundance of asparagine synthetase, and that this is linked with many AS phenotypes.",
       "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-11165-4/MediaObjects/41586_2026_11165_Fig1_HTML.png",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -4299,6 +4703,7 @@
       ],
       "excerpt": "Learn about Gomez's Hamburger, a huge astronomical object that offers an ideal view of the earliest stages of giant planet formation.",
       "image": "https://cdn.discovermagazine.com/undefined",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -4313,9 +4718,12 @@
         "znanost"
       ],
       "excerpt": "Learn more about the connection the Orionid meteor shower has to Halley's comet and why some of the meteors may appear colorful.",
-      "image": "https://cdn.discovermagazine.com/assets/image/60735/orionids-t.jpg",
+      "image": "https://cdn.discovermagazine.com/assets/image/60735/orionids-meta.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
-      "publisher_domain": null
+      "publisher_domain": null,
+      "image_tried_at": "2026-10-25T01:42:38Z",
+      "image_attempts": 1
     },
     {
       "id": "ba0aa7147e228a5635492c79354bf19680957943",
@@ -4328,6 +4736,7 @@
       ],
       "excerpt": "The shower’s shooting stars originate from Halley’s Comet",
       "image": "https://static.scientificamerican.com/dam/asset/3ec6b56c-7fce-4d51-b4f1-11b8fba1c2c7/orionids.jpg?m=1792529472.593&w=1200",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -4342,6 +4751,7 @@
       ],
       "excerpt": "The Emmy Award–winning actress revealed that a multiple sclerosis diagnosis in 2021 was incorrect. It’s a surprisingly common experience, experts say",
       "image": "https://static.scientificamerican.com/dam/asset/1296a597-8232-4280-a86b-a49f571cdcab/Applegate.jpg?m=1792530397.474&w=1200",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -4356,6 +4766,7 @@
       ],
       "excerpt": "Mapping a sphere onto a flat plane is mathematically impossible. But a better world map than the Mercator projection is",
       "image": "https://static.scientificamerican.com/dam/asset/ecb674ee-d180-495e-8b55-7df41b2d815f/Equal-Earth-projection.jpg?m=1792162360.46&w=1200",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -4370,6 +4781,7 @@
       ],
       "excerpt": "Mercury's giant iron core, mysterious dark crust, and ancient magnetic field hold secrets that scientists may only unlock by landing on its surface.",
       "image": "https://dailygalaxy.com/wp-content/uploads/2026/10/Mercury-Is-Hiding-Something-Beneath-Its-Surface-and-Scientists-Know-What-They-Need-to-Do-scaled.png",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -4384,6 +4796,7 @@
       ],
       "excerpt": "The Major Research Instrumentation program offers grants of up to $4 million to scientists buying or developing research equipment",
       "image": "https://static.scientificamerican.com/dam/asset/d5cf4547-d504-43af-b4c2-645204864d54/NSF-logo.jpg?m=1792508039.824&w=1200",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -4398,6 +4811,7 @@
       ],
       "excerpt": "The colors of dead stars come in a surprising rainbow of choices",
       "image": "https://static.scientificamerican.com/dam/asset/67802926-0ce7-4319-950f-f1e25fc26720/green_university-of-warwick-adj-3.jpg?m=1792506706.563&w=1200",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -4412,6 +4826,7 @@
       ],
       "excerpt": "A half century ago The Selfish Gene by Richard Dawkins became an instant bestseller and transformed public awareness of evolutionary biology. Today scientists are still debating its core message",
       "image": "https://static.scientificamerican.com/dam/asset/ee914aee-5897-4c72-8e2c-40e698cc064d/shutterstock_160874294.jpg?m=1792505126.597&w=1200",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -4426,6 +4841,7 @@
       ],
       "excerpt": "Solve a new-parent dilemma with this math puzzle",
       "image": "https://static.scientificamerican.com/dam/m/3da926a3ccf413bb/original/mathPuzzles-opener.jpg?m=1723038172.878&w=1200",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -4440,6 +4856,7 @@
       ],
       "excerpt": "These start-ups are trying to suck CO2 from the air and stash in the sea. Is it working?",
       "image": "https://static.scientificamerican.com/dam/asset/2a3b0f04-e239-4802-9d2c-110a9aff63ad/saw1126Luhn_lead.jpg?m=1791578350.184&w=1200",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -4454,6 +4871,7 @@
       ],
       "excerpt": "Regardless of whether social media addiction is real, these platforms hack the human brain, often to our detriment",
       "image": "https://static.scientificamerican.com/dam/asset/98719ffc-d401-4742-9916-dfb6cf3068e4/saw1126-FromTheEditor-IssueCover.jpg?m=1790608387.326&w=1200",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -4468,6 +4886,7 @@
       ],
       "excerpt": "Inside the process of isolating uranium-235",
       "image": "https://static.scientificamerican.com/dam/asset/72fb7db1-7e60-4a25-a78d-fcc8d67b1f9a/saw1126Gsci31_leadImage.png?m=1791314718.615&w=1200",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -4483,6 +4902,7 @@
       ],
       "excerpt": "Could disruptions in the flow of energy through mitochondria cause everything from type 2 diabetes to Alzheimer’s?",
       "image": "https://static.scientificamerican.com/dam/asset/1238bcf9-445c-46b5-8082-9e969a0e84ae/saw1126Jaco01.jpg?m=1790531976.207&w=1200",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -4497,6 +4917,7 @@
       ],
       "excerpt": "Letters to the editors for the June 2026 issue of Scientific American",
       "image": "https://static.scientificamerican.com/dam/asset/028fda0f-98b5-4fc0-bbfe-99d748fac59f/saw1126-Letters-IssueCover.jpg?m=1790608464.627&w=1200",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -4511,6 +4932,7 @@
       ],
       "excerpt": "In 1926 we wrote about how there was a good chance Mars had both plants and animals. And in 1876 we probed the duplicity of the artificial butter business",
       "image": "https://static.scientificamerican.com/dam/asset/b6effcf0-b0d4-413f-8149-acc0402caf5d/saw1126-HistoryLead.jpg?m=1791315116.324&w=1200",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -4526,6 +4948,7 @@
       ],
       "excerpt": "The U.S. hasn’t detonated a nuclear weapon since 1992. Now a fusion start-up whose co-founders include former national lab scientists could help conduct experiments that make sure the stockpile works",
       "image": "https://static.scientificamerican.com/dam/asset/2c46abd5-8095-4c6f-a02c-7f8dadad362e/saw1126SOW.jpg?m=1791308920.564&w=1200",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -4540,6 +4963,7 @@
       ],
       "excerpt": "Can our “prediction machine” brains learn to handle a world in chaos?",
       "image": "https://static.scientificamerican.com/dam/asset/80b8bc19-ba1e-463b-a934-6de23ef320ca/saw1126Szal01_Online.jpg?m=1791157879.138&w=1200",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -4554,6 +4978,7 @@
       ],
       "excerpt": "The once-fringe quantum Many Worlds theory now seems much more likely",
       "image": "https://static.scientificamerican.com/dam/asset/74e78a67-3d94-46a2-aa86-1d981561c73d/saw1126Stra01.jpg?m=1790692636.492&w=1200",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -4568,6 +4993,7 @@
       ],
       "excerpt": "Astronomers are finally figuring out what powers mysterious gamma-ray bursts",
       "image": "https://static.scientificamerican.com/dam/asset/0e9d489c-92aa-45ab-8733-dcb22d1374f9/saw1126Andr01.jpg?m=1791158683.981&w=1200",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -4582,6 +5008,7 @@
       ],
       "excerpt": "Scientists can’t figure out why ultraprocessed foods are unhealthy for us—and new studies suggest that the “processing” isn’t the problem",
       "image": "https://static.scientificamerican.com/dam/asset/8780deb1-a815-4e5a-8a76-21309b772fe7/saw1126SoH01.jpg?m=1791307095.972&w=1200",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -4596,6 +5023,7 @@
       ],
       "excerpt": "Solid-state transformer designs have been around for decades. Now data centers may finally give the chip-filled devices their killer application",
       "image": "https://static.scientificamerican.com/dam/asset/16f4139d-d39a-45ea-ba4a-35f1a0cc66b0/saw1126-Industry1.jpg?m=1790608663.159&w=1200",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -4610,6 +5038,7 @@
       ],
       "excerpt": "How doctors, scientists and “anonymous” programs are working to free people from their phones",
       "image": "https://static.scientificamerican.com/dam/asset/8a0060ee-4cb8-401a-8614-0a0f59b935d0/sa1126Pars03_online.jpeg?m=1790530840.998&w=1200",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -4624,6 +5053,7 @@
       ],
       "excerpt": "Play this crossword inspired by the November 2026 issue of Scientific American",
       "image": "https://static.scientificamerican.com/dam/m/1d759b538f62dbef/original/Games-AllGamesIcon.jpg?m=1720649253.362",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -4638,6 +5068,7 @@
       ],
       "excerpt": "Science in meter and verse",
       "image": "https://static.scientificamerican.com/dam/asset/bd6accdf-02ba-4119-a924-53cfbac73ffe/saw1126Meter.jpg?m=1791307401.781&w=1200",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -4653,6 +5084,7 @@
       ],
       "excerpt": "Nature, Published online: 20 October 2026; doi:10.1038/d41586-026-03358-8 Nature spoke with marine and anatomy specialists about the ‘modern-day Jonah’ film. Warning: spoilers ahead.",
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03358-8/d41586-026-03358-8_53883202.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -4668,6 +5100,7 @@
       ],
       "excerpt": "Nature, Published online: 20 October 2026; doi:10.1038/d41586-026-02975-7 An explanation for the injurious effect of sleeping in the moonlight, and a proponent of all-electronic televisions, in this week’s pick from the Nature archive.",
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-02975-7/d41586-026-02975-7_15948436.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -4683,6 +5116,7 @@
       ],
       "excerpt": "Nature, Published online: 20 October 2026; doi:10.1038/d41586-026-03310-w Orexin agonists have been approved for the treatment of a type of narcolepsy, yet they could also treat conditions across the health spectrum.",
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03310-w/d41586-026-03310-w_53878962.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -4698,6 +5132,7 @@
       ],
       "excerpt": "Nature, Published online: 20 October 2026; doi:10.1038/d41586-026-03353-z Bundle water safeguards into critical-mineral licences",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:27:52Z",
@@ -4715,6 +5150,7 @@
       ],
       "excerpt": "Nature, Published online: 20 October 2026; doi:10.1038/d41586-026-03351-1 Nobel-prizewinning breakthroughs can emerge from neglected organisms",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:27:52Z",
@@ -4732,6 +5168,7 @@
       ],
       "excerpt": "Nature, Published online: 20 October 2026; doi:10.1038/d41586-026-03151-7 Scientists start with a five-year grant that could be extended for another ten years.",
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03151-7/d41586-026-03151-7_53814886.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -4747,6 +5184,7 @@
       ],
       "excerpt": "Nature, Published online: 20 October 2026; doi:10.1038/d41586-026-03062-7 Movement can expose camouflaged prey, yet whether colour patterns help moving prey to avoid capture is a long-standing puzzle. Butterfly wings might offer an answer.",
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03062-7/d41586-026-03062-7_53860668.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -4762,6 +5200,7 @@
       ],
       "excerpt": "Nature, Published online: 20 October 2026; doi:10.1038/d41586-026-03200-1 Preprint journal clubs offer a scalable way to make peer-review training a routine part of scientific education.",
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03200-1/d41586-026-03200-1_53879422.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -4777,6 +5216,7 @@
       ],
       "excerpt": "Nature, Published online: 20 October 2026; doi:10.1038/d41586-026-03359-7 Evidence grows for ‘circadian depression’, but more evidence is needed to change diagnosis and treatment guidelines.",
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03359-7/d41586-026-03359-7_53882692.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -4792,6 +5232,7 @@
       ],
       "excerpt": "Nature, Published online: 20 October 2026; doi:10.1038/d41586-026-03352-0 Europe and the rest of the world must come up with an answer to US science strategy",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:27:52Z",
@@ -4809,6 +5250,7 @@
       ],
       "excerpt": "Nature, Published online: 20 October 2026; doi:10.1038/d41586-026-03327-1 A higher proportion of scientists in China and India report feeling optimistic about the future than in the United States and several European countries.",
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03327-1/d41586-026-03327-1_53879796.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -4824,6 +5266,7 @@
       ],
       "excerpt": "Nature, Published online: 20 October 2026; doi:10.1038/d41586-026-03314-6 Record-breaking avalanches and floods are signs of things to come. Scientists must evaluate and respond to growing risks in mountain regions.",
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03314-6/d41586-026-03314-6_53846416.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -4839,6 +5282,7 @@
       ],
       "excerpt": "Nature, Published online: 20 October 2026; doi:10.1038/d41586-026-03354-y Conservation planning should follow animal clocks",
       "image": null,
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null,
       "image_tried_at": "2026-10-25T01:27:52Z",
@@ -4856,6 +5300,7 @@
       ],
       "excerpt": "Nature, Published online: 20 October 2026; doi:10.1038/d41586-026-03374-8 The drug improved the ability to focus — but only in women. Plus, US climate scientists are facing a deluge of public-records requests and why a sleep-disorder drug might be the next big blockbuster.",
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03374-8/d41586-026-03374-8_53886878.png",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -4871,6 +5316,7 @@
       ],
       "excerpt": "Nature, Published online: 20 October 2026; doi:10.1038/d41586-026-03316-4 An artificial-intelligence model trained on nearly four million fossils suggests that three of the extinction events might have happened more gradually than previously thought.",
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03316-4/d41586-026-03316-4_53868692.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -4886,6 +5332,7 @@
       ],
       "excerpt": "Researchers tasked an algorithm with predicting cancer patients’ risk of dying. For some people, it was shockingly accurate",
       "image": "https://static.scientificamerican.com/dam/asset/43030498-6a8a-4e7e-ade9-1abf11916843/face-attention-mapping.png?m=1792520259.954&w=1200",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -4900,6 +5347,7 @@
       ],
       "excerpt": "The Martian Moons Exploration mission will aim to bring back samples from Phobos",
       "image": "https://static.scientificamerican.com/dam/asset/a58e09fb-deac-49f3-a7aa-8819495f0330/MMX-mission.png?m=1792442130.551&w=1200",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -4914,6 +5362,7 @@
       ],
       "excerpt": "How close is too close for encounters between sensitive spacecraft orbiting Earth? With a mysterious approach to another satellite, Russia’s military may be trying to find out",
       "image": "https://static.scientificamerican.com/dam/asset/22580373-927b-440c-b68b-52cd94c55bc5/ICEYE-X36_COSMOS-2612.gif?m=1792494922.589&w=1200",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -4928,6 +5377,7 @@
       ],
       "excerpt": "The emotions themselves may be more important than the senses we use to perceive them",
       "image": "https://static.scientificamerican.com/dam/asset/ed025c64-e1d0-471a-9a65-b3459a5902fb/emotions.jpg?m=1792427313.952&w=1200",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -4942,6 +5392,7 @@
       ],
       "excerpt": "For the first time ever, a spacecraft will travel all the way to the Mars system and return. But first, it has to get through the launch",
       "image": "https://static.scientificamerican.com/dam/asset/c62caacb-4604-47db-94b7-67122134221f/mmx.webp?m=1792442259.702&w=1200",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     },
@@ -4957,6 +5408,7 @@
       ],
       "excerpt": "Nature, Published online: 19 October 2026; doi:10.1038/d41586-026-03317-3 Chemical fingerprinting charts the rises and declines of specific adulterants in illicit supplies of the drug.",
       "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03317-3/d41586-026-03317-3_53863090.jpg",
+      "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null
     }

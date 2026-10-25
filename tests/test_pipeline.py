@@ -114,6 +114,37 @@ class FeedTests(unittest.TestCase):
 
 
 class ImageTests(unittest.TestCase):
+    def test_thumbnail_size_and_url_detection(self):
+        for url in ('https://example.com/tmb/a.jpg','https://example.com/thumbnail/a.jpg','https://example.com/a-t.jpg','https://example.com/a-150x150.jpg','https://example.com/a-300x200.webp'):
+            self.assertTrue(feedlib.is_thumbnail(url),url)
+        self.assertFalse(feedlib.is_thumbnail('https://example.com/a-1200x800.jpg'))
+        self.assertTrue(feedlib.feed_thumbnail({'media_content':[{'url':'/image.jpg','width':'399'}]},'https://example.com/image.jpg','https://example.com/'))
+        self.assertFalse(feedlib.feed_thumbnail({'media_thumbnail':[{'url':'/image.jpg','width':'400'}]},'https://example.com/image.jpg','https://example.com/'))
+
+    @patch('fetch.og_image')
+    def test_thumbnail_upgrade_and_failure_fallback(self, og):
+        now=datetime.now(timezone.utc)
+        item={'source_id':'test','url':'https://example.com/story','image':'https://example.com/tmb/a.jpg','image_is_thumbnail':True}
+        self.assertTrue(fetch.image_due(item,now))
+        og.return_value=None
+        fetch.enrich_image(item,now.isoformat())
+        self.assertEqual(item['image'],'https://example.com/tmb/a.jpg')
+        self.assertTrue(item['image_is_thumbnail'])
+        self.assertFalse(fetch.image_due(item,now))
+        self.assertTrue(fetch.image_due(item,now+timedelta(hours=24)))
+        og.return_value='https://example.com/large.jpg'
+        fetch.enrich_image(item,(now+timedelta(hours=24)).isoformat())
+        self.assertEqual(item['image'],'https://example.com/large.jpg')
+        self.assertFalse(item['image_is_thumbnail'])
+        self.assertFalse(fetch.image_due(item,now+timedelta(days=3)))
+
+    @patch('fetch.og_image',side_effect=httpx.TimeoutException('timeout'))
+    def test_thumbnail_survives_og_timeout(self, og):
+        item={'url':'https://example.com/story','image':'https://example.com/tmb/a.jpg','image_is_thumbnail':True}
+        fetch.enrich_image(item,datetime.now(timezone.utc).isoformat())
+        self.assertEqual(item['image'],'https://example.com/tmb/a.jpg')
+        self.assertEqual(item['image_attempts'],1)
+
     def test_content_encoded_first_safe_non_tiny_image(self):
         xml=b'<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Images</title><item><title>Article</title><link>https://example.com/article</link><content:encoded><![CDATA[<img src="/tracking.png" width="1" height="1"><img src="javascript:alert(1)"><img src="/small.jpg" height="99px"><img src="/hero.jpg" width="100" height="200"><img src="/later.jpg">]]></content:encoded></item></channel></rss>'
         entry=feedparser.parse(xml).entries[0]
