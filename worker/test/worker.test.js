@@ -72,7 +72,7 @@ test('one article, one AI request, both modes in KV, exact dispatch payload and 
   const f=fixture();const r=await f.request();assert.equal(r.status,200);
   const result=await r.json();assert.equal(result.neutral,valid.neutral);assert.equal(result.mine,valid.mine);assert.equal(result.basis,'article');
   assert.deepEqual(f.calls.article,[id]);assert.equal(f.calls.ai.length,1);assert.equal(f.calls.git.length,1);
-  assert.equal(f.calls.ai[0].model,trusted.model);assert.equal(f.calls.ai[0].system,trusted.system);
+  assert.equal(f.calls.ai[0].model,trusted.model);assert.ok(f.calls.ai[0].system===trusted.system,'Uses generated system prompt');
   assert.equal(f.calls.git[0].event_type,'povzetek');
   assert.deepEqual(Object.keys(f.calls.git[0].client_payload).sort(),['basis','created_at','id','mine','model','neutral','topics']);
   const again=await (await f.request()).json();assert.equal(again.cached,true);assert.equal(f.calls.ai.length,1);

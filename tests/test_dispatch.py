@@ -61,7 +61,7 @@ class DispatchTests(unittest.TestCase):
         self.assertEqual(path.read_text(), '{bad')
 
     def test_worker_bundle_matches_python_prompt_yaml_and_style(self):
-        self.assertEqual((ROOT/'worker/generated.js').read_text(encoding='utf-8'), generated())
+        self.assertTrue((ROOT/'worker/generated.js').read_text(encoding='utf-8') == generated(), 'Worker export must match config and Python instructions')
 
     def test_public_config_exports_only_explicit_source_domains_and_api(self):
         config = public_config([{'id':'test', 'name':'Test', 'url':'https://www.example.com/feed', 'enabled':True}],
