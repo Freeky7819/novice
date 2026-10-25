@@ -9,8 +9,7 @@ AI_MAX_PER_DAY = "50"
 
 [[kv_namespaces]]
 binding = "SUMMARIES"
-# Replace with the id printed by: npx wrangler kv namespace create SUMMARIES
-id = "REPLACE_WITH_KV_NAMESPACE_ID"
+id = "6816be3ee4164252a77d4cd932c7083d"
 
 [observability]
 enabled = false
