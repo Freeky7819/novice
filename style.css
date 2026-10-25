@@ -552,6 +552,30 @@ html[data-theme=light] .article:first-child {
 .image-us {
   background:linear-gradient(135deg,#303941,#1d252c 65%,#3e4a53);
 }
+.publisher-name {
+  max-width:90%;
+  text-align:center;
+  overflow-wrap:anywhere;
+  font-size:clamp(20px,4vw,32px);
+  font-weight:650;
+  line-height:1.25;
+  color:#edf1e9;
+}
+.publisher-domain {
+  max-width:90%;
+  overflow-wrap:anywhere;
+  text-align:center;
+  font-size:11px;
+  color:#b6c4cb;
+}
+@media (width < 600px) {
+  .header { height:64px; }
+  .intro { padding:0; }
+  .intro .eyebrow,.intro h1,.intro>p { display:none; }
+  .intro-footer { margin:10px 0; font-size:9px; }
+  .topics { padding-bottom:12px; }
+  .feed-heading { padding:13px 0 10px; }
+}
 @media(max-width:500px) {
   .mode-label {
     font-size:9px

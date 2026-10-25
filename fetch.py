@@ -31,7 +31,29 @@ def save(path, value):
 
 
 def matches(word, text):
-    return re.search(r'(?<!\w)' + re.escape(word) + r'(?!\w)', text, re.IGNORECASE) is not None
+    flags = 0 if word.isupper() else re.IGNORECASE
+    return re.search(r'(?<!\w)' + re.escape(word) + r'(?!\w)', text, flags) is not None
+
+
+def topics_for(source, title, excerpt, config):
+    topics = set(source.get('topics', []))
+    topics.update(t for t, words in config.get('keywords', {}).items()
+                  if any(matches(w, title + ' ' + excerpt) for w in words))
+    return sorted(topics)
+
+
+def image_due(item, now):
+    if item['source_id'] == 'gnews-us' or item.get('image'):
+        return False
+    if item.get('image_attempts', 0) >= 2:
+        return False
+    tried = item.get('image_tried_at')
+    if not tried:
+        return True
+    try:
+        return now - datetime.fromisoformat(tried.replace('Z', '+00:00')) >= timedelta(hours=24)
+    except (ValueError, TypeError):
+        return False
 
 
 def error_message(error):
@@ -58,19 +80,28 @@ def collect(source, now, config):
                 title = clean(entry.get('title', ''), 500)
                 if not title:
                     continue
-                excerpt = clean(entry.get('summary', entry.get('description', '')))
+                excerpt = clean(entry.get('summary', entry.get('description', ''))) if source.get('excerpt', True) else ''
                 if any(matches(w, title + ' ' + excerpt) for w in config.get('exclude_keywords', [])):
                     continue
                 date = entry.get('published_parsed') or entry.get('updated_parsed')
                 published = datetime.fromtimestamp(calendar.timegm(date), timezone.utc) if date else now
                 if published < now - timedelta(days=7) or published > now + timedelta(hours=6):
                     continue
-                topics = set(source.get('topics', []))
-                topics.update(t for t, words in config.get('keywords', {}).items() if any(matches(w, title + ' ' + excerpt) for w in words))
+                topics = topics_for(source, title, excerpt, config)
+                publisher, publisher_domain = None, None
+                if source['id'] == 'gnews-us':
+                    media = entry.get('source', {})
+                    publisher = clean(media.get('title', ''), 150) or None
+                    try:
+                        publisher_domain = urlsplit(canonical(media.get('href', ''))).hostname
+                    except ValueError:
+                        pass
                 undated += int(not date)
                 items.append({'id': hashlib.sha1(url.encode()).hexdigest(), 'url': url, 'title': title,
                     'source_id': source['id'], 'published': published.isoformat().replace('+00:00', 'Z'),
-                    'topics': sorted(topics), 'excerpt': excerpt, 'image': feed_image(entry, final_url)})
+                    'topics': topics, 'excerpt': excerpt,
+                    'image': None if source['id'] == 'gnews-us' else feed_image(entry, url),
+                    'publisher': publisher, 'publisher_domain': publisher_domain})
             except (ValueError, OverflowError, TypeError):
                 continue
         status = {'id': source['id'], 'ok': True, 'count': len(items), 'feed_url': final_url}
@@ -91,11 +122,10 @@ def main():
     data = ROOT / 'data'
     data.mkdir(exist_ok=True)
     previous = load(data / 'feed.json', {'items': []})
-    previous_by_id = {i['id']: i for i in previous['items']}
     cutoff = (now - timedelta(days=7)).isoformat().replace('+00:00', 'Z')
-    items = {i['id']: {**{k: i[k] for k in ('id', 'url', 'title', 'source_id', 'published', 'topics', 'excerpt')}, 'image': i.get('image')}
+    items = {i['id']: dict(i)
              for i in previous['items'] if i['source_id'] in enabled and i['published'] >= cutoff
-             and not any(matches(w, i['title'] + ' ' + i['excerpt']) for w in config.get('exclude_keywords', []))}
+             and not any(matches(w, i['title'] + ' ' + (i['excerpt'] if enabled[i['source_id']].get('excerpt', True) else '')) for w in config.get('exclude_keywords', []))}
     statuses = []
     with ThreadPoolExecutor(max_workers=8) as pool:
         for found, status in pool.map(lambda s: collect(s, now, config), enabled.values()):
@@ -106,14 +136,33 @@ def main():
                     item['published'] = old['published']
                 if old and not item['image']:
                     item['image'] = old.get('image')
+                for key in ('image_tried_at', 'image_attempts'):
+                    if old and key in old:
+                        item[key] = old[key]
                 items[item['id']] = item
     ordered = sorted(items.values(), key=lambda i: (i['published'], i['id']), reverse=True)[:500]
+    # Backfill cached Google entries only from publisher/domain pairs confirmed
+    # by <source> in this feed, never by guessing a domain from a title.
+    publishers = {i['publisher']: i['publisher_domain'] for i in ordered
+                  if i.get('publisher') and i.get('publisher_domain')}
     for item in ordered:
-        item['topics'] = sorted(set(item['topics']) & allowed)
-    # Missing field migrates old F1 data once; explicit null means already tried.
-    needs_image = [i for i in ordered if not i['image'] and 'image' not in previous_by_id.get(i['id'], {})]
+        source = enabled[item['source_id']]
+        if not source.get('excerpt', True):
+            item['excerpt'] = ''
+        item['topics'] = sorted(set(topics_for(source, item['title'], item['excerpt'], config)) & allowed)
+        item.setdefault('image', None)
+        item.setdefault('publisher', None)
+        item.setdefault('publisher_domain', None)
+        if item['source_id'] == 'gnews-us':
+            item['image'] = None
+            name = item['title'].rsplit(' - ', 1)[-1]
+            if not item['publisher'] and name in publishers:
+                item['publisher'], item['publisher_domain'] = name, publishers[name]
+    needs_image = [i for i in ordered if image_due(i, now)]
 
     def enrich(item):
+        item['image_tried_at'] = stamp
+        item['image_attempts'] = item.get('image_attempts', 0) + 1
         try:
             item['image'] = og_image(item['url'])
         except Exception:

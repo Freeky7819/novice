@@ -38,4 +38,5 @@ sources:
     name: Google News · U.S.
     url: https://news.google.com/rss/headlines/section/topic/NATION?hl=en-US&gl=US&ceid=US:en
     topics: [us]
+    excerpt: false
     enabled: true

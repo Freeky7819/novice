@@ -8,5 +8,5 @@ topics:
   - {id: us, label: 'U.S.'}
 keywords:
   energija: [energy, fusion, battery, solar, grid, nuclear]
-  ai: [AI, LLM, agent, model, neural, NVIDIA]
+  ai: [AI, LLM, language model, machine learning, neural network, NVIDIA, chatbot]
 exclude_keywords: []

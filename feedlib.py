@@ -149,7 +149,31 @@ def feed_image(entry, base):
             url = image_url(candidate.get('href') or candidate.get('url'), base)
             if url:
                 return url
+    parser = ContentImage(base)
+    values = [part.get('value', '') for part in entry.get('content', [])]
+    values.append(entry.get('content_encoded', ''))
+    for value in values:
+        parser.feed(value)
+        if parser.image:
+            return parser.image
     return None
+
+
+class ContentImage(HTMLParser):
+    def __init__(self, base):
+        super().__init__()
+        self.base = base
+        self.image = None
+
+    def handle_starttag(self, tag, attrs):
+        if tag != 'img' or self.image:
+            return
+        a = dict(attrs)
+        for dimension in ('width', 'height'):
+            match = re.fullmatch(r'\s*(\d+(?:\.\d+)?)\s*(?:px)?\s*', a.get(dimension) or '', re.I)
+            if match and float(match.group(1)) < 100:
+                return
+        self.image = image_url(a.get('src'), self.base)
 
 
 class OpenGraph(HTMLParser):
@@ -166,11 +190,11 @@ class OpenGraph(HTMLParser):
 def og_image(url):
     """One streamed GET (plus redirects), only HTML head, no article extraction.
 
-    Read at most 128 KiB and stop at </head> or <body>. Failures are optional:
-    callers keep image=null, which also records that OG has been tried.
+    Read at most 512 KiB and stop at </head> or <body>.
     """
     deadline = time.monotonic() + 5
-    with httpx.Client(timeout=5, headers={'User-Agent': 'Novice/1.0 RSS reader'}, trust_env=False) as client:
+    agent = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36'
+    with httpx.Client(timeout=5, headers={'User-Agent': agent}, trust_env=False) as client:
         for _ in range(6):
             public_url(url)
             remaining = deadline - time.monotonic()
@@ -188,10 +212,10 @@ def og_image(url):
                 for chunk in response.iter_bytes(chunk_size=4096):
                     if time.monotonic() > deadline:
                         return None
-                    body.extend(chunk[:131072 - len(body)])
+                    body.extend(chunk[:524288 - len(body)])
                     # Search only the head. Do not parse body metadata.
                     end = re.search(br'</head\s*>|<body\b', body, re.IGNORECASE)
-                    if end or len(body) >= 131072:
+                    if end or len(body) >= 524288:
                         break
                 head = bytes(body[:end.start()] if end else body)
                 parser = OpenGraph()

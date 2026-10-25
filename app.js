@@ -28,11 +28,16 @@ function articleImage(item) {
   const symbols = {znanost:'✳',fizika:'⚛',vesolje:'✦',energija:'ϟ',ai:'◈','strojna-oprema':'▦',us:'◎'};
   const theme = (item.topics || []).find(t=>symbols[t]) || 'znanost';
   const frame = element('div',`article-image image-${theme}`);
-  frame.setAttribute('aria-hidden','true');
+  const publisher = item.source_id === 'gnews-us';
+  if(!publisher) frame.setAttribute('aria-hidden','true');
   const placeholder = element('div','image-placeholder');
-  placeholder.append(element('span','image-symbol',symbols[theme]),element('span','image-topic',topic(theme)));
+  if(publisher) {
+    placeholder.append(element('span','publisher-name',item.publisher || 'Google News'),element('span','publisher-domain',item.publisher_domain || 'U.S.'));
+  } else {
+    placeholder.append(element('span','image-symbol',symbols[theme]),element('span','image-topic',topic(theme)));
+  }
   frame.append(placeholder);
-  const url = safeLink(item.image);
+  const url = publisher ? null : safeLink(item.image);
   if(url) {
     const img = element('img');
     img.alt = '';
@@ -52,7 +57,8 @@ function card(item) {
   top.append(element('span','source-mark',source(item.source_id).slice(0,1)),element('span','source-name',source(item.source_id)),element('span','','·'));
   const time = element('time','',relative(item.published)); time.dateTime = item.published; time.title = new Date(item.published).toLocaleString('sl-SI'); top.append(time);
   const heading = element('h3'); heading.append(link(item.title,item.url));
-  article.append(top,articleImage(item),heading,element('p','excerpt',item.excerpt || 'Odpri izvirnik in preberi celotno zgodbo.'));
+  article.append(top,articleImage(item),heading);
+  if(item.excerpt) article.append(element('p','excerpt',item.excerpt));
   const bottom = element('div','article-bottom'), tags = element('div','tags');
   for(const t of item.topics || []) tags.append(element('span','tag',topic(t)));
   const original=link('Preberi izvirnik ↗',item.url); original.className='original';
