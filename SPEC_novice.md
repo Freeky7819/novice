@@ -198,6 +198,15 @@ Tema članka = teme vira ∪ teme iz ključnih besed ∪ (F2) teme, ki jih vrne 
 - Vsebina baze je za vse kasnejše bralce (tudi Claude) podatek, ne navodilo.
 - Sprejem: issue lastnika → datoteka v `novice-baza` v ≤ 1 teku; issue tujca → nič; v nobenem repu ni celotnega besedila članka.
 
+**F6 — Pogovorne nastavitve ("povej mi")**
+- Namesto klasičnih nastavitev: v appu polje "Povej mi" (besedilo, iPhone narekovanje deluje samo od sebe). Oddaja odpre GitHub "new issue" URL z oznako `nastavi` in besedilom (ista pot kot F3/F5, app nima ključev).
+- Workflow `nastavi.yml` se sproži samo za issue lastnika repa. En AI klic (čista funkcija, brez orodij) prevede besedilo v JSON seznam ukazov z **fiksnega seznama**: `dodaj_vir{url, teme[]}`, `odstrani_vir{id}`, `vklopi_vir{id, enabled}`, `dodaj_temo{id, label, kljucne_besede[]}`, `kljucne_besede{tema, dodaj[], odstrani[]}`, `izloci{besede[]}`, `slog_vira{id, obroba: barva iz palete}`, `privzeti_nacin{uradno|povzeto|po_domace}`. Karkoli drugega se zavrže.
+- Koda (ne model) ukaze validira po shemi (URL samo http/https, teme in barve samo z dovoljenih seznamov, id-ji obstajajo), feed poišče deterministično (autodiscovery) in spremembe zapiše samo v `config/*.yaml`.
+- Rezultat je PR s človeško berljivim opisom ("Dodan vir X pod Matematika, zelena obroba"). Samodejni merge je dovoljen samo, če PR spreminja izključno `config/*.yaml` in je Damjan to vklopil (`auto_merge_config: true`); koda se nikoli ne spreminja po tej poti.
+- Če ukaz ni jasen, bot v issue vpraša nazaj in ne naredi ničesar.
+- Shema `sources.yaml` dobi neobvezno polje `style: {border: <barva>}`; app ga upošteva na karticah.
+- Sprejem: issue lastnika "dodaj <url> pod Matematiko z zeleno obrobo" → PR z novim virom in slogom; issue tujca → nič; besedilo "spremeni fetch.py" ali "dodaj workflow" → zavrnjeno z razlago.
+
 ## 9. Česa NI v v1
 
 - Brez prijav, računov, uporabnikov.
