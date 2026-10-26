@@ -29,20 +29,20 @@ const items=[
   {...base,id:'missing',title:attack,excerpt:'Fallback.',summary_neutral:null,summary_mine:null},
   {...base,id:'defense',title:'Defense',excerpt:'Original.',summary_neutral:'<img src=x onerror="window.hacked=1">'}
 ];
-async function start(storage=new Map(),blocked=false,api=null) {
-  const apiCalls=[];
+async function start(storage=new Map(),blocked=false,api=null,{remote=false,summaryApi='',shared={}}={}) {
+  const apiCalls=[],apiRequests=[];
   const nodes={};const created=[];
   const document={documentElement:{dataset:{}},getElementById:(id)=>nodes[id]||(nodes[id]=new Element()),
     createElement:(tag)=>{created.push(tag);return new Element(tag);}};
-  const context={document,URL,Intl,Date,Map,Set,console,AbortController,setTimeout,clearTimeout,navigator:{},window:{addEventListener(){}},
+  const context={document,URL,Intl,Date,Map,Set,console,AbortController,setTimeout,clearTimeout,navigator:{},window:{location:{hostname:remote?'freeky7819.github.io':'127.0.0.1'},addEventListener(){}},
     localStorage:{getItem:(key)=>{if(blocked)throw Error('blocked');return storage.get(key)||null;},setItem:(key,value)=>{if(blocked)throw Error('blocked');storage.set(key,value);}},
     fetch:async(url,options)=>{
-      if(url==='api/summary') {apiCalls.push(JSON.parse(options.body));return api?api(apiCalls.at(-1)):{ok:false,status:503,json:async()=>({message:'Ponudnik ni povezan.'})};}
-      return {ok:true,json:async()=>url.endsWith('config.json')?{topics:[{id:'znanost',label:'Znanost'}],sources:[{id:'test',name:'Test',enabled:true}]}:url.endsWith('feed.json')?{items,generated_at:base.published}:{sources:[],checked_at:base.published}};
+      if(options?.method==='POST') {apiRequests.push({url,options});apiCalls.push(JSON.parse(options.body));return api?api(apiCalls.at(-1)):{ok:false,status:503,json:async()=>({message:'Ponudnik ni povezan.'})};}
+      return {ok:true,json:async()=>url.endsWith('config.json')?{summary_api:summaryApi,topics:[{id:'znanost',label:'Znanost'}],sources:[{id:'test',name:'Test',enabled:true}]}:url.endsWith('feed.json')?{items:items.map(i=>({...i})),generated_at:base.published}:url.endsWith('summaries.json')?shared:{sources:[],checked_at:base.published}};
     }};
   vm.runInNewContext(fs.readFileSync(path.join(__dirname,'../app.js'),'utf8'),context);
   await new Promise(resolve=>setImmediate(resolve));
-  return {nodes,created,storage,apiCalls};
+  return {nodes,created,storage,apiCalls,apiRequests};
 }
 
 test('safe text, three modes, missing summary fallback, persisted default',async()=>{
@@ -108,4 +108,41 @@ test('switching back to Uradno while pending does not force AI mode on completio
   resolve();await work;
   assert.equal(pressed(card),'Uradno');
   assert.ok(card.textContent.includes('Fallback.'));
+});
+
+test('phone without code can read prepared summaries but makes no new API call',async()=>{
+  const ui=await start(new Map(),false,null,{remote:true});
+  await button(ui.nodes.feed.children[0],'Po domače').click();
+  assert.equal(pressed(ui.nodes.feed.children[0]),'Po domače');
+  await button(ui.nodes.feed.children[1],'Povzeto').click();
+  assert.ok(ui.nodes.feed.children[1].textContent.includes('Za nove povzetke vpiši osebno kodo v nastavitvah'));
+  assert.equal(ui.apiCalls.length,0);
+});
+
+test('phone sends only id and personal-code header to configured HTTPS API',async()=>{
+  const storage=new Map();
+  const ui=await start(storage,false,async()=>({status:401,ok:false}),{remote:true,summaryApi:'https://test-only.workers.dev'});
+  ui.nodes['personal-code'].events.input({target:{value:'TEST_ONLY_NOT_A_REAL_CODE'}});
+  await button(ui.nodes.feed.children[1],'Povzeto').click();
+  assert.equal(ui.apiRequests[0].url,'https://test-only.workers.dev/api/summary');
+  assert.equal(ui.apiRequests[0].options.headers['X-Novice-Koda'],'TEST_ONLY_NOT_A_REAL_CODE');
+  assert.deepEqual(ui.apiCalls[0],{id:'missing'});
+  assert.equal(ui.apiRequests[0].options.credentials,'omit');
+  assert.ok(ui.nodes.feed.children[1].textContent.includes('Osebna koda ni pravilna'));
+  assert.ok(!ui.nodes.feed.children[1].textContent.includes('TEST_ONLY_NOT_A_REAL_CODE'));
+  const reopened=await start(storage,false,null,{remote:true});
+  assert.equal(reopened.nodes['personal-code'].value,'TEST_ONLY_NOT_A_REAL_CODE');
+});
+
+test('shared GitHub cache is readable without code and blocked storage does not prevent code input',async()=>{
+  const shared={missing:{status:'ok',basis:'article',result:{neutral:'Skupni povzetek.',mine:'Skupni domači povzetek.',topics:['znanost']}}};
+  const ui=await start(new Map(),true,null,{remote:true,shared});
+  await button(ui.nodes.feed.children[1],'Povzeto').click();
+  assert.ok(ui.nodes.feed.children[1].textContent.includes('Skupni povzetek.'));
+  assert.equal(ui.apiCalls.length,0);
+  ui.nodes['personal-code'].events.input({target:{value:'TEST_ONLY'}});
+  ui.nodes['api-url'].events.change({target:{value:'http://bad.example/'}});
+  await button(ui.nodes.feed.children[2],'Po domače').click();
+  assert.equal(ui.apiCalls.length,0);
+  assert.ok(ui.nodes.feed.children[2].textContent.includes('Naslov API mora biti varen'));
 });

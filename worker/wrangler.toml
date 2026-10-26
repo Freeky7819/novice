@@ -1,0 +1,15 @@
+name = "novice-povzetki"
+main = "index.js"
+compatibility_date = "2026-10-25"
+workers_dev = true
+preview_urls = false
+
+[vars]
+AI_MAX_PER_DAY = "50"
+
+[[kv_namespaces]]
+binding = "SUMMARIES"
+id = "6816be3ee4164252a77d4cd932c7083d"
+
+[observability]
+enabled = false

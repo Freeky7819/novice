@@ -1,3 +1,5 @@
+Za gostovanje na telefonu glej [docs/telefon.md](telefon.md). Spodnja navodila opisujejo lokalni Python zagon.
+
 # Povzetki ob kliku: lokalna različica
 
 Klik na **Povzeto** ali **Po domače** za članek brez povzetka sproži eno zahtevo. Strežnik poskusi prebrati javno dostopno besedilo tega članka in z enim AI klicem pripravi oba načina. Med čakanjem kartica pokaže »Pripravljam povzetek …«. Nadaljnji preklopi uporabijo shranjeni rezultat. Odpiranje strani, izbira privzetega načina in RSS urnik ne sprožajo novih AI klicev.

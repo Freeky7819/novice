@@ -10,6 +10,8 @@ const cardModes = new Map();
 const pendingSummaries = new Map(), summaryErrors = new Map(), summaryViews = new Map();
 const savedSummaries = readLocal('novice:summaries', {});
 const preparedSummaries = new Map();
+let personalCode=readLocal('novice:code','');
+if(typeof personalCode!=='string') personalCode='';
 const basisLabels = {article:'Povzetek dostopnega besedila članka',public_part:'Povzetek samo javno dostopnega dela',excerpt:'Povzetek iz naslova in izvlečka',title:'Povzetek samo iz naslova'};
 if (!prefs.topics || typeof prefs.topics !== 'object') prefs.topics = {};
 if (!prefs.sources || typeof prefs.sources !== 'object') prefs.sources = {};
@@ -74,13 +76,28 @@ function requestSummary(item) {
     const controller=new AbortController();
     const timer=setTimeout(()=>controller.abort(),90000);
     try {
-      const response=await fetch('api/summary',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({id:item.id}),signal:controller.signal});
+      const local=['127.0.0.1','localhost'].includes(window.location.hostname);
+      if(!local && !personalCode) throw new Error('Za nove povzetke vpiši osebno kodo v nastavitvah');
+      let endpoint='api/summary';
+      if(!local) {
+        const address=prefs.apiUrl || config.summary_api;
+        if(!address) throw new Error('V nastavitvah še ni nastavljen naslov API za povzetke.');
+        let url;
+        try {url=new URL(address);} catch {throw new Error('Preveri naslov API v nastavitvah.');}
+        if(url.protocol!=='https:' || url.username || url.password || url.search || url.hash) throw new Error('Naslov API mora biti varen naslov HTTPS brez gesla ali dodatnih parametrov.');
+        if(url.pathname==='/' || url.pathname==='') url.pathname='/api/summary';
+        if(url.pathname!=='/api/summary') throw new Error('Naslov API se mora končati z /api/summary.');
+        endpoint=url.href;
+      }
+      const response=await fetch(endpoint,{method:'POST',credentials:'omit',referrerPolicy:'no-referrer',
+        headers:{'Content-Type':'application/json',...(!local?{'X-Novice-Koda':personalCode}:{})},body:JSON.stringify({id:item.id}),signal:controller.signal});
+      if(response.status===401) throw new Error('Osebna koda ni pravilna. Preveri jo v nastavitvah.');
       if([404,405,501].includes(response.status)) throw new Error('Povzemanje na tej strani še ni omogočeno. Za zdaj lahko bereš shranjene povzetke.');
       let result;
       try {result=await response.json();} catch {throw new Error('Povzemanje trenutno ni povezano s storitvijo.');}
       if(!response.ok) throw new Error(result.message || 'Povzetka trenutno ni mogoče pripraviti. Poskusi pozneje.');
       if(result.id!==item.id || !validSummary(result)) throw new Error('Povzetek ni bil veljaven. Poskusi pozneje.');
-      const value={neutral:result.neutral,mine:result.mine,topics:result.topics,basis:result.basis};
+      const value={neutral:result.neutral,mine:result.mine,topics:result.topics,basis:result.basis,git_saved:result.git_saved};
       preparedSummaries.set(item.id,value);
       const cache=Object.fromEntries([...preparedSummaries.entries()]);
       // Keep at most the current feed's entries on this device.
@@ -132,7 +149,7 @@ function card(item) {
     else if(busy) availability.textContent='Pripravljam povzetek …';
     else if(summaryErrors.has(item.id)) availability.textContent=summaryErrors.get(item.id);
     else if(effective==='official') availability.textContent='Klikni Povzeto ali Po domače in pripravil se bo povzetek tega članka.';
-    else availability.textContent=basisLabels[cached?.basis] || (item.excerpt?basisLabels.excerpt:basisLabels.title);
+    else availability.textContent=(basisLabels[cached?.basis || item.summary_basis] || (item.excerpt?basisLabels.excerpt:basisLabels.title))+(cached?.git_saved===false?' · Povzetek je shranjen v storitvi; pošiljanje v GitHub še ni uspelo.':'');
     availability.hidden=!availability.textContent;
     summary.textContent=effective==='official'?(item.excerpt || ''):candidate;
     summary.hidden=!summary.textContent;
@@ -171,14 +188,21 @@ function toggleSettings(target, entries, pref) {
   target.replaceChildren();
   for(const entry of entries) { const label=element('label','toggle-row',entry.label||entry.name), input=element('input'); input.type='checkbox'; input.checked=pref[entry.id]!==false; input.addEventListener('change',()=>{pref[entry.id]=input.checked;savePrefs();if(selected!=='all'&&prefs.topics[selected]===false)selected='all';renderTopics();render();}); label.append(input);target.append(label); }
 }
-function settings() { toggleSettings($('topic-settings'),config.topics,prefs.topics); toggleSettings($('source-settings'),config.sources.filter(s=>s.enabled!==false),prefs.sources); $('theme').value=['dark','light'].includes(prefs.theme)?prefs.theme:'system'; $('default-mode').value=prefs.mode; const bad=(status?.sources||[]).filter(s=>!s.ok); $('source-status').textContent=bad.length?`Trenutno nedosegljivi viri: ${bad.map(s=>source(s.id)).join(', ')}. Ostale novice se osvežujejo normalno.`:'Viri se preverjajo ob vsakem zajemu.'; }
+function settings() { toggleSettings($('topic-settings'),config.topics,prefs.topics); toggleSettings($('source-settings'),config.sources.filter(s=>s.enabled!==false),prefs.sources); $('theme').value=['dark','light'].includes(prefs.theme)?prefs.theme:'system'; $('default-mode').value=prefs.mode; $('personal-code').value=personalCode; $('api-url').value=prefs.apiUrl || config.summary_api || ''; const bad=(status?.sources||[]).filter(s=>!s.ok); $('source-status').textContent=bad.length?`Trenutno nedosegljivi viri: ${bad.map(s=>source(s.id)).join(', ')}. Ostale novice se osvežujejo normalno.`:'Viri se preverjajo ob vsakem zajemu.'; }
 async function json(path) { const response=await fetch(path,{cache:'no-cache'}); if(!response.ok) throw new Error('Podatki niso dosegljivi'); return response.json(); }
 async function refresh() {
   $('refresh').disabled=true;
   try {
-    const [nextConfig,nextFeed,nextStatus]=await Promise.all([json('data/config.json'),json('data/feed.json'),json('data/status.json').catch(()=>null)]);
+    const [nextConfig,nextFeed,nextStatus,shared]=await Promise.all([json('data/config.json'),json('data/feed.json'),json('data/status.json').catch(()=>null),json('data/summaries.json').catch(()=>({}))]);
     if(!Array.isArray(nextFeed.items)||!Array.isArray(nextConfig.topics)||!Array.isArray(nextConfig.sources)) throw new Error('Neveljavni podatki');
     config=nextConfig; feed=nextFeed; status=nextStatus;
+    for(const item of feed.items) {
+      const entry=shared?.[item.id];
+      if(entry?.status==='ok' && validSummary(entry.result)) {
+        item.summary_neutral=entry.result.neutral;item.summary_mine=entry.result.mine;
+        item.summary_basis=entry.basis;
+      }
+    }
     $('connection').textContent='Preverjeno '+relative(status?.checked_at||feed.generated_at);
     $('notice').textContent=''; renderTopics();settings();render();
   } catch {
@@ -193,6 +217,8 @@ $('settings').addEventListener('click',()=>{$('preferences').showModal();});
 $('preferences').addEventListener('click',e=>{if(e.target===$('preferences')){const r=e.target.getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)e.target.close();}});
 $('theme').addEventListener('change',e=>{prefs.theme=e.target.value;savePrefs();});
 $('default-mode').addEventListener('change',e=>{prefs.mode=e.target.value;savePrefs();render();});
+$('personal-code').addEventListener('input',e=>{personalCode=e.target.value;writeLocal('novice:code',personalCode);summaryErrors.clear();});
+$('api-url').addEventListener('change',e=>{prefs.apiUrl=e.target.value.trim();savePrefs();summaryErrors.clear();});
 $('more').addEventListener('click',()=>{limit+=30;render();});
 window.addEventListener('online',refresh);
 window.addEventListener('offline',()=>{$('connection').textContent='Povezava ni na voljo';});

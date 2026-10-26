@@ -5,3 +5,7 @@ __pycache__/
 _site/
 _qa.html
 .local/
+node_modules/
+.wrangler/
+.dev.vars
+.dev.vars.*
