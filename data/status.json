@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-25T23:25:21Z",
+  "checked_at": "2026-10-26T01:27:31Z",
   "sources": [
     {
       "id": "nature",
@@ -62,6 +62,6 @@
     "enabled": false,
     "attempted": 0,
     "accepted": 0,
-    "attempted_today": 30
+    "attempted_today": 0
   }
 }
