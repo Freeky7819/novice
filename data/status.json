@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-02T12:04:32Z",
+  "checked_at": "2026-11-02T21:51:18Z",
   "sources": [
     {
       "id": "nature",
@@ -46,13 +46,13 @@
     {
       "id": "gnews-us",
       "ok": true,
-      "count": 63,
+      "count": 55,
       "feed_url": "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSkwyMHZNRGxqTjNjd0VnVmxiaTFWVXlnQVAB?hl=en-US&gl=US&ceid=US:en"
     },
     {
       "id": "quanta-math",
       "ok": true,
-      "count": 1,
+      "count": 0,
       "feed_url": "https://www.quantamagazine.org/mathematics/feed/"
     }
   ],
