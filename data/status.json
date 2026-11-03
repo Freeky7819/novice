@@ -1,16 +1,16 @@
 {
-  "checked_at": "2026-11-03T03:16:12Z",
+  "checked_at": "2026-11-03T11:11:17Z",
   "sources": [
     {
       "id": "nature",
       "ok": true,
-      "count": 71,
+      "count": 75,
       "feed_url": "https://www.nature.com/nature.rss"
     },
     {
       "id": "sciam",
       "ok": true,
-      "count": 33,
+      "count": 32,
       "feed_url": "https://www.scientificamerican.com/platform/syndication/rss/"
     },
     {
@@ -46,7 +46,7 @@
     {
       "id": "gnews-us",
       "ok": true,
-      "count": 57,
+      "count": 55,
       "feed_url": "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSkwyMHZNRGxqTjNjd0VnVmxiaTFWVXlnQVAB?hl=en-US&gl=US&ceid=US:en"
     },
     {
