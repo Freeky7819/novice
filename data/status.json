@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-11-02T21:51:18Z",
+  "checked_at": "2026-11-03T03:16:12Z",
   "sources": [
     {
       "id": "nature",
       "ok": true,
-      "count": 75,
+      "count": 71,
       "feed_url": "https://www.nature.com/nature.rss"
     },
     {
@@ -46,7 +46,7 @@
     {
       "id": "gnews-us",
       "ok": true,
-      "count": 55,
+      "count": 57,
       "feed_url": "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSkwyMHZNRGxqTjNjd0VnVmxiaTFWVXlnQVAB?hl=en-US&gl=US&ceid=US:en"
     },
     {
