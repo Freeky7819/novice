@@ -37,47 +37,80 @@
     {
       "id": "nature",
       "name": "Nature",
-      "enabled": true
+      "enabled": true,
+      "domains": [
+        "nature.com",
+        "www.nature.com"
+      ]
     },
     {
       "id": "sciam",
       "name": "Scientific American",
-      "enabled": true
+      "enabled": true,
+      "domains": [
+        "scientificamerican.com",
+        "www.scientificamerican.com"
+      ]
     },
     {
       "id": "physorg",
       "name": "Phys.org",
-      "enabled": true
+      "enabled": true,
+      "domains": [
+        "phys.org"
+      ]
     },
     {
       "id": "discover",
       "name": "Discover Magazine",
-      "enabled": true
+      "enabled": true,
+      "domains": [
+        "discovermagazine.com",
+        "www.discovermagazine.com"
+      ]
     },
     {
       "id": "dailygalaxy",
       "name": "The Daily Galaxy",
-      "enabled": true
+      "enabled": true,
+      "domains": [
+        "dailygalaxy.com"
+      ]
     },
     {
       "id": "marktechpost",
       "name": "MarkTechPost",
-      "enabled": true
+      "enabled": true,
+      "domains": [
+        "marktechpost.com",
+        "www.marktechpost.com"
+      ]
     },
     {
       "id": "wccftech",
       "name": "Wccftech",
-      "enabled": true
+      "enabled": true,
+      "domains": [
+        "wccftech.com"
+      ]
     },
     {
       "id": "gnews-us",
       "name": "Google News · U.S.",
-      "enabled": true
+      "enabled": true,
+      "domains": [
+        "news.google.com"
+      ]
     },
     {
       "id": "quanta-math",
       "name": "Quanta Magazine · Matematika",
-      "enabled": true
+      "enabled": true,
+      "domains": [
+        "quantamagazine.org",
+        "www.quantamagazine.org"
+      ]
     }
-  ]
+  ],
+  "summary_api": ""
 }

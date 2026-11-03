@@ -1,5 +1,7 @@
 provider: anthropic
 mode: on_demand
+# Paste the real deployed Worker URL here; never put personal codes or keys here.
+api_url: ''
 models:
   anthropic: claude-haiku-5-5
   openai: gpt-5.6-luna

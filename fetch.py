@@ -35,6 +35,16 @@ def matches(word, text):
     return re.search(r'(?<!\w)' + re.escape(word) + r'(?!\w)', text, flags) is not None
 
 
+def public_config(sources, config, ai):
+    public_sources = []
+    for source in sources:
+        host = urlsplit(source['url']).hostname
+        domains = {host, host.removeprefix('www.')} if host else set()
+        public_sources.append({'id': source['id'], 'name': source['name'],
+                               'enabled': source.get('enabled', True), 'domains': sorted(domains)})
+    return {'topics': config['topics'], 'sources': public_sources, 'summary_api': ai.get('api_url', '')}
+
+
 def topics_for(source, title, excerpt, config):
     topics = set(source.get('topics', []))
     topics.update(t for t, words in config.get('keywords', {}).items()
@@ -185,7 +195,9 @@ def main():
     if previous.get('items') == ordered:
         feed['generated_at'] = previous.get('generated_at', stamp)
     save(data / 'feed.json', feed)
-    save(data / 'config.json', {'topics': config['topics'], 'sources': [{k: s[k] for k in ('id', 'name', 'enabled')} for s in sources]})
+    ai_path = ROOT / 'config/ai.yaml'
+    ai = yaml.safe_load(ai_path.read_text(encoding='utf-8')) if ai_path.exists() else {}
+    save(data / 'config.json', public_config(sources, config, ai))
     save(data / 'status.json', {'checked_at': stamp, 'sources': statuses})
     print(f'Novice: {len(ordered)} articles; {sum(s["ok"] for s in statuses)}/{len(statuses)} feeds OK')
 
