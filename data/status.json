@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-09T17:21:07Z",
+  "checked_at": "2026-11-10T00:48:06Z",
   "sources": [
     {
       "id": "nature",
@@ -10,7 +10,7 @@
     {
       "id": "sciam",
       "ok": true,
-      "count": 35,
+      "count": 36,
       "feed_url": "https://www.scientificamerican.com/platform/syndication/rss/"
     },
     {
