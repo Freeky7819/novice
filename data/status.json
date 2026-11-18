@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-11-18T08:48:44Z",
+  "checked_at": "2026-11-18T17:44:40Z",
   "sources": [
     {
       "id": "nature",
       "ok": true,
-      "count": 40,
+      "count": 75,
       "feed_url": "https://www.nature.com/nature.rss"
     },
     {
@@ -46,13 +46,13 @@
     {
       "id": "gnews-us",
       "ok": true,
-      "count": 68,
+      "count": 70,
       "feed_url": "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSkwyMHZNRGxqTjNjd0VnVmxiaTFWVXlnQVAB?hl=en-US&gl=US&ceid=US:en"
     },
     {
       "id": "quanta-math",
       "ok": true,
-      "count": 0,
+      "count": 1,
       "feed_url": "https://www.quantamagazine.org/mathematics/feed/"
     }
   ],
