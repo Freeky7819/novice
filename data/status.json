@@ -1,11 +1,10 @@
 {
-  "checked_at": "2026-11-21T09:11:50Z",
+  "checked_at": "2026-11-21T16:53:10Z",
   "sources": [
     {
       "id": "nature",
-      "ok": true,
-      "count": 75,
-      "feed_url": "https://www.nature.com/nature.rss"
+      "ok": false,
+      "warning": "ValueError"
     },
     {
       "id": "sciam",
@@ -46,7 +45,7 @@
     {
       "id": "gnews-us",
       "ok": true,
-      "count": 53,
+      "count": 70,
       "feed_url": "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSkwyMHZNRGxqTjNjd0VnVmxiaTFWVXlnQVAB?hl=en-US&gl=US&ceid=US:en"
     },
     {
