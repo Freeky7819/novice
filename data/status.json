@@ -1,10 +1,11 @@
 {
-  "checked_at": "2026-11-21T16:53:10Z",
+  "checked_at": "2026-11-21T21:59:12Z",
   "sources": [
     {
       "id": "nature",
-      "ok": false,
-      "warning": "ValueError"
+      "ok": true,
+      "count": 75,
+      "feed_url": "https://www.nature.com/nature.rss"
     },
     {
       "id": "sciam",
