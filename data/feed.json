@@ -1,6 +1,1174 @@
 {
-  "generated_at": "2026-11-24T21:27:50Z",
+  "generated_at": "2026-11-25T04:29:47Z",
   "items": [
+    {
+      "id": "9e83a8f5170c565ec4e9188a89080c6271ca8abc",
+      "url": "https://phys.org/news/2026-11-queensland-disaster-lessons.html",
+      "title": "Queensland keeps learning disaster lessons. So why do we keep forgetting them?",
+      "source_id": "physorg",
+      "published": "2026-11-25T04:00:02Z",
+      "topics": [
+        "fizika",
+        "vesolje"
+      ],
+      "excerpt": "After an early start to Queensland's storm season, with severe storms and flooding already affecting communities across the state, attention is once again turning to disaster preparedness and response.",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2018/1-naturaldisas.jpg",
+      "image_is_thumbnail": true,
+      "publisher": null,
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 1
+    },
+    {
+      "id": "1c646937946db4da202b7c713d91c7494ab6c6fd",
+      "url": "https://phys.org/news/2026-11-star-obliquity-impact-planet-habitability.html",
+      "title": "A star's 'obliquity' likely has little impact on a given planet's habitability",
+      "source_id": "physorg",
+      "published": "2026-11-25T03:20:01Z",
+      "topics": [
+        "energija",
+        "fizika",
+        "vesolje"
+      ],
+      "excerpt": "A star's axial tilt as it relates to the circumstellar disk that surrounds it is known as stellar obliquity. Over space and time, there are a myriad of solar-type stars with all sorts of obliquities. But the question heretofore has always been what effect a given star's initial obliquity has on the planetary system that forms around it.",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-stars-obliquity-like.jpg",
+      "image_is_thumbnail": true,
+      "publisher": null,
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 1
+    },
+    {
+      "id": "6a8ba4f26e676dff1d464409d6f16f1ffd69441f",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYkNvakVzZ3lZeXh1a2lVbmxyc3QyUTd6Z05lOEpNNU9BVnhja1lpU0Y5bDJhbmp6V2FraGcyaWVyakFDdFpYalE5dG5scEJSSE1ndUQ4ZjkxbzdScGM3ZFZHQXNiaWc4ZWFtbWNON2l4N2tvLXJXX1BQbzVKYWlzZy1yUlNMY0k?oc=5",
+      "title": "Death investigation underway at Kids Can Community Center - KETV",
+      "source_id": "gnews-us",
+      "published": "2026-11-25T03:02:00Z",
+      "topics": [
+        "us"
+      ],
+      "excerpt": "",
+      "image": null,
+      "image_is_thumbnail": false,
+      "publisher": "KETV",
+      "publisher_domain": "www.ketv.com",
+      "summary_neutral": null,
+      "summary_mine": null
+    },
+    {
+      "id": "ff1242d67b963cee6cd8864c10903fdb04d3124b",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQ3luSEIwNEp4bmdNMHdYRVllVUJabUJwOVRQWkZ6OHMyUWhBa2ZEZXRqY1kxc0publ9kZ3hZX2M3OTJydklOeXZXMzBXZGRRem5nbUl3d3Y1SHE1aDgtbGVjdDQ3dmpWZm9NRnN1UnU5U0hLTl83VnpyQ0gtWE9fTWJOdUk0cUhMNDVF?oc=5",
+      "title": "Abrego Garcia Will Voluntarily Leave U.S., Ending 20-Month Legal Ordeal - The New York Times",
+      "source_id": "gnews-us",
+      "published": "2026-11-25T02:59:32Z",
+      "topics": [
+        "us"
+      ],
+      "excerpt": "",
+      "image": null,
+      "image_is_thumbnail": false,
+      "publisher": "The New York Times",
+      "publisher_domain": "www.nytimes.com",
+      "summary_neutral": null,
+      "summary_mine": null
+    },
+    {
+      "id": "b1efd77e5460b4438983ca64ed966352d3905563",
+      "url": "https://phys.org/news/2026-11-centers-community.html",
+      "title": "What draws data centers to a community?",
+      "source_id": "physorg",
+      "published": "2026-11-25T02:40:08Z",
+      "topics": [
+        "fizika",
+        "vesolje"
+      ],
+      "excerpt": "As Oklahoma communities weigh new data center development, research co-authored by a University of Oklahoma architecture professor offers insight into what draws major technology companies to locations—and why those choices matter locally.",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2024/oklahoma-city.jpg",
+      "image_is_thumbnail": true,
+      "publisher": null,
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 1
+    },
+    {
+      "id": "6fcc9c46ba77714a6e0f088cd5c8f6a16ce9b9f5",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZnd3R3hxV1laaFBNUnMyeGY4RHlobjhYdUloWjNMalpzaGZ4aWFSTWhqVlRvb2tZbU1qdWhaWUdLZzRtZlBoSWc4SGRiTU1Eejlwcm44elVBSFd6MC1faWllOUdvQUkzLTdMa2YzNFZEM0Y4TFZnMG9pZGo3TWJwTlI0M2oxbEdhY1VMRFNTcGV4aWx5YzlfakJYRzZUOWVFZ1hqMWZfUQ?oc=5",
+      "title": "Trump awards Rudy Giuliani the Presidential Medal of Freedom - The Washington Post",
+      "source_id": "gnews-us",
+      "published": "2026-11-25T02:35:22Z",
+      "topics": [
+        "us"
+      ],
+      "excerpt": "",
+      "image": null,
+      "image_is_thumbnail": false,
+      "publisher": "The Washington Post",
+      "publisher_domain": "www.washingtonpost.com",
+      "summary_neutral": null,
+      "summary_mine": null
+    },
+    {
+      "id": "e439ebc000012d323c133bb8f0c6d82f2068a399",
+      "url": "https://phys.org/news/2026-11-hurricane-season-el-nio-fueled.html",
+      "title": "Hurricane season wrap-up: El Niño fueled record number of Pacific storms but calmed Atlantic",
+      "source_id": "physorg",
+      "published": "2026-11-25T02:20:01Z",
+      "topics": [
+        "fizika",
+        "vesolje"
+      ],
+      "excerpt": "The 2026 hurricane season, which officially ends on Nov. 30, will be remembered as a year of contrasts between the Atlantic and Pacific, a classic indication of a hurricane season influenced by a very strong El Niño. Below-normal activity across the Atlantic basin was offset by above-average activity in the Pacific, including two disasters in Hawaii.",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-satellite-view-of-th.jpg",
+      "image_is_thumbnail": true,
+      "publisher": null,
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 1
+    },
+    {
+      "id": "3b0a9f92e18cc5b98637fd43a80685e55a600093",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMk9hWGY4bXNvTUVpWWNkZHU2S3I1b0U5RUV4a3M1RVBHLVBPX2ZiSmpBSkk0Znd5Qjh3SzBPX1l2dzFFdVJNYmZPZk9CNFRkYmpEempxZlkyWlhQSGVybnpVVmR6bmg0cUJKbmt5TDZaQWlxMDlGMW8zS3pndXJXbENwWlZUSExtMG9OeUlpQmZGUGgxcDJFUlZncXRvMFB6U0ppeDBnWC01Q3BSd2tSeW1UMGRVWFR3ellKTWpTeWFjV3c4QVIzZ1NHY3Fzbl9QNmc?oc=5",
+      "title": "Lead azide must be detonated in Iowa, Army says; some residents urged to evacuate - The Washington Post",
+      "source_id": "gnews-us",
+      "published": "2026-11-25T02:05:48Z",
+      "topics": [
+        "us"
+      ],
+      "excerpt": "",
+      "image": null,
+      "image_is_thumbnail": false,
+      "publisher": "The Washington Post",
+      "publisher_domain": "www.washingtonpost.com",
+      "summary_neutral": null,
+      "summary_mine": null
+    },
+    {
+      "id": "82683515e15a084d572c3431c0c1689b7041e48e",
+      "url": "https://phys.org/news/2026-11-ultrathin-rainbow-power-spacecraft-earth.html",
+      "title": "Ultrathin 'rainbow' sails could power spacecraft and shade the Earth",
+      "source_id": "physorg",
+      "published": "2026-11-25T02:00:04Z",
+      "topics": [
+        "energija",
+        "fizika",
+        "vesolje"
+      ],
+      "excerpt": "For years, whimsically minded space enthusiasts have been dreaming of sailing across the vastness of the void on beams of sunlight. Photons, the massless particles that make up those beams of sunlight, still carry momentum and can therefore impart a gentle push when they bounce off a surface. This force is the concept behind \"solar sailing,\" which has been having a bit of a moment in the last deca",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ultra-thin-rainbow-sai.jpg",
+      "image_is_thumbnail": true,
+      "publisher": null,
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 1
+    },
+    {
+      "id": "d5a6735c6f95c9ac560fece622eaafefaa37cc76",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOdlJ3bzd6dnZTdzZrYTR5RWRnNTF1OE1IXy1hME8zVWlNdFBjZXBtQVo1VER5NF9YelIyZXlQWkxSbzU0SUxWdUlYVzMzZmVKVW8tM3ZKSkJybEI1eGcwZEhjMzhSZUtPNDRsRHh2ZVRpUkpLelJsSGRHTzVkelZlSXNLQ0M5Tk1iX0R3eVFuT3piRFdpU3BmZi1JQkxicEk2MTk2TUNjRGRESUlwNWdkeXRuMkZiZGJjRWFPOGlIaUw1SVhzWFpxX3V1a3ljT2xFRjhJckFVeFZtWFhZUmxFX0g4NHpXZjBka0tNdHdGc3VlT3g4?oc=5",
+      "title": "Live storm updates: Record king tides leave Bay Area roads flooded - ABC7 Bay Area",
+      "source_id": "gnews-us",
+      "published": "2026-11-25T01:46:00Z",
+      "topics": [
+        "us"
+      ],
+      "excerpt": "",
+      "image": null,
+      "image_is_thumbnail": false,
+      "publisher": "ABC7 Bay Area",
+      "publisher_domain": "abc7news.com",
+      "summary_neutral": null,
+      "summary_mine": null
+    },
+    {
+      "id": "7ff51a53994a0fd897fec52bc61cd1187e2928da",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZHNkOXJIUmlXRW5WLTNNNlhaSkpwWG41UnJxazRRdXBKa3VFbU1rR21Gb2JuRGYwM3V3Vm9IU0YwNENqMUxqU09hVUh0WVlMcUVfUmZxZGcwOWt1NTIyMzBFd1Z6N2REb0hPM3cyUEJWVEdzZWZNMDBPNGI4SjYtOTVLdk8teDNJaVZLanMzdk11UkxRaW5JVHlwc1ZwQk9FMThacHNvU2VVUkV1aFBDY2lkS1NNX1UyTUJ2ZkpYYi0?oc=5",
+      "title": "Judge orders Fulton County to turn over copies of 2020 ballots to Trump-allied election board - NBC News",
+      "source_id": "gnews-us",
+      "published": "2026-11-25T01:44:00Z",
+      "topics": [
+        "us"
+      ],
+      "excerpt": "",
+      "image": null,
+      "image_is_thumbnail": false,
+      "publisher": "NBC News",
+      "publisher_domain": "www.nbcnews.com",
+      "summary_neutral": null,
+      "summary_mine": null
+    },
+    {
+      "id": "726ed70c755cdd5baef617c367254cde688ba8cb",
+      "url": "https://phys.org/news/2026-11-alfalfa-root-nodules-rhizobia.html",
+      "title": "How alfalfa forms root nodules without rhizobia",
+      "source_id": "physorg",
+      "published": "2026-11-25T01:40:01Z",
+      "topics": [
+        "fizika",
+        "vesolje"
+      ],
+      "excerpt": "A research team led by professor Feng Jian at the Institute of Genetics and Developmental Biology (IGDB) of the Chinese Academy of Sciences has uncovered a cytokinin–NODULE INCEPTION (NIN) regulatory module associated with spontaneous root nodule formation in alfalfa (Medicago sativa).",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-reveal-how-7.jpg",
+      "image_is_thumbnail": true,
+      "publisher": null,
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 1
+    },
+    {
+      "id": "1849e1e53be8a02b73986842451d5388d295c8e3",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5QWENhWVRxcFNVSWY3UzI1bFl1a1ZDM241N2x1SEVma0NyMlpBaXowWmh4Sy10cnV0SEUwOUUxSVpqQjR1S3NObVItTVYyWjNxM2NrSkxQYW1YbzhzLXJoaTVMOUJ4dmV6MHlyQlBsbXp2Smdq?oc=5",
+      "title": "Fort Hood shooter Nidal Hasan will petition to delay his execution, court documents show - CBS News",
+      "source_id": "gnews-us",
+      "published": "2026-11-25T01:38:00Z",
+      "topics": [
+        "us"
+      ],
+      "excerpt": "",
+      "image": null,
+      "image_is_thumbnail": false,
+      "publisher": "CBS News",
+      "publisher_domain": "www.cbsnews.com",
+      "summary_neutral": null,
+      "summary_mine": null
+    },
+    {
+      "id": "9d2b9a096e4eec6c5365522f4b50eaa9101c2d26",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ1JJN0Y4TG5DX3ZhX19UX1VXbDBTS3BhSVFvQ2RyWUFpRlFyUVUzSmZoeTlSSXlXNlJRc3lsN2l0WjYyZUsxM01HclJfXzZjOFlveWxtc3ByaUFsa1JuRlg2NFJFSHpMTUZiT0RGUzlycTRWcUVTVFk3VjdrUm9vVldOYUp0LU90MU93eHZ6d1gxU3QtUFpR?oc=5",
+      "title": "Tennessee newspaper says its new owner will be a local resident: Al Gore, the former vice president - AP News",
+      "source_id": "gnews-us",
+      "published": "2026-11-25T01:26:00Z",
+      "topics": [
+        "us"
+      ],
+      "excerpt": "",
+      "image": null,
+      "image_is_thumbnail": false,
+      "publisher": "AP News",
+      "publisher_domain": "apnews.com",
+      "summary_neutral": null,
+      "summary_mine": null
+    },
+    {
+      "id": "e9243a350ef5cad3921f551d20cf66c6c65cfc0b",
+      "url": "https://phys.org/news/2026-11-chemical-route-synthesis-compound-suppressing.html",
+      "title": "New chemical route delivers first synthesis of plant compound with cough-suppressing potential",
+      "source_id": "physorg",
+      "published": "2026-11-25T01:20:01Z",
+      "topics": [
+        "fizika",
+        "vesolje"
+      ],
+      "excerpt": "Neotuberostemonine, a complex plant-derived alkaloid with promising antitussive activity, has remained a challenging target for chemical synthesis for nearly 30 years. Researchers have now achieved its first total synthesis, alongside the synthesis of neostenine and the putative structure of tuberostemonine L. The findings also reveal how the nearly planar geometry of nitrogen atoms contributes to",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-chemical-route-d.jpg",
+      "image_is_thumbnail": true,
+      "publisher": null,
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 1
+    },
+    {
+      "id": "9fc487f0c52e5790017c2179438445e9f91ebf7e",
+      "url": "https://phys.org/news/2026-11-quantum-ingenuity-sidestep-limits-conventional.html",
+      "title": "Quantum ingenuity can sidestep limits of conventional chips—while using commercially accessible components",
+      "source_id": "physorg",
+      "published": "2026-11-25T01:00:01Z",
+      "topics": [
+        "fizika",
+        "vesolje"
+      ],
+      "excerpt": "For decades, computers have steadily grown faster and more powerful. Avik Dutt, an assistant professor of mechanical engineering at the University of Maryland, envisions another dramatic leap forward—one propelled by the quantum properties of light.",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/quantum-leap-accelerat.jpg",
+      "image_is_thumbnail": true,
+      "publisher": null,
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 1
+    },
+    {
+      "id": "398594f3c964ea0739ce2b2be99eccef5d77fdcc",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQR2plR2RlV2Y2N3B4eFlPWTAwQ1dCMWxLNWtFQ2tIY0tvZXdqM01VLVhweGJzVnhydVFPMVF0QVRGQ1lWUWZ4NXZXaTFlbTNOUjYwOVNSbTYtTkZyNlo4U1ZVVUl6cUQtUUZNUy1UWDZzQXowaTMyLWZ0UG1FQTVxU3JWM0ptcV91OVE?oc=5",
+      "title": "Climate scientists urge US lawmakers to vote no on sweeping permitting bill - The Guardian",
+      "source_id": "gnews-us",
+      "published": "2026-11-25T00:59:00Z",
+      "topics": [
+        "us"
+      ],
+      "excerpt": "",
+      "image": null,
+      "image_is_thumbnail": false,
+      "publisher": "The Guardian",
+      "publisher_domain": "www.theguardian.com",
+      "summary_neutral": null,
+      "summary_mine": null
+    },
+    {
+      "id": "10670533449c9245a35a2ac7149abe4630c0036b",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOV1pMNDBQT2hmMklqSk1NS1dWUjNrU21HV0FsTC1LWF9kRkVaN1Q3V0lMX3lQVVJTckd2dTRMLXJud21XdkpSMXlqbW1UQ29GWE1PdVVPdmM3aXVaZUZIUkF5aXhrazhnUEFCWTRkMHg0U2lZWGhxSHZhS2M4RmtWLWNUaV9LTzFCMldHeDhuSjRfREtrWVF2VS1JeTJQQ1VvVjRyaUIxZ3ZRdnM?oc=5",
+      "title": "4 adults and 2 kids are missing after plane crashes off Mississippi coast - NBC News",
+      "source_id": "gnews-us",
+      "published": "2026-11-25T00:57:00Z",
+      "topics": [
+        "us"
+      ],
+      "excerpt": "",
+      "image": null,
+      "image_is_thumbnail": false,
+      "publisher": "NBC News",
+      "publisher_domain": "www.nbcnews.com",
+      "summary_neutral": null,
+      "summary_mine": null
+    },
+    {
+      "id": "48f767d8a8bc448f06ab88c5a23c909a7bde7f8c",
+      "url": "https://phys.org/news/2026-11-laser-reveals-electrons-accumulate-atomically.html",
+      "title": "Laser light reveals where electrons accumulate in atomically thin semiconductor stacks",
+      "source_id": "physorg",
+      "published": "2026-11-25T00:40:05Z",
+      "topics": [
+        "energija",
+        "fizika",
+        "vesolje"
+      ],
+      "excerpt": "Stacking semiconductors—the chips that power phones, computers and so much more—enables quicker signal movement with less energy, but how does the process actually work? Turns out shining a literal light on the semiconducting materials can help elucidate how the electrons move in the stack, according to a multi-institutional team in Japan. The approach could help inform the development of more eff",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/shining-a-light-on-ele.jpg",
+      "image_is_thumbnail": true,
+      "publisher": null,
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 1
+    },
+    {
+      "id": "00758c766919cde354140805d5b9554b98dc6af3",
+      "url": "https://phys.org/news/2026-11-underwater-robots-reveal-salp-species.html",
+      "title": "Underwater robots reveal first salp species known to live exclusively in deep sea",
+      "source_id": "physorg",
+      "published": "2026-11-25T00:40:01Z",
+      "topics": [
+        "fizika",
+        "vesolje"
+      ],
+      "excerpt": "Salps are barrel-shaped gelatinous animals that play an important role in ocean ecosystems. More than 20 years ago, researchers observed an unfamiliar salp in the deep waters of Monterey Bay. Using specimens and data collected by MBARI's advanced underwater robots, Larry Madin, deputy director emeritus at the Woods Hole Oceanographic Institution and an MBARI adjunct, recently published a detailed ",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-chain-of-eight-barre.jpg",
+      "image_is_thumbnail": true,
+      "publisher": null,
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 1
+    },
+    {
+      "id": "ff4b92e9cb9d6af0c0ebc3d45d199adaf7c10315",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IQkloM185eWdfMGhXTkZBYmdEWHM2cy1CQjNpODYzQTRRV0V1VzU4akFoUkdsLTJucFZKTlF2MlZtMTgxMV9xZTRoZjdnTjdkRmMtTnd3Y3pZV28?oc=5",
+      "title": "US preparing to unveil plan for new tariffs on global trading partners - BBC",
+      "source_id": "gnews-us",
+      "published": "2026-11-25T00:38:01Z",
+      "topics": [
+        "us"
+      ],
+      "excerpt": "",
+      "image": null,
+      "image_is_thumbnail": false,
+      "publisher": "BBC",
+      "publisher_domain": "www.bbc.com",
+      "summary_neutral": null,
+      "summary_mine": null
+    },
+    {
+      "id": "64eb8649df1d1808e513498ab888c32e9f7549ec",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORnJwWEFJR3UzbFpfUVJsMUtuS2pxRF9lM2pXSUNWanJHMFhaY0ZDM3U4Z3EyeEczWnNCM3Y0MC1JYW13alVNN2s2TXhjU0J3a01PZEFSV2htbkNCSWtDM0k3MHR1RHg0b1FEVGtOYlBsLXBtMjFnNE0tMDFzNWlkSUJoV1gtRFQ5VnphbWtfb19MbkRfTU5oc3R1dkdjN2syV25hRtIBqgFBVV95cUxNX2QwakUtVWxiVFhKT2dOU2VDMnEwbmNqOEdhNVpWclpEN1hJZENkRkIyYjI4eVRqdmhlVGRfckFsVTV2LXA2VldDczFnVWJtWHEzSzFaSEk5dFVLZFlMVnlLWnd5eHRiQ1BaWkVfa2FieXhyZHBhcnhMcndVNEJOOE5idWpxclp4bmVMay1vOVJ6MG82dTczcm5QcXhPcHMzbTVSeXhlaFhwQQ?oc=5",
+      "title": "Teen hiker dies after falling down icy slope near Wrightwood; 2 others rescued - ABC7 Los Angeles",
+      "source_id": "gnews-us",
+      "published": "2026-11-25T00:32:18Z",
+      "topics": [
+        "us"
+      ],
+      "excerpt": "",
+      "image": null,
+      "image_is_thumbnail": false,
+      "publisher": "ABC7 Los Angeles",
+      "publisher_domain": "abc7.com",
+      "summary_neutral": null,
+      "summary_mine": null
+    },
+    {
+      "id": "77e3e8e5631a776857efcc7a58a2f9ca46ce2be7",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNlNQZEpfN2FJb2gwQmZLUnl6SVU5T1dYT3ExRWZ3UHZZZHFkR2txYTBsUDRLa0NmWFd5cW8wWXRWamZ4NVYwYnFLNXo1dWJkNS1CaVA4cUVFMjJ1WGROYkNSWENqNlRZbEU1Q2xMM3ppNFJwN1JHZVpXRGxQenk5WXpnNi1DTi1lT0o1VklRWFF3bFpwdi1lNHJMUUlnNDl6VTZQVElFZVA?oc=5",
+      "title": "King tides in the Bay Area: Santa Cruz beaches to close; higher tides coming Wednesday - San Francisco Chronicle",
+      "source_id": "gnews-us",
+      "published": "2026-11-25T00:30:27Z",
+      "topics": [
+        "us"
+      ],
+      "excerpt": "",
+      "image": null,
+      "image_is_thumbnail": false,
+      "publisher": "San Francisco Chronicle",
+      "publisher_domain": "www.sfchronicle.com",
+      "summary_neutral": null,
+      "summary_mine": null
+    },
+    {
+      "id": "b2d63d0ebe75302233786ec5e071cf3d5dc5c404",
+      "url": "https://phys.org/news/2026-11-myanmar-earthquake-reveals-fault-history.html",
+      "title": "Myanmar earthquake reveals how fault history could help anticipate future slip",
+      "source_id": "physorg",
+      "published": "2026-11-25T00:20:08Z",
+      "topics": [
+        "fizika",
+        "vesolje"
+      ],
+      "excerpt": "Earthquakes are full of unknowns—scientists can't accurately predict exactly when or where the next big earthquake will strike. But some characteristics of 'the next big one' can be anticipated from what we know about a fault before it breaks, thanks to supercomputer simulations combined with an ever-increasing wealth of observational data.",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/learning-deadly-moveme.jpg",
+      "image_is_thumbnail": true,
+      "publisher": null,
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 1
+    },
+    {
+      "id": "150446a69991eb5c5399f9519a0b57cea4966361",
+      "url": "https://phys.org/news/2026-11-workflow-advances-programmable-chromosome.html",
+      "title": "New workflow advances programmable chromosome editing in plants",
+      "source_id": "physorg",
+      "published": "2026-11-25T00:20:01Z",
+      "topics": [
+        "fizika",
+        "vesolje"
+      ],
+      "excerpt": "A study published in Nature Protocols on Nov. 17 presents a detailed experimental workflow for programmable chromosome manipulation in plants. The platform was developed by a research group led by Gao Caixia at the Institute of Genetics and Developmental Biology of the Chinese Academy of Sciences.",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/new-workflow-advances.jpg",
+      "image_is_thumbnail": true,
+      "publisher": null,
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 1
+    },
+    {
+      "id": "a7992d7fe8a449bf5007b135b2820cb19d8d5012",
+      "url": "https://phys.org/news/2026-11-catalysts-alive-electron-microscopy-reveals.html",
+      "title": "Catalysts come alive—electron microscopy reveals the secret dynamic life of nanoparticles",
+      "source_id": "physorg",
+      "published": "2026-11-25T00:10:01Z",
+      "topics": [
+        "fizika",
+        "vesolje"
+      ],
+      "excerpt": "University of Nottingham researchers have uncovered hidden nanoscale transformations that could help design cleaner fuels and more efficient catalysts.",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/catalysts-come-alive.jpg",
+      "image_is_thumbnail": true,
+      "publisher": null,
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 1
+    },
+    {
+      "id": "1aec3d113790865f3d608bce94348f61abb3be70",
+      "url": "https://www.discovermagazine.com/viking-age-brooches-may-have-been-crafted-by-local-artisans-not-mass-produced-as-once-thought-50013",
+      "title": "Viking Age Brooches May Have Been Crafted by Local Artisans, Not Mass-Produced as Once Thought",
+      "source_id": "discover",
+      "published": "2026-11-25T00:01:00Z",
+      "topics": [
+        "vesolje",
+        "znanost"
+      ],
+      "excerpt": "Learn how Viking Age brooches were crafted with special motifs by local artisans, becoming a popular fashion icon across Scandinavia.",
+      "image": "https://cdn.discovermagazine.com/assets/image/61059/replica-viking-brooch-t.jpg",
+      "image_is_thumbnail": true,
+      "publisher": null,
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 1
+    },
+    {
+      "id": "d367e76e477434c4e4ecfb10a03c375e0dc6f466",
+      "url": "https://phys.org/news/2026-11-mitochondria-rebranding-goodbye-powerhouse-cell.html",
+      "title": "Mitochondria rebranding: Goodbye, powerhouse of the cell. Hello, lungs of the cell?",
+      "source_id": "physorg",
+      "published": "2026-11-25T00:00:03Z",
+      "topics": [
+        "fizika",
+        "vesolje"
+      ],
+      "excerpt": "If you remember one thing from high school biology, there's a good chance it's this: Mitochondria are the powerhouse of the cell.",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2025/mitochondria.jpg",
+      "image_is_thumbnail": true,
+      "publisher": null,
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 1
+    },
+    {
+      "id": "2f54eb412d6485dbdee7f6f4201f00aac6dc3150",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNGdlWG11WVQtRXk0VjdHcjRxamswMURmX044ZDVYWm5sT2hDWXhtakllbjZYazVUdFpOZmtqcmZHSWxuNkpvUEkydV84MDhYakF5OUpydU1DQzZQUEE0ZFh2TllEREZyR3l5OXNkUThEN214aVZzQmdUZVV0dzZUWkVGRTNTQ2lSVXVlckl5SU5hdWhrN08zZ1dUb2p4TzU5ODNQUUs1MEFNRTRKVUZ5SkZDWG9qR1dYUzk4Zw?oc=5",
+      "title": "Authorities drop criminal charge against incoming House Democrat over unreturned rental car - NBC News",
+      "source_id": "gnews-us",
+      "published": "2026-11-24T23:59:00Z",
+      "topics": [
+        "us"
+      ],
+      "excerpt": "",
+      "image": null,
+      "image_is_thumbnail": false,
+      "publisher": "NBC News",
+      "publisher_domain": "www.nbcnews.com",
+      "summary_neutral": null,
+      "summary_mine": null
+    },
+    {
+      "id": "51e9e64e5809041d0e4ca58a08eabbd914e5b273",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTnIydmhWMVpLX0JMblRhUXZhQ2lLZTZWcEdYSFZRd3U4UjdPTGx6R255TUl6c2NnaG1rU3l1MmcyVjFDV3paYTB3aERYOUlieUVMNEJOMHR1dE44UFdjU1BiRnYtVU1ua1ZTMWdDc2RTMUhqY05MeVdNMXF5c19KNG9yd2pobjdWZ1VfNERIbllSTUUzVUxEcEtIakdWNHBCeG9pOGhDRkI?oc=5",
+      "title": "Sullivan Concedes Alaska Senate Race to Peltola - The New York Times",
+      "source_id": "gnews-us",
+      "published": "2026-11-24T23:58:18Z",
+      "topics": [
+        "us"
+      ],
+      "excerpt": "",
+      "image": null,
+      "image_is_thumbnail": false,
+      "publisher": "The New York Times",
+      "publisher_domain": "www.nytimes.com",
+      "summary_neutral": null,
+      "summary_mine": null
+    },
+    {
+      "id": "80336464358d2ff9b8b32921b4bed53945c7334a",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAyeHhmY3RnSFpaNElseWRpcmJTcVJtSndISFVNdm9DX0JiU1NCdDJ6WnVjNlRWd0ZqZU5lMDZMd2VmZlNGSnVSdjNjZTVCTWQwVW1tRUlOM3ZBRU92UXBSSlNQTUM1SnpxeW9uMEdOZ2w4SmlsZ3Z6NXFsVzM?oc=5",
+      "title": "Plane crash lands in neighborhood near Bowman Field; 2 injured - WLKY",
+      "source_id": "gnews-us",
+      "published": "2026-11-24T23:49:00Z",
+      "topics": [
+        "us"
+      ],
+      "excerpt": "",
+      "image": null,
+      "image_is_thumbnail": false,
+      "publisher": "WLKY",
+      "publisher_domain": "www.wlky.com",
+      "summary_neutral": null,
+      "summary_mine": null
+    },
+    {
+      "id": "9075ad23b1c1f1145c1b02f66da4c9b06ac72c1e",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONHJGYVRUS2RpMHVYUUFTYzl3c1JRYnJlMktLNWozTTFmdHRtaTcyc1h0SGV1SURTT3ZHVDVORUpLMjRUY21PblMwWThUM0Z6NXBuTE1OVENKLVBpSmkxUFZFWmxURW83c1BKTU9PT24zd3FncVAwYW1IY3BtNEw5UmF1LXBsSk5hQjVER3A1WndQcUlXcnc0S1ltTEJMYm54Zk5Idi1ESGxmWmtJcXFYdXpJQ0hSWi1CM0VzZGdB?oc=5",
+      "title": "'It's not a matter of if': King tides threaten Oregon coast beachgoers - OregonLive.com",
+      "source_id": "gnews-us",
+      "published": "2026-11-24T23:47:00Z",
+      "topics": [
+        "us"
+      ],
+      "excerpt": "",
+      "image": null,
+      "image_is_thumbnail": false,
+      "publisher": "OregonLive.com",
+      "publisher_domain": "www.oregonlive.com",
+      "summary_neutral": null,
+      "summary_mine": null
+    },
+    {
+      "id": "355df02b3e3f0d49ec578af615a7ff5875235bb6",
+      "url": "https://phys.org/news/2026-11-local-protein-chain-nerve-cells.html",
+      "title": "Local protein supply chain keeps nerve cells' mitochondria in check",
+      "source_id": "physorg",
+      "published": "2026-11-24T23:40:04Z",
+      "topics": [
+        "fizika",
+        "vesolje"
+      ],
+      "excerpt": "Some tracers used in hospital scans to check what is happening inside a patient's body are so short-lived they must be made on demand on site or rushed in by courier. A new study led by Angelika Harbauer's group at the Max Planck Institute for Biological Intelligence shows that nerve cells use similar strategies to deliver a protein that checks for damage in their mitochondria, the tiny structures",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/express-delivery-local.jpg",
+      "image_is_thumbnail": true,
+      "publisher": null,
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 1
+    },
+    {
+      "id": "1bba8830b9797e9d32a63c4b03609c4904c1d6e9",
+      "url": "https://phys.org/news/2026-11-sex-britain-significantly-young-people.html",
+      "title": "Sex in Britain has changed significantly, especially among young people",
+      "source_id": "physorg",
+      "published": "2026-11-24T23:30:02Z",
+      "topics": [
+        "fizika",
+        "vesolje"
+      ],
+      "excerpt": "The sex lives of people in Britain have shifted markedly since 1990, and their sexual and reproductive health needs are substantial and varied, according to the fourth National Survey of Sexual Attitudes and Lifestyles (Natsal-4). The first five papers from the survey—one of the largest studies of sexual behavior in the world—are published in The Lancet.",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-sex-lives-of-peopl.jpg",
+      "image_is_thumbnail": true,
+      "publisher": null,
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 1
+    },
+    {
+      "id": "1e76ea05d4b1d34631c17562e6e1cdeed6e96474",
+      "url": "https://www.discovermagazine.com/genetically-altered-tobacco-plants-could-help-make-a-popular-chemotherapy-drug-cheaper-and-easier-to-manufacture-50011",
+      "title": "Genetically Altered Tobacco Plants Could Help Make a Popular Chemotherapy Drug Cheaper and Easier to Manufacture",
+      "source_id": "discover",
+      "published": "2026-11-24T23:30:00Z",
+      "topics": [
+        "vesolje",
+        "znanost"
+      ],
+      "excerpt": "Learn how researchers were able to genetically modify tobacco plants to make taxol, a chemotherapy drug that comes from the yew tree and is typically expensive and slow to manufacture.",
+      "image": "https://cdn.discovermagazine.com/assets/image/61052/yew-tree-red-arils-taxol-t.jpg",
+      "image_is_thumbnail": true,
+      "publisher": null,
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 1
+    },
+    {
+      "id": "f1ac94b3a930d416faff6e5ad49772ab64b4789e",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80bVE5ZEZ3VUluaFEyWnFPd2ZMSVJjZG5rTzhnSXdQQlo1NEdGSnpSWjVUX0dod3JYRHhfcHdtcFBKeGcwRlhoU1ZmaFdwdXJMcE0yb3E1bTBlWHlqSjR2YlpEVm1qYUw0eWEtV0JR?oc=5",
+      "title": "MAGA Attacked Harvard. So Harvard Taught a Class About It. - The New York Times",
+      "source_id": "gnews-us",
+      "published": "2026-11-24T23:26:17Z",
+      "topics": [
+        "us"
+      ],
+      "excerpt": "",
+      "image": null,
+      "image_is_thumbnail": false,
+      "publisher": "The New York Times",
+      "publisher_domain": "www.nytimes.com",
+      "summary_neutral": null,
+      "summary_mine": null
+    },
+    {
+      "id": "5555df7bbd9c36a3070ef8f6301cf2c3567dfa77",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNT0xkRHhjaGdzOGF2dl8xMVU1UXNDX1JZWGxROWVINUlrYTllQjVKalh1Nkx0Y0U0UUFPa2ZmSXdQeFBkR3VqWFcyaWRrdXdCMGhVNWIwLXlLbG1YelBYa29fWXdpY3pieWIyWUhDeGZ6VVlwREZGRHZoUnUxU3VJMEpyajhTc1VxQVItaFJFQW5SLVlzSlQtU09kOFJiX3ExS2xDWnZZNzBJeS1iSFlyNnNoM0M1Wm5VSWNrakVtdDFWN2x4NDVETFJWT2ZZY0o4VFRnbS1QRnBKZGhqSEVJ?oc=5",
+      "title": "Trump vows to meet with Abdul El-Sayed on golden ‘Trumpcare,’ tells The Post he and Dems could do ‘great things’ - New York Post",
+      "source_id": "gnews-us",
+      "published": "2026-11-24T23:22:00Z",
+      "topics": [
+        "us"
+      ],
+      "excerpt": "",
+      "image": null,
+      "image_is_thumbnail": false,
+      "publisher": "New York Post",
+      "publisher_domain": "nypost.com",
+      "summary_neutral": null,
+      "summary_mine": null
+    },
+    {
+      "id": "2e9524efaa0ea7a28c1dffdff35b350fa6da004e",
+      "url": "https://phys.org/news/2026-11-microplastics-fish-sampled-oman-sohar.html",
+      "title": "Microplastics in nearly 8 in 10 fish sampled off Oman's Sohar coast",
+      "source_id": "physorg",
+      "published": "2026-11-24T23:20:11Z",
+      "topics": [
+        "fizika",
+        "vesolje"
+      ],
+      "excerpt": "Researchers at Sultan Qaboos University detected microplastics in the gills or digestive tracts of 95 of 120 fish sampled off Sohar in the Sea of Oman. Published in Scientific Reports, the study provides a baseline for tracking microplastic pollution in fish along this stretch of Oman's coast.",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/microplastics-in-nearl.jpg",
+      "image_is_thumbnail": true,
+      "publisher": null,
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 1
+    },
+    {
+      "id": "662bfae69a3eff74db44451fe8af961a927630f9",
+      "url": "https://phys.org/news/2026-11-sample-reveals-bepicolombo-decode-mercury.html",
+      "title": "Blind sample test reveals how BepiColombo could decode Mercury's mineral makeup",
+      "source_id": "physorg",
+      "published": "2026-11-24T23:20:08Z",
+      "topics": [
+        "fizika",
+        "vesolje"
+      ],
+      "excerpt": "An international team of researchers, including scientists from Planetary Science Institute (PSI), has demonstrated that instruments aboard the BepiColombo spacecraft can operate together to identify the minerals that make up Mercury's surface, addressing a longstanding challenge in planetary science. The findings, published in Planetary and Space Science, come as the joint European Space Agency (",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/international-laborato.jpg",
+      "image_is_thumbnail": true,
+      "publisher": null,
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 1
+    },
+    {
+      "id": "cceae4e1d438ac0cd657b4a2c5e05670b9710263",
+      "url": "https://www.discovermagazine.com/cold-war-bomb-tests-helped-confirm-these-missouri-river-fish-can-live-past-130-50012",
+      "title": "Cold War Bomb Tests Helped Confirm These Missouri River Fish Can Live Past 130",
+      "source_id": "discover",
+      "published": "2026-11-24T23:15:00Z",
+      "topics": [
+        "vesolje",
+        "znanost"
+      ],
+      "excerpt": "Learn how ear stones and Cold War bomb tests revealed that blue suckers live past 130, and why almost no young ones are left in the Upper Missouri.",
+      "image": "https://cdn.discovermagazine.com/assets/image/61057/sucker-fish-t.jpg",
+      "image_is_thumbnail": true,
+      "publisher": null,
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 1
+    },
+    {
+      "id": "4c5204e3f313247137b98f3c0b9751fcbbb452cb",
+      "url": "https://phys.org/news/2026-11-carbon-rich-soil-oaks-earthworms.html",
+      "title": "Carbon-rich soil near old oaks does not attract more earthworms, study finds",
+      "source_id": "physorg",
+      "published": "2026-11-24T23:10:02Z",
+      "topics": [
+        "fizika",
+        "vesolje"
+      ],
+      "excerpt": "Solitary oaks in traditional Romanian wood pastures create islands of carbon-rich soil around their trunks. However, a research team led by the Universities of Göttingen and Hildesheim found this does not mean more earthworms. In traditional wood pastures in Romania, the topsoil near the trunk held about a third more organic carbon and a quarter more nitrogen than the open grassland, yet earthworm",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/more-carbon-but-not-mo.jpg",
+      "image_is_thumbnail": true,
+      "publisher": null,
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 1
+    },
+    {
+      "id": "8976cfccd2b7eeec49fe2cfc6026395f7486dc96",
+      "url": "https://www.marktechpost.com/2026/11/24/meta-facebook-your-algorithm-llm-recommendations/",
+      "title": "Meet Facebook’s Your Algorithm: How Meta Turns Plain-Language Preferences Into Ranking",
+      "source_id": "marktechpost",
+      "published": "2026-11-24T23:06:17Z",
+      "topics": [
+        "ai"
+      ],
+      "excerpt": "Meta's engineering team explains how Facebook's Your Algorithm turns plain-language interests into ranking signals for Feed and Reels, using LLM validation, 4 retrieval sources, layered filtering and a fine-tuned LLM reranker. The post Meet Facebook’s Your Algorithm: How Meta Turns Plain-Language Preferences Into Ranking appeared first on MarkTechPost .",
+      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+      "image_is_thumbnail": false,
+      "publisher": null,
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
+    },
+    {
+      "id": "9b5939b4db79dc5a3df3de45f905c3e21f1002c4",
+      "url": "https://phys.org/news/2026-11-nanocarriers-crispr-tumors-growth.html",
+      "title": "Self-assembling nanocarriers show promise for delivering CRISPR to tumors and slowing growth",
+      "source_id": "physorg",
+      "published": "2026-11-24T23:00:02Z",
+      "topics": [
+        "fizika",
+        "vesolje"
+      ],
+      "excerpt": "A self-assembling supramolecular nanocarrier protects Cas9 RNPs from degradation, enhances systemic delivery and preferential tumor accumulation, and enables pH-responsive intracellular release. Developed by researchers at the Institute of Science Tokyo, this platform achieved a 37.2% indel frequency at the luciferase target locus in HeLa-Luc tumor tissue in mice, compared with 1.5% with free RNPs",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/novel-nanomachines-mig.jpg",
+      "image_is_thumbnail": true,
+      "publisher": null,
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 1
+    },
+    {
+      "id": "c49fcbd1acd62b384c075f44cd52a40d5e3a4c7e",
+      "url": "https://www.discovermagazine.com/sonar-once-detected-1-300-mysterious-circles-on-the-seafloor-all-shaped-like-giant-fried-eggs-50015",
+      "title": "Sonar Once Detected 1,300 Mysterious Circles on the Seafloor, All Shaped Like Giant Fried Eggs",
+      "source_id": "discover",
+      "published": "2026-11-24T23:00:00Z",
+      "topics": [
+        "vesolje",
+        "znanost"
+      ],
+      "excerpt": "Learn why, from biological to explosive origins, these circles have had many scientists scratching their heads.",
+      "image": "https://cdn.discovermagazine.com/assets/image/61058/seafloor-mysteries-t.jpg",
+      "image_is_thumbnail": true,
+      "publisher": null,
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 1
+    },
+    {
+      "id": "347de5f37f26324a7fed008fe01745f70ee4a3c0",
+      "url": "https://phys.org/news/2026-11-maria-species-amphibian-pays-tribute.html",
+      "title": "Named 'Maria,' a new species of amphibian pays tribute to the world's most popular name",
+      "source_id": "physorg",
+      "published": "2026-11-24T22:50:02Z",
+      "topics": [
+        "fizika",
+        "vesolje"
+      ],
+      "excerpt": "Maria, the most popular female name in Brazil and around the world, was chosen for a new species of caecilian, a type of amphibian commonly known as a \"blind snake,\" found in this South American country. The researchers chose the name Siphonops maria to raise awareness of this little-known animal, even among researchers in the field.",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/named-maria-a-new-spec.jpg",
+      "image_is_thumbnail": true,
+      "publisher": null,
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 1
+    },
+    {
+      "id": "6de9a75d8224855363751d12bd107e5fa9c6e883",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZWtkSWZheUoxZG9WeXhxQmEtNFUySnZraXdadXdHQzRsaDdqbldkRUdOMXRZRngwT3VjMXFVYXBVU0lYZG8ySmRzelRsZzRKWFZNbDBzc2FOaVdFRDlfN2Y5b1NET0lLajYzTmVEWXVha29URkZLSGdiMGx1VXFtOU4yM3lpdWpVU3NqbjhkRGRobHNTdTdKLQ?oc=5",
+      "title": "Chinese tech giant Huawei is guilty of conspiracy to steal trade secrets, US jury finds - AP News",
+      "source_id": "gnews-us",
+      "published": "2026-11-24T22:50:00Z",
+      "topics": [
+        "us"
+      ],
+      "excerpt": "",
+      "image": null,
+      "image_is_thumbnail": false,
+      "publisher": "AP News",
+      "publisher_domain": "apnews.com",
+      "summary_neutral": null,
+      "summary_mine": null
+    },
+    {
+      "id": "3d5f0033e8c95e2db00e15bf7ed7ee71bd1cfb81",
+      "url": "https://www.discovermagazine.com/if-you-drink-coffee-every-day-it-may-be-reshaping-your-gut-microbiome-50014",
+      "title": "If You Drink Coffee Every Day, It May Be Reshaping Your Gut Microbiome",
+      "source_id": "discover",
+      "published": "2026-11-24T22:45:00Z",
+      "topics": [
+        "vesolje",
+        "znanost"
+      ],
+      "excerpt": "The study linked regular coffee consumption to increased gut contractions, among several notable changes in gut physiology.",
+      "image": "https://cdn.discovermagazine.com/assets/image/61055/drinking-coffee-t.jpg",
+      "image_is_thumbnail": true,
+      "publisher": null,
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 1
+    },
+    {
+      "id": "af09425e52dc32ebb1266e525c9d1eaadc8eae66",
+      "url": "https://phys.org/news/2026-11-enjoy-effect-fun-skilled.html",
+      "title": "The enjoy-able effect: Why fun makes us feel more skilled than we are",
+      "source_id": "physorg",
+      "published": "2026-11-24T22:40:09Z",
+      "topics": [
+        "fizika",
+        "vesolje"
+      ],
+      "excerpt": "Picture a hobby, a game or an activity you love. Maybe it's cooking or Wordle or playing pickup basketball. For a long time, I have loved playing video games. Now ask yourself: How good are you at it?",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-enjoy-able-effect-1.jpg",
+      "image_is_thumbnail": true,
+      "publisher": null,
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 1
+    },
+    {
+      "id": "a500af5fc5ac4b573d5cfabdc7899a83c622731c",
+      "url": "https://phys.org/news/2026-11-nasa-hubble-view-ngc-bar.html",
+      "title": "NASA Hubble's new view of NGC 4394 raises the bar",
+      "source_id": "physorg",
+      "published": "2026-11-24T22:40:01Z",
+      "topics": [
+        "fizika",
+        "vesolje"
+      ],
+      "excerpt": "A brilliant galaxy with a distinct galactic bar takes center stage in this NASA/ESA Hubble Space Telescope image. The galaxy, called NGC 4394, is in the constellation Coma Berenices (Berenice's Hair). At about 55 million light-years away, NGC 4394 is considered relatively nearby for a galaxy. It's one of more than 1,000 galaxies that make up the Virgo Cluster, which is the galaxy cluster closest t",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/photo-nasa-hubbles-new.jpg",
+      "image_is_thumbnail": true,
+      "publisher": null,
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 1
+    },
+    {
+      "id": "ff26e302704630c377fd81a58d4b8e6bcf9f5a49",
+      "url": "https://phys.org/news/2026-11-quantum-blueprint-path-unusual-entanglement.html",
+      "title": "Quantum blueprint maps a practical path to testing unusual entanglement",
+      "source_id": "physorg",
+      "published": "2026-11-24T22:30:02Z",
+      "topics": [
+        "fizika",
+        "vesolje"
+      ],
+      "excerpt": "Adrian Del Maestro knows how to engineer a quantum fingerprint. Rick Mukherjee has a gift for tuning atoms. Their combined expertise has taken a theory sketched out on paper and created a pathway for real experiments. The results, published in the journal Physical Review Letters, move a law-defying \"mathematical oddity\" ever so slightly up the technology readiness scale",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/law-breaking-quantum-p.jpg",
+      "image_is_thumbnail": true,
+      "publisher": null,
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 1
+    },
+    {
+      "id": "ada5d62f06e763c25b12af4d0530fedd2788126c",
+      "url": "https://www.discovermagazine.com/5-000-years-ago-people-may-have-brought-wolves-50-miles-across-the-sea-to-a-remote-baltic-island-50009",
+      "title": "5,000 Years Ago, People May Have Brought Wolves 50 Miles Across the Sea to a Remote Baltic Island",
+      "source_id": "discover",
+      "published": "2026-11-24T22:30:00Z",
+      "topics": [
+        "vesolje",
+        "znanost"
+      ],
+      "excerpt": "Learn how ancient DNA, seafood diets, and an injured leg point to people keeping wolves thousands of years after dogs already existed.",
+      "image": "https://cdn.discovermagazine.com/assets/image/61053/wolf-arm-bone-t.jpg",
+      "image_is_thumbnail": true,
+      "publisher": null,
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 1
+    },
+    {
+      "id": "6714cc2dfa2829d2517b5e89770b8ac64e88ea99",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORXplMVVsQmJFOElPbzg5UUhZRGJKMHZxWk1DMmNhX09jb3lsbjZjZWxTRWozanF1eXVDWFktQ3dnUXd2ZUlkN2l4S2RRRU5DRzFyZExpOXRKaktSb2Jlb2RQTUZsc0VjWjVyS3F4eDRIY21oUDdqakV3WjFDN2hWQi02U2dzQ2dxMnhobjM2Sjc0RTRQdEFPUVhQSjY2YlRyVUczTjBWcEU?oc=5",
+      "title": "Nor'easter to bring Thanksgiving weather misery to millions - USA Today",
+      "source_id": "gnews-us",
+      "published": "2026-11-24T22:30:00Z",
+      "topics": [
+        "us"
+      ],
+      "excerpt": "",
+      "image": null,
+      "image_is_thumbnail": false,
+      "publisher": "USA Today",
+      "publisher_domain": "www.usatoday.com",
+      "summary_neutral": null,
+      "summary_mine": null
+    },
+    {
+      "id": "7415487fa4c469741a8668d9a6d4e7d71404323e",
+      "url": "https://phys.org/news/2026-11-tackle.html",
+      "title": "Too much to do, but too little time? 5 tips to tackle your to-do list",
+      "source_id": "physorg",
+      "published": "2026-11-24T22:20:10Z",
+      "topics": [
+        "fizika",
+        "vesolje"
+      ],
+      "excerpt": "With the holidays approaching and the semester winding down, to-do lists are growing. Between shopping for gifts, planning gatherings, studying for finals and finishing projects, there's plenty to accomplish before the end of the year.",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/different-clock-faces.jpg",
+      "image_is_thumbnail": true,
+      "publisher": null,
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 1
+    },
+    {
+      "id": "bba64d439bba8698cf1a1c1c5bacc09e92fab549",
+      "url": "https://phys.org/news/2026-11-renaissance-sculpture-reveal-political-ambitions.html",
+      "title": "Flowers in Renaissance sculpture may reveal political ambitions of Florence's ruler",
+      "source_id": "physorg",
+      "published": "2026-11-24T22:20:07Z",
+      "topics": [
+        "fizika",
+        "vesolje"
+      ],
+      "excerpt": "A new study suggests that the flowers adorning Benvenuto Cellini's sculpture Narcissus are more than decoration: they connect the development of botanical science with competition among Renaissance artists and the ambition of Florence's ruler to consolidate his status.",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/flowers-in-renaissance.jpg",
+      "image_is_thumbnail": true,
+      "publisher": null,
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 1
+    },
+    {
+      "id": "556e5a127863776248e29197fdf54a82a40c3afb",
+      "url": "https://phys.org/news/2026-11-mega-constellations-hidden-space-junk.html",
+      "title": "Why mega-constellations have a hidden space junk blind spot",
+      "source_id": "physorg",
+      "published": "2026-11-24T22:10:02Z",
+      "topics": [
+        "fizika",
+        "vesolje"
+      ],
+      "excerpt": "We are consistently launching more and more stuff into space. As of now, space agencies track more than 30,000 objects larger than a softball, with an expected 1 million more bullet-sized pieces of debris orbiting Earth that are too small to spot from the ground. Government agencies and private commercial entities are planning to have up to 100,000 active spacecraft in orbit by the early 2030s, tu",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/image-of-the-aurora-au.jpg",
+      "image_is_thumbnail": true,
+      "publisher": null,
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 1
+    },
+    {
+      "id": "5891c396f8fdd0e98f6b1cf8075d8e58e389be0a",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUUZDb1pNeEpScUxaSHVjdkpkaDNOUzRwN1dzc01kUk0tTXVLWlJOWmF2bHR6VFlGQ09OTTN3ZEloV29pN1FCX0xPX01LbWw4eEFpUE5KNHlPY2lPMHY4d295M24tWGRHZUZyMkJqOUpqdHRrNXlSSEpEWmVXY2FpNW4wZGgySGJtMDhvSklhZHpSb2N0UG5xRnJkeDctcmtz?oc=5",
+      "title": "Senate Democrats are set to add a freshman to their leadership ranks - Politico",
+      "source_id": "gnews-us",
+      "published": "2026-11-24T22:05:16Z",
+      "topics": [
+        "us"
+      ],
+      "excerpt": "",
+      "image": null,
+      "image_is_thumbnail": false,
+      "publisher": "Politico",
+      "publisher_domain": "www.politico.com",
+      "summary_neutral": null,
+      "summary_mine": null
+    },
+    {
+      "id": "b82e96a685eaa999c65caef149284413784c01fb",
+      "url": "https://phys.org/news/2026-11-magic-scientists-secret-unusually-stable.html",
+      "title": "A new reason for magic numbers: Scientists discover the secret behind an unusually stable molecular cluster",
+      "source_id": "physorg",
+      "published": "2026-11-24T22:00:08Z",
+      "topics": [
+        "fizika",
+        "vesolje"
+      ],
+      "excerpt": "Why are some groups of molecules remarkably stable while others readily break apart? Researchers at Bar-Ilan University have discovered a surprising explanation for why clusters containing exactly six molecules of glycine, the simplest amino acid, are exceptionally stable—making six a \"magic number.\" Moreover, they have uncovered the reason for this increased stability. The secret lies in a transf",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-new-reason-for-magic.jpg",
+      "image_is_thumbnail": true,
+      "publisher": null,
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 1
+    },
+    {
+      "id": "b3e8a9aed17257774be4ba0007192bda6f496e4b",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zRGVDcUdZdDFiS3VqRl9mQWJtOWZmVV9BSmcxUVFhRWhTZ2tKMUlLZ1ZadU1aSndaMy16TTd3UF9ocENyLXVxV0pEMy1uRHlNU1lHMVBjVi1YZ3c?oc=5",
+      "title": "Florida politician says son's killing was not a 'freak hunting accident' - BBC",
+      "source_id": "gnews-us",
+      "published": "2026-11-24T21:51:31Z",
+      "topics": [
+        "us"
+      ],
+      "excerpt": "",
+      "image": null,
+      "image_is_thumbnail": false,
+      "publisher": "BBC",
+      "publisher_domain": "www.bbc.com",
+      "summary_neutral": null,
+      "summary_mine": null
+    },
+    {
+      "id": "a0344affb3d5c84712805e8f4ca6d55775517a15",
+      "url": "https://phys.org/news/2026-11-mindfulness-worst-employees.html",
+      "title": "Mindfulness training may bring out the worst in some employees",
+      "source_id": "physorg",
+      "published": "2026-11-24T21:50:01Z",
+      "topics": [
+        "fizika",
+        "vesolje"
+      ],
+      "excerpt": "Contrary to popular belief, mindfulness training in the workplace can make some employees angrier and more likely to treat coworkers with disrespect.",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/employee-2.jpg",
+      "image_is_thumbnail": true,
+      "publisher": null,
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 1
+    },
+    {
+      "id": "259f7310d68e363ffdd58ecf8a2ccc9b839f02a4",
+      "url": "https://www.scientificamerican.com/article/secrecy-surrounds-claims-of-russias-push-for-nukes-in-space/",
+      "title": "Secrecy surrounds claims of Russia’s push for nukes in space",
+      "source_id": "sciam",
+      "published": "2026-11-24T21:45:00Z",
+      "topics": [
+        "energija",
+        "znanost"
+      ],
+      "excerpt": "Despite international prohibitions on placing nuclear weapons in orbit—and the catastrophic effects of their use—some experts say the temptation to do so still remains",
+      "image": "https://static.scientificamerican.com/dam/m/48b96d691705964a/original/2EFWC02.jpg?m=1795558601.328&w=1200",
+      "image_is_thumbnail": false,
+      "publisher": null,
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 1
+    },
+    {
+      "id": "e71966463c3c44fb7e8dd4c5848006551ae327fc",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbEppYzJtVmVfdU9naGJsSG5pY29BRndRZ2tScGpudmNFWGE2Rk12TW9NcXJSS20yc0JYS3pDaExHNG43SGVjU01lOVBVa2xmX0tBWnBaT0lSTzE5d1FQOXlWRkJVR2NCUVp3S2NlLUJJcjV3N1R5YlllZ05GVTB4RHpvcjFpWVVfMlBIQU9BN2xPZVdBZ3hQUFlhMm1EVXc0T01TQkJPSGtlMV9MZ1VJcXh3NWY5bFd5QVF1SXlkaThSTmNTbnhERDBZVkI?oc=5",
+      "title": "Amtrak Scraps Bridgeport Rail Yard Plan, Throwing Sox Owner’s Plan For New Stadium Into Doubt - Block Club Chicago",
+      "source_id": "gnews-us",
+      "published": "2026-11-24T21:41:21Z",
+      "topics": [
+        "us"
+      ],
+      "excerpt": "",
+      "image": null,
+      "image_is_thumbnail": false,
+      "publisher": "Block Club Chicago",
+      "publisher_domain": "blockclubchicago.org",
+      "summary_neutral": null,
+      "summary_mine": null
+    },
+    {
+      "id": "7cd1fd66b946d80ba15b38372ac0f35c72c983bc",
+      "url": "https://phys.org/news/2026-11-reveal-core-evolution-typhoon-bavi.html",
+      "title": "Researchers reveal inner-core structural evolution of Typhoon Bavi using multisensor satellite observations",
+      "source_id": "physorg",
+      "published": "2026-11-24T21:40:09Z",
+      "topics": [
+        "fizika",
+        "vesolje"
+      ],
+      "excerpt": "Tropical cyclones frequently undergo rapid, complex structural changes within their inner cores, such as eyewall replacement and wind-field expansion, that strongly influence typhoon intensity and coastal hazards. However, capturing these multilayered transformations continuously from the ocean surface to the upper cloud tops remains a major observational challenge.",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/researchers-reveal-inn.jpg",
+      "image_is_thumbnail": true,
+      "publisher": null,
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 1
+    },
     {
       "id": "fdf9da1aa8b3b4d0fcb0cd33200c23f27c773277",
       "url": "https://wccftech.com/amd-ryzen-7-9800x3d-black-friday-deal/",
@@ -16,23 +1184,6 @@
       "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "d5a6735c6f95c9ac560fece622eaafefaa37cc76",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOdlJ3bzd6dnZTdzZrYTR5RWRnNTF1OE1IXy1hME8zVWlNdFBjZXBtQVo1VER5NF9YelIyZXlQWkxSbzU0SUxWdUlYVzMzZmVKVW8tM3ZKSkJybEI1eGcwZEhjMzhSZUtPNDRsRHh2ZVRpUkpLelJsSGRHTzVkelZlSXNLQ0M5Tk1iX0R3eVFuT3piRFdpU3BmZi1JQkxicEk2MTk2TUNjRGRESUlwNWdkeXRuMkZiZGJjRWFPOGlIaUw1SVhzWFpxX3V1a3ljT2xFRjhJckFVeFZtWFhZUmxFX0g4NHpXZjBka0tNdHdGc3VlT3g4?oc=5",
-      "title": "Live storm updates: Record king tides leave Bay Area roads flooded - ABC7 Bay Area",
-      "source_id": "gnews-us",
-      "published": "2026-11-24T21:21:00Z",
-      "topics": [
-        "us"
-      ],
-      "excerpt": "",
-      "image": null,
-      "image_is_thumbnail": false,
-      "publisher": "ABC7 Bay Area",
-      "publisher_domain": "abc7news.com",
       "summary_neutral": null,
       "summary_mine": null
     },
@@ -76,6 +1227,23 @@
       "summary_mine": null,
       "image_tried_at": "2026-11-24T21:27:50Z",
       "image_attempts": 1
+    },
+    {
+      "id": "3e18cdbc58380d860be1c7fe29f44208f4484ac6",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSWJpZDZZeGNrWHZVNU9LUl9VRW9CN3dscWJoTGR6dTVBUXk1Y2xZUXoyNDhEb1hUS3czMEdJOHlGcmM5TFM3ZzRrRlFDRy1YcnpXZm9kcUxNbWNJZzd4U0NxT2M3ZTdJMm5pNkVaa0pDV2FSajRyY2ZEa2ZkUG1IZWpWWTEyei1MakduedIBkgFBVV95cUxPLXZjaE83V2QwMlYtNDk4eVdacnhDNThOVzhJTWMyNmZuM3U2V0tPaGt1cEN0ZWY2U2RScEJkNE1YMmNpWGg0VnRmeTR2Z0NEZXF0UHR5UUVzRWczZVhMM0J1N0tLVV8tYWNiN0VVYm9FbkdfRHhMWEdPWDRncnFsczB2aVZFdzlTcW0xRmM3VElCUQ?oc=5",
+      "title": "Navy says it won’t rename USS Doris Miller aircraft carrier after Trump - The Hill",
+      "source_id": "gnews-us",
+      "published": "2026-11-24T21:18:00Z",
+      "topics": [
+        "us"
+      ],
+      "excerpt": "",
+      "image": null,
+      "image_is_thumbnail": false,
+      "publisher": "The Hill",
+      "publisher_domain": "thehill.com",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "8835b5880323aa19066d20c7c10c627b63cc42a7",
@@ -136,19 +1304,19 @@
       "image_attempts": 1
     },
     {
-      "id": "3b0a9f92e18cc5b98637fd43a80685e55a600093",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMk9hWGY4bXNvTUVpWWNkZHU2S3I1b0U5RUV4a3M1RVBHLVBPX2ZiSmpBSkk0Znd5Qjh3SzBPX1l2dzFFdVJNYmZPZk9CNFRkYmpEempxZlkyWlhQSGVybnpVVmR6bmg0cUJKbmt5TDZaQWlxMDlGMW8zS3pndXJXbENwWlZUSExtMG9OeUlpQmZGUGgxcDJFUlZncXRvMFB6U0ppeDBnWC01Q3BSd2tSeW1UMGRVWFR3ellKTWpTeWFjV3c4QVIzZ1NHY3Fzbl9QNmc?oc=5",
-      "title": "Lead azide must be detonated in Iowa, Army says; some residents urged to evacuate - The Washington Post",
+      "id": "e6239b0c3a297790eb5a5620f3ed2b8a8ccd219e",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1UVkJ4azFJejFUTXU4Sm9rbnBtRVl4Nk9zTkNxWUFvc2U1WlJvZkpMc3FzLUdYTVpJYnRVd2VJRnUyZ0laQS1hZzBIeGwycXlVUWZnWkpZTVBsQ3E2cjc0eTFvRTFId2ZxU0RIVS16Y3YxWC1uMHgta29NZkdWUQ?oc=5",
+      "title": "The U.S. government is investigating Iranian ties to as many as 50 hacked commercial vessels - NPR",
       "source_id": "gnews-us",
-      "published": "2026-11-24T21:07:38Z",
+      "published": "2026-11-24T21:04:50Z",
       "topics": [
         "us"
       ],
       "excerpt": "",
       "image": null,
       "image_is_thumbnail": false,
-      "publisher": "The Washington Post",
-      "publisher_domain": "www.washingtonpost.com",
+      "publisher": "NPR",
+      "publisher_domain": "www.npr.org",
       "summary_neutral": null,
       "summary_mine": null
     },
@@ -190,6 +1358,40 @@
       "summary_mine": null,
       "image_tried_at": "2026-11-24T21:27:50Z",
       "image_attempts": 1
+    },
+    {
+      "id": "c680b86663bab00e0bbb7c795bf56cb541282d8f",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNajQyUUh4MWFvc3ZOdGZLWDQ1OEJRR2p2dEZXeWM2eWpxd1picUhiNjBPZFhLczc1U0hJUG1Jbk9taUpmUFhKaWstVlZJSGpydFo3dk1rS01VanZ3QlNBRE9mN2pHdmUxejNaYXhTQ0JOVDBLeTI5Wk5lVGZBUEF0NnE4RjAyN1BvamgtVlIzUkVPa2RIc0x1aGZFdGFDOFlXaGg0V1VGdEhkQQ?oc=5",
+      "title": "Amendment 3: Map Shows Millions in Revenue Each Florida County Could Lose - Newsweek",
+      "source_id": "gnews-us",
+      "published": "2026-11-24T20:51:00Z",
+      "topics": [
+        "us"
+      ],
+      "excerpt": "",
+      "image": null,
+      "image_is_thumbnail": false,
+      "publisher": "Newsweek",
+      "publisher_domain": "www.newsweek.com",
+      "summary_neutral": null,
+      "summary_mine": null
+    },
+    {
+      "id": "c87a4e732ccf87a73e01448ab661b61619b71652",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZUZiNk1SMHh6dGJ1M2NTOW9HanFXekFFc19iM21URmpwYVFUNnhNRTFHLTNWdjhoNWlWMlN4QWp6ajRUVlc2cW53VDl1eEFqNmtla2dqUDNfeFdQcExubFhLWkVGSE9DNEZBZXFNbzdJamlfS1g1aUhydXkxcng5akJmTHJ6UFcwMjduX2RfOEd0akt3N0IxUFYwRdIBoAFBVV95cUxNdm5yN2VCSGpkZmphZ2c1NU1EX0UwbkpiVlhrNFQxV1RreURNWEdxOFNkZ2w3cWF0Y2pDSnVfQ0NZc0tJcXFHMkxmYnptOG1Ld242dF9CZGt4M0JRVE1lMXVQRGt0ck9yVk5nWlhlZGFkSDRhRFNxRF81T25aZ1R3Y3o0RzY1MUgxMENCd0dlN1JudGFhVGV4cVQxREJ2TmV3?oc=5",
+      "title": "Pentagon sharply criticizes Canada over modernizing military - PBS",
+      "source_id": "gnews-us",
+      "published": "2026-11-24T20:42:20Z",
+      "topics": [
+        "us"
+      ],
+      "excerpt": "",
+      "image": null,
+      "image_is_thumbnail": false,
+      "publisher": "PBS",
+      "publisher_domain": "www.pbs.org",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "36deffe348afccc014e8f67fcdd3662b8df0c833",
@@ -250,6 +1452,23 @@
       "summary_mine": null
     },
     {
+      "id": "c520cc622f992eadd89ff114212d929963b12ed5",
+      "url": "https://dailygalaxy.com/2026/11/record-breaking-stellar-eruption/",
+      "title": "Astronomers Witness a Record-Breaking Stellar Eruption That Challenges Decades of Science",
+      "source_id": "dailygalaxy",
+      "published": "2026-11-24T20:30:00Z",
+      "topics": [
+        "vesolje"
+      ],
+      "excerpt": "A record-breaking eruption on a nearby red giant is challenging decades of astronomical theory and shedding new light on our cosmic origins.",
+      "image": "https://dailygalaxy.com/wp-content/uploads/2026/11/Astronomers-Witness-a-Record-Breaking-Stellar-Eruption-That-Challenges-Decades-of-Science-scaled.png",
+      "image_is_thumbnail": false,
+      "publisher": null,
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
+    },
+    {
       "id": "bfad63f8d34f81d981b5655f3c8acf3f6c89bfdb",
       "url": "https://wccftech.com/gigabytes-gc-wf7lite-wi-fi-7-cards-move-to-realtek-and-mediatek-160-mhz-modules-with-a-single-combined-antenna-adapter-and-no-onboard-usb-port/",
       "title": "GIGABYTE’s GC-WF7LITE Wi-Fi 7 Cards Move To Realtek And MediaTek 160 MHz Modules With A Single Combined Antenna Adapter And No Onboard USB Port",
@@ -264,6 +1483,23 @@
       "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
+    },
+    {
+      "id": "0953aace4a5aa36848b38e9d96bc544981e286af",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORVRPM3Znb3dubnRhMHBpTWQyZmRyTjN2amxHVXdZNUFYNjVRVkhGbVdTbFNJMlpocDhPSVNLek9naW1CaGl4MDZxRXFpdEFjbXJGellIT3FOc2N2U1hkdEZxaXNKVTdjbFRKRGN2dE9JRlNvVjF5cVlCQVBXOGVSSERXdXdkeEFHRVF3Zm9oaXlHLWU3ZFVDYmdhUlJDZVhRZE5wREhqMHk4UQ?oc=5",
+      "title": "Democrat Victoria Broderick unseats eight-term Republican incumbent in Tennessee to win election - The Guardian",
+      "source_id": "gnews-us",
+      "published": "2026-11-24T20:21:00Z",
+      "topics": [
+        "us"
+      ],
+      "excerpt": "",
+      "image": null,
+      "image_is_thumbnail": false,
+      "publisher": "The Guardian",
+      "publisher_domain": "www.theguardian.com",
       "summary_neutral": null,
       "summary_mine": null
     },
@@ -309,6 +1545,40 @@
       "image_attempts": 1
     },
     {
+      "id": "aaf78dcb8959beed79bcaa4db73fba9fd2e730b6",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZjNGZWJ2RzdiTzB6eVZhNTF3VkpIckJJX2VHbnhBUW1kaXpwVFJIRDZJdlZQU3pvLXBNNXlQTmdpaTBGTnpGV3pyNG9QMkhmU1JHMGhmYkxRMXNJQkZlT1M1dHdQQ3NoZHJyTURialF0bG9ubXI5RWlic1BGRWxZQzhYcXdjT0tIMTln?oc=5",
+      "title": "The Mississippi Senate Race Wasn’t Even This Year’s Biggest Upset - The New York Times",
+      "source_id": "gnews-us",
+      "published": "2026-11-24T20:19:49Z",
+      "topics": [
+        "us"
+      ],
+      "excerpt": "",
+      "image": null,
+      "image_is_thumbnail": false,
+      "publisher": "The New York Times",
+      "publisher_domain": "www.nytimes.com",
+      "summary_neutral": null,
+      "summary_mine": null
+    },
+    {
+      "id": "dc37848e7d694a79c9fe15498523caeb59f8a3a4",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTmdtemZiTkJrY1d6MlJuelVBNTk4NnRvak1uMDNCOHZ0S0pZNGlacC1RVmtFdFhIWU1wMVpCb2ZlZXZZb0I3MERkXzlDelFJRUplTEVGUVAxd0pYU1NScE92LWIwQVhiYV9kangySVBiQWxUd2ZEVGNNY0lLRW1sRzhrX3lLZXZRNElQanhmeFNtNkttWnI3RmdnYzJBeXFyUnA4SDBPd0N2R2lYRjRXRkxGWHhZeHVZ?oc=5",
+      "title": "Family of teen killed by Georgia police officer demands release of body camera footage - NBC News",
+      "source_id": "gnews-us",
+      "published": "2026-11-24T20:11:33Z",
+      "topics": [
+        "us"
+      ],
+      "excerpt": "",
+      "image": null,
+      "image_is_thumbnail": false,
+      "publisher": "NBC News",
+      "publisher_domain": "www.nbcnews.com",
+      "summary_neutral": null,
+      "summary_mine": null
+    },
+    {
       "id": "a203397e9338f6c54331ec3bb9f6022d4a22c7ce",
       "url": "https://www.discovermagazine.com/australia-s-migrating-moth-travels-over-600-miles-using-an-invisible-magnetic-sense-50010",
       "title": "Australia’s Migrating Moth Travels Over 600 Miles Using an Invisible Magnetic Sense",
@@ -323,10 +1593,27 @@
       "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null,
       "image_tried_at": "2026-11-24T21:27:50Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
+    },
+    {
+      "id": "ed84607458df04dd543984e6cda34494bd9f3c1f",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZ18xSUFZMjhVNTItWUFZYTdDWmQ3dVROMFJ6ellyV3RDc1dJSThXTGs2cGs5UjRuZ2dSeHpITWs1Y1RwQnYzbm5hM3pubVB0UVoxdmlYSnlMRUg1bjBWRTZ2dUJOMEN6VXFXMVRVb05zWUUydEdVZTVmLTAxSUZkNk9ZQnEtSWh5TG43WjNuWVRucllXS0F4OTlEckdqbkw1YUtkVmFSR0pxbE9lTDJhVXg1TEE1QjVPbEMxWEFGR0dFZVRXWXlQWGc4dmVBQk93Vmo1eEFhc3FLNzNhSHRsTGZIcUg?oc=5",
+      "title": "Witness to Fiona the hippo’s hat calamity reveals moment young boy started crying after knit landed in enclosure - New York Post",
+      "source_id": "gnews-us",
+      "published": "2026-11-24T20:05:00Z",
+      "topics": [
+        "us"
+      ],
+      "excerpt": "",
+      "image": null,
+      "image_is_thumbnail": false,
+      "publisher": "New York Post",
+      "publisher_domain": "nypost.com",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "8d176d2324a4b55ff29ea5053ec84b5148aea2ac",
@@ -425,6 +1712,23 @@
       "image_attempts": 1
     },
     {
+      "id": "2bc47b089a76aae0384fb5b4ceeb9d71ec28c153",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZXNoMmxCcWh5RDBGMDBrSEtZeG9xamo3NGdsTjhvZzJpNlJ2MC1vWW9tZnBoTlBzMXVtX3R6NFE0RmlaQmEzRi1QMUFRaE1sNHBqb3ROQ0ItSjFOOFZPS2hObGxvYW1WblNmYU1CVFRGTmhPM3R4b0RLbXBYV0VkNnNjSzlRY3M5NnJPY29fWkdQV25tX0c0UmJ6YjZMNFhDeGhLVUFYVjhrN1R2eXUzSXJqWWd4MEwwcFpkMzQ3ejZSM3FTTUNkRlpPaEwzcGtT?oc=5",
+      "title": "Lefty judge who freed career criminal before Chinatown slaying said he should go to mental facility — then let him walk - New York Post",
+      "source_id": "gnews-us",
+      "published": "2026-11-24T19:42:00Z",
+      "topics": [
+        "us"
+      ],
+      "excerpt": "",
+      "image": null,
+      "image_is_thumbnail": false,
+      "publisher": "New York Post",
+      "publisher_domain": "nypost.com",
+      "summary_neutral": null,
+      "summary_mine": null
+    },
+    {
       "id": "2d2ef5396ae169baa2b317d3e098f7d06e170225",
       "url": "https://phys.org/news/2026-11-copper-aluminum-oxide-components-smart.html",
       "title": "Copper aluminum oxide could make light-controlling components for smart glasses 120 times thinner",
@@ -482,6 +1786,23 @@
       "image_attempts": 1
     },
     {
+      "id": "7f42ae2eefc2e18d0cbab0433f6bd78dcb43d5bd",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQck8wR01ZcEJKRWw2YXI2ZmdSZHhtQmdWOTVyZnhTN3dSRm1Ec2tvYjJ1RE8zMG1XSzhKYzM5U29HTFZvdi1GYk5XdWVtczc1cGFjRkk2NE54RTIxa1BPZ0VNRkNwS0kxcXhyZk1TVjRDZ1NzV01qOC1LLXIxSjg2aHRmN0phWHJDTmNQUFY5clQ0U2xBc28zUEJJa2Zwa0EzeFpDTXRTVXlHdE44eW5PNDlHb0FqUQ?oc=5",
+      "title": "Ohio Gov. Mike DeWine signs bill to deregulate gun silencers, sawed off firearms - Cleveland.com",
+      "source_id": "gnews-us",
+      "published": "2026-11-24T19:27:00Z",
+      "topics": [
+        "us"
+      ],
+      "excerpt": "",
+      "image": null,
+      "image_is_thumbnail": false,
+      "publisher": "Cleveland.com",
+      "publisher_domain": "www.cleveland.com",
+      "summary_neutral": null,
+      "summary_mine": null
+    },
+    {
       "id": "b0d1752c87c054610896f87bfb946b8050098c28",
       "url": "https://phys.org/news/2026-11-debunkbot-quash-emerging-conspiracy-theories.html",
       "title": "DebunkBot can quash emerging conspiracy theories",
@@ -502,6 +1823,23 @@
       "image_attempts": 1
     },
     {
+      "id": "e3029a52d15a75ca27c16132e3e53847d2cd9cf2",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNelJIelowOGVUanloMVBSWWNNMUlaNVF2anJaak1GT3lKRFc4NVVmZkhnUDlOekNQczlYOTJwbFFTVTczMkF5Zk9FUmVXV052VjIxMXY4YkxPNjRlMUEtMGRsMUx1RDJBOHk0NUxTSDVkbVdtejg1MkJQSmszcjBVRTJuV0FOcThHQ2JOcA?oc=5",
+      "title": "Republican senator's husband dead: 'Our family is heartbroken' - Fox News",
+      "source_id": "gnews-us",
+      "published": "2026-11-24T19:19:19Z",
+      "topics": [
+        "us"
+      ],
+      "excerpt": "",
+      "image": null,
+      "image_is_thumbnail": false,
+      "publisher": "Fox News",
+      "publisher_domain": "www.foxnews.com",
+      "summary_neutral": null,
+      "summary_mine": null
+    },
+    {
       "id": "a90ddf5c23cafb60c8a77ebb41c051acc8b6a022",
       "url": "https://wccftech.com/chinese-firm-with-first-domestic-euv-light-source-prototype-raises-50-million-yuan-in-funding-says-it-relies-on-cheaper-euv-mirrors-and-wider-tin-nozzles/",
       "title": "Chinese Firm With First Domestic EUV Light Source Prototype Raises 50 Million Yuan In Funding & Says It Relies On Cheaper EUV Mirrors And Wider Tin Nozzles",
@@ -516,6 +1854,23 @@
       "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
+    },
+    {
+      "id": "df4246169cbc6370bac7d3cd256eda14a36df586",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9KMkRaS3hpMm9VU0N3OFMtenUxTDFSYUhwMlVCNkJOSkhhNDA2Wm1sQ0lWY0EtS21WeEFkaUdzYzZWNHE5c1ZWVEMyNGxSQlUwX0JMc3FVZThyRXB3el9qZWdfR0lxbFhZN0l0UDVJYmt1OVo1aDc4OUZfSQ?oc=5",
+      "title": "Tasa Coffee Roasters window shows \"permanently closed\" sign after customers accuse co-owner of working for ICE - CBS News",
+      "source_id": "gnews-us",
+      "published": "2026-11-24T19:06:00Z",
+      "topics": [
+        "us"
+      ],
+      "excerpt": "",
+      "image": null,
+      "image_is_thumbnail": false,
+      "publisher": "CBS News",
+      "publisher_domain": "www.cbsnews.com",
       "summary_neutral": null,
       "summary_mine": null
     },
@@ -573,10 +1928,10 @@
       "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null,
       "image_tried_at": "2026-11-24T21:27:50Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "519e3c24c792ae44d2576ceefc7cc08d3a58d9b5",
@@ -592,10 +1947,27 @@
       "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null,
       "image_tried_at": "2026-11-24T21:27:50Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
+    },
+    {
+      "id": "8d9d872e35a302c957b37f6b038f05ad6723873c",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcnM4bjNJd1F0TzJkcXl2SE9HTTFHUWRSMkR1NXlORHBhalpUdGNCWTdrWkdfcjc0NmhUbEVudjRCbzJESWZlTFpqS1p2Z09qUzJKM3ZTTUZTRk5xT2I5RHFNcmdPR01abXJkUEwtTWp1SERzbDd6Znd1NEtqYTZqcmNRS2tkWVhwUE5UWnB6YXpWRHVZSTNQbW1CaGlxSFdhRmg2U081N3hXNGc?oc=5",
+      "title": "Democrats clinch a historic House majority of at least 259 seats, the largest since 1990 - AP News",
+      "source_id": "gnews-us",
+      "published": "2026-11-24T18:54:00Z",
+      "topics": [
+        "us"
+      ],
+      "excerpt": "",
+      "image": null,
+      "image_is_thumbnail": false,
+      "publisher": "AP News",
+      "publisher_domain": "apnews.com",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "96332b0bd2cf95b2928076a6b8ed6bd89f8bcc48",
@@ -690,6 +2062,23 @@
       "image_attempts": 1
     },
     {
+      "id": "fcb5880bccd19da5914f78add37f223ff9006329",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUFVZb0s4WU1SY3ljTnlra2pMc1Y1aDdoMHo2d0Y3NUJZZTNTeWxpNlpQYTR2V3lITVcxUmhTWDJPLXBvRHg2bUtoMEVxV3ByRWtIZllrcGV3aWZndExoR1dMTXlDNWFWbENnM1dLNzVCNDJCcm9La1Y5Y3BySnN5NDFmZ1g0by1rMGI0TmVtR2dnQlkzVkhpTjRuY1RRMnZBQ2Vj0gGoAUFVX3lxTFBha1g3SXBmNTJ3WTZnMEZ3Z0lhSnJHajExT2luOUlSZTI1dU81bEtkXzk0SGE5LVdaQTZqb1lhQlNVZmVqX1E0aGhhbEc1dG9zWDE0M0FPSmhBU1pXcHBxWjJPUVlZTDV2d3pQZ0NfVlM3S1hiakc0QTVpSFo3NlVrZVdKd3FpNDVPRTIzQkN5WmNWVnRoa2xyaFFiY2JBYWNVOG5aUzdHRg?oc=5",
+      "title": "House Dem targets 4 companies in probe into Trump Jr-linked 1789 Capital - Fox Business",
+      "source_id": "gnews-us",
+      "published": "2026-11-24T18:37:00Z",
+      "topics": [
+        "us"
+      ],
+      "excerpt": "",
+      "image": null,
+      "image_is_thumbnail": false,
+      "publisher": "Fox Business",
+      "publisher_domain": "www.foxbusiness.com",
+      "summary_neutral": null,
+      "summary_mine": null
+    },
+    {
       "id": "907adc9d4b5feec8bc4ea11295d92729f1e3053f",
       "url": "https://phys.org/news/2026-11-subtropical-forest-capacity.html",
       "title": "Selective logging can better preserve subtropical forest adaptive capacity than clear-cutting",
@@ -762,25 +2151,8 @@
       "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null,
       "image_tried_at": "2026-11-24T21:27:50Z",
-      "image_attempts": 1
-    },
-    {
-      "id": "e71966463c3c44fb7e8dd4c5848006551ae327fc",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbEppYzJtVmVfdU9naGJsSG5pY29BRndRZ2tScGpudmNFWGE2Rk12TW9NcXJSS20yc0JYS3pDaExHNG43SGVjU01lOVBVa2xmX0tBWnBaT0lSTzE5d1FQOXlWRkJVR2NCUVp3S2NlLUJJcjV3N1R5YlllZ05GVTB4RHpvcjFpWVVfMlBIQU9BN2xPZVdBZ3hQUFlhMm1EVXc0T01TQkJPSGtlMV9MZ1VJcXh3NWY5bFd5QVF1SXlkaThSTmNTbnhERDBZVkI?oc=5",
-      "title": "Amtrak Scraps Bridgeport Rail Yard Plan, Throwing Sox Owner’s Plan For New Stadium Into Doubt - Block Club Chicago",
-      "source_id": "gnews-us",
-      "published": "2026-11-24T18:08:04Z",
-      "topics": [
-        "us"
-      ],
-      "excerpt": "",
-      "image": null,
-      "image_is_thumbnail": false,
-      "publisher": "Block Club Chicago",
-      "publisher_domain": "blockclubchicago.org",
+      "image_attempts": 1,
       "summary_neutral": null,
       "summary_mine": null
     },
@@ -859,6 +2231,23 @@
       "summary_mine": null
     },
     {
+      "id": "97b0fa7c00a8aa4bc9ac597dc8b3404ebc5db7e6",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTXVMcnc0LU8yaU40OUtJSklxVWl6VjdNamR4MFpUalAyV3NlaTFtRUFicnhNNEZKZjhVcF9GcnpPdWxJd2xnWmpVRWlRTzVCUGFvdVg3T2hpdXRaS3UzRjhkRUEwZ0tlX2xKOVpUZXVHb1c1M1lYS2wwN1dvMnJ3V1VseFl2Nld4YzZVcXFaYkxiQQ?oc=5",
+      "title": "Judge initially blocked DOJ from searching Ilhan Omar’s home, court docs show - CNN",
+      "source_id": "gnews-us",
+      "published": "2026-11-24T17:40:53Z",
+      "topics": [
+        "us"
+      ],
+      "excerpt": "",
+      "image": null,
+      "image_is_thumbnail": false,
+      "publisher": "CNN",
+      "publisher_domain": "www.cnn.com",
+      "summary_neutral": null,
+      "summary_mine": null
+    },
+    {
       "id": "37249f5a17718438aa73fc8d78cd449944008d43",
       "url": "https://phys.org/news/2026-11-framework-carbon-dioxide-ocean-view.html",
       "title": "A unified framework for carbon dioxide removal—with an ocean view",
@@ -899,23 +2288,6 @@
       "image_attempts": 1
     },
     {
-      "id": "6a8ba4f26e676dff1d464409d6f16f1ffd69441f",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYkNvakVzZ3lZeXh1a2lVbmxyc3QyUTd6Z05lOEpNNU9BVnhja1lpU0Y5bDJhbmp6V2FraGcyaWVyakFDdFpYalE5dG5scEJSSE1ndUQ4ZjkxbzdScGM3ZFZHQXNiaWc4ZWFtbWNON2l4N2tvLXJXX1BQbzVKYWlzZy1yUlNMY0k?oc=5",
-      "title": "Death investigation underway at Kids Can Community Center - KETV",
-      "source_id": "gnews-us",
-      "published": "2026-11-24T17:34:00Z",
-      "topics": [
-        "us"
-      ],
-      "excerpt": "",
-      "image": null,
-      "image_is_thumbnail": false,
-      "publisher": "KETV",
-      "publisher_domain": "www.ketv.com",
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
       "id": "7230346330fed3c7b3197b5f34d8a650846ecc0b",
       "url": "https://phys.org/news/2026-11-theoretical-sustained-entanglement-diamond-qubits.html",
       "title": "New theoretical model allows for sustained entanglement between diamond qubits at greater separations",
@@ -950,23 +2322,6 @@
       "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "f1ac94b3a930d416faff6e5ad49772ab64b4789e",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80bVE5ZEZ3VUluaFEyWnFPd2ZMSVJjZG5rTzhnSXdQQlo1NEdGSnpSWjVUX0dod3JYRHhfcHdtcFBKeGcwRlhoU1ZmaFdwdXJMcE0yb3E1bTBlWHlqSjR2YlpEVm1qYUw0eWEtV0JR?oc=5",
-      "title": "MAGA Attacked Harvard. So Harvard Taught a Class About It. - The New York Times",
-      "source_id": "gnews-us",
-      "published": "2026-11-24T17:28:24Z",
-      "topics": [
-        "us"
-      ],
-      "excerpt": "",
-      "image": null,
-      "image_is_thumbnail": false,
-      "publisher": "The New York Times",
-      "publisher_domain": "www.nytimes.com",
       "summary_neutral": null,
       "summary_mine": null
     },
@@ -1153,6 +2508,23 @@
       "summary_mine": null
     },
     {
+      "id": "4f846ba6628be1e0285023b088d1425f96b53285",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSk9XZzB1YmROb2xmT1JsZGdyQ3Y1bXVhM0tJMFZiR1gtaXlUOGE5YXlRMWFEb1AzVGVOWWFtVVprb1pxSUJFQU5RWV9kS3hrbHEzMjlRLWkzY1JYX0lpTG1CNGxXckp1WWh1WlF4eEc3aXUwUmlnbHl3S2dQTUlBbGJWWU5oczBzS0dWY3BJOXRDSEloYVowalllNFZJd1NzcWxlNldkNA?oc=5",
+      "title": "Trump Hit With New Lawsuit Over Changes to Slavery Exhibit - Newsweek",
+      "source_id": "gnews-us",
+      "published": "2026-11-24T16:22:00Z",
+      "topics": [
+        "us"
+      ],
+      "excerpt": "",
+      "image": null,
+      "image_is_thumbnail": false,
+      "publisher": "Newsweek",
+      "publisher_domain": "www.newsweek.com",
+      "summary_neutral": null,
+      "summary_mine": null
+    },
+    {
       "id": "5a92ea2f15ac8fc390f84e142d21868152c4ae64",
       "url": "https://wccftech.com/nvidia-driver-621-40-whql-fixes-excessive-ssd-writes/",
       "title": "NVIDIA Releases Game Ready Driver 621.40 As A Hotfix For The Hotfix 621.35 Version To Finally Fix The Excessive Writes Bug Plaguing SSDs",
@@ -1202,6 +2574,23 @@
       "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
+    },
+    {
+      "id": "3dc649a25050f10be739655d8c35ea353fafbb87",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaS0zWk00Wk0wUmdiMVVhRzFEb0pCSzFsYkFnd0xUbjlSQjlMTlg3Wkk3Z2F0ZTBRa0dERW1pak5CZG9TT0JtRnNEcGktOWstRnN2NC1CRm5zRWhwY2ZYZENPVFJJclBGTEpqWnZta3NMQ3RXTVFoeEk2Uy0zc0F4ZDh5LTNQMkhndmF4TUNQbmhBZFdxU2YxYTdn?oc=5",
+      "title": "Benjamin Franklin impersonator arrested, arraigned in full costume in Boston: \"It takes guts. He's committed.\" - CBS News",
+      "source_id": "gnews-us",
+      "published": "2026-11-24T16:10:00Z",
+      "topics": [
+        "us"
+      ],
+      "excerpt": "",
+      "image": null,
+      "image_is_thumbnail": false,
+      "publisher": "CBS News",
+      "publisher_domain": "www.cbsnews.com",
       "summary_neutral": null,
       "summary_mine": null
     },
@@ -1292,6 +2681,23 @@
       "summary_mine": null
     },
     {
+      "id": "59976a7e991d1d450b12dfd3ea0f8c6a18afbea6",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORFdKNUZEaU4xaWcwTEU1dG84aUV5UDY5MU0yQkNIZmRJRlo4bi1mOTQ0X0tzT2dUZEpoa0lZSlhSdVA3UVZQcVA2RUtMbURSOVpWcHM2dkUwM0tOS1hBLWc4VjgxNGZfU0ZvN1ZsaW5IdHZVTTVtMTVQT1lRemg2UmFoZGxHblBkLUk1VWJnU3hOQ0YzeUE?oc=5",
+      "title": "NATO Intelligence Warns of Nightmare Scenario in Space - Newser",
+      "source_id": "gnews-us",
+      "published": "2026-11-24T15:40:00Z",
+      "topics": [
+        "us"
+      ],
+      "excerpt": "",
+      "image": null,
+      "image_is_thumbnail": false,
+      "publisher": "Newser",
+      "publisher_domain": "www.newser.com",
+      "summary_neutral": null,
+      "summary_mine": null
+    },
+    {
       "id": "cdb883ac62fec52cdad2dd8ac48ac61f1d9b4d71",
       "url": "https://dailygalaxy.com/2026/11/england-ditch-8000-frog-bones-roman-era/",
       "title": "Road Construction in England Uncovered a Ditch Packed with 8,000 Frog Bones, and Now We Know Who Ate Them",
@@ -1322,10 +2728,10 @@
       "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null,
       "image_tried_at": "2026-11-24T21:27:50Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "5a0cbc49870f458ca2705afcbefbb78c8894ed4a",
@@ -1375,10 +2781,10 @@
       "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null,
       "image_tried_at": "2026-11-24T21:27:50Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "5cd9095e70daf14d9ddff491c143745fbf966afd",
@@ -1520,6 +2926,23 @@
       "summary_mine": null
     },
     {
+      "id": "fff98ca1e93152a017dc8b97cbb7e1e7b02a1b76",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FUm9oZkVKTTkyaXpGNUNJNnBHclBWWlF4T1VyMnQ0N3VBdy11Ylk1enF1bEFhVVdLZnRuX000QWxCVEdpYTZzODhoS2prMmNYTjBZdDdOQTgtMUlWZlFIUEdpNEhYQQ?oc=5",
+      "title": "Masked ICE Agents Arrest Father And Daughter Boarding Alaska Airlines Flight, But “Visa Overstay” Is Not The Whole Story - Live and Let's Fly",
+      "source_id": "gnews-us",
+      "published": "2026-11-24T13:39:51Z",
+      "topics": [
+        "us"
+      ],
+      "excerpt": "",
+      "image": null,
+      "image_is_thumbnail": false,
+      "publisher": "Live and Let's Fly",
+      "publisher_domain": "liveandletsfly.com",
+      "summary_neutral": null,
+      "summary_mine": null
+    },
+    {
       "id": "3f450bf73bfb6302173d346b7d4ed964127f1b97",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORkQtZmFETnhOc2pMbWltT2c2Q21sNXdaVEtTNUpDeFUxcXprbXlSaXFFTkViXzZNTEYtVmZVTk1RR2lqN2lUd1V1T3NPUnBqV0tjczBXeVhWNGZoaVUwV2V5bHdzTG9SQ3lPM085RkIzWGVZb3d6QXdrZE9mN2w2b2g1bUZlSExWZmt4TjFHUm1JQlhrb1hyMkVUYU42Ui14WnlWSWo3Y2p1cWJKcTd6TTQ4WjM?oc=5",
       "title": "Democrats probing ‘serendipitous timing’ of investments by firm linked to Donald Trump Jr. - NBC News",
@@ -1550,10 +2973,10 @@
       "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null,
       "image_tried_at": "2026-11-24T21:27:50Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "ac82e6ba063ed197a6bf13a348530c6148612a8e",
@@ -1608,6 +3031,23 @@
       "summary_mine": null
     },
     {
+      "id": "bf1b3ff2c0b182e0d43ef3819fcf9ee728b0aa3e",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYU4xS1ZKQS1IMU0ycWRGUElieXl1QUFJc1FlSXhUZ20tX1M5RU0xbGZUMkNfX3FXRUtvbUpfWlhkZU1FeldfZzJQVUNEczkyTnNZLWVqZDRwRkRIME5OM3dWYXZUM2F2ODhzNGZQX2xqeGw1ZGQwM2xrSU9ZYXVQM0g3YU5VMXZodXRnWC1QR1hIWXFXSzhycW0tN0M3VnhmV3RWTm5oUFFLVnRfMWJXZmxPaVc4Zl8tcE5xQ9IBwgFBVV95cUxQR25PNFpCQ2VlR3hwQ051M0M1cUt4ZVJ6YVFCb09aeVl6Q25hdTVNMXN2LTlqT1lTbTROaHBlZmlRNjBGellmQ0FBcHBmV2tQRWhwLVRTanNSWjJSeGNENFo5cE5pZjZTLXRfNmxDZ2ZJdWdWVXJYbkc4Rjl2d3RVMm50Q2h4bFlsTDdtV3Q3LXR0a3RmZmZvcHljTDZ4LVB1SnVQaUZFUjhuQTk1N09TY3ZtWEptWlJPbGNyamRLMXhfQQ?oc=5",
+      "title": "Activists clash with ICE agents, Burbank police outside Providence Saint Joseph Medical Center - ABC7 Los Angeles",
+      "source_id": "gnews-us",
+      "published": "2026-11-24T13:13:36Z",
+      "topics": [
+        "us"
+      ],
+      "excerpt": "",
+      "image": null,
+      "image_is_thumbnail": false,
+      "publisher": "ABC7 Los Angeles",
+      "publisher_domain": "abc7.com",
+      "summary_neutral": null,
+      "summary_mine": null
+    },
+    {
       "id": "70bed1dc13f2af339b659c19c357491548414988",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQmNHREtSdk5haDJfSnc0b0prcFZrSEpFMmx3R0ZuNzBfcDdSWjJrdnlSQWdsb2FoblBHRHJwbC1mSWxrUmllS0dBdVNlRDNMbTItWGZEU1BFRUFVajFFRDVkTlhuM0VnUkNqV20yLUo0UjdFUnJrb1d1Nlo3V0dsTDFsZFFzd9IBiwFBVV95cUxQR3EtMWtWaTVjdmlpZjNOWVBCV01TVVNkZ3Z2U2xLQ09LNzUxX2Y0cTVyMXZGV0dVa09sQTlqYzVrYm5wNGdCQ216WG9mc2FjXzRUQmpqYk1aUTRaRG5xZXFkazBPNHNtdmV0b25mUnZsMlZnXzlkN0p5QVBib0ZkTnY1UnhSSjQ0UHpN?oc=5",
       "title": "5-alarm fire damages multiple businesses in Union after roof collapse - ABC7 New York",
@@ -1639,6 +3079,23 @@
       "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
+    },
+    {
+      "id": "59ab5228a4eb2b55f2075635ba85e64439524b90",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOc1hGdDFOaUI1dDNZbGJ2MS04TGtveFkySlVyX1pTOHM0WTRJY0d4dUc5ZzlRc1hnUml1RXUzSklNQ2Y3elNEUXY3c1FBeHRiM21abXVlbzlXZGhraHlHRFdOUkJ5dGhoaUJQakt3bjg0UmlRQWxTM3g1R2psMElqTXZXWUo3MU93N3FYS0Vn?oc=5",
+      "title": "Jane Fonda, De Niro and Other Say Schumer Should Not Be Senate Majority Leader - The New York Times",
+      "source_id": "gnews-us",
+      "published": "2026-11-24T12:55:28Z",
+      "topics": [
+        "us"
+      ],
+      "excerpt": "",
+      "image": null,
+      "image_is_thumbnail": false,
+      "publisher": "The New York Times",
+      "publisher_domain": "www.nytimes.com",
       "summary_neutral": null,
       "summary_mine": null
     },
@@ -2130,23 +3587,6 @@
       "summary_mine": null
     },
     {
-      "id": "59ab5228a4eb2b55f2075635ba85e64439524b90",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOc1hGdDFOaUI1dDNZbGJ2MS04TGtveFkySlVyX1pTOHM0WTRJY0d4dUc5ZzlRc1hnUml1RXUzSklNQ2Y3elNEUXY3c1FBeHRiM21abXVlbzlXZGhraHlHRFdOUkJ5dGhoaUJQakt3bjg0UmlRQWxTM3g1R2psMElqTXZXWUo3MU93N3FYS0Vn?oc=5",
-      "title": "Jane Fonda, De Niro and Others Say Schumer Should Not Be Leader - The New York Times",
-      "source_id": "gnews-us",
-      "published": "2026-11-24T08:00:26Z",
-      "topics": [
-        "us"
-      ],
-      "excerpt": "",
-      "image": null,
-      "image_is_thumbnail": false,
-      "publisher": "The New York Times",
-      "publisher_domain": "www.nytimes.com",
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
       "id": "1c343a8dcb0d141782ab042148d2ed08013a0634",
       "url": "https://phys.org/news/2026-11-quasar-tightens-constraints-black-hole.html",
       "title": "New quasar record tightens constraints on black hole formation scenarios",
@@ -2165,6 +3605,23 @@
       "summary_mine": null,
       "image_tried_at": "2026-11-24T11:30:22Z",
       "image_attempts": 1
+    },
+    {
+      "id": "996c1868bf518a21d7aaa75ca48306837a215cd0",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMkxRenBodXN4TnZZdHBqT2lFWmlCV3hXR1dkdERGR1Uza1MtUjlmbldLWFRtR0lpeFJqNHFRa1d0c1FUUGNXXzFNc0h4YjVrZHVxN1FaTnQyRDVXa3FtVlpkOWRnY2FyaDRRWl9OM2ZJdEhCU092ZFdXSHdBNmNVd1dnRzJrdVBHeDhfSGROcXpXNTkzdGRkV1J1dThQd0pUdDFoTXpSVEFPM081QVAwcF8weTltb0xi?oc=5",
+      "title": "More than 70 Alexandria school employees put on leave due to incomplete background checks - WJLA",
+      "source_id": "gnews-us",
+      "published": "2026-11-24T07:52:43Z",
+      "topics": [
+        "us"
+      ],
+      "excerpt": "",
+      "image": null,
+      "image_is_thumbnail": false,
+      "publisher": "WJLA",
+      "publisher_domain": "wjla.com",
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "150ac4f9ed477cac9f104c25204ca148338af788",
@@ -2484,8 +3941,8 @@
       "image_is_thumbnail": true,
       "publisher": null,
       "publisher_domain": null,
-      "image_tried_at": "2026-11-24T01:29:14Z",
-      "image_attempts": 1,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 2,
       "summary_neutral": null,
       "summary_mine": null
     },
@@ -2606,25 +4063,8 @@
       "image_is_thumbnail": true,
       "publisher": null,
       "publisher_domain": null,
-      "image_tried_at": "2026-11-24T01:29:14Z",
-      "image_attempts": 1,
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "9075ad23b1c1f1145c1b02f66da4c9b06ac72c1e",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONHJGYVRUS2RpMHVYUUFTYzl3c1JRYnJlMktLNWozTTFmdHRtaTcyc1h0SGV1SURTT3ZHVDVORUpLMjRUY21PblMwWThUM0Z6NXBuTE1OVENKLVBpSmkxUFZFWmxURW83c1BKTU9PT24zd3FncVAwYW1IY3BtNEw5UmF1LXBsSk5hQjVER3A1WndQcUlXcnc0S1ltTEJMYm54Zk5Idi1ESGxmWmtJcXFYdXpJQ0hSWi1CM0VzZGdB?oc=5",
-      "title": "'It's not a matter of if': King tides threaten Oregon coast beachgoers - OregonLive.com",
-      "source_id": "gnews-us",
-      "published": "2026-11-24T00:29:00Z",
-      "topics": [
-        "us"
-      ],
-      "excerpt": "",
-      "image": null,
-      "image_is_thumbnail": false,
-      "publisher": "OregonLive.com",
-      "publisher_domain": "www.oregonlive.com",
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 2,
       "summary_neutral": null,
       "summary_mine": null
     },
@@ -2643,8 +4083,8 @@
       "image_is_thumbnail": true,
       "publisher": null,
       "publisher_domain": null,
-      "image_tried_at": "2026-11-24T01:29:14Z",
-      "image_attempts": 1,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 2,
       "summary_neutral": null,
       "summary_mine": null
     },
@@ -2716,8 +4156,8 @@
       "image_is_thumbnail": true,
       "publisher": null,
       "publisher_domain": null,
-      "image_tried_at": "2026-11-24T01:29:14Z",
-      "image_attempts": 1,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 2,
       "summary_neutral": null,
       "summary_mine": null
     },
@@ -2736,10 +4176,10 @@
       "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null,
       "image_tried_at": "2026-11-24T21:27:50Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "e06d10b3361af22aa7aea7ee1dcca34e87007ecb",
@@ -2756,10 +4196,10 @@
       "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null,
       "image_tried_at": "2026-11-24T21:27:50Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "dff60e2cb6121ed086eee340664e6973c3aa7e51",
@@ -2797,10 +4237,10 @@
       "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null,
       "image_tried_at": "2026-11-24T21:27:50Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "cbcec91933af590aa7385750b112b6107d842c31",
@@ -2817,10 +4257,10 @@
       "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null,
       "image_tried_at": "2026-11-24T21:27:50Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "b5fb667ef16d50d2e2dd5d4e3788605e0c6cd9f8",
@@ -2837,10 +4277,10 @@
       "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null,
       "image_tried_at": "2026-11-24T21:27:50Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "a1cdb80120c1f59ef87822cdb942eddc29fe1bd2",
@@ -2857,9 +4297,30 @@
       "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null,
+      "image_tried_at": "2026-11-24T21:27:50Z",
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
+    },
+    {
+      "id": "9088e5c5cb44a54f8fa4b72ea466e5b4b6781324",
+      "url": "https://www.nature.com/articles/d41586-026-03836-z",
+      "title": "Watch out, AlphaFold: Claude and ChatGPT’s new biology skills wow scientists",
+      "source_id": "nature",
+      "published": "2026-11-24T00:00:00Z",
+      "topics": [
+        "ai",
+        "fizika",
+        "znanost"
+      ],
+      "excerpt": "Nature, Published online: 24 November 2026; doi:10.1038/d41586-026-03836-z Anthropic and OpenAI’s language models can design proteins and predict their sequences and structures — capabilities previously seen only in specialized AI tools.",
+      "image": null,
+      "image_is_thumbnail": false,
+      "publisher": null,
+      "publisher_domain": null,
       "summary_neutral": null,
       "summary_mine": null,
-      "image_tried_at": "2026-11-24T21:27:50Z",
+      "image_tried_at": "2026-11-25T04:29:47Z",
       "image_attempts": 1
     },
     {
@@ -2877,10 +4338,10 @@
       "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null,
       "image_tried_at": "2026-11-24T21:27:50Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "63de7ff1d80aa6e110411bb094251597795e502f",
@@ -2897,10 +4358,10 @@
       "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null,
       "image_tried_at": "2026-11-24T21:27:50Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "4de07222c73fc68b0d7b63a3793897d3de108f62",
@@ -2955,10 +4416,10 @@
       "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null,
       "image_tried_at": "2026-11-24T21:27:50Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "4782d7c4fb9b49e90e7644dfbbb2d1a25cca4997",
@@ -2975,10 +4436,10 @@
       "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null,
       "image_tried_at": "2026-11-24T21:27:50Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "40c83caeecba4db95c6aafde055a354833d8d028",
@@ -2995,10 +4456,10 @@
       "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null,
       "image_tried_at": "2026-11-24T21:27:50Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "39b063d76aa93fb98a3d6193b837c67af012b220",
@@ -3056,10 +4517,10 @@
       "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null,
       "image_tried_at": "2026-11-24T21:27:50Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "193ce2638a8d999bc9c39ffa3be5b9e66a752515",
@@ -3077,10 +4538,10 @@
       "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null,
       "image_tried_at": "2026-11-24T21:27:50Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "0d94c496562eed6ac08890cc4d93df3024182bb3",
@@ -3097,10 +4558,10 @@
       "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null,
       "image_tried_at": "2026-11-24T21:27:50Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "ae6ff05c9194b0178e8dde71b3d1c70b21f0b4c2",
@@ -3134,8 +4595,8 @@
       "image_is_thumbnail": true,
       "publisher": null,
       "publisher_domain": null,
-      "image_tried_at": "2026-11-24T01:29:14Z",
-      "image_attempts": 1,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 2,
       "summary_neutral": null,
       "summary_mine": null
     },
@@ -3154,8 +4615,8 @@
       "image_is_thumbnail": true,
       "publisher": null,
       "publisher_domain": null,
-      "image_tried_at": "2026-11-24T01:29:14Z",
-      "image_attempts": 1,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 2,
       "summary_neutral": null,
       "summary_mine": null
     },
@@ -3174,8 +4635,8 @@
       "image_is_thumbnail": true,
       "publisher": null,
       "publisher_domain": null,
-      "image_tried_at": "2026-11-24T01:29:14Z",
-      "image_attempts": 1,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 2,
       "summary_neutral": null,
       "summary_mine": null
     },
@@ -3229,8 +4690,8 @@
       "image_is_thumbnail": true,
       "publisher": null,
       "publisher_domain": null,
-      "image_tried_at": "2026-11-24T01:29:14Z",
-      "image_attempts": 1,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 2,
       "summary_neutral": null,
       "summary_mine": null
     },
@@ -3250,8 +4711,8 @@
       "image_is_thumbnail": true,
       "publisher": null,
       "publisher_domain": null,
-      "image_tried_at": "2026-11-24T01:29:14Z",
-      "image_attempts": 1,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 2,
       "summary_neutral": null,
       "summary_mine": null
     },
@@ -3287,8 +4748,8 @@
       "image_is_thumbnail": true,
       "publisher": null,
       "publisher_domain": null,
-      "image_tried_at": "2026-11-24T01:29:14Z",
-      "image_attempts": 1,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 2,
       "summary_neutral": null,
       "summary_mine": null
     },
@@ -3324,8 +4785,8 @@
       "image_is_thumbnail": true,
       "publisher": null,
       "publisher_domain": null,
-      "image_tried_at": "2026-11-24T01:29:14Z",
-      "image_attempts": 1,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 2,
       "summary_neutral": null,
       "summary_mine": null
     },
@@ -3344,8 +4805,8 @@
       "image_is_thumbnail": true,
       "publisher": null,
       "publisher_domain": null,
-      "image_tried_at": "2026-11-24T01:29:14Z",
-      "image_attempts": 1,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 2,
       "summary_neutral": null,
       "summary_mine": null
     },
@@ -3364,8 +4825,8 @@
       "image_is_thumbnail": true,
       "publisher": null,
       "publisher_domain": null,
-      "image_tried_at": "2026-11-24T01:29:14Z",
-      "image_attempts": 1,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 2,
       "summary_neutral": null,
       "summary_mine": null
     },
@@ -3418,8 +4879,8 @@
       "image_is_thumbnail": true,
       "publisher": null,
       "publisher_domain": null,
-      "image_tried_at": "2026-11-24T01:29:14Z",
-      "image_attempts": 1,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 2,
       "summary_neutral": null,
       "summary_mine": null
     },
@@ -3438,8 +4899,8 @@
       "image_is_thumbnail": true,
       "publisher": null,
       "publisher_domain": null,
-      "image_tried_at": "2026-11-24T01:29:14Z",
-      "image_attempts": 1,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 2,
       "summary_neutral": null,
       "summary_mine": null
     },
@@ -3492,8 +4953,8 @@
       "image_is_thumbnail": true,
       "publisher": null,
       "publisher_domain": null,
-      "image_tried_at": "2026-11-24T01:29:14Z",
-      "image_attempts": 1,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 2,
       "summary_neutral": null,
       "summary_mine": null
     },
@@ -3512,8 +4973,8 @@
       "image_is_thumbnail": true,
       "publisher": null,
       "publisher_domain": null,
-      "image_tried_at": "2026-11-24T01:29:14Z",
-      "image_attempts": 1,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 2,
       "summary_neutral": null,
       "summary_mine": null
     },
@@ -3532,8 +4993,8 @@
       "image_is_thumbnail": true,
       "publisher": null,
       "publisher_domain": null,
-      "image_tried_at": "2026-11-24T01:29:14Z",
-      "image_attempts": 1,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 2,
       "summary_neutral": null,
       "summary_mine": null
     },
@@ -3552,8 +5013,8 @@
       "image_is_thumbnail": true,
       "publisher": null,
       "publisher_domain": null,
-      "image_tried_at": "2026-11-24T01:29:14Z",
-      "image_attempts": 1,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 2,
       "summary_neutral": null,
       "summary_mine": null
     },
@@ -3658,8 +5119,8 @@
       "image_is_thumbnail": true,
       "publisher": null,
       "publisher_domain": null,
-      "image_tried_at": "2026-11-24T01:29:14Z",
-      "image_attempts": 1,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 2,
       "summary_neutral": null,
       "summary_mine": null
     },
@@ -3678,8 +5139,8 @@
       "image_is_thumbnail": true,
       "publisher": null,
       "publisher_domain": null,
-      "image_tried_at": "2026-11-24T01:29:14Z",
-      "image_attempts": 1,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 2,
       "summary_neutral": null,
       "summary_mine": null
     },
@@ -3698,8 +5159,8 @@
       "image_is_thumbnail": true,
       "publisher": null,
       "publisher_domain": null,
-      "image_tried_at": "2026-11-24T01:29:14Z",
-      "image_attempts": 1,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 2,
       "summary_neutral": null,
       "summary_mine": null
     },
@@ -3718,8 +5179,8 @@
       "image_is_thumbnail": true,
       "publisher": null,
       "publisher_domain": null,
-      "image_tried_at": "2026-11-24T01:29:14Z",
-      "image_attempts": 1,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 2,
       "summary_neutral": null,
       "summary_mine": null
     },
@@ -3738,8 +5199,8 @@
       "image_is_thumbnail": true,
       "publisher": null,
       "publisher_domain": null,
-      "image_tried_at": "2026-11-24T01:29:14Z",
-      "image_attempts": 1,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 2,
       "summary_neutral": null,
       "summary_mine": null
     },
@@ -3758,8 +5219,8 @@
       "image_is_thumbnail": true,
       "publisher": null,
       "publisher_domain": null,
-      "image_tried_at": "2026-11-24T01:29:14Z",
-      "image_attempts": 1,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 2,
       "summary_neutral": null,
       "summary_mine": null
     },
@@ -3778,8 +5239,8 @@
       "image_is_thumbnail": true,
       "publisher": null,
       "publisher_domain": null,
-      "image_tried_at": "2026-11-24T01:29:14Z",
-      "image_attempts": 1,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 2,
       "summary_neutral": null,
       "summary_mine": null
     },
@@ -3798,8 +5259,8 @@
       "image_is_thumbnail": true,
       "publisher": null,
       "publisher_domain": null,
-      "image_tried_at": "2026-11-24T01:29:14Z",
-      "image_attempts": 1,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 2,
       "summary_neutral": null,
       "summary_mine": null
     },
@@ -3854,8 +5315,8 @@
       "publisher_domain": null,
       "summary_neutral": null,
       "summary_mine": null,
-      "image_tried_at": "2026-11-24T01:29:14Z",
-      "image_attempts": 1
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 2
     },
     {
       "id": "f7c4a9d74bc9525e762ff62ab039c562bc216d0b",
@@ -3928,8 +5389,8 @@
       "publisher_domain": null,
       "summary_neutral": null,
       "summary_mine": null,
-      "image_tried_at": "2026-11-24T01:29:14Z",
-      "image_attempts": 1
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 2
     },
     {
       "id": "72fc2b459b06f0d098a634374590123a4a59a9d8",
@@ -3949,8 +5410,8 @@
       "publisher_domain": null,
       "summary_neutral": null,
       "summary_mine": null,
-      "image_tried_at": "2026-11-24T01:29:14Z",
-      "image_attempts": 1
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 2
     },
     {
       "id": "b561278ce4d41f6b1f0015e0c21c2eb3cfe650af",
@@ -3986,8 +5447,8 @@
       "publisher_domain": null,
       "summary_neutral": null,
       "summary_mine": null,
-      "image_tried_at": "2026-11-24T01:29:14Z",
-      "image_attempts": 1
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 2
     },
     {
       "id": "d37c20fc545abb391b4b3ac14af9bb34442b1ac7",
@@ -4006,8 +5467,8 @@
       "publisher_domain": null,
       "summary_neutral": null,
       "summary_mine": null,
-      "image_tried_at": "2026-11-24T01:29:14Z",
-      "image_attempts": 1
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 2
     },
     {
       "id": "1cd79ac5fa33b8c2aebd02c0aa2305fb692bdf34",
@@ -4043,8 +5504,8 @@
       "publisher_domain": null,
       "summary_neutral": null,
       "summary_mine": null,
-      "image_tried_at": "2026-11-24T01:29:14Z",
-      "image_attempts": 1
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 2
     },
     {
       "id": "726209d36d98d25a0492e6cb896697eb33b2121c",
@@ -4063,8 +5524,8 @@
       "publisher_domain": null,
       "summary_neutral": null,
       "summary_mine": null,
-      "image_tried_at": "2026-11-24T01:29:14Z",
-      "image_attempts": 1
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 2
     },
     {
       "id": "59021f898b8ee30addec2cab16b61dd291c6e1b8",
@@ -4101,8 +5562,8 @@
       "publisher_domain": null,
       "summary_neutral": null,
       "summary_mine": null,
-      "image_tried_at": "2026-11-24T01:29:14Z",
-      "image_attempts": 1
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 2
     },
     {
       "id": "9c5f7fd512c8e96611f6b26b0ae601835974c378",
@@ -4704,8 +6165,8 @@
       "image_is_thumbnail": true,
       "publisher": null,
       "publisher_domain": null,
-      "image_tried_at": "2026-11-24T01:29:14Z",
-      "image_attempts": 1,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 2,
       "summary_neutral": null,
       "summary_mine": null
     },
@@ -5050,6 +6511,23 @@
       "image_is_thumbnail": false,
       "publisher": "The Verge",
       "publisher_domain": "www.theverge.com",
+      "summary_neutral": null,
+      "summary_mine": null
+    },
+    {
+      "id": "26b34470dabcae726d33ed0d317e9378a5240386",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOR1hxeWtUN1VobWVpWUJnMUNxbFJhRHlHUjFCcEMxYkVUdm9yUnllNmF4d2FxNG1ZbHg2SUNDdUVVak5CeGFKaDZ6eG9WSkZOY0MwdVM5QVpxYzAxZmMwZ1ZjbHRHV2tYNkFMWnBVSGR5Y0RaV003Y2gwN0tkQzRDOEVWZjhSRDVXbUMyNEotQXJReDY2cmxsUXhZR2RZOWc3dHJKWG9zdUJPNWhxWmNkbW1CRXU?oc=5",
+      "title": "Letter to the Editor: Harlem women voice opposition to Rep.- Elect Chevalier’s vote against Hakeem Jeffries as House Speaker - New York Amsterdam News",
+      "source_id": "gnews-us",
+      "published": "2026-11-23T14:50:08Z",
+      "topics": [
+        "us"
+      ],
+      "excerpt": "",
+      "image": null,
+      "image_is_thumbnail": false,
+      "publisher": "New York Amsterdam News",
+      "publisher_domain": "amsterdamnews.com",
       "summary_neutral": null,
       "summary_mine": null
     },
@@ -6735,8 +8213,8 @@
       "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null,
-      "image_tried_at": "2026-11-24T01:29:14Z",
-      "image_attempts": 1,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 2,
       "summary_neutral": null,
       "summary_mine": null
     },
@@ -6755,8 +8233,8 @@
       "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null,
-      "image_tried_at": "2026-11-24T01:29:14Z",
-      "image_attempts": 1,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 2,
       "summary_neutral": null,
       "summary_mine": null
     },
@@ -6775,8 +8253,8 @@
       "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null,
-      "image_tried_at": "2026-11-24T01:29:14Z",
-      "image_attempts": 1,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 2,
       "summary_neutral": null,
       "summary_mine": null
     },
@@ -6796,8 +8274,8 @@
       "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null,
-      "image_tried_at": "2026-11-24T01:29:14Z",
-      "image_attempts": 1,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 2,
       "summary_neutral": null,
       "summary_mine": null
     },
@@ -6836,8 +8314,8 @@
       "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null,
-      "image_tried_at": "2026-11-24T01:29:14Z",
-      "image_attempts": 1,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 2,
       "summary_neutral": null,
       "summary_mine": null
     },
@@ -6873,8 +8351,8 @@
       "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null,
-      "image_tried_at": "2026-11-24T01:29:14Z",
-      "image_attempts": 1,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 2,
       "summary_neutral": null,
       "summary_mine": null
     },
@@ -6899,6 +8377,26 @@
       "summary_mine": null
     },
     {
+      "id": "56cceb935aef068a3428b2a37574b80f4623ed24",
+      "url": "https://www.nature.com/articles/d41586-026-03802-9",
+      "title": "Mariana Trench holds deepest-ever evidence of volcanic explosion",
+      "source_id": "nature",
+      "published": "2026-11-23T00:00:00Z",
+      "topics": [
+        "fizika",
+        "znanost"
+      ],
+      "excerpt": "Nature, Published online: 23 November 2026; doi:10.1038/d41586-026-03802-9 Robotic vehicle spots telltale rocks in Challenger Deep.",
+      "image": null,
+      "image_is_thumbnail": false,
+      "publisher": null,
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 1
+    },
+    {
       "id": "45a865e5b9f4aad8bbac7b65083f4829ddfa9128",
       "url": "https://www.nature.com/articles/d41586-026-03808-3",
       "title": "Chemistry giant George Whitesides dies: one of the most influential researchers of his generation",
@@ -6913,8 +8411,8 @@
       "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null,
-      "image_tried_at": "2026-11-24T01:29:14Z",
-      "image_attempts": 1,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 2,
       "summary_neutral": null,
       "summary_mine": null
     },
@@ -6933,8 +8431,8 @@
       "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null,
-      "image_tried_at": "2026-11-24T01:29:14Z",
-      "image_attempts": 1,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 2,
       "summary_neutral": null,
       "summary_mine": null
     },
@@ -6974,8 +8472,8 @@
       "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null,
-      "image_tried_at": "2026-11-24T01:29:14Z",
-      "image_attempts": 1,
+      "image_tried_at": "2026-11-25T04:29:47Z",
+      "image_attempts": 2,
       "summary_neutral": null,
       "summary_mine": null
     },
@@ -7597,1420 +9095,6 @@
       "image_is_thumbnail": false,
       "publisher": "CBS News",
       "publisher_domain": "www.cbsnews.com",
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "e21d6ad9daedb4cb6ed97a1d36acb4d263d5f02f",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUG51bENLRzF5YU9KMW9ZbGZSOGE4M1JPOGpBSXZDRFIzeGFBWTBQZEdtX1h4M3NjUDNXXzY0WGh6WTQwWU9Qc1FyVTZ5TlV2a1BOVWZiMXRNZ1YwUkxRdDdDUzdWYlN3dHZBVkFmVHVvdkd4Z3MtNjN6YzdVOW9hOFVuSdIBiAFBVV95cUxQNVdNTGpobjVUb2hiNXV4LW5pVTZMSzNuRXpvSTFBc1pMWGg5OU8tdlB2Q2ZlcnR5WElWYTd6cU9TRWwwUWhyNkRqYjl1ZlNWakE1d21zNnVNY3pzS2ZkSWgzVFV1YnJlWjRyYk5OOEJNZ0pYcVRpSFRFNWpBcWo5b1VzNi1ZcHZF?oc=5",
-      "title": "Trump blames $6 trillion stock market slide on Democrats’ midterm wins - The Hill",
-      "source_id": "gnews-us",
-      "published": "2026-11-22T19:46:00Z",
-      "topics": [
-        "us"
-      ],
-      "excerpt": "",
-      "image": null,
-      "image_is_thumbnail": false,
-      "publisher": "The Hill",
-      "publisher_domain": "thehill.com",
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "e439500648fcebefaf3a197849f1823a526f3207",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcWJIR0dIMWpZcU5CQzg0bXB4eF9hdnZJZ3BxUVQwLUpIWHg1VzVhY1VzN2JJQWJoaEFiemVZWWo3a2tCQVVJSlVzYURJSGp4OWlod0pkT1Rwb3hyUVEzTG9CUE51bTRoSFc3dGNrbXo4ZHlXdFNubGNGc3BqZVdaWl9NUGRFSU0?oc=5",
-      "title": "Jensen Huang’s reported affair was ‘most expensive sex since Helen of Troy’, US senator says - The Guardian",
-      "source_id": "gnews-us",
-      "published": "2026-11-22T19:34:00Z",
-      "topics": [
-        "us"
-      ],
-      "excerpt": "",
-      "image": null,
-      "image_is_thumbnail": false,
-      "publisher": "The Guardian",
-      "publisher_domain": "www.theguardian.com",
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "05ba67d8d74e348982c9e4bda27879983f71bd1d",
-      "url": "https://wccftech.com/the-last-of-us-part-ii-twelve-weeks-multiplayer-mod-pc/",
-      "title": "The Last of Us Part II Gets ‘Twelve Weeks’, a Free Factions-Style Multiplayer Mod on PC, Just 2 Months After Sony Shut Down Speclizer’s Version",
-      "source_id": "wccftech",
-      "published": "2026-11-22T19:30:00Z",
-      "topics": [
-        "ai",
-        "strojna-oprema"
-      ],
-      "excerpt": "It's been a little more than two months since modder Speclizer had their The Last of Us: Part II multiplayer mod shut down by Sony ahead of the planned public release. That news sounded like a death knell for the hopes of PC gamers, who would love to experience that kind of multiplayer for once. Sony did not port the multiplayer mod of the original game when The Last of Us Part I launched on PC, a",
-      "image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Twelve-Weeks-The-Last-of-Us-Part-II-Remastered-HD-1456x819.jpeg",
-      "image_is_thumbnail": false,
-      "publisher": null,
-      "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "f76d786ee0eb2e273252e362f170e78a0734431d",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBGeHJzSHZ6dXR3d2xDSk9ualhaMG5BempHQkplTWFLVTRWRTZac1N0cS1vUG00T244SElKY1hQaDBJdlhPeGdXU09JWnFZZzh4Z2tCMmZoSGZUS2VFcnAxUnc1S0dyUDA0VGhOekJYNnc0elBxZWhFSGlMNA?oc=5",
-      "title": "Both victims of the Hawkins Field plane crash confirmed - WAPT",
-      "source_id": "gnews-us",
-      "published": "2026-11-22T19:20:02Z",
-      "topics": [
-        "us"
-      ],
-      "excerpt": "",
-      "image": null,
-      "image_is_thumbnail": false,
-      "publisher": "WAPT",
-      "publisher_domain": "www.wapt.com",
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "3d15bba66608702167fc2b36987e5400f465d96f",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYnhpR1JzNjRHdU9IMTZQU3ItNzJyLWlFejdqR2FYanIyVGhRdERSTGZMT1BOTXZ2YUVlM1lZTTVndEpMTXg1ZWRBanBKUUlRNHFtcHhPX0c0Y051Sjc5Ulg2VlpHblRFQnVOdVNlWUhycDFsYlFXbHJqRGZUczdUQl9lZmZ3ZU11RXc5T0dWMXBJY1pSWTllNw?oc=5",
-      "title": "El-Sayed is open to keeping private insurance under Medicare for All - Politico",
-      "source_id": "gnews-us",
-      "published": "2026-11-22T19:16:00Z",
-      "topics": [
-        "us"
-      ],
-      "excerpt": "",
-      "image": null,
-      "image_is_thumbnail": false,
-      "publisher": "Politico",
-      "publisher_domain": "www.politico.com",
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "5042ab86e8faaf8b363e524e23a20cbd8499b6c3",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSWR6SjhFdDFjUnhYNHNOUTc1X2xFNDJJQngxNHNQYkd0T1JObUtQRFBxNHA5QTNVY2w0OUY5V2xwSm5ZTmVaU0hsUHJTT1dsQS1hWGN1S1RIRUtnTXU5LXNINjJKX2gxN3ZQZmZ4dHYxTUtBbk5ob2wzWmNub0RsTG16YU5tYUZ1NlhyMFNkeEtMT1BhSEpiZ2lCZ05aWXVnak92RGxHUWtpVHNqcS1xZ3BR0gG3AUFVX3lxTFAwNUJ4d0hNWGZHX1hVZmZnUXQ0LTNGZjFId2FpZ2lnc0Zqa3B1RUVkQjhQTDM1WV9JTUUybDFISTZHZ1IweVRnbzAxQzNkRWhlYmFFMGpENVh0b21ESld4MHFyTmVpVXdNTms3Rnpzak1rcGNsZWEzZDhsUk9lMjVVUHk2MDhjM0Y5cjdBcmNzYXQwR2tickV3SW9RaFhQS3lZQTlSTnBuMHJvTG5ETmxDRUtJX2wxaw?oc=5",
-      "title": "‘Horrific’ and ‘chilling’: Officials condemn ICE arrests at Seattle airport - Al Jazeera",
-      "source_id": "gnews-us",
-      "published": "2026-11-22T19:13:40Z",
-      "topics": [
-        "us"
-      ],
-      "excerpt": "",
-      "image": null,
-      "image_is_thumbnail": false,
-      "publisher": "Al Jazeera",
-      "publisher_domain": "www.aljazeera.com",
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "3bb4f79823a65b9c36f31cde610e3fa2405ebcf9",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa3ozYWpuVnplUHVVOUNiQVhUWWV4OGxCY016dlJ0SDd3VGdVbjZMUHI5VG5ZOWUtQWl0QV82NUsxNnk3d2xURm1rNTViSU1WMWVxY29JZW5PcDNkMnpsYm03bkZpZWFRdzFiOHVMUTh2TDFqWTJHaHF1eVNkRG83OS02bndqSU8xNDdYUGRqUGJNVzJPRVZhb2d6aExLMnFDN2VnMVdobFlRSU5LakRxWWhROFRfZw?oc=5",
-      "title": "Trump keeps losing in court. Here’s how he gets what he wants anyway. - The Washington Post",
-      "source_id": "gnews-us",
-      "published": "2026-11-22T19:00:00Z",
-      "topics": [
-        "us"
-      ],
-      "excerpt": "",
-      "image": null,
-      "image_is_thumbnail": false,
-      "publisher": "The Washington Post",
-      "publisher_domain": "www.washingtonpost.com",
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "3308698e70d7219d11274ba4f3d57fc3ebdbda53",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPM0daNjJ4MTZuYzRVRVdvbjBCeThWSkJ5VlotenFObGMxU0RzUlZFeDMzNHVRWGRRVUw1YW1JZW1FcUlkVFhERHNKSWtTcUQxZk1lbkllMjJzSFJzeWVFamlSQWc5MG9nMjhsVnQySDB0WE1jOHhfZDZYVndkYjk0cmR5dGctVjJZdVN6aUxzcTJZQQ?oc=5",
-      "title": "American bishops plan for ‘groundswell’ of political action for AI regulation - Politico",
-      "source_id": "gnews-us",
-      "published": "2026-11-22T19:00:00Z",
-      "topics": [
-        "ai",
-        "us"
-      ],
-      "excerpt": "",
-      "image": null,
-      "image_is_thumbnail": false,
-      "publisher": "Politico",
-      "publisher_domain": "www.politico.com",
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "117175ed0ee7fdf9a5f79d8ce9451a2cc96580a3",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB2SmVrN25Ld3U3LXVQM2xwR2ZyaV9SalpVTUZ6bDV0bGFheEVEelZXUzAweXEzSkdvYkliWjNkMEhkLVozU2Zfbzg3OUdUM01aRjFLSEhnMkd2OVdOT3I4TFZXTzZMWkRaMlhN?oc=5",
-      "title": "3 killed and 1 wounded in shooting at Ohio baby shower, police say; 1 man in custody - CNN",
-      "source_id": "gnews-us",
-      "published": "2026-11-22T18:49:34Z",
-      "topics": [
-        "us"
-      ],
-      "excerpt": "",
-      "image": null,
-      "image_is_thumbnail": false,
-      "publisher": "CNN",
-      "publisher_domain": "www.cnn.com",
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "fac1fd6dfa8099be27ab62089785d122c49fb5da",
-      "url": "https://www.marktechpost.com/2026/11/22/nvidia-alpamayo-2-edge-2b-reasoning-vla-drive-thor/",
-      "title": "NVIDIA Releases Alpamayo 2 Edge: A 2B Reasoning VLA for DRIVE Thor",
-      "source_id": "marktechpost",
-      "published": "2026-11-22T18:37:57Z",
-      "topics": [
-        "ai"
-      ],
-      "excerpt": "NVIDIA released Alpamayo 2 Edge, a 2B-class reasoning vision-language-action model that plans driving trajectories and explains them on DRIVE AGX Thor, at 160 to 190 ms pixel-to-trajectory latency. The post NVIDIA Releases Alpamayo 2 Edge: A 2B Reasoning VLA for DRIVE Thor appeared first on MarkTechPost .",
-      "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
-      "image_is_thumbnail": false,
-      "publisher": null,
-      "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "ada8ca694ecf3c4a1249aaf29b8b88ee04d1aef1",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNUdjYmJXazI4V25FVTFNTUVCNU1kQXlCRUdVMW90d2JrT1JWX2dkaWlBOVJqTzJ6anFZeW9rWkFOaDZqczZobXh6ZkxxUzc2c3QyVnViLXZVa1VuN3FpMHNDYWRIT1BkWGxHZ01TOEI1THUtbXdyeGd4RnRzel9zU0EwdU94UUdjajZpMnYzTUloMndpb0U0UHF3ZklvNXdQbjFNWDlqM3hGOHdZdk9mU09GR1RoMHV5VElVVlhiRTRxbUpZ0gHKAUFVX3lxTE1NRmhrWTVpbDNtWURtTTRKbHVfdF8taVk2ZWJFR0pxY0Q5R0pyMWtFbFc0YzBBR29LdWtBSUg4VzRJUFMtcUVYT0xfSlR3YWgxREZNMEtJMk1ZTjFWY0RNaHk4SXpZdTBHR1FzWGV6aE9fWjZFcHNTYjM3YXFVVUQzQjMzYm9XdF9zdWlxSWhQOWdrWElkVjhYZU92VFpydThLNjk4R0lFeFZEYVVBLWZNMmtDQUVURDUxT2l5U0V4Zm0xUWNMUXpmeEE?oc=5",
-      "title": "U.S. intelligence chief says Trump's description of Putin as a 'friend' is 'entirely appropriate' - PBS",
-      "source_id": "gnews-us",
-      "published": "2026-11-22T18:37:06Z",
-      "topics": [
-        "us"
-      ],
-      "excerpt": "",
-      "image": null,
-      "image_is_thumbnail": false,
-      "publisher": "PBS",
-      "publisher_domain": "www.pbs.org",
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "d8e721dc0beaa1bb1d2d450ac97f0d5a317c2d2e",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQ2F3ODFSZlJ1enZBelNTVXByYm5wS3VkQWRWTWNUSmJicTR6cEZkaVdkNjdRRFhmY3NKOFNrOUQ2bFRybGtJcXVCR0JycDA2SUdXanZKRGsxT0Rxc04xRnpicmpMU1BvRVNKZXkxWTNlVGJrbnpVdVBibzBVRlJoRm9RVC0tTEpIZHExellVdnNrSXJOOUNoZDBHZjhvemltOEhEaFA2X01nZHRPNmlSeW9VbXZaVHZWb3JXNmIySFpUU2PSAcgBQVVfeXFMT3BUaUhKUDEzUFZzOTlYWWZGVmljRVhFTU5iOVVnRy00OUxkMGx1aGprallHR1VKeUlMbkdvVXZ6OHUyckRZdkE4NEYxOU4wRktKanVSWUgyc050dDNjT2Nsck13U2pTSS05RFRSYUI1MDNrNXV4TzhRaXBobElrdlVwNnlaaUlLNDNGX19GX2FoOVdRRG9yM0g0NEZGdllkX1ZtT2NsWkxsbHZSUHhmRUc4SXVUUzZDOWIxd0xNZ0dObk1RMWpLNzE?oc=5",
-      "title": "Democrats clinch a historic House majority of at least 258 seats, the largest since 1992 - PBS",
-      "source_id": "gnews-us",
-      "published": "2026-11-22T18:24:22Z",
-      "topics": [
-        "us"
-      ],
-      "excerpt": "",
-      "image": null,
-      "image_is_thumbnail": false,
-      "publisher": "PBS",
-      "publisher_domain": "www.pbs.org",
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "3236be15a6f2a783209e7f8aabb298e68716d28b",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jWTVtVVJyZUVWMXF2aXM4eE8tVklnekR6Q0V5SkZ1MmN6VWtjaG8zYzR1R0NueUFlbEpvNkpEMkJ3cmNKU1BjR21vc19aNnBnR2FJRXI3cUhva3NTREJ3bEtrNU1wZ3ZJUFg2ckNfRUdmQ0pINkZWZWFR0gF_QVVfeXFMT3o4WXd2V1hGZlpKd1RULVdhRzBBMVVyMUZYRUxfMC1ic1FWUC1NZFdtMDVaUHhhSDU1MnhDcTdxMVJtSUljeUtlSEdoUEpJMlNZQTA1WTMzbFRWRVNWcGdSVHRoQnZ2SXU3ZEhXRkdFMi1rY016RVhaczBrSndmdw?oc=5",
-      "title": "Flanagan says she ‘appreciates’ Schumer, but Van Hollen leads ‘like an organizer’ - The Hill",
-      "source_id": "gnews-us",
-      "published": "2026-11-22T18:21:00Z",
-      "topics": [
-        "us"
-      ],
-      "excerpt": "",
-      "image": null,
-      "image_is_thumbnail": false,
-      "publisher": "The Hill",
-      "publisher_domain": "thehill.com",
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "a466e87a5928f9533f2ff18df7494cbea5a38733",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUlFiT2FkTDRqQjBEYU5FczdQVmFfTmNLeWR3NWtfSzk0S2tXOTIyTlNCZEpjMEd3WHM4cHpLRnVOYWEzZ3VzY3phOV8yMVI5bE1VbXVUUlRCTWQyWTZJcnlzM05YQ3JFSVh6UE96RGVTQVRpc0Q1NnVrVnRWeDBpemIyTEhIS09FbTZN?oc=5",
-      "title": "How Melania Trump Found a Diplomatic Opening in the War in Ukraine - The New York Times",
-      "source_id": "gnews-us",
-      "published": "2026-11-22T18:12:18Z",
-      "topics": [
-        "us"
-      ],
-      "excerpt": "",
-      "image": null,
-      "image_is_thumbnail": false,
-      "publisher": "The New York Times",
-      "publisher_domain": "www.nytimes.com",
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "a4d4f3cc9402a3cf6f44331bd9f2aa675c63d10a",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZWpJV2NIRGR6cWxPVGdqQWszakhRTTlqNTEzSHk3djgxdFI4ZE85UGZEWTJxUjVkWWFFNENlOWI2amsxaEJ1NWpYQW05UTZEYXVIQTg3M0pIZUZfWnJZT0I1YktQOFgycjNuVUdSUzRQR3diNTVJSlJuZGhHOWNpTEY5VjhXeHQ4MWVEY2ZqZU53OElO?oc=5",
-      "title": "US intelligence chief says Trump’s description of Putin as a ‘friend’ is ‘entirely appropriate’ - AP News",
-      "source_id": "gnews-us",
-      "published": "2026-11-22T18:11:00Z",
-      "topics": [
-        "us"
-      ],
-      "excerpt": "",
-      "image": null,
-      "image_is_thumbnail": false,
-      "publisher": "AP News",
-      "publisher_domain": "apnews.com",
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "0bc14741ea88b4622a3f900267da6ff6c1ea202b",
-      "url": "https://wccftech.com/exclusive-could-an-ai-nose-have-stopped-intels-600-million-israel-fab-disaster-inside-the-9-million-bet-by-ainos-to-give-chip-factories-a-sense-of-smell/",
-      "title": "Exclusive: Could An “AI Nose” Have Stopped Intel’s $600 Million Israel Fab Disaster? Inside The $9 Million Bet By Ainos To Give Chip Factories a Sense of Smell",
-      "source_id": "wccftech",
-      "published": "2026-11-22T18:10:47Z",
-      "topics": [
-        "ai",
-        "strojna-oprema"
-      ],
-      "excerpt": "What if your personal AI sentry could 'smell' new threats? This is the basic premise of the systems now being championed by Ainos, a SmellTech platform company digitizing scent as a native data language for artificial intelligence. How does the Ainos tech work? While most of the tech world is focused on generative AI writing code or rendering video, Ainos is tackling a different frontier: Physical",
-      "image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Intel-Ainos-1-1456x819.jpg",
-      "image_is_thumbnail": false,
-      "publisher": null,
-      "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "f93661cb41ed5867a0651dbd380720ffecf07364",
-      "url": "https://phys.org/news/2026-11-atmospheric-nitrogen-emerges-major-nutrient.html",
-      "title": "Atmospheric organic nitrogen emerges as a major nutrient source for global oceans",
-      "source_id": "physorg",
-      "published": "2026-11-22T18:00:01Z",
-      "topics": [
-        "fizika",
-        "vesolje"
-      ],
-      "excerpt": "A research team has quantified an important component of the global nitrogen cycle.",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/hkust-co-led-study-rev.jpg",
-      "image_is_thumbnail": true,
-      "publisher": null,
-      "publisher_domain": null,
-      "image_tried_at": "2026-11-24T01:29:14Z",
-      "image_attempts": 2,
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "55a6e31f22cef3cc33106127a22fcedd764b3ed2",
-      "url": "https://wccftech.com/elon-musk-says-teslas-ai4-computer-now-costs-twice-as-much-due-to-memory-and-storage-price-hikes/",
-      "title": "Elon Musk Blames Memory And Storage Price Hikes For Doubling Tesla’s AI4 Computer Costs, Says It “Costs Twice As Much”",
-      "source_id": "wccftech",
-      "published": "2026-11-22T17:54:23Z",
-      "topics": [
-        "ai",
-        "strojna-oprema"
-      ],
-      "excerpt": "Tesla CEO Elon Musk revealed on Sunday that surging memory and storage component costs have doubled the bill of materials for the automaker’s AI4 onboard computer. It appears that in-house semiconductors outside of AI datacenters are being adversely affected by the DRAM shortage, and from the looks of it, the situation will worsen before it gets better. TeamGroup CEO’s warning and Samsung’s DRAM c",
-      "image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Tesla-AI4-1456x819.jpg",
-      "image_is_thumbnail": false,
-      "publisher": null,
-      "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "feecb32430927e2fc068532157f2238c9c865a98",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTWlUTXBfYUZwTTVPcllIRkpMZ29FM2lHa25PdkJEZ3F4cXpYLVdpcV9zLVFEdmhKRkE5MUE4alNSZEFDZjQ3Y1JiWlNqQmctXzdTN1UtblpFWmJKRzZwbGNMWWthbUFXSEd6ZV80cWNhb1RNYkRzdElmNGJtLTExZkhvUzg1QkZhY3B5azhKRW1NU3RwVXFWdVk0Q18tZGprV3JVRXd0RnZRUURuOFBOMjBpSWxFMkh5eFl2TElOczBkY0l6c0E?oc=5",
-      "title": "Trump warns of new strikes against Iran after new year, calls negotiators ‘professional tap dancers’ - Fox News",
-      "source_id": "gnews-us",
-      "published": "2026-11-22T17:52:35Z",
-      "topics": [
-        "us"
-      ],
-      "excerpt": "",
-      "image": null,
-      "image_is_thumbnail": false,
-      "publisher": "Fox News",
-      "publisher_domain": "www.foxnews.com",
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "8eeaedc9239e877206a0cf94c42a54d956f5cdfb",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTWlUTXBfYUZwTTVPcllIRkpMZ29FM2lHa25PdkJEZ3F4cXpYLVdpcV9zLVFEdmhKRkE5MUE4alNSZEFDZjQ3Y1JiWlNqQmctXzdTN1UtblpFWmJKRzZwbGNMWWthbUFXSEd6ZV80cWNhb1RNYkRzdElmNGJtLTExZkhvUzg1QkZhY3B5azhKRW1NU3RwVXFWdVk0Q18tZGprV3JVRXd0RnZRUURuOFBOMjBpSWxFMkh5eFl2TElOczBkY0l6c0HSAcsBQVVfeXFMUExFTFZsczZib0lLcGRyMG9nMEhiQ2NlYnpzZlVaY2F1TEROcUk3M0dyRTZndk5Xc3BjaXk3dUJLRHJjUXJvemlQb0JCSGp2RlJmdUt4SWVNNWRxemJuTWQyUDZ2WktveTJaSWNhZ0ltbVpEMWFlWHhueE0zNkJiSXNPVXUxVV85X3hsRmp0N244a2dwT1YwcVhuVWl1R0JjaHFmVG9sMXBKT2JuWXpPZHg1Q2pzZVRCZDNNYjl2U3JBV2p5M29wSW05ZEk?oc=5",
-      "title": "Trump warns of new strikes against Iran after new year, calls negotiators ‘professional tap dancers’ - Fox News",
-      "source_id": "gnews-us",
-      "published": "2026-11-22T17:52:35Z",
-      "topics": [
-        "us"
-      ],
-      "excerpt": "",
-      "image": null,
-      "image_is_thumbnail": false,
-      "publisher": "Fox News",
-      "publisher_domain": "www.foxnews.com",
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "ddf60926433c9c1e12238611befdf77392ed2064",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORkRkcTRFc3daS0xFcy1mZFg1bi1jcWxSc2p4czA4SkFPM2hBeVVLVHM1eGV2RUxqUkRtTWt6bW4tNU9iSU9iMl9fcTZ2dmFRVEFCenI3UEplbDlNVDV4NjJJT0RPMGlSSXBXcndOWS1tZjNnYm5YZ19vNmRHalJQMVN6Uk9Qcm50djFmRURMby1lSVVvMXFXQVVwUkpDazhEQXg5WGZONmhVcFJVRmfSAcIBQVVfeXFMTnFoZ3JrQTRRZnlUeUFqVmhaVk42RmQtSG1DbldMSEFRU0hvcE9oWGltQjZMZENQUXN6NnRxTHJEdFg4LTRKS28wZjNxSHpnaThaLURmRUNEVjUxQmFVdHVJRzgweVhXdENVVWJPQmlKLVBnUElOMGFXWWdrdGctemwtTzlwaURRdm9zT1dKSUktLXQwOFhlTnRfeF9QSzBvcUtySVB5eVQweS0xd3ZOTE04OE5BczlQTXRsWkpnZmRaV1E?oc=5",
-      "title": "Victim identified in Hawkins Field plane crash as Mississippi Baptist burn surgeon - WLBT",
-      "source_id": "gnews-us",
-      "published": "2026-11-22T17:35:00Z",
-      "topics": [
-        "us"
-      ],
-      "excerpt": "",
-      "image": null,
-      "image_is_thumbnail": false,
-      "publisher": "WLBT",
-      "publisher_domain": "www.wlbt.com",
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "860da83df4bca8b9eb6b137ca11242d516660280",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSFJra1VRRklfV3RGMWRjSGVnRVNCRm1NaUhxellnbWFHbkNlcm5tWDFDTVhYdEJLdlBiY0FHVXlhU2FKZkVNRUdPZjE0d3hFVGZaeWtrYjAzWXRJNl84OXpDZnJGQU51UGZSUFNDeS1FUElxdmdpbGFwWXRYckk3RG00RDE1bDQ?oc=5",
-      "title": "Pedestrian dies in hit-and-run on S. Saunders Street - WRAL",
-      "source_id": "gnews-us",
-      "published": "2026-11-22T17:28:22Z",
-      "topics": [
-        "us"
-      ],
-      "excerpt": "",
-      "image": null,
-      "image_is_thumbnail": false,
-      "publisher": "WRAL",
-      "publisher_domain": "www.wral.com",
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "1169fda99945c2f2d0d6ab9321bf8b89d6ca7e44",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUFNkamY0ZkFudG05Vl91ZUhTUkQ2bWpfQ053Y2cyMVlqb0RIb3VLZ25QMlJ2VWJkX2kzSHlDcmVoVEJZUFZCSG92VkJ5SWMzODFIVm41cUM3Tk13dHhTWGxMSGEwaV9BbTBHcWhpQ0UzY21kVTdWeTI4OXk3RF92a0tzWEdZcjdRam1r?oc=5",
-      "title": "Europe’s middle powers mobilize — without Trump - Politico",
-      "source_id": "gnews-us",
-      "published": "2026-11-22T17:24:00Z",
-      "topics": [
-        "us"
-      ],
-      "excerpt": "",
-      "image": null,
-      "image_is_thumbnail": false,
-      "publisher": "Politico",
-      "publisher_domain": "www.politico.com",
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "40f2543329e3b7c845b4f136d70ad34a1a9b4960",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMHdUR1M2dUkweE1JTWdKLVlOdEdodGUzbVV0RnFZN3FqcmRRd0JxaktiQ2xFdy1XYVB1dkNJbFJ4a01SMUs5RGlwR1F2RkNZTVBTTzMyTzB2aHA4R3BjWTdfM0Q5Mnk1d0pJeTJ2Mno4Q2E5VFdrTFZYYk5UR05RdWwzVm5WamdPS21yZnN5RnJMUmNUbFA0RTdLQ290N0lkUlJj0gGoAUFVX3lxTFBrVFRYdzBZaXpsenFaV3BvbU5lUFdjZUNvYkhUa2hTcFZ3czVCaEJhR0RweWJzWUw4VHp0WXFOWENxeHpsTWM4NDJYLXpDdElMQURXRDJfTGQ1WnktZHVVdmo5MmlNclp3b3Q5UEVuZ0E5SHlDWkUzd2NRSDVBNE5vejFGNEtNUk5kQkZOeGxBLWEzdzNMQ0tOOXlvRE1DUldya19neFpRMg?oc=5",
-      "title": "Rahm Emanuel: Sen. Schumer should commit to stepping down as leader after next Congress - ABC News - Breaking News, Latest News and Videos",
-      "source_id": "gnews-us",
-      "published": "2026-11-22T17:17:13Z",
-      "topics": [
-        "us"
-      ],
-      "excerpt": "",
-      "image": null,
-      "image_is_thumbnail": false,
-      "publisher": "ABC News - Breaking News, Latest News and Videos",
-      "publisher_domain": "abcnews.com",
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "2cf2be1a85a9c5690258030a1e2b364907d54b72",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPR283dmtxRUE1S1RDMlczSWpxSjBUckxmNUVCeVlodF93N25kU214dmE1TkMweVpRMWZ3ZTl3MUZrYnEwVnVUb1l4Z0I0UlNPaXRTU3M2eHQzeWZEazZ5QkhWem41RVhsczZYanRuUElLUlJmNGc3X1g2Zmtvd0M3Q21Pa19XYnJNVWZkOHRxSnE3aWtPRmpmcWhvZUp2NXJpUHl1bXA1S2VoM3ZJYmktN25hMlJ0S1h1WkJCR0JNelo?oc=5",
-      "title": "Transcript: Treasury Secretary Scott Bessent on \"Face the Nation with Margaret Brennan,\" Nov. 22, 2026 - CBS News",
-      "source_id": "gnews-us",
-      "published": "2026-11-22T17:16:00Z",
-      "topics": [
-        "us"
-      ],
-      "excerpt": "",
-      "image": null,
-      "image_is_thumbnail": false,
-      "publisher": "CBS News",
-      "publisher_domain": "www.cbsnews.com",
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "0da2f475e215fed76e4ae91c3887af3645112de2",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMDg1WWRFdTlXYklueE0zX2lxUFJwRDg1RmJMWFdFZXpwRXlkQzhBWFNuVG1yd09UdFN0b1NZcUh2dzBHbVdpSEdDamU2X0E3dU1wZ0w2NC02aWZNU1lCaDdubkVNdXNEYTRQN1FSaVhJM04tZFppSTctOG4zXzNYbmJva2NYaXlaVmc4WXBLZ1ZoWU1NUW9iSnZBWHFHclBkd2UyVHYtZm94aXd6M2NhQ0hUNzhvODNHejBqSVdGRF9abHRIakhrV0ZUMlZ0Zw?oc=5",
-      "title": "Bay Area airports, coast under extreme flood threat, residents told to avoid travel - Los Angeles Times",
-      "source_id": "gnews-us",
-      "published": "2026-11-22T17:10:57Z",
-      "topics": [
-        "us"
-      ],
-      "excerpt": "",
-      "image": null,
-      "image_is_thumbnail": false,
-      "publisher": "Los Angeles Times",
-      "publisher_domain": "www.latimes.com",
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "87d8307b7c60ee6d26c628cc63425874e08e0be7",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQT19iOGx4bnJSNnRqTlFqRm9qM3g0SnVDdEtoWDhSZjNGY0NkM1RPU2k2dUdUY09BMEJRSjFsTlJaZDMxWm5yZy1YOVBvRWZSLUt6MjRDZVk3Sk1DdUFaMzA5SlNTVGMwVmFVa3c0ay1wRk1oZXVnTm80c2NuZ3VNLQ?oc=5",
-      "title": "Two seriously injured in shooting at Dubuque bar - KCRG",
-      "source_id": "gnews-us",
-      "published": "2026-11-22T17:03:00Z",
-      "topics": [
-        "us"
-      ],
-      "excerpt": "",
-      "image": null,
-      "image_is_thumbnail": false,
-      "publisher": "KCRG",
-      "publisher_domain": "www.kcrg.com",
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "91a0f9c105b85b1fbe0a743e8698f26854c1867e",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE83N3diZ05tTFJQbUo1TVIxM0VDSDd5Yml0TV9ldHRvSmZjQ21YSExtaklaRlVod2dOd01nVFBrUjBUMHhpdDQ3d3VBN2VLS3V5eG11YzQtcm9Uc3Q2a19sRFB6RWRraS1uNFRBWnl2WW90WkwwM2xqbUxOalUyUQ?oc=5",
-      "title": "He tried to merge on the George Washington Bridge. A minute later, he was fatally shot. - CNN",
-      "source_id": "gnews-us",
-      "published": "2026-11-22T17:00:15Z",
-      "topics": [
-        "us"
-      ],
-      "excerpt": "",
-      "image": null,
-      "image_is_thumbnail": false,
-      "publisher": "CNN",
-      "publisher_domain": "www.cnn.com",
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "881feebcd0b3c2182c74e2f525c5d34f8296354d",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaGxGX0R5dG8zYkJqTWxxRV9nQmdyODk3T3pPczRtWk5QakxSZUlSQ1ZKSHN2MmlHdEppTldJY1E2U1RKS2lzTGNwLWlBSHd2SlVRMnJFUDB6SW9SbVhrWGZ3T2J4M010WEhIM3h0aHdoREQ3aWFRWEhCSWZaYTdpMzdR?oc=5",
-      "title": "Back-to-Back Storms Poised to Hit the Northeast Before Thanksgiving - The New York Times",
-      "source_id": "gnews-us",
-      "published": "2026-11-22T17:00:00Z",
-      "topics": [
-        "us"
-      ],
-      "excerpt": "",
-      "image": null,
-      "image_is_thumbnail": false,
-      "publisher": "The New York Times",
-      "publisher_domain": "www.nytimes.com",
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "710bba20837292c0c528a41d4ec209bcf3df7dac",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaXc5bnpxRVB2OFJmZl9GcV9hTzViMnFYWmNwcEoxZk5aS3hUY1R5bXYybWxhcjRkaE9falZiUk0wdk5fOHgxVGQxbDRhOG5hZlk5YUVxbW5ib0k5M09idm9YYnJIaEc2TkxPbm1mQ0pRcFZCekVzc0pHNDJ2VHI3RTEwVFZKWTVxdGZGQ2NMNzlUYTBJWjlpREttSzFxd3h4eS1ITFUtSml1b3ZMWmhNM19Fd3ZrUmhDMk16THpFczRmRXg5V01UdEdEMFh1OTk4MUhVaEU4Szc5bG5wckE?oc=5",
-      "title": "Hunter dies after being found unresponsive in Jefferson County - Channel 3000",
-      "source_id": "gnews-us",
-      "published": "2026-11-22T16:53:00Z",
-      "topics": [
-        "us"
-      ],
-      "excerpt": "",
-      "image": null,
-      "image_is_thumbnail": false,
-      "publisher": "Channel 3000",
-      "publisher_domain": "www.channel3000.com",
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "7b7560f23b9516d2709eeadf994466db66f6a537",
-      "url": "https://wccftech.com/microsoft-unveils-rdma-over-usb4-for-windows-11-combining-multiple-pcs-to-run-massive-ai-models-with-up-to-4x-lower-latency/",
-      "title": "Microsoft Unveils RDMA Over USB4 For Windows 11, Combining Multiple PCs To Run Massive AI Models With Up To 4X Lower Latency",
-      "source_id": "wccftech",
-      "published": "2026-11-22T16:49:20Z",
-      "topics": [
-        "ai",
-        "strojna-oprema"
-      ],
-      "excerpt": "Microsoft has announced a new Windows 11 feature that could significantly expand the capabilities of local AI computing by allowing multiple PCs to combine their memory and GPU processing resources through ordinary USB4 connections. Called RDMA over USB4, the technology makes it possible to run massive AI models that would otherwise exceed the memory capacity of a single system, without requiring ",
-      "image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-61-1456x819.jpg",
-      "image_is_thumbnail": false,
-      "publisher": null,
-      "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "7e87f856a2aec0d9eae079f3a9f4df1634bd93de",
-      "url": "https://dailygalaxy.com/2026/11/first-humanitarian-satellite-launch-2027/",
-      "title": "First ‘Humanitarian Satellite’ Set to Launch in 2027 to Help Monitor Disasters on Earth",
-      "source_id": "dailygalaxy",
-      "published": "2026-11-22T16:45:00Z",
-      "topics": [
-        "vesolje"
-      ],
-      "excerpt": "A nonprofit's ambitious satellite constellation aims to make high-resolution Earth imagery more accessible to those responding to disasters and humanitarian crises.",
-      "image": "https://dailygalaxy.com/wp-content/uploads/2026/11/First-Humanitarian-Satellite-Set-to-Launch-in-2027-to-Help-Monitor-Disasters-on-Earth-scaled.png",
-      "image_is_thumbnail": false,
-      "publisher": null,
-      "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "7af22af9422576aa39882d255a74d1025d610e04",
-      "url": "https://phys.org/news/2026-11-jwst-black-hole-grew-faster.html",
-      "title": "JWST finds a possible black hole that grew faster than its host galaxy in the early universe",
-      "source_id": "physorg",
-      "published": "2026-11-22T16:40:01Z",
-      "topics": [
-        "energija",
-        "fizika",
-        "vesolje"
-      ],
-      "excerpt": "How the first massive black holes formed in the universe remains an open question in astronomy. Black holes weighing about a billion solar masses within the first billion years of the universe require extraordinary origin stories.",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/jwst-finds-a-possible.jpg",
-      "image_is_thumbnail": true,
-      "publisher": null,
-      "publisher_domain": null,
-      "image_tried_at": "2026-11-24T01:29:14Z",
-      "image_attempts": 2,
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "8317a18204c7805c83a501ef276218f702ea4a9d",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNV1JBYm9jVDZIbTZjODlMYlZqbFNxRWxyWXFzc2RBQnNqckgweTVjdG1YT0QwRHpxd3BoSnNNZEpGck9HOWJIbTdiZS1LS2dEd3psQTJjOEJlUG1JQjBuNmZLYmd3WnlvcWhHZWo4Zk5UWU5pcXFTVmhDdncyMGlfQ0FRTzgtc2xxT09r?oc=5",
-      "title": "ICE continues courthouse arrests, despite state's new PROTECT Act - WBUR",
-      "source_id": "gnews-us",
-      "published": "2026-11-22T16:23:53Z",
-      "topics": [
-        "us"
-      ],
-      "excerpt": "",
-      "image": null,
-      "image_is_thumbnail": false,
-      "publisher": "WBUR",
-      "publisher_domain": "www.wbur.org",
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "e183c044a3bc301e31d7f9f63e3e988f85a60c88",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYnNlWWFwN01FQXJ6VWFXejloZTlBUS1wdm9HZ2xSbGlwNThFUlBjc0ZFNm9sRDR2TERESTFVSU9IVjl1elVGRm95Y2NVUDlUZFhFMk9fV3hpQUY5eVpxTC1XZEpMMjUwSTJHSUJSRUZZVVFyQ2cxbG9mQUVrT0c4bE1oZUpHS001UTdwT0xEWVREWEpnVW45Q3VQdF9qSmcyeWNzV1E2ZlBZcDM2dkIxODNWNnk?oc=5",
-      "title": "As PPS Pushes Forward on School Closures, Governor Seems to Ease Off - Willamette Week",
-      "source_id": "gnews-us",
-      "published": "2026-11-22T16:20:00Z",
-      "topics": [
-        "us"
-      ],
-      "excerpt": "",
-      "image": null,
-      "image_is_thumbnail": false,
-      "publisher": "Willamette Week",
-      "publisher_domain": "www.wweek.com",
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "b3820e5369eb067953d5c4a0ebfe603aaaba91b7",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaXF5Z0xWeEVqeEs3WVZHU29xZFdhRHNEdWowLUI4clhmU2RsbHdZLUZrN2JOU0JSRk9md1JtUWd5YjlKQS1QOUxvTW1ZeHV2Z1BNaTZnVF9oY3hHS3dBN1JQTm5wZGFXdTFwcUNQQWY0Rmh5ZzVRWHo2ZUZ2amw3b0dXcUgxa0FtUnFvRlJaTnVVTmdZU3ZUNkpqRlJZWVJBNUdaY2FCZ3Bwa2M1bG9wdnBhY2dVQUhzcUhNeXdCY2k?oc=5",
-      "title": "St. Tammany deputies: Crossbow killing suspect admits to killing woman found near trail - WDSU",
-      "source_id": "gnews-us",
-      "published": "2026-11-22T16:18:00Z",
-      "topics": [
-        "us"
-      ],
-      "excerpt": "",
-      "image": null,
-      "image_is_thumbnail": false,
-      "publisher": "WDSU",
-      "publisher_domain": "www.wdsu.com",
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "6f9d194c2152d22200525fac3d8aa0f27e2ffffd",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPc0UyZUdJbmJyV3E2MkFmMjlaVU43ZXItWDZNd2JtdVFKcGEwMlNENHpLdWJ0dGlqNk5iTXhvc0xXRkI5TVhzSHg3bTFTdzN6MkNkT1pnRktNRWFFazZCTkQ2dlNrZGhjTGI4cWxKaDhKbTg3R2dSbXE2N19aU2plcktMUGFNYmpqLVdkbkVLU3ZDd9IBlwFBVV95cUxQRmQ4Rjd1WnZHMVZWb1BKNTYwWFdzV1JRWWY3SllzSm5EOG5yZjlvNmhma0JEUWhJbHIwNkxHUGZfTTZqUHVQV0ZyR0JfQmx5VFNVR29OaTByQ1VhS3hmVFdNUkJlUmlnbElzSDNXc3Y1VjNkdm9nUTVOTUtYdUNsWHdNajJ5eGhPZVB1Uk5QMmZ4VzV1Q3Fj?oc=5",
-      "title": "Director of National Intelligence Jay Clayton warns Americans of 'bumps in the road' after tech outages - CNBC",
-      "source_id": "gnews-us",
-      "published": "2026-11-22T16:17:53Z",
-      "topics": [
-        "us"
-      ],
-      "excerpt": "",
-      "image": null,
-      "image_is_thumbnail": false,
-      "publisher": "CNBC",
-      "publisher_domain": "www.cnbc.com",
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "869a7da2bbd1904503a9da5c1d2879c8f60dd0d6",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM0JheUIxYlE3b1dVeTdmWDBtRDRBWDRNRUcxOUw3bThjOUFEV2pnLW1NLUY1NWRyX0ptbUJNd211MExnNWN2Ym1wWkNiRXBvcmw1RnlJbEcwSC10NjhNWGwzRXFyOEtRUzh2SjdybWY0R2oyVlM3VXE4UHp4aF9sa3V2U1prV1U5WGtCaXJaa2psWks2QVFsNDFXS3h4cy1rOUMxRHlubw?oc=5",
-      "title": "Trump Wakes Up And Whines About Work in Morning Rant Against Chuck Schumer - The Daily Beast",
-      "source_id": "gnews-us",
-      "published": "2026-11-22T16:16:59Z",
-      "topics": [
-        "us"
-      ],
-      "excerpt": "",
-      "image": null,
-      "image_is_thumbnail": false,
-      "publisher": "The Daily Beast",
-      "publisher_domain": "www.thedailybeast.com",
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "c00d7ea57bb4c4b1934699cf8041128269a5a7b9",
-      "url": "https://wccftech.com/unreal-engine-5-9-preview-2-brings-browser-based-gaming-to-blueprint-only-projects-enables-ai-workflows-by-default-and-improves-rendering/",
-      "title": "Unreal Engine 5.9 Preview 2 Brings Browser-Based Gaming To Blueprint-Only Projects, Enables AI Workflows By Default And Improves Rendering",
-      "source_id": "wccftech",
-      "published": "2026-11-22T16:16:43Z",
-      "topics": [
-        "ai",
-        "strojna-oprema"
-      ],
-      "excerpt": "Epic Games has released Unreal Engine 5.9 Preview 2, introducing significant improvements to browser-based gaming, AI-assisted development workflows, rendering, animation, and cinematic production. The latest update expands upon the initial Unreal Engine 5.9 Preview, which introduced experimental WebAssembly and WebGPU support alongside several AI-powered development tools. According to Epic Games",
-      "image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-60-1456x819.jpg",
-      "image_is_thumbnail": false,
-      "publisher": null,
-      "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "f81a95e71afa028d5ed40ad30dd49680b595b8fa",
-      "url": "https://dailygalaxy.com/2026/11/nasas-perseverance-martian-lava-mystery/",
-      "title": "NASA’s Perseverance Uncovers a Martian Lava Mystery Dating Back Nearly 4 Billion Years",
-      "source_id": "dailygalaxy",
-      "published": "2026-11-22T16:15:00Z",
-      "topics": [
-        "vesolje"
-      ],
-      "excerpt": "Ancient lava rocks discovered by NASA’s Perseverance rover reveal unexpected similarities between early Mars and Earth, offering new clues about the Red Planet’s volcanic history.",
-      "image": "https://dailygalaxy.com/wp-content/uploads/2026/11/NASAs-Perseverance-Rover-Just-Collected-a-Martian-Rock-That-Could-Be-Among-Its-Oldest-Discoveries-scaled.png",
-      "image_is_thumbnail": false,
-      "publisher": null,
-      "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "78c2762325c7b286638fda14b19271321849c966",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMElMOVNhZVZUUmdmQnh2UklGbm1CcU8tdi1fUFZ2bXF0U2E1WENubzFoNjBWMlNtQlN4bHZPUzUwUUtUbU5GbDVtVmh6ZFFGU1IzNDZRVGdBTDF4WkhIaGtybTdsSlRsY2pQQld4T3U4YllwRmw0d0M3Z1lYYXVlQXJjT3VNanJROUxyalF1dkgxNHJnLXprSmVsWQ?oc=5",
-      "title": "Sen. John Kennedy compares Xi and Putin to Hannibal Lecter - Politico",
-      "source_id": "gnews-us",
-      "published": "2026-11-22T16:13:00Z",
-      "topics": [
-        "us"
-      ],
-      "excerpt": "",
-      "image": null,
-      "image_is_thumbnail": false,
-      "publisher": "Politico",
-      "publisher_domain": "www.politico.com",
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "eddb36e56ba3b9857082ce76e78f72580da82149",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTWJndDdEd19COWxod2dVOHpabHNhQktPRHZUaDNZbkZnenFWRmMxeDBwSzJCVzlsYlRhXzRuZklGUlcwYjJIMWZqME1tRF95MldvZ1hYZDE1aHVvV0dzS1FVa0VEQlZtMWxoSEhHOWowbXdsSnYwSVBjUG02OHhlMmVnbGZISHhtMkVIUG5sT184Y0pNRlhV?oc=5",
-      "title": "Director of National Intelligence defends Trump saying Putin is his ‘friend’ - Politico",
-      "source_id": "gnews-us",
-      "published": "2026-11-22T15:59:00Z",
-      "topics": [
-        "us"
-      ],
-      "excerpt": "",
-      "image": null,
-      "image_is_thumbnail": false,
-      "publisher": "Politico",
-      "publisher_domain": "www.politico.com",
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "646d508a04788017adec308dc534b9700d893915",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBKSjlQamhscnZPOXZhbjlFMTNvemlzQTBfcHhPUDU3OUVITFR2anRZYUw1UllvSXlWbnhZZUJjOXA1TnhaMHVCc3o1d29nWGg3SzVKcnpTYmlNUmFMck5SWndYUFRGNW1SWEhiTXh0OUZKdHNaWVozOEI0T1k?oc=5",
-      "title": "Hakeem Jeffries outlines healthcare areas where Democrats \"can explore coming together\" with Trump - CBS News",
-      "source_id": "gnews-us",
-      "published": "2026-11-22T15:55:06Z",
-      "topics": [
-        "us"
-      ],
-      "excerpt": "",
-      "image": null,
-      "image_is_thumbnail": false,
-      "publisher": "CBS News",
-      "publisher_domain": "www.cbsnews.com",
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "c6a82e0fbc3399b1be3c47719a6ab9c3f1664d21",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xSGFSX2JfQklNMzFHUGozTUJsbHlJNURhR2J3LU91R3VUQVgtTUdkdTZNam03dDNQM3hORTN4QzRwQ1Noc2RXRktySWt1ZnQ5ejU5Qk1yOUwyazg?oc=5",
-      "title": "US Army to detonate tonnes of unstable explosives in Iowa despite court order - BBC",
-      "source_id": "gnews-us",
-      "published": "2026-11-22T15:50:28Z",
-      "topics": [
-        "us"
-      ],
-      "excerpt": "",
-      "image": null,
-      "image_is_thumbnail": false,
-      "publisher": "BBC",
-      "publisher_domain": "www.bbc.com",
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "5d743c202a885700680993bce1c70e59b669db65",
-      "url": "https://phys.org/news/2026-11-mercury-visitor-years-pair-spacecraft.html",
-      "title": "Mercury gets its first visitor in years as a pair of spacecraft loop into orbit",
-      "source_id": "physorg",
-      "published": "2026-11-22T15:20:01Z",
-      "topics": [
-        "energija",
-        "fizika",
-        "vesolje"
-      ],
-      "excerpt": "A pair of spacecraft slipped into orbit around Mercury on Saturday after an eight-year cruise through the inner solar system to unravel our littlest planet's mountain of mysteries.",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/mercury-mission.jpg",
-      "image_is_thumbnail": true,
-      "publisher": null,
-      "publisher_domain": null,
-      "image_tried_at": "2026-11-24T01:29:14Z",
-      "image_attempts": 2,
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "9df787516c744ed7daa877a52eb9df99c3046644",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZ1Q2TFMwb19HdTVjdVp0N0pZODE1VEtsenJmX1Z4SDNtRk5nZElXQk9mczc3YXNnMGY3ek9jQkkxODZEWHlTa1BwbkhBbXI0MDRBVDhzYnJsMHgzVDVhREU0TFNIQ05Qb0RXNHl0aU9qSVhhWVFOSlhENDhaMDd0c1RpbFdlZVY1VW1EY2sxUERIbDZCdkFJbkhvemtyMDI5VGNDZmJwZ21sVHh3R3ZXS2M0enp3dVc2Skc4cDd1alBNSzM3bkVXdkZsVkw?oc=5",
-      "title": "Father, grandfather of unborn child among 3 killed in mass shooting at Parma baby shower - Cleveland.com",
-      "source_id": "gnews-us",
-      "published": "2026-11-22T15:18:00Z",
-      "topics": [
-        "us"
-      ],
-      "excerpt": "",
-      "image": null,
-      "image_is_thumbnail": false,
-      "publisher": "Cleveland.com",
-      "publisher_domain": "www.cleveland.com",
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "c1ccc2e997c4f6c6f288e3eeddfb362b9dbf0403",
-      "url": "https://dailygalaxy.com/2026/11/china-sending-foreign-astronaut-into-orbit/",
-      "title": "China Is Sending a Foreign Astronaut Into Orbit for the First Time, Marking a Historic Milestone for Its Space Station",
-      "source_id": "dailygalaxy",
-      "published": "2026-11-22T15:15:00Z",
-      "topics": [
-        "vesolje"
-      ],
-      "excerpt": "China's next crewed mission could deliver three historic firsts, including Pakistan's debut in orbit and a year-long stay aboard Tiangong.",
-      "image": "https://dailygalaxy.com/wp-content/uploads/2026/11/China-Is-Sending-a-Foreign-Astronaut-Into-Orbit-for-the-First-Time-Marking-a-Historic-Milestone-for-Its-Space-Station-scaled.png",
-      "image_is_thumbnail": false,
-      "publisher": null,
-      "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "74538bf63881bb461164a67adcff72b04734f929",
-      "url": "https://wccftech.com/review/asrock-taichi-tco27usa-27-4k-gaming-monitor-review/",
-      "title": "ASRock Taichi TCO27USA 27″ 4K Gaming Monitor Review: Penta Tandem QD-OLED With A 0.03ms Response Time, Featuring Great Connectivity & A Superb Viewing Experience",
-      "source_id": "wccftech",
-      "published": "2026-11-22T15:10:07Z",
-      "topics": [
-        "ai",
-        "strojna-oprema"
-      ],
-      "excerpt": "ASRock's journey into the gaming monitor segment has been very recent. The company introduced its first gaming monitor within the \"Phantom Gaming\" lineup in 2022, just three years ago, and since then, they have been really aggressive in this space, introducing new designs with the latest technologies and at very competitive price points. Since the first launch, the company has introduced several m",
-      "image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/DSC_1078-Custom-1-1456x971.jpg",
-      "image_is_thumbnail": false,
-      "publisher": null,
-      "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "3949fa9eee284afb0f90b171935de67fcee58475",
-      "url": "https://phys.org/news/2026-11-cop31-climate-chaotic.html",
-      "title": "COP31 fails to agree on climate deal in chaotic finale",
-      "source_id": "physorg",
-      "published": "2026-11-22T15:07:54Z",
-      "topics": [
-        "fizika",
-        "vesolje"
-      ],
-      "excerpt": "The COP31 climate talks headed for a historic defeat Sunday after the EU and other countries refused to endorse a pact that omitted fossil fuels as the summit lurched into record overtime in Turkey.",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/cop-co-hosts-australia.jpg",
-      "image_is_thumbnail": true,
-      "publisher": null,
-      "publisher_domain": null,
-      "image_tried_at": "2026-11-24T01:29:14Z",
-      "image_attempts": 2,
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "70ca36de908664f2fc9be9208a080a4d6b6d381b",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPb0pOLU91ZDFSaFA0N0l6UjJCRHRCdWtIdnBrMmJPdmtqQld5MVMzQTVscXhLSVdXSFZibEJCd3oyS3FPT18xZUpkRFE3QUg0SmhCVEZDbzVDb2pYVW9xRDhTY2Y2OHBlaU5zMG1vWEJjZzhtU09DRmtUel9CSUg5RUprcm5BaHpDXzJqLTR4ZGtkbnNQUVE?oc=5",
-      "title": "Person dies after pursuit ends in North Charleston crash - Live 5 News",
-      "source_id": "gnews-us",
-      "published": "2026-11-22T15:02:00Z",
-      "topics": [
-        "us"
-      ],
-      "excerpt": "",
-      "image": null,
-      "image_is_thumbnail": false,
-      "publisher": "Live 5 News",
-      "publisher_domain": "www.live5news.com",
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "20bff4daa003af486faa8c17a0c5a5bb7005ead0",
-      "url": "https://phys.org/news/2026-11-hybrid-nanocrystal-surface-reveals-tune.html",
-      "title": "Hybrid nanocrystal surface reveals new way to tune interactions with infrared light",
-      "source_id": "physorg",
-      "published": "2026-11-22T15:00:01Z",
-      "topics": [
-        "fizika",
-        "vesolje"
-      ],
-      "excerpt": "A one-crystal-thick sheet made from two types of nanocrystals mixed in solution can amplify or suppress infrared light beyond the sum of its parts.",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-black-and-white-scan.jpg",
-      "image_is_thumbnail": true,
-      "publisher": null,
-      "publisher_domain": null,
-      "image_tried_at": "2026-11-24T01:29:14Z",
-      "image_attempts": 2,
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "fde8da496606d09c6bad5b9c5e897a307551dd7a",
-      "url": "https://dailygalaxy.com/2026/11/tallinn-24-meter-medieval-shipwreck-discovery/",
-      "title": "Construction Workers Found a 24.5-Meter Medieval Ship Buried Beneath a Busy City Street for 650 Years",
-      "source_id": "dailygalaxy",
-      "published": "2026-11-22T14:45:00Z",
-      "topics": [
-        "vesolje"
-      ],
-      "excerpt": "Hidden beneath a modern city, a medieval merchant ship preserved an extraordinary glimpse into life at sea.",
-      "image": "https://dailygalaxy.com/wp-content/uploads/2026/11/A-Buried-Medieval-Ship-Reveals-a-Rare-Compass-and-Lithuanian-Timber-scaled.jpg",
-      "image_is_thumbnail": false,
-      "publisher": null,
-      "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "f31a8d2f04df83ff5a512afbae99d66466d9a382",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSFNBS19DVHhxWHNtRmtoR2J0SXFjSkRGUUJtRFExdTktN2pLLTFmaGFpWGVxU1hLOEtMWEdrMFJaNjZpaUljaFExb2t4UWpTXzlBaTFYckNuclNpbXpaZXQ3aU9fc1paU0NBTWJaZDlOQW0wbE10d1FpS2lZT3JXSWZVdnNEOUJQNUhYMjdOMFVLTmVFY2tJV0ZVYVdscnY5bVVtOTEzSdIBrAFBVV95cUxNdjhYQlRZTXVTR0JPZ25pRExrMGpidTFOUmJZMDJuTGhGRE4xVW9McjdiVlZVNXRYUW13OHctRjdKcW9mX2lkbzYteUpHTHJlX2NCNEp1Wi1laXhxVGF6dzU5bUxCUnFKRjBkSnk0NWRPYnotdTVoNDd1UUdZbXFiendPX2VMT09DdW1FMHRENHd0VndhRG9zX1JaUHQyZEN2M012cXowVk9iVEhC?oc=5",
-      "title": "How El Chapo Isidro, alleged Mexican cartel leader, was captured - Al Jazeera",
-      "source_id": "gnews-us",
-      "published": "2026-11-22T14:42:45Z",
-      "topics": [
-        "us"
-      ],
-      "excerpt": "",
-      "image": null,
-      "image_is_thumbnail": false,
-      "publisher": "Al Jazeera",
-      "publisher_domain": "www.aljazeera.com",
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "c1aa9ff6fe6bb6ced0932b1e0307524e6ba35072",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZXM2ZTMwY2I0WnJuUlhYOUx4V3hmRENRTXFWZXZoamU1dnJBSWQ5MW9kcGRDN3FXRGktTDRRd2VrMl8xT1o5QUFNRDNBcHlPdTVMcTJldll5Q0J3UHUtbTU0Z2J5RHlFeFN5LWZaT1EyV1pRZGNzVFpPakJBdzR6VF9zNlRCb19qdFcyUVZkREdOd2wzZmM2eFpGX3llWW04Nnp2MW9pTQ?oc=5",
-      "title": "Democrats will struggle with a state-level revolution - The Economist",
-      "source_id": "gnews-us",
-      "published": "2026-11-22T14:38:46Z",
-      "topics": [
-        "us"
-      ],
-      "excerpt": "",
-      "image": null,
-      "image_is_thumbnail": false,
-      "publisher": "The Economist",
-      "publisher_domain": "www.economist.com",
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "07928438a9e51d52ee372ceb6b6f9f58ba7bf49a",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRkVtbWpoOXctckdUeVdLRm5wMGZta0hjdUVJelIzTDJMTmw4VjZpNm9JZ0Jwb0k3WVozSU5VZkFxQVRzY29ZMS16LU5rMG9qR19ZWGIwSE5XRjRMT0hhaVIyTC0tbjdDdEgwS3QtUmRPVlk1R0cyUXE4WUl0al9ZTU4ybFlvb1ZLM1J1b9IBkgFBVV95cUxNYk9TQzZhQUlxZGQ1QjlENGl5OWR4dUY5M3UyOEJzM0hhdEZhby1EZnl3dG5ibERGdWRaTHlySXJNcEVreDZoX1U2NWVJUERRaGZqYUJEVldDSnlVZnJ1WTBWQ0I3elFWd0RoUnM4TXlxVmhtSjNvTU96YVJtWURUMGY2Vy1zNi13Znd1X2RCanE1Zw?oc=5",
-      "title": "Pedestrian killed in Toms River hit-and-run on Lakewood Road - ABC7 New York",
-      "source_id": "gnews-us",
-      "published": "2026-11-22T14:20:18Z",
-      "topics": [
-        "us"
-      ],
-      "excerpt": "",
-      "image": null,
-      "image_is_thumbnail": false,
-      "publisher": "ABC7 New York",
-      "publisher_domain": "abc7ny.com",
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "fe10d31bf0225f6429a525efe8743879abefb3f9",
-      "url": "https://dailygalaxy.com/2026/11/29-ice-cliffs-found-in-martian-craters/",
-      "title": "Researchers Examined 738 Martian Craters and Found 29 Strange Ice Cliffs Hidden Inside Them, and Nothing Like Them Had Ever Been Described",
-      "source_id": "dailygalaxy",
-      "published": "2026-11-22T14:15:00Z",
-      "topics": [
-        "vesolje"
-      ],
-      "excerpt": "Mars is hiding something inside its craters. After scanning hundreds of them from orbit, a team of researchers noticed strange, steep-faced formations that look like nothing described on the red planet before. What are they, and why might they matter for the astronauts of tomorrow?",
-      "image": "https://dailygalaxy.com/wp-content/uploads/2026/11/Researchers-Examined-738-Martian-Craters-and-Found-29-Strange-Ice-Cliffs-Hidden-Inside-Them-and-Nothing-Like-Them-Had-Ever-Been-Described-scaled-1.jpg",
-      "image_is_thumbnail": false,
-      "publisher": null,
-      "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "e79f5adf61c9f8dd2330e8739a53528dba58bf5b",
-      "url": "https://wccftech.com/alienware-4k-oled-monitor-gets-a-flat-300-discount-now-down-to-just-599/",
-      "title": "Alienware 4K OLED Monitor Gets A Flat $300 Discount; Now Down To Just $599, Offering 240 Hz Refresh Rate And Up To 1000 Nits Peak Brightness",
-      "source_id": "wccftech",
-      "published": "2026-11-22T14:13:24Z",
-      "topics": [
-        "ai",
-        "strojna-oprema"
-      ],
-      "excerpt": "One of the most premium 4K OLED monitor is now selling for under $600, which is its lowest price since launch. Alienware Slashes 4K OLED AW2725Q's $899 Price Tag to Just $599, Delivering Excellent 240 Hz Operation for Smooth Gaming We have been posting some excellent hardware deals for a while now, and we aren't done yet. If you missed any of our recent monitor deals, we still have a few for this ",
-      "image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Alienware-AW2725Q-599-featured-1456x819.jpg",
-      "image_is_thumbnail": false,
-      "publisher": null,
-      "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "803df5f75c4aff1e2f3838a44f7b4972aa0b24a7",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQkw4S0swVlB0bDUwaGh2YXJUSjRhMVNpNjdpZU9hY3VaanNXZ3FMZzFKQ3RoeVZMMC1zRzd5NXhLRkFhbWU4NUoxMHRlRnNRLW1HNkNha3JtWHNJTWZBYXVHaVIwNmY3TVVBQ0IwVVFVR21aSG91Z251OWE2VDFQczJfM1FoTzJYNFF4TWo2U21BQTVQNXVqWllKMkh3OGI2d2toalBkMzZaMjdfTE1CT3R0TXTSAcgBQVVfeXFMTTVoOHBhek1fWXpHeHdqM1lDX3ZtTDE3cFBLejdndlFIRHprOVlBMjBVbHZzNnR1T1lRMkJaTmw1bG9vQVFicnYxYUtyUUpNell0U2lYVXUyR0swd1VpRjZUb3ZBUVBnMWpvTUJMaHk3TWV2TGlZZXQxVG5jbXlYdGhfTFdnNm1XNkVLWjVVQ0l0TXh1Z1QwTTNyTEprdWlDVVlIcjRTaGZCMjN4a1RjVU80czR0M0JjaGc5NlhaVF9CRmNjQ1VXQ1M?oc=5",
-      "title": "Michigan Weather: Temperatures to plummet as cold front and snow move in - MLive.com",
-      "source_id": "gnews-us",
-      "published": "2026-11-22T14:08:00Z",
-      "topics": [
-        "us"
-      ],
-      "excerpt": "",
-      "image": null,
-      "image_is_thumbnail": false,
-      "publisher": "MLive.com",
-      "publisher_domain": "www.mlive.com",
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "5de3d8297153304c5a6f44c5795970641fa144ff",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRHJnOFhxcTVxcldkMzFOMFFRUEROSENTa3dPX0pmOVJ1R05EZ0J6VjZnNkRPY1AzV3VZc05GRFczN2tWTHU1ZUk1dU93eWJWOXdzSjgtV1hoNEI5ODk5ZjRZY3ZuSGQ0NVJqdGFjY0psOHlZTWRNNHVzU01lUEgxQllFc2FHYklKVFNKMGMyaW5hSnhzSEFOYkZiNHVnZDE1LXJ5OGprUHA3Nk1tZ3hj0gG0AUFVX3lxTE1sb2JCM1cxVjZDcFpBZXh1OFhHZ2lEclJ5UDkxWlpOQzc2WFl5eG80WW5wTDFFWlFTajkxZjJzUDkwcU5zZDdBMVRjTzJ3OVRlSEpSbGs4WTdSQUVqOXRuN0h3OTN3dkZMcXh6aWlRaHVpRnF0Y0RVdGZuWEU5WWFRMTItNFB2U0RQdzFLdDRKZTVwUmNGc1czWDJSN0IwcC1zYTdUSzNSbkpKeHdnMUp4RFgtVQ?oc=5",
-      "title": "‘Only the beginning’: Florida city cancels Christmas parade, citing Amendment 3 - WFLA",
-      "source_id": "gnews-us",
-      "published": "2026-11-22T14:02:51Z",
-      "topics": [
-        "us"
-      ],
-      "excerpt": "",
-      "image": null,
-      "image_is_thumbnail": false,
-      "publisher": "WFLA",
-      "publisher_domain": "www.wfla.com",
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "e3f1710712ab2b6b461432f5c02b8ab5436ecdf7",
-      "url": "https://phys.org/news/2026-11-milky-simulation-resolution-supercomputers.html",
-      "title": "Milky Way simulation reaches record resolution with the help of three supercomputers",
-      "source_id": "physorg",
-      "published": "2026-11-22T14:00:01Z",
-      "topics": [
-        "ai",
-        "fizika",
-        "vesolje"
-      ],
-      "excerpt": "A team of researchers, including those from the University of Tokyo, have developed a new way to model the Milky Way at a level of detail never achieved before. They simulated the entire galaxy down to the level of individual stars by combining the power of some of the world's most powerful supercomputers using an AI-accelerated model that works on a variety of hardware platforms. Their methods ca",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/three-supercomputers-c.jpg",
-      "image_is_thumbnail": true,
-      "publisher": null,
-      "publisher_domain": null,
-      "image_tried_at": "2026-11-24T01:29:14Z",
-      "image_attempts": 2,
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "dcd139233b1611e17f90535264417b9ad68dcbe6",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRUJDQjlJZGZoS3ZJQ181UnhmcFhvN2VQeTJPY0VwUGt4Y3dLX2tWRXNlUEJJaXM5RmY4OUd4alZtU1ByWEpBdDdhZjZIV2RhaDlWNGhXNTJrT2JQMnBCQkdpRm5wN1V1T21yVkpURE1GWGM1UVAxYV9BcjlzcF93bnRxRXNVY0l4LWIzMVU3Xzg1blBiQVdESDNRbXYzd9IBowFBVV95cUxOdWNIeFFkRmlydm1MOWVXYXc1U1VyazdRMlJxVjFvS3A0RVh4QlR1b1ZMZ2p6UG81X3RMbVdYQ1JDUjBqMEc2OWIyN2NrZ3pqSTJ5WllkSTAzcW9UcUFqcDBwb0hfOVhyM1V6X2FHRDdBQ01GTFp3clBzRkhyb0RZazBQM2NjWUpwb1lSMjRhQndoU0t1NlpLRzRmV3FFWlNrajV3?oc=5",
-      "title": "$1.7 trillion Biden-era government funding bill found unconstitutional, appeals court rules - The Hill",
-      "source_id": "gnews-us",
-      "published": "2026-11-22T13:49:00Z",
-      "topics": [
-        "us"
-      ],
-      "excerpt": "",
-      "image": null,
-      "image_is_thumbnail": false,
-      "publisher": "The Hill",
-      "publisher_domain": "thehill.com",
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "357e4beaaa52fc7f56b365d841b392d2d6c5e5e1",
-      "url": "https://dailygalaxy.com/2026/11/hempcrete-us-homes-insulation-carbon-storage/",
-      "title": "Once Banned for Decades, This Building Material Returns to U.S. Homes With 15x Concrete’s Insulation and CO₂ Storage",
-      "source_id": "dailygalaxy",
-      "published": "2026-11-22T13:45:00Z",
-      "topics": [
-        "vesolje"
-      ],
-      "excerpt": "A wall made from hemp and lime could change home construction.",
-      "image": "https://dailygalaxy.com/wp-content/uploads/2026/11/This-Hemp-Based-Building-Material-Is-Gaining-Ground-in-America-scaled.jpg",
-      "image_is_thumbnail": false,
-      "publisher": null,
-      "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "a154ff92e9a7dd72fa032ea56968b0f6b35054de",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTm91dnBsSExpdWNmeUZYenZxdEdwMmhWa193c2ZWX0VOUTdON2tVdEpJby1ta3NtZFVKWEF5ZjBVUmtGbWNxNjlnUGtEZl9MU3N3UWgxdjgybG9ROTZTUnIzSXhXOWJ3MDBZOTduaWEydmQwU0NoNlNyRURnS3ppWnJSeVpmTklrLWZzU3JYNExhRjg0d05RekNTcWpxZmdMVVU2eQ?oc=5",
-      "title": "A US Army officer went inside Ukraine’s ‘Killhouse.’ Here’s what he brought home to his drone course. - Business Insider",
-      "source_id": "gnews-us",
-      "published": "2026-11-22T13:27:00Z",
-      "topics": [
-        "us"
-      ],
-      "excerpt": "",
-      "image": null,
-      "image_is_thumbnail": false,
-      "publisher": "Business Insider",
-      "publisher_domain": "www.businessinsider.com",
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "5335f9b233ed0b9f9139b239998e4420ca899a2b",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbkhxSEdMVFlDRWlvYzNDWnJfaEh6OXpWTUlBb2RLaGRScGVFT3k3enk2Sjc1MXRYdl9SanVjTTBPYmlqQk1QU0RHZ2ZmVnFNM1hYNmhvUkUwb1NIUlByMGRwYW5uQmUwWXF2ZllyV3VBajhIZmVoSnQ2ZHlwaklFSGFrR2NjeDNVWTFFSnNBbE9mX3JL?oc=5",
-      "title": "Reported pipeline explosion in Sumter County seen from miles away - WBRC 6 News",
-      "source_id": "gnews-us",
-      "published": "2026-11-22T13:22:00Z",
-      "topics": [
-        "us"
-      ],
-      "excerpt": "",
-      "image": null,
-      "image_is_thumbnail": false,
-      "publisher": "WBRC 6 News",
-      "publisher_domain": "www.wbrc.com",
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "7a00b47ca5895d50256efcefeb46ea263230081e",
-      "url": "https://dailygalaxy.com/2026/11/how-many-satellites-are-above-you-tonight/",
-      "title": "Nearly 13,000 Satellites Pass Over a Single Town Every Night, and Most People Never Notice",
-      "source_id": "dailygalaxy",
-      "published": "2026-11-22T13:15:00Z",
-      "topics": [
-        "vesolje"
-      ],
-      "excerpt": "Some of the “stars” you see tonight may not be stars at all, but satellites passing overhead. A new analysis counted what’s really moving above our heads, and the result is hard to believe. Why does the number of visible satellites change so much between dusk and midnight? And who is behind the crowding in some parts of the world?",
-      "image": "https://dailygalaxy.com/wp-content/uploads/2026/11/Nearly-13000-Satellites-Pass-Over-a-Single-Town-Every-Night-and-Most-People-Never-Notice-scaled.jpg",
-      "image_is_thumbnail": false,
-      "publisher": null,
-      "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "4d74b564b31d920a4c2701dc74f6aeb055814904",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM25Bb3Ewb1VUWkxJUDNrTFZhWG5nZDNUMG41MkV4TjZpRWJrZXluS1ItWUNPeTFOZm1QcFJ6a0RnWUNkcnhNcHhRaERVR2IyWDR1bmJmT3cyQzVrbExRcDNKRWh6bGNnajRMc0gzZ0RGbW9QWWtqX1gwT2xRQkdWSmRJSF9BY29GSndVWnVTV2NPSnhQWFpVSUw2dHNGZTlZ?oc=5",
-      "title": "Chicago now has the worst traffic in the U.S. — here’s why - NPR",
-      "source_id": "gnews-us",
-      "published": "2026-11-22T13:12:05Z",
-      "topics": [
-        "us"
-      ],
-      "excerpt": "",
-      "image": null,
-      "image_is_thumbnail": false,
-      "publisher": "NPR",
-      "publisher_domain": "www.npr.org",
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "b2e8f2997206ba7b61525669691ad148f60e390d",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaFNYX0Y4clkxTjZHc0d2eEZ4SkNob0tUMlBRUTRPcHpUc2RwY0dZUzNlamtGbEtVcC11ZDJjSmVTMVlUNjE1c25OdTAzbUhOMUM4elF0bnhacDB5eEtvY2Nqa1hkeXdaLU92bzBfWm43RGYwcWU5clo0alFrUW9OMk1pZXJwUdIBiwFBVV95cUxOelZQZmxVUF82UVpvMWJwWmpvUEo3bEV5bUFvZnVyeDZsOFRkS1dZUG5jV2tUaXd1dzFqM05wYnRHUXJMYkJwY29leVVTdXV6OGZfN3ZPX1RvX3VROWJ0bVNrcjNvc3lDUnhCQ2tnVWRvcDZOa1RoeFpJMGdhZ0lLTWtEXzhrV3ZsQldJ?oc=5",
-      "title": "Cornyn calls Cruz ‘fragile thing’ amid Texas judgeship dispute - The Hill",
-      "source_id": "gnews-us",
-      "published": "2026-11-22T13:01:00Z",
-      "topics": [
-        "us"
-      ],
-      "excerpt": "",
-      "image": null,
-      "image_is_thumbnail": false,
-      "publisher": "The Hill",
-      "publisher_domain": "thehill.com",
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "8532042f59c07a197c7c93380a7f6dc638cb4d9c",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOXcxaXRRaWRGVFJWMU9fUlJ3TDhTYmNvMjFTbjhMZVlzZnBUeVYzSHo3YVdPYWJUZ0VVNUpxY0JzNTZTdjg5eHprcWJOQ1ZsZWtZM2VrZ0hLMFRZVF9DQkFqaGVtYW5keFQ5eTZpMEprVE84OXFjVGx0Q0h6dy1JWERNRFZ3T1ZNTFotOWsxLWFBdw?oc=5",
-      "title": "Zohran Mamdani on Trump, Wall Street and Wealth Taxes - The New York Times",
-      "source_id": "gnews-us",
-      "published": "2026-11-22T13:00:02Z",
-      "topics": [
-        "us"
-      ],
-      "excerpt": "",
-      "image": null,
-      "image_is_thumbnail": false,
-      "publisher": "The New York Times",
-      "publisher_domain": "www.nytimes.com",
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "180a91a9458957389700bee31453b41aceddcf6f",
-      "url": "https://phys.org/news/2026-11-parasite-mice-blood-bugs-aid.html",
-      "title": "Parasite makes mice more attractive to blood-feeding bugs, which may aid its spread",
-      "source_id": "physorg",
-      "published": "2026-11-22T13:00:02Z",
-      "topics": [
-        "fizika",
-        "vesolje"
-      ],
-      "excerpt": "Some parasites, such as Trypanosoma rangeli and Trypanosoma cruzi, can be passed between mammals and blood-feeding insects called triatomine bugs. Bugs can acquire these parasites when feeding on infected mammals, while mammals can also become infected through encounters with infected bugs.",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/a-parasite-makes-mice-1.jpg",
-      "image_is_thumbnail": true,
-      "publisher": null,
-      "publisher_domain": null,
-      "image_tried_at": "2026-11-24T01:29:14Z",
-      "image_attempts": 2,
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "22d32e2481fa09d9557797cf8568e56e7aebb0d6",
-      "url": "https://www.scientificamerican.com/article/erectile-dysfunction-drug-could-hold-promise-for-alzheimers-disease/",
-      "title": "Erectile dysfunction drug could hold promise for Alzheimer’s disease",
-      "source_id": "sciam",
-      "published": "2026-11-22T13:00:00Z",
-      "topics": [
-        "znanost"
-      ],
-      "excerpt": "Early results from a phase III clinical suggest the drug holds promise",
-      "image": "https://static.scientificamerican.com/dam/asset/cd6a2191-bf3b-4ecf-aa33-95c75781c7c8/brain.jpg?m=1786569096.479&w=1200",
-      "image_is_thumbnail": false,
-      "publisher": null,
-      "publisher_domain": null,
-      "image_tried_at": "2026-11-22T17:34:01Z",
-      "image_attempts": 1,
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "944c62c20bdf69c1ab90b0fcb331ea4b82a1193f",
-      "url": "https://dailygalaxy.com/2026/11/pablo-escobar-hippos-colombia-killing-plan/",
-      "title": "Pablo Escobar Brought 4 Hippos to Colombia in the 1980s. Now Officials Plan to Kill Some of Their Descendants",
-      "source_id": "dailygalaxy",
-      "published": "2026-11-22T12:45:00Z",
-      "topics": [
-        "vesolje"
-      ],
-      "excerpt": "Four hippos brought to Colombia decades ago became hundreds. Now a controversial new operation is taking shape.",
-      "image": "https://dailygalaxy.com/wp-content/uploads/2026/11/Escobars-unusual-legacy-is-spreading-through-Colombias-rivers-scaled.jpg",
-      "image_is_thumbnail": false,
-      "publisher": null,
-      "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "765f1c1fd2c775ea92b26d8d906361a01f1dbd29",
-      "url": "https://dailygalaxy.com/2026/11/someone-dug-up-a-bronze-leg-in-a-scottish-bog-in-1820-and-it-just-turned-out-to-belong-to-a-roman-emperor/",
-      "title": "Someone Dug Up a Bronze Leg in a Scottish Bog in 1820, and It Just Turned Out to Belong to a Roman Emperor",
-      "source_id": "dailygalaxy",
-      "published": "2026-11-22T12:15:00Z",
-      "topics": [
-        "vesolje"
-      ],
-      "excerpt": "For nearly two centuries, a gilded bronze leg has sat in a museum, written off as loot that someone dragged north from a bigger Roman settlement. But a closer look at the metal is telling a very different story. Who did it really belong to? Why does it show no cut marks at all?",
-      "image": "https://dailygalaxy.com/wp-content/uploads/2026/11/Someone-Dug-Up-a-Bronze-Leg-in-a-Scottish-Bog-in-1820-and-It-Just-Turned-Out-to-Belong-to-a-Roman-Emperor-scaled.jpg",
-      "image_is_thumbnail": false,
-      "publisher": null,
-      "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "8f705cc1d5452a29160fa6e147b7d6efee4b5823",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVDcyR0pCQ2ZvWE1uTnRlTWxGTUtlcEVvSUFJWXJVRFBIWV9aYjRudmcxOWlSRl9DWHJZd3VWYXJrczNTbUc5T1ZlSHBMMkVlb2VqQVZiRlNzc1IwNHlzWE1wUlN2dDM4VGhyWVBTN2JNRUFuWm5ZR29NeTdNRzZmM0g4aw?oc=5",
-      "title": "Storm-battered SF businesses fear what comes next as king tides approach - SFGATE",
-      "source_id": "gnews-us",
-      "published": "2026-11-22T12:12:46Z",
-      "topics": [
-        "us"
-      ],
-      "excerpt": "",
-      "image": null,
-      "image_is_thumbnail": false,
-      "publisher": "SFGATE",
-      "publisher_domain": "www.sfgate.com",
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "17fff37021eec46849e24323228233e09d466ed7",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ0tQSkdTYllWWHVyemFXWXVWcFVBdEpxRmhTYXZuYk9DSF9sdGFsd25TMTNJZFhMOVY2d1g4a3Njdy1wZlVJbGNKemlCZGdEMnZkWEZsWVE4QXc5OUNVSTNPU3M5MnFvc0s0NjFNZ2xNZkYtSjdILTd1dG4xWmdDbFVaYVo2dTcxQWVReUh1UUZ1RTU4c2treF9LQ0dmejRLME1Bbm5YWllNdUdTSEFwclNWMmVLQnYwcVJWTXIxaWxaZ9IBxwFBVV95cUxNZGJZYlVmbG1aUGYzUnN5Vlh2RW9yWVF6eURsTjVZM0pBZzJiUTdqMi02V25kTVBkSmFlb0tRWnh3RllicGZIQUFJMnNtOVREWE1LMWdydXlpZzBTVXRSSUZIMEpVTC1tVXUtVml4OXNmb0lPSU5rQlFlN0xpWlA1NEFNTEFFWUNteXp3WGFDZVJWZEpfSUNHcDRtcFQ4NlZIWHQ2cU9sUk84M2hBVEVrTzNySHA2dXE5MHpXM0VPSHl2SWg2b1Bn?oc=5",
-      "title": "Illegal immigrant avoids charges after Florida grandmother killed outside grocery store, enraging family - Fox News",
-      "source_id": "gnews-us",
-      "published": "2026-11-22T12:00:15Z",
-      "topics": [
-        "us"
-      ],
-      "excerpt": "",
-      "image": null,
-      "image_is_thumbnail": false,
-      "publisher": "Fox News",
-      "publisher_domain": "www.foxnews.com",
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "eb59a6ad689eccc029997d00dd1f7495b3ef426c",
-      "url": "https://www.scientificamerican.com/article/quantum-physics-can-now-prove-where-you-really-are/",
-      "title": "Quantum physics can now prove where you really are",
-      "source_id": "sciam",
-      "published": "2026-11-22T12:00:00Z",
-      "topics": [
-        "znanost"
-      ],
-      "excerpt": "In a first-of-its-kind experiment, researchers used a single photon and a timing measurement to verify a location—a potential new defense against digital imposters",
-      "image": "https://static.scientificamerican.com/dam/asset/fd58a826-4f3c-4d26-8b13-3a121f21462d/quantum-pinpointing-NIST-press.jpg?m=1795301304.649&w=1200",
-      "image_is_thumbnail": false,
-      "publisher": null,
-      "publisher_domain": null,
-      "image_tried_at": "2026-11-22T17:34:01Z",
-      "image_attempts": 1,
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "da85d96ec544ffe62f2bf467303bba196934aa85",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeFg5Y1F1T3d6U0owcm5jUzJDMXhqeGg2QTJRUlhxNFd2aTdIMV9IdzVCRWJ3ZnNrS1N4VERHYVZjdHE1eWRuNm94RUpQUmNnMDdQRTNxUnNCcjZfcjJ4R21UcExYU3F0U0lUTUdhVnZZMzR4RkpCdWxPdjJtQjFMeVhWcDNvNTh6NE9LTDRlXzdhZnBRREpJQnRwREhxSkxsNW5KYXdDeE8tbFpW?oc=5",
-      "title": "Time is running out for Trump’s unconfirmed nominees. Some GOP senators say they haven’t heard a peep. - Politico",
-      "source_id": "gnews-us",
-      "published": "2026-11-22T12:00:00Z",
-      "topics": [
-        "us"
-      ],
-      "excerpt": "",
-      "image": null,
-      "image_is_thumbnail": false,
-      "publisher": "Politico",
-      "publisher_domain": "www.politico.com",
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "a86731da96cfb157c96e02822fdfe07ab7a70f38",
-      "url": "https://dailygalaxy.com/2026/11/chile-first-lunar-meteorite-calama-957/",
-      "title": "Two Meteorite Hunters Picked Up a 12-Gram Rock Near a Mining Town. It Turned Out to Be South America’s First Known Piece of the Moon",
-      "source_id": "dailygalaxy",
-      "published": "2026-11-22T11:50:00Z",
-      "topics": [
-        "vesolje"
-      ],
-      "excerpt": "After decades of searching, scientists confirmed that one desert stone had traveled from the Moon to Earth.",
-      "image": "https://dailygalaxy.com/wp-content/uploads/2026/11/Chiles-Atacama-Desert-Hid-a-Piece-of-the-Moon-Until-Scientists-Identified-it-scaled.jpg",
-      "image_is_thumbnail": false,
-      "publisher": null,
-      "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "4696c26744e741ee0d9d3b9c19c73e31441663fb",
-      "url": "https://wccftech.com/student-caught-in-asus-and-best-buy-warranty-loop-quoted-2500-for-2800-zephyrus-g14-motherboard/",
-      "title": "Engineering Student Left Stranded Before Finals As ASUS And Best Buy Reportedly Point Fingers Over A Failing $2,800 ROG Zephyrus G14 Gaming Laptop",
-      "source_id": "wccftech",
-      "published": "2026-11-22T11:44:05Z",
-      "topics": [
-        "ai",
-        "strojna-oprema"
-      ],
-      "excerpt": "Warranty claims on pricey hardware like gaming laptops are among the trickier situations, since everything inside the machine is closely knit together, meaning there’s an excessive amount of time and effort that after-sales support personnel will have to commit to when diagnosing the issue. Sadly, one engineering student didn’t get that level of preferential treatment, claiming that he spent rough",
-      "image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Failing-ASUS-Zephyrus-G14-gaming-laptop-1456x819.jpg",
-      "image_is_thumbnail": false,
-      "publisher": null,
-      "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "29bb3889071510e1ce7fa465b403e61d1603d03f",
-      "url": "https://dailygalaxy.com/2026/11/sitting-or-standing-to-urinate-study-finds/",
-      "title": "Sitting or Standing to Pee: A New Study Gives an Unexpected Answer",
-      "source_id": "dailygalaxy",
-      "published": "2026-11-22T11:25:00Z",
-      "topics": [
-        "vesolje"
-      ],
-      "excerpt": "Fifty-two men tried two ways of peeing in a controlled test. The numbers made researchers look twice.",
-      "image": "https://dailygalaxy.com/wp-content/uploads/2026/11/Standing-urination-scaled.jpg",
-      "image_is_thumbnail": false,
-      "publisher": null,
-      "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "fb41271d713bc8d28cfaf9d8c6600a5af7ec9997",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbUNIX0pSRzMxRlRnOUFSNnNDX200N2lmZkJKYkxoOEJCdW1zNE5PQ0U2Tkw4VzJjdDFzb0g0SzNmQjlhNHpSZW1NQ1k0bW1vLUM0SmwxX0VhamJwdlVwdDJqWEZoQVJxMFBTRlljZHV2azF3eHFUZk1UYzF5cHZ5dTZqZVNUTlNRWmZwM3NGNkRxVWZvQTU0WVdEVDZNYkt0ZlQ1RnE2eGtCMWF1bm1NQk9RZk9JeUJnbEJWU2RVTzB1M3dBZ2lxdVN3SkpCTmZI?oc=5",
-      "title": "Senator Cruz launches Saving Texas to win back the State House and some Congressional seats in 2028 - CBS News",
-      "source_id": "gnews-us",
-      "published": "2026-11-22T11:05:00Z",
-      "topics": [
-        "us"
-      ],
-      "excerpt": "",
-      "image": null,
-      "image_is_thumbnail": false,
-      "publisher": "CBS News",
-      "publisher_domain": "www.cbsnews.com",
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "6613f4422c8d0056e74f04e8927dec9c4bb4d52f",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSzd6SVpKQTVGRnlUQTNNYVVNTEhEbkVILTJVRENJZmhzWFdpdVlZSHZZSFp0Wm1KY0NabG5VSkhzTDV3WnhJbGdxMy1JVHJ3R0lvd2tGSnZ6d2Z0UjViSVdnRFpHS2JrU3BaWXF5ZEFuWmcxdFBtNVhxTUgtM18tZWc4djBKSm9wYTN4T2xMb0JwTWhz?oc=5",
-      "title": "Arizona grandfather hailed as a hero after finding missing toddler in desert - The Guardian",
-      "source_id": "gnews-us",
-      "published": "2026-11-22T11:01:00Z",
-      "topics": [
-        "us"
-      ],
-      "excerpt": "",
-      "image": null,
-      "image_is_thumbnail": false,
-      "publisher": "The Guardian",
-      "publisher_domain": "www.theguardian.com",
       "summary_neutral": null,
       "summary_mine": null
     }
