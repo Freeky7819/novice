@@ -1,6 +1,120 @@
 {
-  "generated_at": "2026-11-28T01:45:40Z",
+  "generated_at": "2026-11-28T09:42:45Z",
   "items": [
+    {
+      "id": "9c06f6bc1ae6fafdef967fb6239d1fd4f1875f5e",
+      "url": "https://wccftech.com/lenovo-preloads-chatgpt-windows-11-pcs-openai-100-per-seat-offer/",
+      "title": "AI Bloatware Arrives On Windows 11; Lenovo Is Shipping Select Business Laptops With ChatGPT Pre-Installed, With Businesses Getting A $100 Incentive",
+      "source_id": "wccftech",
+      "published": "2026-11-28T08:09:50Z",
+      "topics": [
+        "ai",
+        "strojna-oprema"
+      ],
+      "excerpt": "Laptop manufacturers were already trigger-happy shipping a boatload of machines with a ton of bloatware that would require ample time to remove. Even now, a fresh copy of Windows 11 arrives with a plethora of unwanted software, and it appears that the situation will worsen with time. Lenovo, the world’s largest PC manufacturer, has reportedly begun pre-installing the desktop version of ChatGPT on ",
+      "image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Lenovos-Windows-11-business-laptops-shipping-with-ChatGPT-pre-installed-1456x819.jpg",
+      "image_is_thumbnail": false,
+      "publisher": null,
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
+    },
+    {
+      "id": "ed0850c53923e11a5d1fdc795872d5ec5726ae27",
+      "url": "https://wccftech.com/gigabyte-control-center-development-team-fired-ai-analysis-frame-pacing-nvidia-gpus/",
+      "title": "GIGABYTE’s Control Center Development Team Was Fired After AI Analysis Revealed The Software Was Causing Frame-Pacing Issues On NVIDIA GPUs",
+      "source_id": "wccftech",
+      "published": "2026-11-28T06:22:02Z",
+      "topics": [
+        "ai",
+        "strojna-oprema"
+      ],
+      "excerpt": "The role of AI has branched out towards diagnosing software-related issues, with the latest case centering around GIGABYTE. According to the latest report, the company allegedly dismissed its entire Control Center development team following widespread complaints that its RGB lighting utility causes persistent frame-pacing stutters on NVIDIA graphics cards. According to a report originating from Br",
+      "image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/GIGABYTE-control-center-causing-frame-pacing-issues-on-NVIDIA-GPUs-1456x819.jpg",
+      "image_is_thumbnail": false,
+      "publisher": null,
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
+    },
+    {
+      "id": "3468bbd5db5c40f509b6314eafc3d3b32f776611",
+      "url": "https://www.scientificamerican.com/article/math-puzzle-disagreeable-drive/",
+      "title": "Math Puzzle: A disagreeable drive",
+      "source_id": "sciam",
+      "published": "2026-11-28T05:00:00Z",
+      "topics": [
+        "znanost"
+      ],
+      "excerpt": "Flex your math muscles with this weekend’s brain teaser. Play now",
+      "image": "https://static.scientificamerican.com/dam/asset/7b0bcfb6-feea-4f19-85b0-9f34c05416cb/Patricia-Murphy-s-Candlelight-Restaurant.jpg?m=1795571255.787&w=1200",
+      "image_is_thumbnail": false,
+      "publisher": null,
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null,
+      "image_tried_at": "2026-11-28T09:42:45Z",
+      "image_attempts": 1
+    },
+    {
+      "id": "a6ffab4d43c72e860c68aa92e333e78aa637196a",
+      "url": "https://phys.org/news/2026-11-explore-ai-smart-sensors-food.html",
+      "title": "Researchers explore the use of AI and smart sensors to improve food safety quickly, affordably",
+      "source_id": "physorg",
+      "published": "2026-11-28T04:20:02Z",
+      "topics": [
+        "ai",
+        "fizika",
+        "vesolje"
+      ],
+      "excerpt": "The smartJAN project, developed by the eVIDA research group at the University of Deusto in collaboration with Kernet and Fundación Miranda, has completed the development of a functional prototype capable of detecting the presence of LTPs (lipid transfer proteins), a family of plant proteins that includes allergens capable of triggering severe allergic reactions. These allergens are particularly re",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2022/peaches.jpg",
+      "image_is_thumbnail": true,
+      "publisher": null,
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null,
+      "image_tried_at": "2026-11-28T09:42:45Z",
+      "image_attempts": 1
+    },
+    {
+      "id": "95f65b43e3c3f3f275f2e360b92b1a5e3058be99",
+      "url": "https://wccftech.com/spacexs-one-million-data-center-satellites-got-fcc-approval-but-plans-to-park-unneeded-satellites-around-the-sun-are-on-hold/",
+      "title": "SpaceX’s One Million Data Center Satellites Got FCC Approval, But Plans To Park Unneeded Satellites Around The Sun Are On Hold",
+      "source_id": "wccftech",
+      "published": "2026-11-28T03:06:09Z",
+      "topics": [
+        "ai",
+        "strojna-oprema"
+      ],
+      "excerpt": "SpaceX's recent win at the Federal Communications Commission (FCC), which saw the regulator grant the firm approval to launch a million data center satellites in space, came with a caveat. As part of its application, SpaceX had asked the Commission to also allow it to dispose of unneeded satellites by placing them in heliocentric disposal orbits or disposal orbits around Earth. However, the FCC de",
+      "image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Elon-Musk-1456x819.jpg",
+      "image_is_thumbnail": false,
+      "publisher": null,
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null
+    },
+    {
+      "id": "c94d3488a4ed7f4a3c543f4044c1e7d9e8e941fd",
+      "url": "https://phys.org/news/2026-11-event-horizon-telescope-views-dynamics.html",
+      "title": "Event Horizon Telescope views the dynamics and geometry of a black hole jet in extreme detail",
+      "source_id": "physorg",
+      "published": "2026-11-28T02:40:01Z",
+      "topics": [
+        "fizika",
+        "vesolje"
+      ],
+      "excerpt": "The Event Horizon Telescope (EHT), a massive international collaboration of scientists and radio observatories, is like the gift that keeps on giving. In 2019, the EHT Collaboration gave us the first image of a black hole: the supermassive black hole (SMBH) at the heart of the M87 galaxy (M87*). In 2022, it provided the first image of Sagittarius A*, the SMBH at the center of the Milky Way. Betwee",
+      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/the-event-horizon-tele.jpg",
+      "image_is_thumbnail": true,
+      "publisher": null,
+      "publisher_domain": null,
+      "summary_neutral": null,
+      "summary_mine": null,
+      "image_tried_at": "2026-11-28T09:42:45Z",
+      "image_attempts": 1
+    },
     {
       "id": "4124dd240ef04a0f812f63deb3d268325c82970e",
       "url": "https://phys.org/news/2026-11-space-centers-solar-panels-nuclear.html",
@@ -17,10 +131,10 @@
       "image_is_thumbnail": true,
       "publisher": null,
       "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null,
       "image_tried_at": "2026-11-28T01:45:40Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "c547f19c607731e655b3e9cba64199ae11b6b45e",
@@ -105,10 +219,10 @@
       "image_is_thumbnail": true,
       "publisher": null,
       "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null,
       "image_tried_at": "2026-11-28T01:45:40Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "f07e62adf054e0af1a27bf070363fe846f73e8da",
@@ -142,10 +256,10 @@
       "image_is_thumbnail": true,
       "publisher": null,
       "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null,
       "image_tried_at": "2026-11-28T01:45:40Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "3b2aab6c996895e03f4c2faf78331014212563f5",
@@ -197,10 +311,10 @@
       "image_is_thumbnail": true,
       "publisher": null,
       "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null,
       "image_tried_at": "2026-11-28T01:45:40Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "4b6d65a3d677cc6c591766e5d944417f950a3765",
@@ -217,10 +331,10 @@
       "image_is_thumbnail": true,
       "publisher": null,
       "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null,
       "image_tried_at": "2026-11-28T01:45:40Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "4bc508bb4cf17732e445dbf7b11259ef3585870c",
@@ -237,10 +351,10 @@
       "image_is_thumbnail": true,
       "publisher": null,
       "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null,
       "image_tried_at": "2026-11-28T01:45:40Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "ee873d219b95daea3dbf0568141bb6499d785610",
@@ -257,10 +371,10 @@
       "image_is_thumbnail": true,
       "publisher": null,
       "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null,
       "image_tried_at": "2026-11-28T01:45:40Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "15f8ba751746cdaa3e3b339d5faa600b9cdd1963",
@@ -312,10 +426,10 @@
       "image_is_thumbnail": true,
       "publisher": null,
       "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null,
       "image_tried_at": "2026-11-28T01:45:40Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "e5bd1f9af842e41240f8f007a1e71a573c2e1739",
@@ -332,10 +446,10 @@
       "image_is_thumbnail": true,
       "publisher": null,
       "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null,
       "image_tried_at": "2026-11-28T01:45:40Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "e570a76e6b0292819a92226978cc046cf9670d08",
@@ -369,10 +483,10 @@
       "image_is_thumbnail": true,
       "publisher": null,
       "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null,
       "image_tried_at": "2026-11-28T01:45:40Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "02ae263f30d9ee57283bbf32ea7f33f8f2addc7e",
@@ -389,10 +503,10 @@
       "image_is_thumbnail": true,
       "publisher": null,
       "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null,
       "image_tried_at": "2026-11-28T01:45:40Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "7e5ace904bba2e6a06cd2afd9af220d8bcffc806",
@@ -426,10 +540,10 @@
       "image_is_thumbnail": true,
       "publisher": null,
       "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null,
       "image_tried_at": "2026-11-28T01:45:40Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "4171e6ef2c2e449b7f47b6ceff9793a9baa0d49e",
@@ -446,10 +560,10 @@
       "image_is_thumbnail": true,
       "publisher": null,
       "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null,
       "image_tried_at": "2026-11-28T01:45:40Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "1a15464a957ca84fc1f9e432db555a64312e1196",
@@ -466,10 +580,10 @@
       "image_is_thumbnail": true,
       "publisher": null,
       "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null,
       "image_tried_at": "2026-11-28T01:45:40Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "079aaecceb5c8dd503c2d68aea2044673fdffa9c",
@@ -486,10 +600,10 @@
       "image_is_thumbnail": true,
       "publisher": null,
       "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null,
       "image_tried_at": "2026-11-28T01:45:40Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "ee2c1eb383dabf21badebea20a1080f0e790f282",
@@ -540,10 +654,10 @@
       "image_is_thumbnail": true,
       "publisher": null,
       "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null,
       "image_tried_at": "2026-11-28T01:45:40Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "4d02c59c7c23f3e509e8d7568828a659ac43d62d",
@@ -560,10 +674,10 @@
       "image_is_thumbnail": true,
       "publisher": null,
       "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null,
       "image_tried_at": "2026-11-28T01:45:40Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "0c846a9a099492f96cf14ed5f77aa53b87902778",
@@ -581,10 +695,10 @@
       "image_is_thumbnail": true,
       "publisher": null,
       "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null,
       "image_tried_at": "2026-11-28T01:45:40Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "a9f113c9981d06c26d893228bc005baade8f35c0",
@@ -601,10 +715,10 @@
       "image_is_thumbnail": true,
       "publisher": null,
       "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null,
       "image_tried_at": "2026-11-28T01:45:40Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "b518d157e9787a13d00f70fa9fcdd00fdbab6fbe",
@@ -621,10 +735,10 @@
       "image_is_thumbnail": true,
       "publisher": null,
       "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null,
       "image_tried_at": "2026-11-28T01:45:40Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "9078fa0d72ca5fe719fe3ebf6b8c6fa44a5ec2db",
@@ -641,10 +755,10 @@
       "image_is_thumbnail": true,
       "publisher": null,
       "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null,
       "image_tried_at": "2026-11-28T01:45:40Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "ff3b596e7393b06db136e8312c2da0d530d98df8",
@@ -679,10 +793,10 @@
       "image_is_thumbnail": true,
       "publisher": null,
       "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null,
       "image_tried_at": "2026-11-28T01:45:40Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "8edf2552030a130241c9356d249d4f51d8f79cb3",
@@ -699,10 +813,10 @@
       "image_is_thumbnail": true,
       "publisher": null,
       "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null,
       "image_tried_at": "2026-11-28T01:45:40Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "5ec5d92ef5b5af2f3ba548e0d62f325e902feb29",
@@ -737,10 +851,10 @@
       "image_is_thumbnail": true,
       "publisher": null,
       "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null,
       "image_tried_at": "2026-11-28T01:45:40Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "032ed52b80fad338c6d0138f10f393759faf2c30",
@@ -757,10 +871,10 @@
       "image_is_thumbnail": true,
       "publisher": null,
       "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null,
       "image_tried_at": "2026-11-28T01:45:40Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "440daeeca3ac9a4d63376cfb14d4c36d70bc899a",
@@ -811,10 +925,10 @@
       "image_is_thumbnail": true,
       "publisher": null,
       "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null,
       "image_tried_at": "2026-11-28T01:45:40Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "35869b4ea26e1621f27adc0acc6005f4310afea0",
@@ -831,10 +945,10 @@
       "image_is_thumbnail": true,
       "publisher": null,
       "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null,
       "image_tried_at": "2026-11-28T01:45:40Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "e4d8744e82efc5d2c1f0aaaa82c4a560298fe227",
@@ -869,10 +983,10 @@
       "image_is_thumbnail": true,
       "publisher": null,
       "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null,
       "image_tried_at": "2026-11-28T01:45:40Z",
-      "image_attempts": 1
+      "image_attempts": 1,
+      "summary_neutral": null,
+      "summary_mine": null
     },
     {
       "id": "6fd6313a62e48033259282decd4a4339d94bc606",
@@ -3322,8 +3436,8 @@
       "publisher_domain": null,
       "summary_neutral": null,
       "summary_mine": null,
-      "image_tried_at": "2026-11-27T08:54:38Z",
-      "image_attempts": 1
+      "image_tried_at": "2026-11-28T09:42:45Z",
+      "image_attempts": 2
     },
     {
       "id": "a637ba9c372590645e01ec5cb1ec0cf4ca20198d",
@@ -8958,113 +9072,6 @@
       ],
       "excerpt": "[UPDATE] Responding to our own X post, the Epic Games CEO clarified: The anti-distillation feature is garbage. Claude’s leading edge models are quite excellent overall. [ORIGINAL STORY] Epic Games CEO Tim Sweeney has just lambasted Claude AI, the large language model and flagship product developed by Anthropic, which last week pushed the San Francisco-based software company to set the new record f",
       "image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/Tim-Sweeney-Claude-AI-1456x819.jpg",
-      "image_is_thumbnail": false,
-      "publisher": null,
-      "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "a7f4c95259b405b94866818e2b3a63b8da8657ff",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY3daV2dodndpSGZaSDRzNV9SMndxcnFkaFd4X0gxV2Nib1RDcE9pRDRncGRvdjNKeVhUV0p2TWl2WGx2b3o5djVkUEpHU0xIVE45djFVYUR4MVpBTi1WMjNaWDd6VmxFRXY0SHBHTlVZS3c3azZ0bWVrSzBYSUo3SXowMHdGajIyc1c1SVljZzZmekFDRGYw?oc=5",
-      "title": "Boston lottery winner arrested by ICE a week after $1M prize - WCVB",
-      "source_id": "gnews-us",
-      "published": "2026-11-25T15:21:00Z",
-      "topics": [
-        "us"
-      ],
-      "excerpt": "",
-      "image": null,
-      "image_is_thumbnail": false,
-      "publisher": "WCVB",
-      "publisher_domain": "www.wcvb.com",
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "f0f84595887374809509793b0953a040caef9cc6",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWnBaSkNSN1o4OVJMWVJsakYyMENNaFYtT21rVkdHY3ZOU3B2X0pYbTBlSmg2VnFNcUVEVmp1djlsY2lSUFhGLXRPTHUxQWw4RHo2aUYta3gwVGttV2JmSFJZcm11MWwxTkk3bk1nV09uclBJdmx5VE90SFg0MGthSnN6UVptV09zZnd6QVhuLTI0bC1kMUF6YlJFOERmVHJoUTJFWQ?oc=5",
-      "title": "‘This is political oppression’: Native Americans accuse Massachusetts town in Thanksgiving dispute - The Guardian",
-      "source_id": "gnews-us",
-      "published": "2026-11-25T15:16:00Z",
-      "topics": [
-        "us"
-      ],
-      "excerpt": "",
-      "image": null,
-      "image_is_thumbnail": false,
-      "publisher": "The Guardian",
-      "publisher_domain": "www.theguardian.com",
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "b06173127f99ccaeadacc9bf8304b0a3a473e4f1",
-      "url": "https://dailygalaxy.com/2026/11/teens-find-roman-house-under-school-gym/",
-      "title": "Italian Teens Sneaked Beneath Their School Gym and Found a 1,800-Year-Old Luxury Roman House Steps From the Colosseum",
-      "source_id": "dailygalaxy",
-      "published": "2026-11-25T15:15:00Z",
-      "topics": [
-        "vesolje"
-      ],
-      "excerpt": "For years, students at one Italian high school swapped stories about strange rooms hidden somewhere beneath their gym. Nobody knew that an ancient Roman house was hidden down there. A few of them decided to find out.",
-      "image": "https://dailygalaxy.com/wp-content/uploads/2026/11/Italian-Teens-Sneaked-Beneath-Their-School-Gym-and-Found-a-1800-Year-Old-Luxury-Roman-House-Steps-From-the-Colosseum-scaled.jpg",
-      "image_is_thumbnail": false,
-      "publisher": null,
-      "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "0a58f66762e499f6540158517f79336f1aaa9ec1",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcG9pZ0hyRGVwQmJOanZmZVJ3N0tiN1lMUjhsWG5ZTFBWN1pfVlc0R1dJT1RhZ2Job3BfeVZEWTNDR295M0xyN0JxRVczdEhBdnJXUF9WRlYzQU5qXzVvVmlFcnphSGdqdFJCMDc0NnhJZEtoRnFIbERaclZ5b2JPTFNQZVJFLXpuZlBiNHNUaHRiUXJlUk55SmFoTlFJY2JFdk9HZ2FoNjFaVl92c05Ib2FNc1BsSmNWQS10TTFWeDllTm8?oc=5",
-      "title": "Authorities ID girl killed in hit-and-run while riding e-scooter on far West Side - KSAT",
-      "source_id": "gnews-us",
-      "published": "2026-11-25T14:55:20Z",
-      "topics": [
-        "us"
-      ],
-      "excerpt": "",
-      "image": null,
-      "image_is_thumbnail": false,
-      "publisher": "KSAT",
-      "publisher_domain": "www.ksat.com",
-      "summary_neutral": null,
-      "summary_mine": null
-    },
-    {
-      "id": "2f3a4d90dfe31bfa0bc5f6767645374240c3c7d5",
-      "url": "https://phys.org/news/2026-11-ai-google-schools-tough-choice.html",
-      "title": "Ban AI, lose Google Search: Schools face tough choice over students' access",
-      "source_id": "physorg",
-      "published": "2026-11-25T14:50:01Z",
-      "topics": [
-        "ai",
-        "fizika",
-        "vesolje"
-      ],
-      "excerpt": "Three major school districts in the United States are contemplating moving away from Google search engines, so students are not forced to use artificial intelligence (AI) in their daily schoolwork.",
-      "image": "https://scx1.b-cdn.net/csz/news/tmb/2026/laptops-in-school.jpg",
-      "image_is_thumbnail": true,
-      "publisher": null,
-      "publisher_domain": null,
-      "summary_neutral": null,
-      "summary_mine": null,
-      "image_tried_at": "2026-11-26T15:34:01Z",
-      "image_attempts": 2
-    },
-    {
-      "id": "ae70a0005488efb7e0fb05fba34a78137a1e02f5",
-      "url": "https://wccftech.com/nvidia-rtx-5070s-cheapest-listing-in-japan-climbs-44-in-four-months/",
-      "title": "NVIDIA RTX 5070’s Cheapest Listing In Japan Climbs 44% In Four Months, Rising From $651 To $940, While Most Models Sell For Over $1,100",
-      "source_id": "wccftech",
-      "published": "2026-11-25T14:49:38Z",
-      "topics": [
-        "ai",
-        "strojna-oprema"
-      ],
-      "excerpt": "The mid-range GPU has already crossed the $1000 mark with the latest price increases, and given the latest announcement of supply cuts, the prices could climb rapidly. The Lowest Price for RTX 5070 in Japan Went From $651 to $940 in a Span of Four Months While Most RTX 5070s Sell for Over $1,100 A while ago, we reported that NVIDIA is reportedly cutting its gaming and consumer GPU supply by as muc",
-      "image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/MSI-RTX-5070-Ventus-2X-OC-1456x819.jpg",
       "image_is_thumbnail": false,
       "publisher": null,
       "publisher_domain": null,

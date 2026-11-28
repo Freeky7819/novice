@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-28T01:45:40Z",
+  "checked_at": "2026-11-28T09:42:45Z",
   "sources": [
     {
       "id": "nature",
@@ -10,7 +10,7 @@
     {
       "id": "sciam",
       "ok": true,
-      "count": 28,
+      "count": 27,
       "feed_url": "https://www.scientificamerican.com/platform/syndication/rss/"
     },
     {
@@ -45,9 +45,8 @@
     },
     {
       "id": "gnews-us",
-      "ok": true,
-      "count": 70,
-      "feed_url": "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSkwyMHZNRGxqTjNjd0VnVmxiaTFWVXlnQVAB?hl=en-US&gl=US&ceid=US:en"
+      "ok": false,
+      "warning": "ValueError"
     },
     {
       "id": "quanta-math",
